@@ -1,0 +1,64 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Over"
+url = "over/"
+weight = 2
+
+[[main]]
+name = "Elementen"
+url = "elementen/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Paginas"
+hasChildren = true
+
+[[main]]
+parent = "Paginas"
+name = "Blog"
+url = "blog/"
+
+[[main]]
+parent = "Paginas"
+name = "Contact"
+url = "contact/"
+
+[[main]]
+parent = "Paginas"
+name = "Auteurs"
+url = "auteurs/"
+
+[[main]]
+parent = "Paginas"
+name = "Categorieen"
+url = "categorieen/"
+
+[[main]]
+parent = "Paginas"
+name = "404 Pagina"
+url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "Over"
+url = "over/"
+weight = 1
+
+[[footer]]
+name = "Elementen"
+url = "elementen/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
