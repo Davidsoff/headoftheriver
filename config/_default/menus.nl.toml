@@ -46,6 +46,15 @@ parent = "Paginas"
 name = "404 Pagina"
 url = "404/"
 
+[[main]]
+weight = 5
+name = "Deelnemers"
+hasChildren = true
+
+[[main]]
+parent = "Deelnemers"
+name = "Inschrijvingen"
+url = "deelnemers/inschrijvingen/"
 
 # footer menu
 [[footer]]
