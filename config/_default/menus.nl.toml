@@ -39,7 +39,7 @@ url = "auteurs/"
 [[main]]
 parent = "Paginas"
 name = "Categorieen"
-url = "categorieen/"
+url = "categories/"
 
 [[main]]
 parent = "Paginas"

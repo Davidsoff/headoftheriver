@@ -1,7 +1,7 @@
 ---
-title: "Elements"
+title: "Elementen"
 # meta title
-meta_title: ""
+meta_title: "elementen"
 # meta description
 description: "This is meta description"
 # save as draft
