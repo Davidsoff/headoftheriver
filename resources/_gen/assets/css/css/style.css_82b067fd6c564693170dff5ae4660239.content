@@ -13847,6 +13847,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .table {
   display: table;
 }
+.grid {
+  display: grid;
+}
 .hidden {
   display: none;
 }
@@ -13868,8 +13871,20 @@ input#nav-toggle:checked ~ #nav-menu {
 .max-w-\[600px\] {
   max-width: 600px;
 }
+.basis-1\/2 {
+  flex-basis: 50%;
+}
 .cursor-pointer {
   cursor: pointer;
+}
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.grid-cols-6 {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+.flex-row {
+  flex-direction: row;
 }
 .items-start {
   align-items: flex-start;
@@ -13882,6 +13897,9 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .justify-between {
   justify-content: space-between;
+}
+.gap-4 {
+  gap: 1rem;
 }
 .space-x-1 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
