@@ -1,0 +1,20 @@
+<section>
+  <div class="container text-center">
+    {{ if .Params.heroImage}}
+    <div
+    style="background-image: url('{{.Params.heroImage}}');
+      background-repeat: no-repeat;
+      background-size: auto;"
+    class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
+      <h1>{{ .Title | title }}</h1>
+      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+    </div>
+    {{ else }}
+    <div
+      class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
+      <h1>{{ .Title | title }}</h1>
+      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+    </div>
+    {{ end }}
+  </div>
+</section>

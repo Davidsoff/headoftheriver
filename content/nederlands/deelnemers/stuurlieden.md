@@ -3,6 +3,7 @@ title: "Stuurlieden"
 meta_title: ""
 description: "Informatie voor stuurlieden"
 draft: false
+heroImage: /images/deelnemers/stuurlieden/hero.png
 ---
 
 ### Baaninstructie
@@ -14,9 +15,9 @@ Beide onderstaande presentaties geven instructie over het bevaren van De Amstel
 
 <div class="grid grid-cols-2 gap-4">
 
-[{{< image src="images/stuurlieden/Stuurliedeninstructie_2023_v1.0_300h.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="stuurliedeninstructie"  webp="false" >}}](documents/Stuurliedeninstructie_2023_v2.0.pdf)
+[{{< image src="images/stuurlieden/Stuurliedeninstructie_2023_v1.0_300h.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="stuurliedeninstructie"  webp="false" >}}](/documents/Stuurliedeninstructie_2023_v2.0.pdf)
 
-[{{< image src="images/stuurlieden/Toelichting_inhaalsituaties_300_2022.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="toelichting inhaalsituaties"  webp="false" >}}](documents/Toelichting_inhaalsituaties_2022.pdf)
+[{{< image src="images/stuurlieden/Toelichting_inhaalsituaties_300_2022.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="toelichting inhaalsituaties"  webp="false" >}}](/documents/Toelichting_inhaalsituaties_2022.pdf)
 
 </div>
 
