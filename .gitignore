@@ -1,2 +1,6 @@
 node_modules
 public
+frontmatter.json
+.frontmatter/database/taxonomyDb.json
+.vscode/launch.json
+.vscode/settings.json
