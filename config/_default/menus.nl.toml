@@ -46,35 +46,6 @@ parent = "Paginas"
 name = "404 Pagina"
 url = "404/"
 
-[[main]]
-weight = 5
-name = "Deelnemers"
-hasChildren = true
-
-[[main]]
-parent = "Deelnemers"
-name = "Bepalingen en Reglementen"
-url = "deelnemers/bepalingen/"
-weight = 1
-
-[[main]]
-parent = "Deelnemers"
-name = "Tijdschema"
-url = "deelnemers/tijdschema/"
-weight = 2
-
-[[main]]
-parent = "Deelnemers"
-name = "Inschrijvingen"
-url = "deelnemers/inschrijvingen/"
-weight = 3
-
-[[main]]
-parent = "Deelnemers"
-name = "Stuurlieden"
-url = "deelnemers/stuurliedeninstructie/"
-weight = 4
-
 # footer menu
 [[footer]]
 name = "Over"

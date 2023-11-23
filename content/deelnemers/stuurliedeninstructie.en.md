@@ -4,6 +4,10 @@ meta_title: ""
 description: "Informatie voor stuurlieden"
 draft: false
 heroImage: /images/deelnemers/stuurlieden/hero.png
+menu:
+  main:
+    parent: Participants
+    weight: 40
 ---
 
 ### Baaninstructie

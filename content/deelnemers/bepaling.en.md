@@ -1,24 +1,29 @@
 ---
-title: "Bepalingen en Reglementen"
+title: "Rules and Regulations"
 meta_title: ""
-description: "Bepalingen en Reglementen der Head of the River Amstel"
+description: "Rules and Regulations of the Head of the River Amstel"
+menu:
+  main:
+    parent: Participants
+    weight: 10
 draft: false
 ---
 
-Hieronder vindt u de bepalingen en reglementen voor de Head of the River 2023. Deze zullen voor de wedstrijd in maart 2024 gedeeltelijk veranderen. Zodra de details bekend zijn wordt onderstaande aangepast. Houd dus deze pagina in de gaten.
+Below you will find the Rules and Regulations of the Head of the River 2023.
+Some of the items will change for the weekend in March 2024. As soon as the details are know we will update this page. Please keep a close look during you preparation for the Head of the River 2024.
 
-## Bepalingen
-De regatta vindt plaats op zaterdag 11 en zondag 12 maart 2023
+## Regulations
+The regatta will take place on Saturday, the 11th and Sunday, the 12th of March 2023.
 
 #### Racetype
 
-Achtervolgingswedstrijd over 8 km.
+Approximately 8 kilometres.
 
-#### Wedstrijdleiding:
+#### Regatta Manager:
 
 Menno Vroegindeweij: wedstrijdleiding@headoftheriver.nl
 
-#### Hoofd van de Jury:
+#### Head of the Jury: 
 
 Herma van der Stoel
 

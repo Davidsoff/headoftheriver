@@ -2,6 +2,10 @@
 title: "Bepalingen en Reglementen"
 meta_title: ""
 description: "Bepalingen en Reglementen der Head of the River Amstel"
+menu:
+  main:
+    parent: Deelnemers
+    weight: 10
 draft: false
 ---
 

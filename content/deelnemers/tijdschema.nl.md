@@ -3,6 +3,10 @@ title: "Blokschema"
 meta_title: ""
 description: "Blokschema"
 draft: false
+menu:
+  main:
+    parent: Deelnemers
+    weight: 20
 ---
 
 Hieronder vind je het blokschema voor de Head of the River 2024.

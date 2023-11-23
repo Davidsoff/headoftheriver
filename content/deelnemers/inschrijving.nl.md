@@ -2,6 +2,10 @@
 title: "Inschrijvingen"
 meta_title: ""
 description: "Inschrijvingen"
+menu:
+  main:
+    parent: Deelnemers
+    weight: 30
 draft: false
 ---
 Inschrijving vindt plaats via mijnvereniging.knrb.nl. De inschrijving van de aankomende editie van de Head of the River zal open gaan in Januari. Vanaf dat moment kan de wedstrijdcommissaris of een andere gemachtigde binnen de vereniging ploegen inschrijven.
