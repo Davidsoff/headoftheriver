@@ -72,7 +72,7 @@ weight = 3
 [[main]]
 parent = "Deelnemers"
 name = "Stuurlieden"
-url = "deelnemers/stuurlieden/"
+url = "deelnemers/stuurliedeninstructie/"
 weight = 4
 
 # footer menu

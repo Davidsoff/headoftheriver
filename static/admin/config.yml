@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: Davidsoff/headoftheriver
+  base_url: https://beta.headoftheriver.nl
+  auth_endpoint: /api/auth
+media_folder: static/images
+public_folder: /images
+i18n:
+  structure: multiple_files
+  locales: [nl, en]
+  default_locale: nl
+collections:
+  - name: 'nieuws'
+    label: 'Nieuws'
+    folder: 'content/nieuws'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Publicatie datum', name: 'date', widget: 'datetime' }
+      - { label: 'Omschrijving', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
