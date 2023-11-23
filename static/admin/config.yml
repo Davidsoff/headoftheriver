@@ -3,6 +3,7 @@ backend:
   repo: Davidsoff/headoftheriver
   base_url: https://beta.headoftheriver.nl
   auth_endpoint: /api/auth
+publish_mode: editorial_workflow
 media_folder: static/images
 public_folder: /images
 i18n:
@@ -11,6 +12,7 @@ i18n:
   default_locale: nl
 collections:
   - name: 'nieuws'
+    i18n: true
     label: 'Nieuws'
     folder: 'content/nieuws'
     create: true
