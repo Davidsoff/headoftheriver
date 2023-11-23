@@ -20,7 +20,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
       - { label: 'Publicatie datum', name: 'date', widget: 'datetime' }
-      - { label: 'Omschrijving', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Omschrijving', name: 'description', widget: 'string', i18n: true }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
