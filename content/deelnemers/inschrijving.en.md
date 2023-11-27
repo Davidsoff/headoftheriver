@@ -36,6 +36,6 @@ Payment information can be found on the Regulations page, item 3 and 4.
 
 <div class="grid grid-cols-1">
 
-[{{< image src="images\logos\KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F)
+[{{< image src="images/logos/KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F)
 
 </div>

@@ -14,6 +14,6 @@ Wil je deelnemen met combinatieploeg met internationale roeiers kan je vanaf de 
 
 <div class="grid grid-cols-1">
 
-[{{< image src="images\logos\KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://roeievenementen.knrb.nl/tournament-details/491?tab=details)
+[{{< image src="images/logos/KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://roeievenementen.knrb.nl/tournament-details/491?tab=details)
 
 </div>

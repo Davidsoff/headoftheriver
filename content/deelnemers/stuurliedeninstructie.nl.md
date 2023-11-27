@@ -3,7 +3,7 @@ title: "Stuurlieden"
 meta_title: ""
 description: "Informatie voor stuurlieden"
 draft: false
-heroImage: /images/deelnemers/stuurlieden/hero.png
+heroImage: /images/toppage/stuurlieden.png
 menu:
   main:
     parent: Deelnemers

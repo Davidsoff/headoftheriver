@@ -3,6 +3,7 @@ title: "Block Schedule"
 meta_title: ""
 description: "Blokschema"
 draft: false
+heroImage: /images/toppage/tijdschema.png
 menu:
   main:
     parent: Participants
