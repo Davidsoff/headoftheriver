@@ -1,5 +1,5 @@
 ---
-title: "Blokschema"
+title: "Block Schedule"
 meta_title: ""
 description: "Blokschema"
 draft: false

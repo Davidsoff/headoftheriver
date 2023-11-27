@@ -2,11 +2,11 @@
 title: "Bepalingen en Reglementen"
 meta_title: ""
 description: "Bepalingen en Reglementen der Head of the River Amstel"
+draft: false
 menu:
   main:
     parent: Deelnemers
     weight: 10
-draft: false
 ---
 
 Hieronder vindt u de bepalingen en reglementen voor de Head of the River 2023. Deze zullen voor de wedstrijd in maart 2024 gedeeltelijk veranderen. Zodra de details bekend zijn wordt onderstaande aangepast. Houd dus deze pagina in de gaten.

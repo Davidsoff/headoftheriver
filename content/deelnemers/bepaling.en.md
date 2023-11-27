@@ -2,11 +2,11 @@
 title: "Rules and Regulations"
 meta_title: ""
 description: "Rules and Regulations of the Head of the River Amstel"
+draft: false
 menu:
   main:
     parent: Participants
     weight: 10
-draft: false
 ---
 
 Below you will find the Rules and Regulations of the Head of the River 2023.
