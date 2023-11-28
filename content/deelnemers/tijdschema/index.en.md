@@ -1,12 +1,11 @@
 ---
-title: "Blokschema"
+title: "Block Schedule"
 meta_title: ""
 description: "Blokschema"
 draft: false
-heroImage: images/tijdschema/hero.png
 menu:
   main:
-    parent: Deelnemers
+    parent: Participants
     weight: 20
 ---
 
