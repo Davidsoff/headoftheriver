@@ -1,0 +1,49 @@
+{{ define "main" }}
+  {{ with site.GetPage "homepage" }}
+    <div style="margin: 0px auto; background-color: rgb(255, 255, 255); padding: 0px; max-height: 500px; height: 500px; overflow: visible;">
+        <ul>
+            <li style="width: 100%; height: 100%; z-index: 20; visibility: inherit; opacity: 1;">
+                <div class="container">
+                    <div class="row justify-center">
+                        <div class="col-12">
+                            <img src="https://headoftheriver.nl/images/HOTR/photos/sliderNlHome/2023/HomeSider 2023_Blue_1920-2.jpg" style="user-select: none; position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; visibility: inherit; opacity: 1;">
+                            <img src="https://headoftheriver.nl/images/HOTR/logo/2023/Logo-Head-2022_WhiteFull_500.png" style="width: 300px; height: 300px; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 100px;">
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>  
+    <!-- Banner -->
+    {{ with .Params.banner }}
+      <section class="section pt-14">
+        <div class="container">
+          <div class="row justify-center">
+            <div class="lg:col-7 mb-8 text-center">
+              <h1 class="mb-4">
+                {{ .title | markdownify }}
+              </h1>
+              <p class="mb-8">
+                {{ .content | markdownify }}
+              </p>
+              {{ with .button }}
+                {{ if .enable }}
+                  <a class="btn btn-primary" href="{{ .link | absURL }}">
+                    {{ .label }}
+                    <i class="fa fa-arrow-right pl-2"></i>
+                  </a>
+                {{ end }}
+              {{ end }}
+            </div>
+            <div class="col-12">
+              {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "Size" "800x") }}
+            </div>
+          </div>
+        </div>
+      </section>
+    {{ end }}
+    <!-- /Banner -->
+
+   
+  {{ end }}
+{{ end }}

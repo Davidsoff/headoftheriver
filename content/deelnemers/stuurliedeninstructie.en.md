@@ -3,7 +3,7 @@ title: "Coxwains"
 meta_title: ""
 description: "Informatie voor stuurlieden"
 draft: false
-heroImage: /images/deelnemers/stuurlieden/hero.png
+heroImage: images/stuurlieden/hero.png
 menu:
   main:
     parent: Participants
