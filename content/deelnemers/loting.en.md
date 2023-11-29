@@ -3,6 +3,7 @@ title: "Draw"
 meta_title: ""
 description: "Loting"
 draft: false
+heroImage: /images/toppage/loting.png
 menu:
   main:
     parent: Participants

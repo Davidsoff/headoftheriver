@@ -3,6 +3,7 @@ title: "Entries"
 meta_title: ""
 description: "Inschrijvingen"
 draft: false
+heroImage: /images/toppage/inschrijving.png
 menu:
   main:
     parent: Participants
