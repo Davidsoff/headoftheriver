@@ -3,7 +3,6 @@ title: "Inschrijvingen"
 meta_title: ""
 description: "Inschrijvingen"
 draft: false
-heroImage: /images/toppage/inschrijving.png
 menu:
   main:
     parent: Deelnemers
