@@ -1,7 +1,7 @@
 ---
 title: "Entries"
 meta_title: ""
-description: "Inschrijvingen"
+description: "Entries"
 draft: false
 menu:
   main:

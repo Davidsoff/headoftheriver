@@ -3,7 +3,7 @@ title: "Rules and Regulations"
 meta_title: ""
 description: "Rules and Regulations of the Head of the River Amstel"
 draft: false
-heroImage: /images/toppage/bepaling.png
+heroImage: images/bepaling/hero.png
 menu:
   main:
     parent: Participants

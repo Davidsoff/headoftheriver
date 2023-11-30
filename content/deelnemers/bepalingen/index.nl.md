@@ -3,7 +3,7 @@ title: "Bepalingen en Reglementen"
 meta_title: ""
 description: "Bepalingen en Reglementen der Head of the River Amstel"
 draft: false
-heroImage: /images/toppage/bepaling.png
+heroImage: images/bepaling/hero.png
 menu:
   main:
     parent: Deelnemers
