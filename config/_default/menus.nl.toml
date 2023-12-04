@@ -7,8 +7,8 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Over"
-url = "over/"
+name = "OverOld"
+url = "overOld/"
 weight = 2
 
 [[main]]
@@ -48,8 +48,8 @@ url = "404/"
 
 # footer menu
 [[footer]]
-name = "Over"
-url = "over/"
+name = "OverOld"
+url = "overOld/"
 weight = 1
 
 [[footer]]

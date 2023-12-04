@@ -11,4 +11,4 @@ menu:
 ---
 ## Live Results
 As soon as the Head of the River has started we will present live results on our website. 
-You can always check the results of previous years via our Uitslagenarchief page. (Dutch only)
+You can always check the results of previous years via our Results Archive page.
