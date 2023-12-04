@@ -5,7 +5,7 @@ description: "Het organisatieteam van de Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: Over
+    parent: OverNew
     weight: 10
 ---
 De organisatie van de Head of de River bestaat uit twee onderdelen:

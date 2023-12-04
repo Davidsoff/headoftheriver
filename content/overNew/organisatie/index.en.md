@@ -5,7 +5,7 @@ description: "Organisation committee of the Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: About
+    parent: AboutNew
     weight: 10
 ---
 The organising team of the Head of the River Amstel consists of two part:

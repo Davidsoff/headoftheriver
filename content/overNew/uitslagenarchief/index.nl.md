@@ -5,7 +5,7 @@ description: "Uitslagenarchief van de Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: Over
+    parent: OverNew
     weight: 10
 ---
 ### Uitslagenarchief 
