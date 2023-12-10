@@ -6,7 +6,7 @@ draft: false
 menu:
   main:
     parent: OverNew
-    weight: 10
+    weight: 30
 ---
 ### Uitslagenarchief 
 Hieronder vind je de uitslagen van de Head of the River Amstel van de afgelopen jaren.
