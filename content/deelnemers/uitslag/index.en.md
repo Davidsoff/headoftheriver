@@ -3,7 +3,6 @@ title: "Results"
 meta_title: ""
 description: "Uitslagen van de Head of the River Amstel"
 draft: false
-heroImage: images/stuurlieden/hero.png
 menu:
   main:
     parent: Participants
