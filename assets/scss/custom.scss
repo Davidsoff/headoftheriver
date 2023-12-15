@@ -1,1 +1,15 @@
 // Add your own custom styles here
+.section {
+    @apply py-24 xl:py-28;
+    &-sm {
+      @apply py-16 xl:py-20;
+    }
+    &-ssm {
+      @apply py-0 xl:py-0;
+    }
+    overflow: hidden;
+    // background-color: coral;
+  }
+.div {
+    overflow-y: hidden;
+}
