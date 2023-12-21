@@ -53,37 +53,7 @@
       </li>
     </ul>
   </div>
-   </section>
-   <!-- Banner -->
-   {{ with .Params.banner }}
-    <section class="section pt-14">
-     <div class="container">
-      <div class="row justify-center">
-       <div class="lg:col-7 mb-8 text-center">
-        <h1 class="mb-4">
-          {{ .title | markdownify }}
-        </h1>
-        <p class="mb-8">
-          {{ .content | markdownify }}
-        </p>
-        {{ with .button }}
-        {{ if .enable }}
-        <a class="btn btn-primary" href="{{ .link | absURL }}">
-          {{ .label }}
-          <i class="fa fa-arrow-right pl-2"></i>
-        </a>
-        {{ end }}
-        {{ end }}
-       </div>
-       <div class="col-12">
-        {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "Size" "800x") }}
-       </div>
-      </div>
-     </div>
-    </section>
-   {{ end }}
-   <!-- /Banner -->
-   <!-- Devider -->
+   <!-- Divider -->
    <div class="container">
     <div class="row justify-center">
      <div class="lg:col-10 mb-8 mt-8 text-center">
@@ -91,7 +61,7 @@
      </div>
     </div>
    </div>
-   <!-- /Devider -->
+   <!-- /Divider -->
    <!-- LinkTiles -->
    {{ with .Params.linktiles }}
    <section class="section" >
@@ -125,20 +95,21 @@
         </div></a>
       </div>
       <div class="md:col-6 lg:col-3 mb-14">
-        <a href="{{ .link4 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px;">
-          {{ $image := resources.Get .image4 }}
-          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
-            height="200">
-          <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
-          <p class="mb-4" style="height:10ch; overflow: hidden;">{{ .text4 | markdownify }}</p>
-        </div></a>
+        <a href="{{ .link4 | absURL }}" >
+          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px;">
+            {{ $image := resources.Get .image4 }}
+            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200" height="200">
+            <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
+            <p class="mb-4" style="height:10ch; overflow: hidden;">{{ .text4 | markdownify }}</p>
+          </div>
+        </a>
       </div>
      </div>
     </div>
    </section>
    {{ end }}
    <!-- /Tiles -->
-   <!-- Devider -->
+   <!-- Divider -->
    <div class="container">
     <div class="row justify-center">
      <div class="lg:col-10 mb-8 mt-8 text-center" >
@@ -146,16 +117,38 @@
      </div>
     </div>
    </div>
-   <!-- /Devider -->
+   <!-- /Divider -->
+   <section class="section" >
+    <div class="container" style="margin:auto;">
+      <div class="row justify-center">
+        <div class="lg:col-10 mb-8 mt-8 text-center">
+          <h3>{{i18n "news"}}</h3>
+        </div>
+      </div>
+      <div class="row justify-center" >
+        {{ range first 3 ( sort (where site.RegularPages "Section" "nieuws") "Date" "desc" ) }}
+          {{ partial "page-card" . }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+   <!-- Divider -->
+   <div class="container">
+    <div class="row justify-center">
+     <div class="lg:col-10 mb-8 mt-8 text-center" >
+      <hr style="width:100%;border:2px solid #62B0E2">
+     </div>
+    </div>
+   </div>
+   <!-- /Divider -->
    <!-- Sponsors -->
    <div class="container">
     <div class="row justify-center">
      <div class="lg:col-10 mb-8 mt-8 text-center">
-      <h3 style="display: block; margin-left: auto; margin-right: auto; position:relative; text-align: center;">Mede
-        mogelijk gemaakt door</h1>
+      <h3 style="display: block; margin-left: auto; margin-right: auto; position:relative; text-align: center;">{{i18n "poweredBy"}}</h3>
         {{ $image := resources.Get "images/logos/RG_Final_A _500w.png" }}
-        <a href="https://www.roeigoed.nl" target="_blank"><img src="{{ $image.RelPermalink }}" caption="" alt="KNRB"
-            style="width: 25%; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 25px;"></a>
+          <a href="https://www.roeigoed.nl" target="_blank"><img src="{{ $image.RelPermalink }}" caption="" alt="KNRB"
+            class="bg-transparent dark:bg-white p-px" style="width: 25%; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 25px;"></a>
      </div>
     </div>
    </div>

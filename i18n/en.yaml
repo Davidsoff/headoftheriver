@@ -1,6 +1,12 @@
 - id: home
   translation: Home
 
+- id: news
+  translation: Latest News
+
+- id: poweredBy
+  translation: Powered By
+
 - id: read_more
   translation: Read More
 

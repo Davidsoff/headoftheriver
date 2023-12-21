@@ -1,6 +1,12 @@
 - id: home
   translation: Home
 
+- id: news
+  translation: Laatste Nieuws
+
+- id: poweredBy
+  translation: Mede mogelijk gemaakt door
+
 - id: read_more
   translation: Lees meer
 
