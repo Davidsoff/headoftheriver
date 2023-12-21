@@ -4,10 +4,25 @@ banner:
   title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
   content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
   image: "/images/banner.png"
-  button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+
+# Link Tiles
+linktiles:
+  title1: "Tijdschema"
+  text1: "Benieuwd hoelaat je moet 12345? Check de bloktijden voor een indicatie"
+  image1: "/images/homepage/placeholder_head.jpg"
+  link1: "/deelnemers/tijdschema/"
+  title2: "Loting"
+  text2: "Vind je plek in de loting"
+  image2: "/images/homepage/placeholder_head.jpg"
+  link2: "/deelnemers/loting/"
+  title3: "Stuurlieden"
+  text3: "Volg een korte instructie hoe de Amstel te bevaren tijdens de Head"
+  image3: "/images/homepage/placeholder_head.jpg"
+  link3: "/deelnemers/stuurliedeninstructie/"
+  title4: "Uitslagen"
+  text4: "Bekijk de uitslagen van afgelopen jaren"
+  image4: "/images/homepage/placeholder_head.jpg"
+  link4: "/deelnemers/uitslag/"
 
 # Features
 features:

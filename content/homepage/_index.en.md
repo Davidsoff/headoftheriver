@@ -8,6 +8,25 @@ banner:
     enable: true
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
+    
+# Link Tiles
+linktiles:
+  title1: "Block schedule"
+  text1: "Find out what events will be there at the Head of the River Amstel 2024"
+  image1: "/images/homepage/placeholder_head.jpg"
+  link1: "/deelnemers/tijdschema/"
+  title2: "Draw"
+  text2: "Find your position in the Draw"
+  image2: "/images/homepage/placeholder_head.jpg"
+  link2: "/deelnemers/loting/"
+  title3: "Coxwain info"
+  text3: "Find a brief instruction about the rules on the river Amstel during the Head"
+  image3: "/images/homepage/placeholder_head.jpg"
+  link3: "/deelnemers/stuurliedeninstructie/"
+  title4: "Uitslagen"
+  text4: "As soon as we have them, you will find them here"
+  image4: "/images/homepage/placeholder_head.jpg"
+  link4: "/deelnemers/uitslag/"
 
 # Features
 features:

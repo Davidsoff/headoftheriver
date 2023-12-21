@@ -1,8 +1,8 @@
 {{ define "main" }}
-{{ with site.GetPage "homepage" }}
-<section class="section">
+  {{ with site.GetPage "homepage" }}
+   <section class="section">
   <div
-    style="margin: auto; background-color: rgb(255, 255, 255); padding: 0px; max-height: 500px; height: 500px; overflow: hidden; border: 1px solid black">
+    style="margin: auto; background-color: rgb(255, 255, 255); padding: 0px; max-height: 500px; height: 500px; border: 0px solid black">
     <ul>
       <li style="width: 100%; height: 100%; z-index: 20; visibility: inherit; opacity: 1;">
         <div class="container">
@@ -11,23 +11,55 @@
               <img src="https://headoftheriver.nl/images/HOTR/photos/sliderNlHome/2023/HomeSider 2023_Blue_1920-2.jpg"
                 style="user-select: none; position: absolute; width: 100%;  left: 0px; top: 0px; visibility: inherit; opacity: 1;">
               <img src="https://headoftheriver.nl/images/HOTR/logo/2023/Logo-Head-2022_WhiteFull_500.png"
-                style="width: 300px; height: 300px; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 100px;">
+                style="width: 300px; height: 300px; display: block; margin-left: auto; margin-right: auto; position:relative;">
               <h1
                 style="display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 10px; color:white; text-align: center;">
                 9 & 10 Maart 2024</h1>
+              <H2 id="demo" style="display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 10px; color:white; text-align: center;"></h2>
+
+                <script>
+                 // Set the date we're counting down to
+                 var countDownDate = new Date("Mar 9, 2024 12:00:00").getTime();
+                
+                 // Update the count down every 1 second
+                 var x = setInterval(function() {
+                
+                  // Get today's date and time
+                  var now = new Date().getTime();
+                    
+                  // Find the distance between now and the count down date
+                  var distance = countDownDate - now;
+                    
+                  // Time calculations for days, hours, minutes and seconds
+                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                    
+                  // Output the result in an element with id="demo"
+                  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+                  + minutes + "m " + seconds + "s ";
+                    
+                  // If the count down is over, write some text 
+                  if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("demo").innerHTML = "De Head of the River Amstel is begonnen!";
+                  }
+                }, 1000);
+                </script>
             </div>
           </div>
         </div>
       </li>
     </ul>
   </div>
-</section>
-<!-- Banner -->
-{{ with .Params.banner }}
-<section class="section pt-14">
-  <div class="container">
-    <div class="row justify-center">
-      <div class="lg:col-7 mb-8 text-center">
+   </section>
+   <!-- Banner -->
+   {{ with .Params.banner }}
+    <section class="section pt-14">
+     <div class="container">
+      <div class="row justify-center">
+       <div class="lg:col-7 mb-8 text-center">
         <h1 class="mb-4">
           {{ .title | markdownify }}
         </h1>
@@ -42,92 +74,91 @@
         </a>
         {{ end }}
         {{ end }}
-      </div>
-      <div class="col-12">
+       </div>
+       <div class="col-12">
         {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "Size" "800x") }}
+       </div>
       </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- /Banner -->
-<!-- Devider -->
-<div class="container">
-  <div class="row justify-center">
-    <div class="lg:col-10 mb-8 mt-8 text-center">
+     </div>
+    </section>
+   {{ end }}
+   <!-- /Banner -->
+   <!-- Devider -->
+   <div class="container">
+    <div class="row justify-center">
+     <div class="lg:col-10 mb-8 mt-8 text-center">
       <hr style="width:100%;border:2px solid #62B0E2">
+     </div>
     </div>
-  </div>
-</div>
-<!-- Devider -->
-<section class="section" >
-  <div class="container">
-    <div class="row">
-      <div class="md:col-6 lg:col-4 mb-14">
-        <div class="text-center" style="padding: 32px;">
-          <img src="/images/avatar_hu2fb2c1ffbbc34375e1753f29fe535e66_2271_194x194_resize_q90_h2_lanczos_3.webp"
-            loading="lazy" decoding="async" alt="William Jacob" class="mx-auto mb-6 rounded img" width="194"
-            height="194" onerror="this.onerror=&quot;null&quot;,this.src=&quot;/images/avatar.png&quot;">
-          <h4 class="mb-3"><a href="/authors/william-jacob/">Tijdschema</a></h4>
-          <p class="mb-4">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore et dolore magna aliqua.</p>
-        </div>
+   </div>
+   <!-- /Devider -->
+   <!-- LinkTiles -->
+   {{ with .Params.linktiles }}
+   <section class="section" >
+    <div class="container" style="margin:auto;">
+     <div class="row justify-center" >
+      <div class="md:col-6 lg:col-3 mb-14">
+        <a href="{{ .link1 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px;">
+          {{ $image := resources.Get .image1 }}
+          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
+            height="200">
+          <h4 class="mb-3">{{ .title1 | markdownify }}</h4>
+          <p class="mb-4" style="height:10ch; overflow: hidden;">{{ .text1 | markdownify }}</p>
+        </div></a>
       </div>
-      <div class="md:col-6 lg:col-4 mb-14">
-        <div class="text-center" style="padding: 32px">
-          <img src="/images/avatar_hu2fb2c1ffbbc34375e1753f29fe535e66_2271_194x194_resize_q90_h2_lanczos_3.webp"
-            loading="lazy" decoding="async" alt="William Jacob" class="mx-auto mb-6 rounded img" width="194"
-            height="194" onerror="this.onerror=&quot;null&quot;,this.src=&quot;/images/avatar.png&quot;">
-          <h4 class="mb-3"><a href="/authors/william-jacob/">Loting</a></h4>
-          <p class="mb-4">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore et dolore magna aliqua.</p>
-        </div>
+      <div class="md:col-6 lg:col-3 mb-14">
+        <a href="{{ .link2 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px;">
+          {{ $image := resources.Get .image2 }}
+          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
+            height="200">
+          <h4 class="mb-3">{{ .title2 | markdownify }}</h4>
+          <p class="mb-4" style="height:10ch; overflow: hidden;">{{ .text2 | markdownify }}</p>
+        </div></a>
       </div>
-      <div class="md:col-6 lg:col-4 mb-14">
-        <div class="text-center" style="padding: 32px">
-          <img src="/images/avatar_hu2fb2c1ffbbc34375e1753f29fe535e66_2271_194x194_resize_q90_h2_lanczos_3.webp"
-            loading="lazy" decoding="async" alt="William Jacob" class="mx-auto mb-6 rounded img" width="194"
-            height="194" onerror="this.onerror=&quot;null&quot;,this.src=&quot;/images/avatar.png&quot;">
-          <h4 class="mb-3"><a href="/authors/william-jacob/">Stuurlieden</a></h4>
-          <p class="mb-4">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore et dolore magna aliqua.</p>
-        </div>
+      <div class="md:col-6 lg:col-3 mb-14">
+        <a href="{{ .link3 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px;">
+          {{ $image := resources.Get .image3 }}
+          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
+            height="200">
+          <h4 class="mb-3">{{ .title3 | markdownify }}</h4>
+          <p class="mb-4" style="height:10ch; overflow: hidden;">{{ .text3 | markdownify }}</p>
+        </div></a>
       </div>
-      <div class="md:col-6 lg:col-4 mb-14">
-        <div class="text-center" style="padding: 32px">
-          <img src="/images/avatar_hu2fb2c1ffbbc34375e1753f29fe535e66_2271_194x194_resize_q90_h2_lanczos_3.webp"
-            loading="lazy" decoding="async" alt="William Jacob" class="mx-auto mb-6 rounded img" width="194"
-            height="194" onerror="this.onerror=&quot;null&quot;,this.src=&quot;/images/avatar.png&quot;">
-          <h4 class="mb-3"><a href="/authors/william-jacob/">Uitslagen</a></h4>
-          <p class="mb-4">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore et dolore magna aliqua.</p>
-        </div>
+      <div class="md:col-6 lg:col-3 mb-14">
+        <a href="{{ .link4 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px;">
+          {{ $image := resources.Get .image4 }}
+          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
+            height="200">
+          <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
+          <p class="mb-4" style="height:10ch; overflow: hidden;">{{ .text4 | markdownify }}</p>
+        </div></a>
       </div>
+     </div>
     </div>
-  </div>
-</section>
-
-<!-- Devider -->
-<div class="container">
-  <div class="row justify-center">
-    <div class="lg:col-10 mb-8 mt-8 text-center">
+   </section>
+   {{ end }}
+   <!-- /Tiles -->
+   <!-- Devider -->
+   <div class="container">
+    <div class="row justify-center">
+     <div class="lg:col-10 mb-8 mt-8 text-center" >
       <hr style="width:100%;border:2px solid #62B0E2">
+     </div>
     </div>
-  </div>
-</div>
-<!-- Devider -->
-<!-- Sponsors -->
-<div class="container">
-  <div class="row justify-center">
-    <div class="lg:col-10 mb-8 mt-8 text-center">
+   </div>
+   <!-- /Devider -->
+   <!-- Sponsors -->
+   <div class="container">
+    <div class="row justify-center">
+     <div class="lg:col-10 mb-8 mt-8 text-center">
       <h3 style="display: block; margin-left: auto; margin-right: auto; position:relative; text-align: center;">Mede
         mogelijk gemaakt door</h1>
         {{ $image := resources.Get "images/logos/RG_Final_A _500w.png" }}
-        <a href="https://www.roeigoed.nl" target="_blanck"><img src="{{ $image.RelPermalink }}" caption="" alt="KNRB"
+        <a href="https://www.roeigoed.nl" target="_blank"><img src="{{ $image.RelPermalink }}" caption="" alt="KNRB"
             style="width: 25%; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 25px;"></a>
+     </div>
     </div>
-  </div>
-</div>
-<!-- Sponsors -->
-{{ end }}
+   </div>
+   <!-- /Sponsors -->
+ {{ end }}
 {{ end }}
