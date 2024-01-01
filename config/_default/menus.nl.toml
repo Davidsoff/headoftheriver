@@ -48,8 +48,8 @@ url = "404/"
 
 # footer menu
 [[footer]]
-name = "Over"
-url = "over/"
+name = "De Organisatie"
+url = "overnew/organisatie/"
 weight = 1
 
 [[footer]]

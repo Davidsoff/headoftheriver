@@ -4,12 +4,22 @@
     &-sm {
       @apply py-16 xl:py-20;
     }
-    &-ssm {
-      @apply py-0 xl:py-0;
+    &-home {
+      @apply py-4 xl:py-6;
     }
     overflow: hidden;
     // background-color: coral;
-  }
+    }
 .div {
     overflow-y: hidden;
 }
+
+@font-face {
+  font-family: 'Metropolis-Bold';
+  src: url('/fonts/Metropolis-Bold.otf') format('opentype');
+}
+
+h1, h2, h3 {
+  font-family: Metropolis-Bold, sans-serif;
+  }
+

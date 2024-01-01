@@ -53,18 +53,38 @@
       </li>
     </ul>
   </div>
+</section>
+  <!-- /fotoslider -->
+  <!-- Latest News -->
+      <section class="section-home" >
+    <div class="container" style="margin:auto;">
+      <div class="row justify-center">
+        <div class="lg:col-10 mb-8 mt-8 text-center">
+          <h2>{{i18n "news"}}</h2>
+        </div>
+      </div>
+      <div class="row justify-center" >
+        {{ range first 3 ( sort (where site.RegularPages "Section" "nieuws") "Date" "desc" ) }}
+          {{ partial "page-card" . }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /Latest News -->
    <!-- Divider -->
-   <div class="container">
+   <section class="section-home mt-8 mb-8" style="background-color:#62B0E2" >
+   <div class="container" >
     <div class="row justify-center">
      <div class="lg:col-10 mb-8 mt-8 text-center">
-      <hr style="width:100%;border:2px solid #62B0E2">
+      <h2>"Hèt Lange Afstandskampioenschap van Nederland"</h2>
      </div>
     </div>
    </div>
+  </section>
    <!-- /Divider -->
    <!-- LinkTiles -->
    {{ with .Params.linktiles }}
-   <section class="section" >
+   <section class="section-home" >
     <div class="container" style="margin:auto;">
      <div class="row justify-center" >
       <div class="md:col-6 lg:col-3 mb-14">
@@ -109,39 +129,35 @@
    </section>
    {{ end }}
    <!-- /Tiles -->
+   <!-- Weather -->
+   <section class="section-home" >
+      <div class="row items-center justify-between">
+      <div class="md:col-6 mb-6 mt-6 py-8 "  style="background-color: #62B0E2; " >
+        <div class="mx-auto">
+        <iframe width="300" height="250" src="https://embed.windy.com/embed2.html?lat=52.264&lon=4.983&detailLat=60.172&detailLon=24.935&width=300&height=250&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=m%2Fs&metricTemp=%C2%B0C&radarRange=-1" frameborder="0"></iframe>
+      </div>
+      </div>
+       <div class="md:col-6 mb-6 mt-6 py-8 text-center" >
+        <div class="mx-auto">
+         <iframe width="300" height="250" src="https://embed.windy.com/embed2.html?lat=52.264&lon=4.983&detailLat=60.172&detailLon=24.935&width=300&height=250&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=m%2Fs&metricTemp=%C2%B0C&radarRange=-1" frameborder="0"></iframe>
+       </div>
+      </div>
+      </div>
+   </section>
+    <!-- /Weather -->   
    <!-- Divider -->
+   <section class="section-home" >
    <div class="container">
-    <div class="row justify-center">
+    <div class="row justify-center ">
      <div class="lg:col-10 mb-8 mt-8 text-center" >
       <hr style="width:100%;border:2px solid #62B0E2">
      </div>
     </div>
    </div>
-   <!-- /Divider -->
-   <section class="section" >
-    <div class="container" style="margin:auto;">
-      <div class="row justify-center">
-        <div class="lg:col-10 mb-8 mt-8 text-center">
-          <h3>{{i18n "news"}}</h3>
-        </div>
-      </div>
-      <div class="row justify-center" >
-        {{ range first 3 ( sort (where site.RegularPages "Section" "nieuws") "Date" "desc" ) }}
-          {{ partial "page-card" . }}
-        {{ end }}
-      </div>
-    </div>
   </section>
-   <!-- Divider -->
-   <div class="container">
-    <div class="row justify-center">
-     <div class="lg:col-10 mb-8 mt-8 text-center" >
-      <hr style="width:100%;border:2px solid #62B0E2">
-     </div>
-    </div>
-   </div>
    <!-- /Divider -->
    <!-- Sponsors -->
+   <section class="section-home" >
    <div class="container">
     <div class="row justify-center">
      <div class="lg:col-10 mb-8 mt-8 text-center">
@@ -152,6 +168,7 @@
      </div>
     </div>
    </div>
+  </section>
    <!-- /Sponsors -->
  {{ end }}
 {{ end }}
