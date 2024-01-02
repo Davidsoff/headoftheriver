@@ -6,12 +6,18 @@
     }
     &-home {
       @apply py-4 xl:py-6;
+      overflow: hidden;
     }
     overflow: hidden;
     // background-color: coral;
     }
 .div {
     overflow-y: hidden;
+    }
+    
+iframe {
+  display: block;
+  margin: auto;
 }
 
 @font-face {
