@@ -29,3 +29,22 @@ h1, h2, h3 {
   font-family: Metropolis-Bold, sans-serif;
   }
 
+  .social-icons li a {
+    --tw-bg-opacity: 1;
+    background-color: #62B0E2;
+    --tw-text-opacity: 1;
+    color: #ffffff;
+  }
+  :is(.dark .social-icons li a) {
+    --tw-bg-opacity: 1;
+    background-color: #62B0E2;
+    --tw-text-opacity: 1;
+    color: #ffffff;
+  }
+
+  .nav-link {
+    @apply text-dark hover:text-head dark:text-darkmode-dark active:text-head;
+  }
+  .nav-dropdown-link {
+    @apply text-dark hover:text-head dark:text-darkmode-text dark:hover:text-darkmode-primary active:underline;
+  }

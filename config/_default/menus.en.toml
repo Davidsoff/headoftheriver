@@ -48,16 +48,16 @@ url = "404/"
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "Organising Committee"
+url = "en/overnew/organisatie/"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "elements/"
+name = "ARB"
+url = "https://amsterdamscheroeibond.nl/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Willem III"
+url = "https://www.willem3.nl/"
 weight = 3

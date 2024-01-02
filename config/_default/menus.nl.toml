@@ -53,11 +53,11 @@ url = "overnew/organisatie/"
 weight = 1
 
 [[footer]]
-name = "Elementen"
-url = "elementen/"
+name = "ARB"
+url = "https://amsterdamscheroeibond.nl/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Willem III"
+url = "https://www.willem3.nl/"
 weight = 3
