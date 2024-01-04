@@ -11,7 +11,7 @@ menu:
 
 Hieronder vind je het blokschema voor de Head of the River 2024.
 
-## Zaterdag blok 1 - 13:15
+### Zaterdag blok 1 - 13:15
 
 | ID      | Veld       | Beschrijving                                    |
 |---------|------------|-------------------------------------------------|
@@ -23,7 +23,7 @@ Hieronder vind je het blokschema voor de Head of the River 2024.
 | 230-238 | DM 4*      | Dames Masters Dubbel Vier (Pre-master, A t/m J) |
 | 39      | Coastal 4* | Coastal Dubbel Vier                             |
 
-## Zaterdag blok 2 - 16:00
+### Zaterdag blok 2 - 16:00
 
 | ID           | Veld               | Beschrijving                              |
 |--------------|--------------------|-------------------------------------------|
@@ -35,7 +35,7 @@ Hieronder vind je het blokschema voor de Head of the River 2024.
 | 115          | D 8*               | Dames Dubbel Acht                         |
 | 40           | D Coastal 4*       | Dames Coastal Dubbel Vier                 |
 
-## Zondag blok 1 - 10:45
+### Zondag blok 1 - 10:45
 
 | ID           | Veld            | Beschrijving                            |
 |--------------|-----------------|-----------------------------------------|
@@ -53,7 +53,7 @@ Hieronder vind je het blokschema voor de Head of the River 2024.
 | 102          | Mix 4*          | Mixed Dubbel Vier                       |
 | 210-217, 240 | DM 8+ (A t/m J) | Dames Masters Acht (Pre-master, At/m J) |
 
-## Zondag blok2 - 14:00
+### Zondag blok2 - 14:00
 
 | ID      | Veld       | Beschrijving                 |
 |---------|------------|------------------------------|

@@ -48,3 +48,9 @@ h1, h2, h3 {
   .nav-dropdown-link {
     @apply text-dark hover:text-head dark:text-darkmode-text dark:hover:text-darkmode-primary active:underline;
   }
+
+  // content style
+.content {
+  @apply prose-thead:bg-theme-head prose-thead:dark:bg-theme-head;
+  @apply prose-th:text-dark prose-th:dark:text-darkmode-dark;
+}

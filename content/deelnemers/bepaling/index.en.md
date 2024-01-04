@@ -3,21 +3,21 @@ title: "Rules and Regulations"
 meta_title: ""
 description: "Rules and Regulations of the Head of the River Amstel"
 draft: false
+date: 2024-01-03
 menu:
   main:
     parent: Participants
     weight: 10
 ---
 
-Below you will find the Rules and Regulations of the Head of the River 2023.
-Some of the items will change for the weekend in March 2024. As soon as the details are know we will update this page. Please keep a close look during you preparation for the Head of the River 2024.
+Below you will find the Rules and Regulations of the Head of the River 2024.
 
 ## Regulations
-The regatta will take place on Saturday, the 11th and Sunday, the 12th of March 2023.
+The regatta takes place on Saturday, March 9, and Sunday, March 10, 2024.
 
 #### Racetype
 
-Approximately 8 kilometres.
+Pursuit race over approximately 8 km.
 
 #### Regatta Manager:
 
@@ -27,235 +27,243 @@ Menno Vroegindeweij: wedstrijdleiding@headoftheriver.nl
 
 Herma van der Stoel
 
-#### Inschrijving:
+#### Entries: 
 
-Tot vrijdag 03 maart 23.59 uur via het KNRB inschrijfprogramma.
+Find out how to register on our Entries page. Registration closes on Friday, 1st of March at 23.59 hr. via the KNRB registration site.
 
-#### Inschrijfgeld: 
+#### Entry fees: 
 
-Vier €75
+- Four €85
+- Eight €115
+- Corporate Eight €300.
 
-Acht €100
+Entry fees include KNRB competition license surcharge. Please pay before Tuesday, 5 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A.    
+Please include the name of the registering rowing club.
 
-Bedrijfsacht €300.
+#### Draw:
 
-Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentie toeslag. Betalen voor Dinsdag 07 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging.
+The draw will take place Monday, March 4 at 20:00 hrs. in Amsterdam.
 
-#### Loting:
+#### Weigh-in:
 
-Maandag 06 maart 20:00 uur te Amsterdam.
+Weigh-in will take place at Skøll Rowing Club (Jan Vroegopsingel 6 1096CN Amsterdam). Rowers will be weighed between 2 and 3 hours before the start of their own race.    
+Coxswains (as applicable) will weigh in wearing their rowing outfit. (conforming to RvR guidelines)    
+Coxswains should bring any required ballast themselves.    
 
-#### Weging:
+#### Coxswain Meeting:
 
-Roeivereniging Skøll, Jan Vroegopsingel 6, tussen 3 en 2 uur voor de eerste start van het eigen veld. Stuurlieden (voor zover van toepassing) wegen in roeitenue (Conform RvR). Stuurlieden dienen zelf eventuele ballast mee te nemen.
+A coxswain meeting will not take place this year. Instructions for crews and their coxswains are available online on the Coxswains site.     
+All coxswains must be familiar with the instructions.    
+With the exception of coxswains in the junior 16 events, a cox of any crew has to be at least 15 years in the year of the race.
 
-#### Stuurlieden:
+#### Placement:
 
-Stuurliedenvergadering vindt dit jaar niet plaats. De on-line stuurliedeninstructie is beschikbaar op de website. Alle stuurlieden dienen van de inhoud van deze instructie op de hoogte te zijn.
-Met uitzondering van stuurlieden in de junioren 16 velden geldt dat een stuur in het lopende jaar tenminste de leeftijd van 15 jaar moet bereiken.
+The Masters divisions row (per block) interchangeably. Last year's finish time determines the starting order. For Masters teams, a team must "match" with a team from last year (50% same rowers or more). Only the fastest 50% of the matched teams will be placed. Starting positions of all other Master’s teams will be drawn by lottery after the seeded crews. For the remaining events (as before) the club results from last year applies. If more teams per rowing club are entered in the same event, the club's team numbering will be used for placement.
 
-#### Plaatsing:
+#### Pennants:
 
-De masters velden roeien (per blok) door elkaar. De finishtijd van vorig jaar is bepalend voor de startvolgorde. Voor masters ploegen geldt dat een ploeg moet ‘matchen’ met een ploeg van vorig jaar (obv 50% dezelfde roeiers). Alleen de snelste 50% van de gematchte ploegen wordt geplaatst. Startposities van alle overige masters ploegen worden geloot achter de geplaatste ploegen. Voor de overige velden geldt (zoals voorheen) het verenigingsresultaat van vorig jaar. Bij inschrijving van meer ploegen per vereniging in hetzelfde veld wordt de ploeg-nummering van de vereniging gebruikt bij de plaatsing.
+Pennants will be awarded to the fastest Dutch club eight in the elite men and women events.
 
-#### Wimpels:
+#### Boat trailers:
 
-Wimpels worden uitgereikt aan de snelste Nederlandse verenigingsacht in het elite-veld heren en dames
+Boat trailers need to be registered in advance by the organizing committee. Check for more information our [boat trailer page](../botenwagens/).
 
-#### Botenwagens:
+<hr style="border:2px solid #62B0E2">
 
-Botenwagens dienen vooraf te worden aangemeld bij de organisatie. Voor meer informatie bekijk onze botenwagenpagina of mail naar veiligheid@headoftheriver.nl.
+## Rules
 
+RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2024
 
-## Reglementen
+1. **GENERAL**
+    The race will be held in eights and steered fours for men and women who are members of a KNRB-affiliated rowing club or with another member of FISA. The competitive race will be held under the rules and regulations of the KNRB with the exceptions and special provisions below. Events for first year and advanced teams are not open to foreign teams.
 
-REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 2023
+    The fastest Dutch club team of the Elite eights in the men's and women's competition win the Championship of the Amstel. To symbolize this championship, this club may fly a long blue pennant from the club’s flagpole throughout the year.
 
-1. **ALGEMEEN**
+    Participation in the competition shall be at one's own risk. The liability of the organizing clubs ARB and Willem III (including their organizers, i.e. the Head Committee and the Head volunteers working with the committee) for any damage resulting from or related to participation in the competition, is, except in the case of intentional act or omission, recklessness or gross negligence, always limited to the amount which the applicable insurance policy gives entitlement to, increased by the amount of the deductible under the relevant policy.
+
+    Except in the case of intent or gross recklessness on the part of the Organization, the participant shall indemnify and hold harmless the Organization in respect of all claims which any third party may at any time bring against the Organization and which are connected with acts or omissions of the participant during his or her participation in the event.
+
+2. **TIMING**
    
-    De wedstrijd wordt gehouden in achten en gestuurde vieren voor dames en heren, die lid zijn van een bij de KNRB aangesloten vereniging of bij een ander lid van de FISA. De wedstrijd wordt gehouden onder de reglementen van de KNRB en de hieronder volgende uitzonderingen en bijzondere bepalingen. Velden voor eerstejaars ploegen en gevorderden staan niet open voor buitenlandse ploegen.
+    The races are organized as time trials. The time in which each crew completes the course shall be recorded. The team with the fastest time is the winner. Under no circumstances will a team be allowed to row the race a second time.
 
-    De snelste Nederlandse verenigingsploeg van de Elite achten bij de heren en dames wint het Kampioenschap van de Amstel. Gedurende het hele jaar mag als symbool voor het behalen van dit kampioenschap een lange blauwe wimpel aan de vlaggenmast van het verenigingsgebouw gevoerd worden.
-
-    Deelname aan de wedstrijd geschiedt voor eigen risico. De aansprakelijkheid van de Organisatie bestaande uit de organiserende verenigingen ARB en Willem III (inclusief hun organisatoren, te weten de Head-cie en door hen ingezette vrijwilligers) voor schade voortvloeiende uit of verband houdende met deelname aan de wedstrijd, is behoudens in geval van opzet, roekeloosheid of grove schuld, steeds beperkt tot het bedrag waarop de toepasselijke verzekering aanspraak geeft, vermeerderd met het bedrag van het eigen risico van de desbetreffende polis.
-
-    Behoudens in geval van opzet of grove roekeloosheid van de Organisatie, vrijwaart de deelnemer en zal de deelnemer de Organisatie schadeloosstellen inzake van alle vorderingen die een derde op enig tijdstip jegens de Organisatie mocht instellen en die verband houden met handelen of nalaten van de deelnemer gedurende zijn deelname aan het evenement.
-
-2. **TIJDWAARNEMING**
+3. **CREW CHANGES**
    
-    De wedstrijden worden op tijd geroeid. Voor iedere ploeg wordt de tijd opgenomen waarin zij de baan aflegt. Winnaar is de ploeg met de snelste tijd. In geen geval wordt er overgeroeid.
+    Any changes in the team composition can be reported to the race committee in accordance with article RRS 37.
 
-3. **WIJZIGINGEN IN PLOEGSAMENSTELLING**
+    - At any time after the draw and on race days, changes shall be made via the KNRB registration system.
+    - On race days, changes can also be reported in writing at the desk.
+
+4. **STARTING ORDER**
+
+    Except for veteran teams, the starting order is determined by last year's results in a division. The winning team from last year starts first. The team from the club that had finished 2nd starts 2nd, etc. Combination teams and new entries are assigned by drawing lots after the last placed association team. If more teams are entered per club in the same event, the club’s team numbering will be used for placement. So, team with number 1 gets the best placed team from the previous year.
+
+    For veteran teams, the starting order is determined in 2 steps. First, it is determined whether a team matches a team from last year. A team is matched if at least half of the rowers match a team from last year. Next, from all matched teams, only the fastest 50% are placed (again based on last year's result). The other 50% and all unmatched teams are unplaced. Their starting position falls behind the seeded teams and is determined by drawing lots.
+
+5. **SHIRT NUMBERS**
    
-    Eventuele wijzigingen in de ploegsamenstelling kunnen conform artikel RvR 37 aan de wedstrijdleiding doorgegeven worden.
+    Shirt numbers must be clearly visible on the backs of the coxswain/helmsman and the bowman during the race and when rowing up and down the river. One back number on the bowman's race shirt, one on the bowman's call shirt and one on the steerer sitting at the back (if the steer is at the front, then on the back deck).
 
-    Wijziging geschiedt via het KNRB inschrijfsysteem, ook na loting en op de wedstrijddagen
-    Op de wedstrijddagen kan een wijziging ook schriftelijk aan de balie worden gemeld.
+    The three shirt numbers can only be picked up by a club representative after timely payment (before 7th March into the ARB account) of the entry fee by the club (or foreign team) during the following times
 
-4. **STARTVOLGORDE**
+    - Friday afternoon between 14.00 and 20.00 hrs.
+    - Saturday between 09.00 and 15.00 hrs.
+    - Sunday between 08.30 and 12.00 hrs.
 
-    Behalve voor veteranenploegen, wordt de startvolgorde wordt bepaald door de uitslagen van het afgelopen jaar in een divisie. De winnende ploeg van afgelopen jaar vertrekt als eerste. De ploeg van de vereniging die als 2e was geëindigd start als 2e, enz. Combinatieploegen en nieuwe inschrijvingen worden door loting ingedeeld na de laatste geplaatste verenigingsploeg. Bij inschrijving van meer ploegen per vereniging in hetzelfde veld wordt de ploeg-nummering van de vereniging gebruikt bij de plaatsing. Dus ploeg met nummer 1 krijgt de best behaalde plaats van het afgelopen jaar.
+    They can be picked up at Willem III.
 
-    Voor veteranenploegen wordt de startvolgorde bepaald in 2 stappen. Eerst wordt bepaald of een ploeg ‘matcht’ met een ploeg van vorig jaar. Een ploeg matcht als minimaal de helft van de roeiers overeenkomt met een ploeg van vorig jaar. Vervolgens worden van alle gematchte ploegen, alleen de snelste 50% geplaatst (wederom op basis van het resultaat van vorig jaar). De andere 50% en alle niet gematchte ploegen zijn ongeplaatst. Hun startpositie valt achter de geplaatste ploegen en wordt bepaald aan de hand van loting.
+    All shirt numbers will be provided per registering club.
 
-5. **RUGNUMMERS**
+    The shirt numbers do not have to be returned and can be taken home as souvenir.
+
+6. **COXSWAIN INSTRUCTIONS**
    
-    Rugnummers moeten gedurende de wedstrijd en gedurende het oproeien en terugroeien duidelijk zichtbaar op de rug van stuurman/vrouw en de boegroeier(ster) bevestigd zijn. Eén rugnummer op het wedstrijdshirt van de boegroeier, één op het oproeishirt van de boegroeier en één op de achterin zittende stuur (als de stuur voorin ligt dan op het achterdek).
+    There is no coxswain meeting this year. The instructions for crews and their coxswains can be found online on the [coxswain page](../stuurliedeninstructie/).
 
-    De drie rugnummers zijn alleen na de tijdig ontvangen betaling (Voor 07 maart op de rekening van de ARB) van het inschrijfgeld door de vereniging (of buitenlandse ploeg) op de volgende momenten op te halen door een verenigingsvertegenwoordiger:
+7. **WEIGHING**
+   
+    In accordance with Article 7, paragraph 3 of the RvR, helmsmen for Masters, Club, Mixed, Company and Juniors 16 teams will not be weighed.
 
-    - Vrijdagmiddag tussen 14.00 – 20.00  uur
-    - Zaterdag van 09.00 tot 15.00 uur
-    - Zondag van 8.30 tot 12.00 uur
+    The weighing of coxswains of other teams (Elite, Advanced, Freshmen and Junior 18 divisions) will take place at the boathouse of Skøll Rowing Club both on Saturday and Sunday between 3 and 2 hours before the first start of their OWN race.
+
+    The weighing of the LIGHT teams is on Sunday between 3 and 2 hours before the first start of their OWN race number (i.e. not of their own block) and also takes place at Skøll boathouse, Jan Vroegopsingel 6.
+
+8. **SAILING RESTRICTIONS**
+   
+    During certain periods in the weekend there will be a total ban on sailing on the river Amstel between Amsterdam and Ouderkerk except for crews participating in the races. The times of the ban are:
+
+    - Saturday from 12:30 until 17:45 hrs.
+    - Sunday from 9:30 until 15:45 hrs.
+
+    Between one hour before the first start of a block and 10 minutes before the first start of a block, the race course south of the Rozenoordbrug (Rozenoord Bridge) may be used by crews entering that block in a southerly direction, provided that their allocated transit time of the Rozenoordbrug lies within that time period.
+
+9.  **INSTRUCTIONS**
     
-    Ze zijn op te halen op Willem III.
+    Instructions of the race manager or any other race officials must be followed immediately.  Any failure to follow these directions that results in the disruption in the proper running of the course and race, may result in a penalty for any organization or team involved.
 
-    Alle rugnummers worden per inschrijvende vereniging verstrekt. 
-
-    De rugnummers hoeven niet geretourneerd te worden.
-
-6. **STUURLIEDENINSTRUCTIE**
-   
-    Er is geen stuurliedenvergadering. De instructies voor ploegen en hun stuurlieden is online beschikbaar op de stuurliedenpagina. 
-
-7. **WEGING**
-   
-    Conform artikel 7, lid 3 van het RvR worden stuurlieden voor Masters-, Club-, Mixed, Bedrijfs- en Junioren 16 ploegen niet gewogen.
-
-    De weging van de stuurlieden van overige ploegen (Elite, Gevorderden, Eerstejaars en de junioren 18 divisies) vindt plaats op Skøll, zowel op zaterdag als zondag tussen 3 en 2 uur voor de eerste start van hun eigen wedstrijdnummer.
-
-    De weging van de LICHTE ploegen is op zondag tussen 3 en 2 uur voor de eerste start van hun EIGEN wedstrijdnummer (dus niet van hun eigen blok) en vindt plaats in de materiaalloods van Skøll, Jan Vroegopsingel 6.
-
-8. **VAARVERBODEN**
-   
-    Gedurende bepaalde periodes geldt een algeheel vaarverbod op de Amstel tussen Amsterdam en Ouderkerk voor alle ploegen die niet deelnemen aan de roeiwedstrijden.
-
-    Zaterdag geldt dit van 12:30 tot 17:45
-    Zondag geldt dit van 09:30 tot 15:45
-    Tussen één uur voor de eerste start van een blok en 10 minuten voor de eerste start van een blok, mag de wedstrijdbaan ten zuiden van de Rozenoordbrug door inroeiende ploegen van dat blok in zuidelijke richting worden gebruikt, mits hun toegekende doorvaarttijd van de Rozenoordbrug in die tijdspanne ligt.
-
-9.  **TE WATER LATEN**
+10. **WARM-UP AND COOL-DOWN**
     
-    De aanwijzingen van de regelings- en baancommissarissen moeten direct opgevolgd worden. Als door het niet opvolgen van deze aanwijzingen de organisatie wordt verstoord, kan de betrokken ploeg worden bestraft.
+    Rowing up and rowing back take place in the row/return lane. This is located on the Willem III side (east side) of the Amstel River and is indicated by orange and yellow buoys.
 
-10. **OPROEIEN en TERUGROEIEN**
+    In the warm-up or return rowing lane, passing/overtaking is allowed when yellow buoys are present. Passing/overtaking is prohibited when orange buoys are present. Overtaking in prohibited areas will result in a penalty. Obstructing teams, ignoring instructions from race officials and managers may also result in a penalty. Multiple infractions will result in multiple penalties.
+
+    Rowing on to the start is allowed when a race is passing by.
+
+    All crews must keep as much port side as possible and be considerate of the crews that have already started.
+
+    Teams may only take permitted bridge opening. Taking a prohibited bridge opening will result in disqualification.
+
+    While warming up toward the start and after the finish of the race, here are the openings that are permitted and not permitted for use:
+
+    - Toronto Brug [Toronto Bridge]: passage under the Toronto Bridge is not permitted.
+    - Nieuwe Amstelbrug: (Nieuwe Amstel Bridge): only the second bridge opening from port side is permitted for use.
+    - Berlagebrug [Berlage Bridge]: the two port side bridge openings are permitted for use
+    - Utrechtsebrug [Utrecht Bridge]: only the port side bridge opening is permitted for use
+    - Rozenoordbrug [Rozenoord Bridge]: only the port side bridge opening is permitted for use
+    - Brug in Ouderkerk [Bridge in Ouderkerk]: Passage under the  bridge in Ouderkerk is not permitted.
+
+11. **CROSSING THE RACE COURSE**
     
-    Het oproeien en terugroeien vindt plaats in de oproeibaan/terugroeibaan. Deze ligt aan de Willem III kant (Oostzijde) van de Amstel en is aangegeven met oranje en gele boeien.
+    Crews that must cross the race course coming from the boathouses of De Amstel and Nereus must do so under supervision of the Race Manager present at the time. Crossing the racecourse without the Race Manager’s permission is not allowed. If ongoing races are disturbed by the failure to follow the Race Manager’s instructions, the team concerned may receive penalty.
 
-    In de oproei- of terugroeibaan mag worden ingehaald wanneer er gele boeien liggen. Het is verboden om in te halen wanneer er oranje boeien liggen. Inhalen in gebieden waar dit verboden is zal een sanctie tot gevolg hebben. Hinderen van ploegen, negeren van aanwijzingen van de regelings- en baancommissarissen kan eveneens een sanctie tot gevolg hebben. Meerdere overtredingen betekent meerdere sancties.
+12. **LINE UP**
 
-    Het is toegestaan door te roeien wanneer er een wedstrijd voorbijkomt.
+    Your own start time is the start time of your own event, increased by 1 minute for every 4 teams that start before you in your own event. The finish times based on these times will be explicitly stated on a separate draw.
 
-    Alle ploegen dienen zoveel mogelijk bakboordwal te houden en rekening te houden met reeds gestarte ploegen.
+    The first check point, T1, is located at the Duivendrechtsevaart. Teams starting north may pass this point between 55 and 45 minutes before their own starting time.
 
-    Ploegen mogen alleen de vrijgegeven bruggaten nemen. Het nemen van een verboden bruggat heeft uitsluiting tot gevolg.
+    The second checkpoint, T2, is located just before the Rozenoordbrug (Rozenoord Bridge). Crews must pass this point between 40 and 35 minutes before their starting time. Arriving late at this bridge checkpoint to row on, can result in disqualification.
 
-    Tijdens het oproeien of terugroeien mogen alleen de volgende bruggaten gebruikt worden.
+    After passing this point, crews may only row in a southerly direction until they reach the turning area in Ouderkerk.
 
-    *Torontobrug:* de doorvaart onder de Torontobrug is niet toegestaan
-    *Nieuwe Amstelbrug: *alleen het tweede bruggat vanaf bakboordzijde
-    *Berlagebrug:* de twee bakboord bruggaten
-    *Utrechtsebrug:* bakboord bruggat
-    *Rozenoordbrug:* bakboord bruggat
-    *Brug in Ouderkerk:* de doorvaart onder de brug in Ouderkerk is niet toegestaan.
-
-11. **OVERSTEKEN WEDSTRIJDBAAN**
+13. **RACE COURSE**
     
-    Ploegen die de wedstrijdbaan moeten oversteken, vanuit De Amstel en Nereus, doen dit onder begeleiding van de regelings- en baancommissarissen. Zonder toestemming is het niet toegestaan de wedstrijdbaan over te steken. Als door het niet opvolgen van deze aanwijzingen de organisatie wordt verstoord kan de betrokken ploeg worden bestraft.
+    The length of the course is approximately 8 kilometres for all crews.
 
-12. **OPLIJNEN**
+    The start is in Ouderkerk, close to the Oostmeerweg. The finish is in Amsterdam, just before the Nieuwe Amstel Brug (Bridge).
 
-    De eigen starttijd, is de starttijd van het eigen veld, vermeerderd met 1 minuut voor elke 4 ploegen die in het eigen veld vóór je starten. De doorkomsten op basis van deze tijden zullen op een aparte loting expliciet worden vermeld.
+    Check the [coxwains page](../stuurliedeninstructie/) for the current course map and further details.
 
-    Het eerste aligneerpunt T1 bevindt zich ter hoogte van de Duivendrechtsevaart. Ploegen die noordelijker te water gaan, mogen dit punt tussen 45 en 35 minuten voor de eigen starttijd passeren.
-
-    Het tweede aligneerpunt T2 bevindt zich vlak voor de Rozenoordbrug. Ploegen moeten dit punt tussen 30 en 25 minuten voor de eigen starttijd passeren. Te laat aankomen bij deze brug om op te roeien, kan leiden tot uitsluiting.
-
-    Na het passeren van dit punt mag alleen in zuidelijke richting worden geroeid tot aan de keerzone in Ouderkerk.
-
-13. **WEDSTRIJDBAAN**
+14. **PRESTART, START AND FINISH**
     
-    De lengte van de baan voor alle ploegen is ongeveer 8 kilometer.
-    De start ligt in Ouderkerk, ter hoogte van Amsteldijk Noord 37. De finish is in Amsterdam bij roeivereniging De Hoop.
+    The Starting Line is marked by two poles with a white flag. At approximately 100 meters before the
 
-    Kijk op de stuurliedenpagina voor de actuele baankaart.
+    Starting Line, the Pre-starting line is marked by two poles with a red flag.
 
-14. **VOORSTART, START EN FINISH**
-    
-    De startlijn is gemarkeerd door twee piketten met een witte vlag. Op circa 100 meter voor de startlijn is de voorstartlijn gemarkeerd door twee piketten met een rode vlag.
+    The start is a ‘flying start’ with an interval of 15 seconds between the crews. Between divisions, there will be a start difference of at least 60 seconds.
 
-    De start is vliegend met een startverschil van 15 seconden tussen de ploegen. Tussen twee divisies wordt een startverschil van minimaal 60 seconden gelaten.
-
-    De finishlijn is gemarkeerd met twee piketten met een rode vlag.
+    The Finish Line is marked by two poles with a red flag.
 
 15. **BAANMARKERINGEN**
 
-    De boeien van de oproei- en terugroeibaan moeten tijdens het oproeien, uitroeien en de wedstrijd aan stuurboordzijde gehouden worden.
-    Er zijn extra boeien geplaatst, zoals aangegeven op de baankaart, ten behoeve van veiligheid bij het Amstelkanaal, vóór de grote bocht en vóór de finish. Deze moeten aan bakboordzijde gehouden worden.
-    Het aan de verkeerde zijde passeren van een boei of het verlaten van de (oproei)baan kan een sanctie tot gevolg hebben.
+    During the race, the buoys that split the race lane from the travel lane, must be kept on starboard side.
 
-16. **BRUGGEN**
+    As can be seen on the course maps, extra buoys have been placed at the Amstel Canal, before the Big Bend, and before the finish for safety reasons. These additional buoys must be kept on port side.
 
-    Ploegen mogen alleen de vrijgegeven bruggaten nemen. Het nemen van een verboden bruggat heeft uitsluiting tot gevolg.
+    A crew that passes a buoy at the wrong side or a crew that leaves the travel lane, may receive a penalized.
 
-    Tijdens de wedstrijd mogen alleen de volgende bruggaten gebruikt worden.
+16. **BRIDGES along the race course**
 
-    Rozenoordbrug: alleen het bakboord brug gat mag gebruikt worden. Het stuurboord gat is verboden en wordt gebruikt voor oproeiende ploegen.
-    Utrechtsebrug: alleen het bakboord en het middelste brug gat mogen gebruikt worden. De overige bruggaten zijn verboden.
-    Berlagebrug: alleen het middelste brug gat en de twee bakboord bruggaten mogen gebruikt worden. De overige bruggaten zijn verboden.
-    Als door werkzaamheden aan bruggen minder bruggaten beschikbaar zijn tijdens de Head, zullen we aangepaste bepalingen publiceren.
+    Crews are only allowed to go under the bridges through permitted openings. Passing a bridge through a prohibited opening leads to disqualification.
 
-    Direct na de finish moeten ploegen doorroeien onder de Nieuwe Amstelbrug door, naar de keerboei.
+    During the race, only the following bridge openings are permitted for use:
 
-    *Nieuwe Amstelbrug:* alleen de middelste drie bruggaten mogen worden gebruikt.
+    - Rozenoordbrug (Rozenoord Bridge): only the port side opening is permitted for use. The starboard opening is prohibited for use by racing teams.
+    - Utrechtsebrug (Utrechtse Bridge): only the port and middle openings are permitted for use.  Use of the other openings is forbidden.
+    - Berlagburg (Berlag Bridge): only the middle opening and the two openings at port side are permitted for use. Use of the other openings are forbidden.
+    - If fewer bridge holes are available during the Head of the River, due to construction works, we will publish modified regulations.
 
-17. **OPLOPEN EN PASSEREN**
+    Immediately after the finish, crews must continue under the Nieuwe Amstel Brug (Bridge) to the turn buoy.
+
+    - Nieuwe Amstel Bridge: only the middle three bridge holes are permitted for use.
+
+17. **OVERTAKING**
     
-    Conform artikel 53 RvR:
-
-    > De oplopende ploeg is vrij haar koers te kiezen.
-    De opgelopen ploeg mag de oplopende ploeg niet hinderen en moet tijdig wijken zodat de oplopende ploeg daadwerkelijk vrij is haar koers te kiezen.
+    In accordance with Article 53 of the RvR*:   
+    > - The faster crew is free to choose its course.
     >
-    >De oplopende ploeg mag haar voorrangsrecht echter niet misbruiken door een opgelopen ploeg in een dusdanige positie te dwingen dat haar het roeien onmogelijk wordt gemaakt of anderszins de opgelopen ploeg in een gevaarlijke situatie te brengen.
-    >
-    >De opgelopen ploeg dient in ieder geval te wijken vóórdat de voorsteven van de oplopende ploeg op gelijke hoogte is gekomen met de achtersteven van de opgelopen ploeg.
-    >
-    >Veiligheid en sportiviteit geven bij zowel de opgelopen als de oplopende ploeg de doorslag bij de wijze waarop zij elkaar bejegenen in een situatie waarin opgelopen wordt.
+    > - The slower crew must not hinder or obstruct the faster crew and must allow for the faster crew to continue their race in the preferred route.   
+    > - However, the faster crew is not allowed to use its rights to put the slower crew in such a position that rowing is made impossible or that the crew is placed in a hazardous situation.   
+    > - The slower crew has to move aside before the point of the bow ball of the faster crew is at the same level of the sternpost of the slower crew.   
+    > - Both the faster and slower crews must exhibit safety and sportsmanship in their behaviour towards each other.
     
-    Kijk op de stuurliedenpagina voor de officiele inhaalinstructies.
+    Please check the [coxwains](../stuurliedeninstructie/) page for official overtaking instructions.
 
-18. **UITVAL**
+18. **CEASE DURING A RACE**
     
-    Ploegen die uitvallen moeten proberen de oproeiende en wedstrijdvarende ploegen zo min mogelijk te hinderen. Het gebruik van de oproeibaan in tegengestelde richting is slechts toegestaan na uitdrukkelijke toestemming van een official.
+    A crew that drops out during a race, has to leave the racecourse as soon as possible causing as little interference as possible with the other teams in the race as well as those rowing to the start or from the finish. The use of the rowing lane in the opposite direction is only allowed after explicit permission from a race official.
 
-19. **DOORVAREN NA DE FINISH**
+19. **AFTER THE FINISH, CONTINUE ROWING**
 
-    Na de finish in Amsterdam moet iedereen light doorvaren, onder de Nieuwe Amstelbrug door en moet er tussen de keerboei en de Torontobrug naar stuurboord rondgemaakt worden.
+    After the finish in Amsterdam, all crews must continue rowing lightly under the Nieuwe Amstelbrug (Nieuwe Amstel Bridge) and round to starboard between the turn buoy and the Toronto Brug (Bridge).
 
-20. **PROTEST, BEZWAAR EN AANWEZIGHEID VERENIGINGSVERTEGENWOORDIGER**
+20. **PROTEST, OBJECTION AND PRESENCE OF AN ASSOCIATION REPRESENTATIVE**
     
-    Zie met name RvR artikel 75 t/m 81. De tijdstraf, zoals bedoeld in artikel 75 lid 8 RvR is vastgesteld op 15 seconden.
+    In accordance with the RvR*, Article 75 up to and including 81, the time penalty is set to 15 seconds.
 
-    Protesten worden kenbaar gemaakt door het opsteken van de hand als teken van protest. Protesten worden in ontvangst genomen door de kamprechter voor protesten. Deze bevindt zich in de motorboot direct na de finish. Elk protest moet schriftelijk worden toegelicht, met de daarvoor beschikbare protestformulieren, bij het wedstrijdsecretariaat binnen één uur na de finish van de race. Zowel bij RIC als bij Willem III kunnen de formulieren worden ingeleverd. Protesten worden afgehandeld door de kamprechters die zitting hebben in de juryraad. De juryraad zetelt in de bestuurskamer van Willem III.
+    Protests will be made known by raising the hand as a sign of protest. Protests will be received and registered by the race official in charge of protests. The official in charge of protests can be found at the motorboat immediately after the finish line. Each protest must be submitted in writing using the protest forms available for that purpose and given to the Jury Secretary within one hour of the race finish. Forms can be turned into the Jury Secretary at the boathouses of either RIC or William III. Protests will be handled by the umpire/s which are member of the Jury Board. The Jury Board sits in the boardroom at the Willem III boathouse.
 
-    Het is noodzakelijk dat de verenigingsvertegenwoordiger of ploegvertegenwoordiger aanwezig is en blijft gedurende de afhandeling van het protest. Voor een vlotte afhandeling dient de verenigingsvertegenwoordiger of ploegvertegenwoordiger erop toe te zien dat de verenigingsvertegenwoordigers of ploegvertegenwoordigers waartegen geprotesteerd wordt ook aanwezig dan wel bereikbaar zijn. Wij gebruiken het 06 nummer zoals bekend middels uw inschrijving.
+    It is necessary that the club or team representative is and remains nearby during the handling of the protest. For a smooth processing of the protest, the club or team representative must ensure that the club or team representatives against whom the protest is made, is also present and available. We use the phone number that begins with 06 and can be found through your profile you made during making your entry.
 
-21. **UITSLAGEN**
+21. **RESULTS**
 
-    De uitslagen zullen gepubliceerd worden op de website van de Time-Team.
+    Results will be published on the [IRIS-website](http://www.hoesnelwasik.nl) and our [results page](../uitslag/).
 
-22. **PRIJSUITREIKING**
+22. **AWARDS CEREMONY**
 
-    Zaterdag blok 1: 16:30 bij Willem III
-    Zaterdag blok 2: 19:00 bij Willem III
-    Zondag blok 3: 14:00 bij Willem III
-    Zondag blok 4: 17:00 bij Willem III
-    De prijsuitreiking kan plaatsvinden nadat de Juryraad tenminste de eerste drie plaatsen van de divisies waarvoor de prijsuitreiking plaats vindt, heeft vastgesteld. Waarbij er minimaal een uur gewacht wordt na het finishen van de laatste ploeg in het blok.
+    - Saturday time slot 1: 16:30 at boathouse of Willem III
+    - Saturday time slot 2: 19:00 at boathouse of Willem III
+    - Sunday time slot 3: 14:00 at boathouse of Willem III
+    - Sunday time slot 4: 17:00 at boathouse of Willem III
+
+    The awards ceremony will take place after the Board of the Jury has determined , at minimum, the first three places of every division for which there is an award. The waiting time will be, at minimum, one hour after the finish of the last team in the block.
 
 23. **COASTAL ROWING**
 
-    De Head of the River Amstel is voornemens om Coastal nummers uit te schrijven voor heren en dames Coastal vieren. Voor de regelementen omtrend Coastal Rowing verwijzen we u naar artikel 58 van het Regelement voor Roeiwedstrijden.
+    The Head of the River Amstel intends to issue Coastal numbers for men's and women's Coastal fours. For the rules regarding Coastal Rowing please refer Article 58 of the Rules of Rowing Competitions.
 
-24. **AFWIJKING VAN DE BEPALINGEN**
+24. **DEVIATIONS FROM THE RULES**
 
-    Van de hierboven omschreven bepalingen moet worden afgeweken voor zover de eisen van goed zeemanschap en sportiviteit dit onder bijzondere omstandigheden vereisen.
+    Deviations from the rules above shall be made if special circumstances and/or good seamanship and sportsmanship so require.
+
+***RvR * = Racing Rules of the Dutch Rowing Federation***

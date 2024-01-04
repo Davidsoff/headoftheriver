@@ -3,16 +3,17 @@ title: "Bepalingen en Reglementen"
 meta_title: ""
 description: "Bepalingen en Reglementen der Head of the River Amstel"
 draft: false
+date: 2024-01-03
 menu:
   main:
     parent: Deelnemers
     weight: 10
 ---
 
-Hieronder vindt u de bepalingen en reglementen voor de Head of the River 2023. Deze zullen voor de wedstrijd in maart 2024 gedeeltelijk veranderen. Zodra de details bekend zijn wordt onderstaande aangepast. Houd dus deze pagina in de gaten.
+Hieronder vindt u de bepalingen en reglementen voor de Head of the River.
 
 ## Bepalingen
-De regatta vindt plaats op zaterdag 11 en zondag 12 maart 2023
+De regatta vindt plaats op zaterdag 09 en zondag 10 maart 2024
 
 #### Racetype
 
@@ -28,21 +29,21 @@ Herma van der Stoel
 
 #### Inschrijving:
 
-Tot vrijdag 03 maart 23.59 uur via het KNRB inschrijfprogramma.
+Tot vrijdag 01 maart 23.59 uur via het KNRB inschrijfprogramma.
 
 #### Inschrijfgeld: 
 
-Vier €75
+Vier €85
 
-Acht €100
+Acht €115
 
 Bedrijfsacht €300.
 
-Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentie toeslag. Betalen voor Dinsdag 07 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging.
+Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentie toeslag. Betalen voor Dinsdag 05 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging.
 
 #### Loting:
 
-Maandag 06 maart 20:00 uur te Amsterdam.
+Maandag 04 maart 20:00 uur te Amsterdam.
 
 #### Weging:
 
@@ -63,12 +64,13 @@ Wimpels worden uitgereikt aan de snelste Nederlandse verenigingsacht in het elit
 
 #### Botenwagens:
 
-Botenwagens dienen vooraf te worden aangemeld bij de organisatie. Voor meer informatie bekijk onze botenwagenpagina of mail naar veiligheid@headoftheriver.nl.
+Botenwagens dienen vooraf te worden aangemeld bij de organisatie. Voor meer informatie bekijk onze [botenwagenpagina](../botenwagens/).
 
+<hr style="border:2px solid #62B0E2">
 
 ## Reglementen
 
-REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 2023
+REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 2024
 
 1. **ALGEMEEN**
    
@@ -88,14 +90,14 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
    
     Eventuele wijzigingen in de ploegsamenstelling kunnen conform artikel RvR 37 aan de wedstrijdleiding doorgegeven worden.
 
-    Wijziging geschiedt via het KNRB inschrijfsysteem, ook na loting en op de wedstrijddagen
-    Op de wedstrijddagen kan een wijziging ook schriftelijk aan de balie worden gemeld.
+    - Wijziging geschiedt via het KNRB inschrijfsysteem, ook na loting en op de wedstrijddagen
+    - Op de wedstrijddagen kan een wijziging ook schriftelijk aan de balie worden gemeld.
 
 4. **STARTVOLGORDE**
 
-    Behalve voor veteranenploegen, wordt de startvolgorde wordt bepaald door de uitslagen van het afgelopen jaar in een divisie. De winnende ploeg van afgelopen jaar vertrekt als eerste. De ploeg van de vereniging die als 2e was geëindigd start als 2e, enz. Combinatieploegen en nieuwe inschrijvingen worden door loting ingedeeld na de laatste geplaatste verenigingsploeg. Bij inschrijving van meer ploegen per vereniging in hetzelfde veld wordt de ploeg-nummering van de vereniging gebruikt bij de plaatsing. Dus ploeg met nummer 1 krijgt de best behaalde plaats van het afgelopen jaar.
+    Behalve voor veteranenploegen, wordt de startvolgorde bepaald door de uitslagen van het afgelopen jaar in een divisie. De winnende ploeg van afgelopen jaar vertrekt als eerste. De ploeg van de vereniging die als 2e was geëindigd start als 2e, enz. Combinatieploegen en nieuwe inschrijvingen worden door loting ingedeeld na de laatste geplaatste verenigingsploeg. Bij inschrijving van meer ploegen per vereniging in hetzelfde veld wordt de ploeg-nummering van de vereniging gebruikt bij de plaatsing. Dus ploeg met nummer 1 krijgt de best behaalde plaats van het afgelopen jaar.
 
-    Voor veteranenploegen wordt de startvolgorde bepaald in 2 stappen. Eerst wordt bepaald of een ploeg ‘matcht’ met een ploeg van vorig jaar. Een ploeg matcht als minimaal de helft van de roeiers overeenkomt met een ploeg van vorig jaar. Vervolgens worden van alle gematchte ploegen, alleen de snelste 50% geplaatst (wederom op basis van het resultaat van vorig jaar). De andere 50% en alle niet gematchte ploegen zijn ongeplaatst. Hun startpositie valt achter de geplaatste ploegen en wordt bepaald aan de hand van loting.
+    Voor veteranenploegen wordt de startvolgorde bepaald in 2 stappen. Eerst wordt bepaald of een ploeg ‘matcht’ met een ploeg van vorig jaar. Een ploeg matcht als minimaal de helft van de roeiers overeenkomt met een ploeg van vorig jaar. Vervolgens worden van alle gematchte ploegen, alleen de snelste 50% geplaatst (wederom op basis van het resultaat van vorig jaar). De andere 50% en alle niet gematchte ploegen zijn ongeplaatst. Hun startpositie valt achter de geplaatste ploegen en wordt bepaald aan de hand van loting.    
 
 5. **RUGNUMMERS**
    
@@ -115,7 +117,7 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 6. **STUURLIEDENINSTRUCTIE**
    
-    Er is geen stuurliedenvergadering. De instructies voor ploegen en hun stuurlieden is online beschikbaar op de stuurliedenpagina. 
+    Er is geen stuurliedenvergadering. De instructies voor ploegen en hun stuurlieden is online beschikbaar op de [stuurliedenpagina](../stuurliedeninstructie/).  
 
 7. **WEGING**
    
@@ -129,8 +131,9 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
    
     Gedurende bepaalde periodes geldt een algeheel vaarverbod op de Amstel tussen Amsterdam en Ouderkerk voor alle ploegen die niet deelnemen aan de roeiwedstrijden.
 
-    Zaterdag geldt dit van 12:30 tot 17:45
-    Zondag geldt dit van 09:30 tot 15:45
+    - Zaterdag geldt dit van 12:30 tot 17:45
+    - Zondag geldt dit van 09:30 tot 15:45
+
     Tussen één uur voor de eerste start van een blok en 10 minuten voor de eerste start van een blok, mag de wedstrijdbaan ten zuiden van de Rozenoordbrug door inroeiende ploegen van dat blok in zuidelijke richting worden gebruikt, mits hun toegekende doorvaarttijd van de Rozenoordbrug in die tijdspanne ligt.
 
 9.  **TE WATER LATEN**
@@ -151,12 +154,12 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
     Tijdens het oproeien of terugroeien mogen alleen de volgende bruggaten gebruikt worden.
 
-    *Torontobrug:* de doorvaart onder de Torontobrug is niet toegestaan
-    *Nieuwe Amstelbrug: *alleen het tweede bruggat vanaf bakboordzijde
-    *Berlagebrug:* de twee bakboord bruggaten
-    *Utrechtsebrug:* bakboord bruggat
-    *Rozenoordbrug:* bakboord bruggat
-    *Brug in Ouderkerk:* de doorvaart onder de brug in Ouderkerk is niet toegestaan.
+    - Torontobrug: de doorvaart onder de Torontobrug is niet toegestaan
+    - Nieuwe Amstelbrug: alleen het tweede bruggat vanaf bakboordzijde
+    - Berlagebrug: de twee bakboord bruggaten
+    - Utrechtsebrug: bakboord bruggat
+    - Rozenoordbrug: bakboord bruggat
+    - Brug in Ouderkerk: de doorvaart onder de brug in Ouderkerk is niet toegestaan.
 
 11. **OVERSTEKEN WEDSTRIJDBAAN**
     
@@ -166,18 +169,19 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
     De eigen starttijd, is de starttijd van het eigen veld, vermeerderd met 1 minuut voor elke 4 ploegen die in het eigen veld vóór je starten. De doorkomsten op basis van deze tijden zullen op een aparte loting expliciet worden vermeld.
 
-    Het eerste aligneerpunt T1 bevindt zich ter hoogte van de Duivendrechtsevaart. Ploegen die noordelijker te water gaan, mogen dit punt tussen 45 en 35 minuten voor de eigen starttijd passeren.
+    Het eerste aligneerpunt T1 bevindt zich ter hoogte van de Duivendrechtsevaart. Ploegen die noordelijker te water gaan, mogen dit punt tussen 55 en 45 minuten voor de eigen starttijd passeren.
 
-    Het tweede aligneerpunt T2 bevindt zich vlak voor de Rozenoordbrug. Ploegen moeten dit punt tussen 30 en 25 minuten voor de eigen starttijd passeren. Te laat aankomen bij deze brug om op te roeien, kan leiden tot uitsluiting.
+    Het tweede aligneerpunt T2 bevindt zich vlak voor de Rozenoordbrug. Ploegen moeten dit punt tussen 40 en 35 minuten voor de eigen starttijd passeren. Te laat aankomen bij deze brug om op te roeien, kan leiden tot uitsluiting.
 
     Na het passeren van dit punt mag alleen in zuidelijke richting worden geroeid tot aan de keerzone in Ouderkerk.
 
 13. **WEDSTRIJDBAAN**
     
     De lengte van de baan voor alle ploegen is ongeveer 8 kilometer.
+    
     De start ligt in Ouderkerk, ter hoogte van Amsteldijk Noord 37. De finish is in Amsterdam bij roeivereniging De Hoop.
 
-    Kijk op de stuurliedenpagina voor de actuele baankaart.
+    Kijk op de [stuurliedenpagina](../stuurliedeninstructie/) voor de actuele baankaart.
 
 14. **VOORSTART, START EN FINISH**
     
@@ -199,29 +203,31 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
     Tijdens de wedstrijd mogen alleen de volgende bruggaten gebruikt worden.
 
-    Rozenoordbrug: alleen het bakboord brug gat mag gebruikt worden. Het stuurboord gat is verboden en wordt gebruikt voor oproeiende ploegen.
-    Utrechtsebrug: alleen het bakboord en het middelste brug gat mogen gebruikt worden. De overige bruggaten zijn verboden.
-    Berlagebrug: alleen het middelste brug gat en de twee bakboord bruggaten mogen gebruikt worden. De overige bruggaten zijn verboden.
+    - Rozenoordbrug: alleen het bakboord brug gat mag gebruikt worden. Het stuurboord gat is verboden en wordt gebruikt voor oproeiende ploegen.
+    - Utrechtsebrug: alleen het bakboord en het middelste brug gat mogen gebruikt worden. De overige bruggaten zijn verboden.
+    - Berlagebrug: alleen het middelste brug gat en de twee bakboord bruggaten mogen gebruikt worden. De overige bruggaten zijn verboden.
+
     Als door werkzaamheden aan bruggen minder bruggaten beschikbaar zijn tijdens de Head, zullen we aangepaste bepalingen publiceren.
 
     Direct na de finish moeten ploegen doorroeien onder de Nieuwe Amstelbrug door, naar de keerboei.
 
-    *Nieuwe Amstelbrug:* alleen de middelste drie bruggaten mogen worden gebruikt.
+    - Nieuwe Amstelbrug: alleen de middelste drie bruggaten mogen worden gebruikt.
 
 17. **OPLOPEN EN PASSEREN**
     
     Conform artikel 53 RvR:
 
-    > De oplopende ploeg is vrij haar koers te kiezen.
-    De opgelopen ploeg mag de oplopende ploeg niet hinderen en moet tijdig wijken zodat de oplopende ploeg daadwerkelijk vrij is haar koers te kiezen.
+    > - De oplopende ploeg is vrij haar koers te kiezen.
     >
-    >De oplopende ploeg mag haar voorrangsrecht echter niet misbruiken door een opgelopen ploeg in een dusdanige positie te dwingen dat haar het roeien onmogelijk wordt gemaakt of anderszins de opgelopen ploeg in een gevaarlijke situatie te brengen.
+    > - De opgelopen ploeg mag de oplopende ploeg niet hinderen en moet tijdig wijken zodat de oplopende ploeg daadwerkelijk vrij is haar koers te kiezen.
     >
-    >De opgelopen ploeg dient in ieder geval te wijken vóórdat de voorsteven van de oplopende ploeg op gelijke hoogte is gekomen met de achtersteven van de opgelopen ploeg.
+    > - De oplopende ploeg mag haar voorrangsrecht echter niet misbruiken door een opgelopen ploeg in een dusdanige positie te dwingen dat haar het roeien onmogelijk wordt gemaakt of anderszins de opgelopen ploeg in een gevaarlijke situatie te brengen.
     >
-    >Veiligheid en sportiviteit geven bij zowel de opgelopen als de oplopende ploeg de doorslag bij de wijze waarop zij elkaar bejegenen in een situatie waarin opgelopen wordt.
+    > - De opgelopen ploeg dient in ieder geval te wijken vóórdat de voorsteven van de oplopende ploeg op gelijke hoogte is gekomen met de achtersteven van de opgelopen ploeg.
+    >
+    > - Veiligheid en sportiviteit geven bij zowel de opgelopen als de oplopende ploeg de doorslag bij de wijze waarop zij elkaar bejegenen in een situatie waarin opgelopen wordt.
     
-    Kijk op de stuurliedenpagina voor de officiele inhaalinstructies.
+    Kijk op de [stuurliedenpagina](../stuurliedeninstructie/) voor de officiele inhaalinstructies.
 
 18. **UITVAL**
     
@@ -241,19 +247,20 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 21. **UITSLAGEN**
 
-    De uitslagen zullen gepubliceerd worden op de website van de Time-Team.
+    De uitslagen zullen gepubliceerd worden op de website van de [IRIS](http://www.hoesnelwasik.nl) en via onze [uitslagenpagina](../uitslag/).
 
 22. **PRIJSUITREIKING**
 
-    Zaterdag blok 1: 16:30 bij Willem III
-    Zaterdag blok 2: 19:00 bij Willem III
-    Zondag blok 3: 14:00 bij Willem III
-    Zondag blok 4: 17:00 bij Willem III
+    - Zaterdag blok 1: 16:30 bij Willem III
+    - Zaterdag blok 2: 19:00 bij Willem III
+    - Zondag blok 3: 14:00 bij Willem III
+    - Zondag blok 4: 17:00 bij Willem III
+
     De prijsuitreiking kan plaatsvinden nadat de Juryraad tenminste de eerste drie plaatsen van de divisies waarvoor de prijsuitreiking plaats vindt, heeft vastgesteld. Waarbij er minimaal een uur gewacht wordt na het finishen van de laatste ploeg in het blok.
 
 23. **COASTAL ROWING**
 
-    De Head of the River Amstel is voornemens om Coastal nummers uit te schrijven voor heren en dames Coastal vieren. Voor de regelementen omtrend Coastal Rowing verwijzen we u naar artikel 58 van het Regelement voor Roeiwedstrijden.
+    De Head of the River Amstel is voornemens om Coastal nummers uit te schrijven voor heren en dames Coastal vieren. Voor de regelementen omtrent Coastal Rowing verwijzen we u naar artikel 58 van het Regelement voor Roeiwedstrijden.
 
 24. **AFWIJKING VAN DE BEPALINGEN**
 
