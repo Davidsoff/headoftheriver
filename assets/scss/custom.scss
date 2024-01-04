@@ -8,6 +8,10 @@
       @apply py-4 xl:py-6;
       overflow: hidden;
     }
+    &-hslider {
+      @apply py-2 xl:py-2;
+      overflow: hidden;
+    }
     overflow: hidden;
     // background-color: coral;
     }

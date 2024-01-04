@@ -1,159 +1,173 @@
 {{ define "main" }}
-  {{ with site.GetPage "homepage" }}
-   <section class="section-home">
-  <div
-    style="margin: auto; background-color: rgb(255, 255, 255); padding: 0px; max-height: 500px; height: 500px; border: 0px solid black">
-    <ul>
-      <li style="width: 100%; height: 100%; z-index: 20; visibility: inherit; opacity: 1;">
-        <div class="container">
-          <div class="row justify-center">
-            <div class="col-12">
-              {{ $image := resources.Get "../assets/images/homepage/HomeSider 2023_Blue_1920-2.jpg" }}
-              <img src="{{ $image.RelPermalink }}"
-                style="user-select: none; position: absolute; width: 100%;  left: 0px; top: 0px; visibility: inherit; opacity: 1;">
-              {{ $image := resources.Get "../assets/images/logos/logo-darkmode.png" }}
-              <img src="{{ $image.RelPermalink }}"
-                style="width: 300px; height: 300px; display: block; margin-left: auto; margin-right: auto; position:relative;">
-              <h1
-                style="display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 10px; color:white; text-align: center;">
-                9 & 10 Maart 2024</h1>
-              <H2 id="countdown" style="display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 10px; color:white; text-align: center;"></h2>
-
-                <script>
-                 // Set the date we're counting down to
-                 var countDownDate = new Date("Mar 9, 2024 12:00:00").getTime();
-                
-                 // Update the count down every 1 second
-                 var x = setInterval(function() {
-                
-                  // Get today's date and time
-                  var now = new Date().getTime();
-                    
-                  // Find the distance between now and the count down date
-                  var distance = countDownDate - now;
-                    
-                  // Time calculations for days, hours, minutes and seconds
-                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-                    
-                  // Output the result in an element with id="demo"
-                  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
-                  + minutes + "m " + seconds + "s ";
-                    
-                  // If the count down is over, write some text 
-                  if (distance < 0) {
-                    clearInterval(x);
-                    document.getElementById("countdown").innerHTML = "De Head of the River Amstel is begonnen!";
-                  }
-                }, 1000);
-                </script>
-            </div>
-          </div>
+{{ with site.GetPage "homepage" }}
+<section class="section-hslider">
+  <div >
+    <div class="row justify-center">
+      <div style="position:relative; max-height: 600px;">
+        {{ $image := resources.Get "../assets/images/homepage/HomeSider 2023_Blue_1920-2.jpg" }}
+        <img src="{{ $image.RelPermalink }}"
+          style="user-select: none; width: 100%; height:auto; visibility: inherit; opacity: 1;">
+        <div style="position:absolute; top:15%; width:100%; text-align:center;">
+          {{ $image := resources.Get "../assets/images/logos/logo-darkmode.png" }}
+          <img src="{{ $image.RelPermalink }}"
+            style="width: 300px; height: 300px; display: block; margin-left: auto; margin-right: auto; z-index:10">
         </div>
-      </li>
-    </ul>
+        <div style="position:absolute; top:75%; width:100%; text-align:center;">
+          <h1
+            style="display: block; color:white; text-align: center;">
+            9 & 10 Maart 2024</h1>
+          <H2 id="countdown"
+            style="display: block; color:white; text-align: center;">
+          </h2>
+
+          <script>
+            // Set the date we're counting down to
+            var countDownDate = new Date("Mar 9, 2024 12:00:00").getTime();
+
+            // Update the count down every 1 second
+            var x = setInterval(function () {
+
+              // Get today's date and time
+              var now = new Date().getTime();
+
+              // Find the distance between now and the count down date
+              var distance = countDownDate - now;
+
+              // Time calculations for days, hours, minutes and seconds
+              var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+              var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+              var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+              var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+              // Output the result in an element with id="demo"
+              document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+                + minutes + "m " + seconds + "s ";
+
+              // If the count down is over, write some text 
+              if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("countdown").innerHTML = "De Head of the River Amstel is begonnen!";
+              }
+            }, 1000);
+          </script>
+        </div>
+      </div>
+</section>
+<!-- /fotoslider -->
+<!-- Latest News -->
+<section class="section-home">
+  <div class="container" style="margin:auto;">
+    <div class="row justify-center">
+      <div class="lg:col-10 mb-8 mt-8 text-center">
+        <h2>{{i18n "news"}}</h2>
+      </div>
+    </div>
+    <div class="row justify-center">
+      {{ range first 3 ( sort (where site.RegularPages "Section" "nieuws") "Date" "desc" ) }}
+      {{ partial "page-card" . }}
+      {{ end }}
+    </div>
   </div>
 </section>
-  <!-- /fotoslider -->
-  <!-- Latest News -->
-      <section class="section-home" >
-    <div class="container" style="margin:auto;">
-      <div class="row justify-center">
-        <div class="lg:col-10 mb-8 mt-8 text-center">
-          <h2>{{i18n "news"}}</h2>
-        </div>
-      </div>
-      <div class="row justify-center" >
-        {{ range first 3 ( sort (where site.RegularPages "Section" "nieuws") "Date" "desc" ) }}
-          {{ partial "page-card" . }}
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  <!-- /Latest News -->
-   <!-- Divider -->
-   <section class="section-home mt-8 mb-8 bg-theme-head"  >
-   <div class="container" >
+<!-- /Latest News -->
+<!-- Divider -->
+<section class="section-home mt-8 mb-8 bg-theme-head">
+  <div class="container">
     <div class="row justify-center">
-     <div class="lg:col-10 mb-8 mt-8 text-center">
-      <h2>"Hèt Lange Afstandskampioenschap van Nederland"</h2>
-     </div>
+      <div class="lg:col-10 mb-8 mt-8 text-center">
+        <h2>"Hèt Lange Afstandskampioenschap van Nederland"</h2>
+      </div>
     </div>
-   </div>
-  </section>
-   <!-- /Divider -->
-   <!-- LinkTiles -->
-   {{ with .Params.linktiles }}
-   <section class="section-home" >
-    <div class="container" style="margin:auto;">
-     <div class="row justify-center" >
+  </div>
+</section>
+<!-- /Divider -->
+<!-- LinkTiles -->
+{{ with .Params.linktiles }}
+<section class="section-home">
+  <div class="container" style="margin:auto;">
+    <div class="row justify-center">
       <div class="md:col-6 lg:col-3 mb-4">
-        <a href="{{ .link1 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px; height:100%;">
-          {{ $image := resources.Get .image1 }}
-          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
-            height="200">
-          <h4 class="mb-3">{{ .title1 | markdownify }}</h4>
-          <p class="mb-4" style="overflow: hidden;">{{ .text1 | markdownify }}</p>
-        </div></a>
+        <a href="{{ .link1 | absURL }}">
+          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
+            style="padding: 16px; height:100%;">
+            {{ $image := resources.Get .image1 }}
+            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
+              class="mx-auto mb-6 rounded img" width="200" height="200">
+            <h4 class="mb-3">{{ .title1 | markdownify }}</h4>
+            <p class="mb-4" style="overflow: hidden;">{{ .text1 | markdownify }}</p>
+          </div>
+        </a>
       </div>
       <div class="md:col-6 lg:col-3 mb-4">
-        <a href="{{ .link2 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px; height:100%;">
-          {{ $image := resources.Get .image2 }}
-          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
-            height="200">
-          <h4 class="mb-3">{{ .title2 | markdownify }}</h4>
-          <p class="mb-4" style="overflow: hidden;">{{ .text2 | markdownify }}</p>
-        </div></a>
+        <a href="{{ .link2 | absURL }}">
+          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
+            style="padding: 16px; height:100%;">
+            {{ $image := resources.Get .image2 }}
+            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
+              class="mx-auto mb-6 rounded img" width="200" height="200">
+            <h4 class="mb-3">{{ .title2 | markdownify }}</h4>
+            <p class="mb-4" style="overflow: hidden;">{{ .text2 | markdownify }}</p>
+          </div>
+        </a>
       </div>
       <div class="md:col-6 lg:col-3 mb-4">
-        <a href="{{ .link3 | absURL }}" ><div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px; height:100%;">
-          {{ $image := resources.Get .image3 }}
-          <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200"
-            height="200">
-          <h4 class="mb-3">{{ .title3 | markdownify }}</h4>
-          <p class="mb-4" style="overflow: hidden;">{{ .text3 | markdownify }}</p>
-        </div></a>
+        <a href="{{ .link3 | absURL }}">
+          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
+            style="padding: 16px; height:100%;">
+            {{ $image := resources.Get .image3 }}
+            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
+              class="mx-auto mb-6 rounded img" width="200" height="200">
+            <h4 class="mb-3">{{ .title3 | markdownify }}</h4>
+            <p class="mb-4" style="overflow: hidden;">{{ .text3 | markdownify }}</p>
+          </div>
+        </a>
       </div>
       <div class="md:col-6 lg:col-3 mb-4">
-        <a href="{{ .link4 | absURL }}" >
-          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px; height:100%;">
+        <a href="{{ .link4 | absURL }}">
+          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
+            style="padding: 16px; height:100%;">
             {{ $image := resources.Get .image4 }}
-            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async" class="mx-auto mb-6 rounded img" width="200" height="200">
+            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
+              class="mx-auto mb-6 rounded img" width="200" height="200">
             <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text4 | markdownify }}</p>
           </div>
         </a>
       </div>
-     </div>
     </div>
-   </section>
-   {{ end }}
-   <!-- /Tiles -->
-   <!-- Weather -->
-   <section class="section-home mt-8 mb-8" >
-      <div class="row items-center justify-between">
-      <div class="md:col-6 py-10 bg-theme-head"  >
-        <iframe width="325" height="325" src="https://embed.windy.com/embed2.html?lat=52.264&lon=4.983&detailLat=60.172&detailLon=24.935&width=300&height=250&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=m%2Fs&metricTemp=%C2%B0C&radarRange=-1" frameborder="0"></iframe>
-      </div>
-       <div class="md:col-6 py-8 text-center" >
-        <iframe title="widget" width="100%" height="325px" frameBorder="0"  scrolling="no" loading="lazy" src="https://www.weeronline.nl/widget/weather?id=4058223"></iframe></div>
-   </section>
-    <!-- /Weather -->   
-   <!-- Sponsors -->
-   <section class="section-home mb-8" >
-   <div class="container">
+  </div>
+</section>
+{{ end }}
+<!-- /Tiles -->
+<!-- Weather -->
+<section class="section-home mt-8 mb-8">
+  <div class="row items-center justify-between">
+    <div class="md:col-6 py-10 bg-theme-head">
+      <iframe width="325" height="325"
+        src="https://embed.windy.com/embed2.html?lat=52.264&lon=4.983&detailLat=60.172&detailLon=24.935&width=300&height=250&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=m%2Fs&metricTemp=%C2%B0C&radarRange=-1"
+        frameborder="0"></iframe>
+    </div>
+    <div class="md:col-6 py-8 text-center">
+      <iframe title="widget" width="100%" height="325px" frameBorder="0" scrolling="no" loading="lazy"
+        src="https://www.weeronline.nl/widget/weather?id=4058223"></iframe>
+    </div>
+</section>
+<!-- /Weather -->
+<!-- Sponsors -->
+<section class="section-home mb-8">
+  <div class="container">
     <div class="row justify-center">
-     <div class="lg:col-10 mb-0 mt-0 text-center">
-      <h3 style="display: block; margin-left: auto; margin-right: auto; position:relative; text-align: center;">{{i18n "poweredBy"}}</h3>
+      <div class="lg:col-10 mb-0 mt-0 text-center">
+        <h3 style="display: block; margin-left: auto; margin-right: auto; position:relative; text-align: center;">{{i18n
+          "poweredBy"}}</h3>
         {{ $image := resources.Get "images/logos/RG_Final_A _500w.png" }}
-          <a href="https://www.roeigoed.nl" target="_blank"><img src="{{ $image.RelPermalink }}" caption="" alt="KNRB"
-            class="bg-transparent dark:bg-white p-px" style="min-width:150px; width: 25%; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 25px;"></a>
-     </div>
+        <a href="https://www.roeigoed.nl" target="_blank"><img src="{{ $image.RelPermalink }}" caption="" alt="KNRB"
+            class="bg-transparent dark:bg-white p-px"
+            style="min-width:150px; width: 25%; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 25px;"></a>
+      </div>
     </div>
-   </div>
-  </section>
-   <!-- /Sponsors -->
- {{ end }}
+  </div>
+</section>
+<!-- /Sponsors -->
+{{ end }}
 {{ end }}
