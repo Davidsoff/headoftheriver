@@ -8,4 +8,6 @@ menu:
     parent: Deelnemers
     weight: 50
 ---
+## Loting
+
 In de week voorafgaand aan de wedstrijd zal de loting plaatsvinden. Kort hierop zullen wij de loting op deze pagina presenteren.

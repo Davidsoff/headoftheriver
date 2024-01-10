@@ -30,7 +30,18 @@ The results of the Head of the River Amstel 2022 can be viewed via the link belo
 
 {{< accordion "Results 2021" >}}
 
-Due to COVID-19, the Head of the River Amstel 2021 was cancelled.
+Due to COVID-19, the Head of the River Amstel 2021 was cancelled. 
+However, this year a Virtual Head of the River was organised. Please check the results below.
+
+<div class="row items-center justify-between">
+    <div class="md:col-6 py-10" style="background-image: url('images/virtualhead/Kaart_TimeTeam_NL_OP50perc.png'); background-size:cover;">
+    <a href="https://rowingtracker.com/hotr/2021" target="_blank"><img alt="Kaartuitslagen Virtual Head 2021" src="images/virtualhead/hotr2021_ENG_resultaatMapView_1.png" width="519"></a>
+    </div>
+    <div class="md:col-6 py-10" style="background-image: url('images/virtualhead/stille-amstel-rembrandttoren-Head.cr.hvg.jpg'); background-size:cover;">
+    <a href="https://regatta.time-team.nl/hotr/2021/index.php" target="_blank"><img alt="Tabeluitslagen Virtual Head 2021" height="54" src="images/virtualhead/hotr2021_ENG_resultaatTABEL_1.png" width="519"></a>
+  </div>
+</div>
+
 
 {{< /accordion >}}
 

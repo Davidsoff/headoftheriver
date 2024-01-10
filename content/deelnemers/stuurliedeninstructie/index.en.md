@@ -9,36 +9,48 @@ menu:
     weight: 40
 ---
 
-### Baaninstructie
+### Race instruction
 
-Beide onderstaande presentaties geven instructie over het bevaren van De Amstel tijdens de Head of the River.  
-
-* De Stuurinstructie gaat in op de verschillende (belangrijke) punten die je tegenkomt tijdens het afleggen van de wedstrijdbaan. 
-* De Inhaalinstructie gaat in op de verschillende situaties waarin boten elkaar willen / moeten passeren langs de baan. 
+The following two presentations will give you information on the rules that apply during the Head of the River.
+- The Coxswain Instruction will emphasize some of the important aspects that you will encounter during the Head of the River race. 
+- The Overtaking Instructions will emphasize several situations on how to pass each other obeying the rules. 
 
 <div class="grid grid-cols-2 gap-4">
 
-[{{< image src="images/Stuurliedeninstructie_2023_v1.0_300h.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="stuurliedeninstructie"  webp="false" >}}](documents/Stuurliedeninstructie_2023_v2.0.pdf)
+[{{< image src="images/Stuurliedeninstructie_2023_ENG_v2_1_300h.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="m-0" title="stuurliedeninstructie english"  webp="false" >}}](documents/Stuurliedeninstructie_2023_ENG_v2.pdf)
 
-[{{< image src="images/Toelichting_inhaalsituaties_300_2022.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="toelichting inhaalsituaties"  webp="false" >}}](documents/Toelichting_inhaalsituaties_2022.pdf)
+[{{< image src="images/Toelichting_inhaalsituaties_300_2022_english.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="m-0" title="toelichting inhaalsituaties english"  webp="false" >}}](documents/Toelichting_inhaalsituaties_2022_english.pdf)
 
 </div>
 
-### Stuurliedenweging
+### Coxwain instruction video
 
-Voor de regelgeving ten aanzien van de gewichtseisen aan stuurlieden, verwijzen wij u naar RvR Artikel 7, lid 3.
-Stuurlieden worden gewogen in de materiaalloods van Skøll (Jan Vroegopsingel 6), net als de roeiers tussen 3 en 2 uur voor de eerste start van hun eigen divisie.
+Below you will find the instruction video for coxwains, updated for the Head of the River 2024.
 
-Stuurlieden voor Veteranen-, Club- Mixed, Bedrijfs- en Junioren 16 ploegen worden niet gewogen.
-Wanneer, conform artikel 38 uit het RvR, of de ballast van de stuur gecontroleerd moet worden, en/of een extra weging van de stuur moet worden uitgevoerd, moet de ploeg bij het uitroeien eerst bij RV Willem III aanleggen om de gevraagde weging uit te voeren.
+<div class="grid grid-cols-2 gap-4 rounded" style="margin-top:40px; margin-bottom:50px">
 
-Indien een stuurman/vrouw niet aan de eisen conform RvR atrikel 7 voldoet, wordt de ploeg uitgesloten.
+ {{< youtube a5Byy3nAYnc >}}
 
-### Stuurliedenleeftijd
+</div>
 
-LET OP: In RvR artikel 7 staat in lid 2 vermeld dat de minimum leeftijd van een stuurman/vrouw 12 jaar is. Op de Head of the River geldt hiervoor een afwijkende bepaling.
+### Coxswain weighing
 
-Met uitzondering van stuurlieden in de junioren 16 velden geldt dat een stuur in het lopende jaar tenminste de leeftijd van 15 jaar moet bereiken.
+- For the rules on the weight of the coxswains, we refer to the Dutch [Rules of Racing, Article 7, sub3.](https://storage.knrb.nl/2022/12/79b23423-reglement-voor-roeiwedstrijden-2022.11.26.pdf) (only in Dutch)
+- Coxswain weighing will take place at rowingclub Skøll (Jan Vroegopsingel 6, nextdoor to Willem 3). Like the rowers, also the coxswains weighing will take place between 3 and 2 hours before the start of their own devision.
+- No weighing of coxswains for master, club, mixed, corporate and junior 16 events.
+- Coxswains must be weighed wearing their racing uniform.
+- If deadweight of the coxswain needs to be checked or if an extra weighing of the coxswain is needed, the crew needs to dock at Willem III during cooling down as soon as possible.
 
-#### Baankaart
-Klik op onderstaande afbeelding om de baankaart in groot formaat te openen.
+### Coxswain Age
+
+***Attention:*** The Dutch Rules of Rowing state that minimum age of the coxswain needs to be 12 years. During the Head of the River there will be an exception to this rule. The minimum age will be ***14-15 years*** for all coxswains. This is depending on the fact that the coxswains need turn 15 before the end of the year of the race.
+
+### Race course
+
+Click the image below to open the map of the race course.
+
+<div class= grid-cols-4">
+
+[{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
+
+</div>

@@ -8,7 +8,7 @@ banner:
 # Link Tiles
 linktiles:
   title1: "Tijdschema"
-  text1: "Benieuwd hoelaat je moet 12345? Check de bloktijden voor een indicatie"
+  text1: "Benieuwd hoelaat je moet starten? Check de bloktijden voor een indicatie"
   image1: "/images/homepage/placeholder_head.jpg"
   link1: "/deelnemers/tijdschema/"
   title2: "Loting"

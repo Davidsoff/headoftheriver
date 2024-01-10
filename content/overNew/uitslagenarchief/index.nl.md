@@ -29,7 +29,21 @@ De uitslagen van de Head of the River Amstel 2022 kan je vinden via onderstaande
 
 {{< accordion "Uitslagen 2021" >}}
 
-Wegens COVID-19 is de Head of the River Amstel niet doorgegaan in 2021
+Wegens COVID-19 is de Head of the River Amstel niet doorgegaan in 2021. 
+Wel is in 2021 de Virtual Head of the River georganiseerd. Hieronder vind je de uitslagen van deze digitale variant van de Head of the River Amstel.
+
+<div class="row items-center justify-between">
+    <div class="md:col-6 py-10" style="background-image: url('images/virtualhead/Kaart_TimeTeam_NL_OP50perc.png'); background-size:cover;">
+    <a href="https://rowingtracker.com/hotr/2021" target="_blank"><img alt="Kaartuitslagen Virtual Head 2021" src="images/virtualhead/hotr2021_NL_UitslagenKaart.png" width="519"></a>
+    </div>
+    <div class="md:col-6 py-10" style="background-image: url('images/virtualhead/stille-amstel-rembrandttoren-Head.cr.hvg.jpg'); background-size:cover;">
+    <a href="https://regatta.time-team.nl/hotr/2021/index.php" target="_blank"><img alt="Tabeluitslagen Virtual Head 2021" height="54" src="images/virtualhead/hotr2021_ENG_resultaatTABEL_1.png" width="519"></a>
+  </div>
+</div>
+
+<a href="https://rowingtracker.com/hotr/2021" target="_blank"><img alt="Kaartuitslagen Virtual Head 2021" src="images/virtualhead/hotr2021_NL_UitslagenKaart.png" width="519"></a>
+
+<a href="https://regatta.time-team.nl/hotr/2021/index.php" target="_blank"><img alt="Tabeluitslagen Virtual Head 2021" height="54" src="images/virtualhead/hotr2021_NL_UitslagenTabel.png" width="519"></a>
 
 {{< /accordion >}}
 

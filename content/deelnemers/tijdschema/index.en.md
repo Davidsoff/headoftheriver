@@ -9,64 +9,82 @@ menu:
     weight: 20
 ---
 
-Hieronder vind je het blokschema voor de Head of the River 2024.
+Below you will find the block schedule for the Head of the River 2024.
 
-### Zaterdag blok 1 - 13:15
+### Saturday block 1 - 13:15
 
-| ID      | Veld       | Beschrijving                                    |
-|---------|------------|-------------------------------------------------|
-| 81      | HCl 8+     | Heren Club Acht                                 |
-| 205-209 | MF- 8+     | Masters 8+ (F en ouder)                         |
-| 114     | 8*         | Open Dubbel Acht                                |
-| 113     | LHE 4*     | Lichte Elite Dubbel Vier                        |
-| 18      | LHEj 4+    | Lichte Eerstejaars Vier met                     |
-| 230-238 | DM 4*      | Dames Masters Dubbel Vier (Pre-master, A t/m J) |
-| 39      | Coastal 4* | Coastal Dubbel Vier                             |
+| ID      | Event      | Description                                           |
+|---------|------------|-------------------------------------------------------|
+| 81      | HCl 8+     | Men's Club Eights                                     |
+| 205-209 | MF- 8+     | Men's Masters (Category F and older) Eights           |
+| 114     | 8*         | Open Scull Eights                                     |
+| 113     | LHE 4*     | Men's Lightweight Coxed Quads                         |
+| 18      | LHEj 4+    | Men's Lightweight Freshmen Coxed Fours (ODTA<sup>1</sup>)        |
+| 230-238 | DM 4*      | Women's pre-Masters<sup>2</sup>  and Masters (A-J<sup>3</sup>)  Coxed Quads |
+| 39      | Coastal 4* | Men's Open Coastal Coxed Quads                        |
 
-### Zaterdag blok 2 - 16:00
+### Saturday block 2 - 16:00
 
-| ID           | Veld               | Beschrijving                              |
-|--------------|--------------------|-------------------------------------------|
-| 200-202, 239 | M8+ (Pre, A t/m C) | Masters Acht (Pre-master, A t/m C)        |
-| 82           | HCl 4*             | Heren Club Dubbel Vier                    |
-| 91           | DCl 8+             | Dames Club Acht                           |
-| 92           | DCl 4*             | Dames Club Dubbel Vier                    |
-| 220-227, 241 | M 4*               | Masters Dubbel Vier (Pre-master, A t/m J) |
-| 115          | D 8*               | Dames Dubbel Acht                         |
-| 40           | D Coastal 4*       | Dames Coastal Dubbel Vier                 |
+| ID           | Event              | Description                                  |
+|--------------|--------------------|----------------------------------------------|
+| 200-202, 239 | M8+ (Pre, A t/m C) | Men’s Premasters b and Masters (A-C<sup>3</sup>) Eights |
+| 82           | HCl 4*             | Men’s Club Coxed Quads                       |
+| 91           | DCl 8+             | Women’s Club Eights                          |
+| 92           | DCl 4*             | Women’s Club Coxed Quads                     |
+| 220-227, 241 | M 4*               | Men’s pre-Masters<sup>2</sup> and Masters (A-J<sup>3</sup>) Coxed Quads |
+| 115          | D 8*               | Women’s Scull Eights                         |
+| 40           | D Coastal 4*       | Women’s Coastal Coxed Quads                  |
 
-### Zondag blok 1 - 10:45
+### Sunday block 1 - 10:45
 
-| ID           | Veld            | Beschrijving                            |
-|--------------|-----------------|-----------------------------------------|
-| 11           | LHE 8+          | Lichte Heren Elite Acht                 |
-| 12           | LHG 8+          | Lichte Heren Gevorderde Acht            |
-| 14           | LHEj 8+         | Lichte Heren Eerstejaars Acht           |
-| 61           | J18 8+          | Jongens Achttien Acht                   |
-| 73           | M18 8+          | Meisjes Achttien Acht                   |
-| 101          | Mix 8+          | Mixed Acht                              |
-| 111          | Bedr. 8+        | Bedrijfs Acht                           |
-| 62           | J18 4*          | Jongens Achttien Dubbel Vier            |
-| 63           | J16 4*          | Jongens Zestien Dubbel Vier             |
-| 31           | LDE 4*          | Lichte Dames Elite Dubbel Vier          |
-| 34           | LDEj 4*         | Lichte Dames Eerstejaars Dubbel Vier    |
-| 102          | Mix 4*          | Mixed Dubbel Vier                       |
-| 210-217, 240 | DM 8+ (A t/m J) | Dames Masters Acht (Pre-master, At/m J) |
+| ID           | Event           | Description                                   |
+|--------------|-----------------|------------------------------------------------|
+| 11           | LHE 8+          | Men’s Lightweight Eights                       |
+| 12           | LHG 8+          | Men’s Lightweight Intermediate Eights (ODTA<sup>1</sup>)  |
+| 14           | LHEj 8+         | Men’s Lightweight Freshmen Eights (ODTA<sup>1</sup>)      |
+| 61           | J18 8+          | Men’s Under 19 Eights                   |
+| 73           | M18 8+          | Women’s Under 19 Eights                   |
+| 101          | Mix 8+          | Mixed Eights                              |
+| 111          | Bedr. 8+        | Company Eights                           |
+| 62           | J18 4*          | Men’s Under 19 Coxed Quads            |
+| 63           | J16 4*          | Men’s Under 17 Coxed Quads             |
+| 31           | LDE 4*          | Women’s Lightweight Coxed Quads          |
+| 34           | LDEj 4*         | Women’s Lightweight Freshmen Coxed Quads    |
+| 102          | Mix 4*          | Mixed Coxed Quads                       |
+| 210-217, 240 | DM 8+ (A t/m J) | Women’s pre-Masters<sup>2</sup> and Masters (A-J<sup>3</sup>) Eights |
 
-### Zondag blok2 - 14:00
+### Sunday block2 - 14:00
 
-| ID      | Veld       | Beschrijving                 |
+| ID      | Event      | Description                 |
 |---------|------------|------------------------------|
-| 1       | HE 8+      | Heren Elite Acht             |
-| 2       | HG 8+      | Heren Gevorderde Acht        |
-| 4       | HEj 8+     | Heren Eerstjaars Acht        |
-| 112     | HE 4*      | Heren Elite Dubbel Vier      |
-| 21      | DE 8+      | Dames Elite Acht             |
-| 22      | DG 8+      | Dames Gevorderde Acht        |
-| 24      | DEj 8+     | Dames Eerstejaars Acht       |
-| 25      | DE 4*      | Dames Elite Dubbel Vier      |
-| 203-204 | M 8+ (D&E) | Masters Acht (D & E)         |
-| 8       | HEj 4+     | Heren Eerstejaars Vier met   |
-| 72      | M18 4*     | Meisjes Achttien Dubbel Vier |
-| 73      | M16 4*     | Meisjes Zestien Dubbel Vier  |
-| 28      | DEj 4+     | Dames Eerstejaars Vier met   |
+| 1       | HE 8+      | Men’s Elite Eights             |
+| 2       | HG 8+      | Men’s Intermediate Eights (ODTA<sup>1</sup>)        |
+| 4       | HEj 8+     | Men’s Freshmen Eights (ODTA<sup>1</sup>)        |
+| 112     | HE 4*      | Men’s Coxed Quads      |
+| 21      | DE 8+      | Women’s Eights             |
+| 22      | DG 8+      | Women’s Intermediate Eights (ODTA<sup>1</sup>)       |
+| 24      | DEj 8+     | Women’s Freshmen Eights (ODTA<sup>1</sup>)       |
+| 25      | DE 4*      | Women’s Coxed Quads      |
+| 203-204 | M 8+ (D&E) | Men’s Masters (D & E<sup>3</sup>) Eights         |
+| 8       | HEj 4+     | Men’s Freshmen Coxed Fours (ODTA<sup>1</sup>)   |
+| 72      | M18 4*     | Women’s Under 19 Coxed Quads |
+| 73      | M16 4*     | Women’s Under 17 Coxed Quads  |
+| 28      | DEj 4+     | Women’s Freshmen Coxed Fours (ODTA<sup>1</sup>)   |
+
+1 - ODTA - Only Dutch Teams Allowed   
+2 - Ex-students between 22 and 32 years   
+3 - Age per category should be at least:
+
+<div class = "minitable">
+
+| Cathegory | Age          |
+|-----------|--------------|
+| A         | > 27         |
+| B         | average > 36 |
+| C         | average > 43 |
+| D         | average > 50 |
+| E         | average > 55 |
+| F         | average > 65 |
+| G         | average > 70 |   
+     
+</div>

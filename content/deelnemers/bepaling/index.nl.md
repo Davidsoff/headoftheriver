@@ -33,11 +33,9 @@ Tot vrijdag 01 maart 23.59 uur via het KNRB inschrijfprogramma.
 
 #### Inschrijfgeld: 
 
-Vier €85
-
-Acht €115
-
-Bedrijfsacht €300.
+- Vier €85
+- Acht €115
+- Bedrijfsacht €300.
 
 Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentie toeslag. Betalen voor Dinsdag 05 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging.
 
@@ -260,7 +258,7 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 23. **COASTAL ROWING**
 
-    De Head of the River Amstel is voornemens om Coastal nummers uit te schrijven voor heren en dames Coastal vieren. Voor de regelementen omtrent Coastal Rowing verwijzen we u naar artikel 58 van het Regelement voor Roeiwedstrijden.
+    De Head of the River Amstel is voornemens om Coastal nummers uit te schrijven voor heren en dames Coastal vieren. Voor de reglementen omtrent Coastal Rowing verwijzen we u naar artikel 58 van het Reglement voor Roeiwedstrijden. De start is in Ouderkerk aan de Amstel en de finish is voor Willem 3. Het parcours is circa 5 km.
 
 24. **AFWIJKING VAN DE BEPALINGEN**
 

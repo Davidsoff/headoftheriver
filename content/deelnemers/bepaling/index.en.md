@@ -260,7 +260,7 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
 23. **COASTAL ROWING**
 
-    The Head of the River Amstel intends to issue Coastal numbers for men's and women's Coastal fours. For the rules regarding Coastal Rowing please refer Article 58 of the Rules of Rowing Competitions.
+    The Head of the River Amstel intends to issue Coastal numbers for men's and women's Coastal fours. For the rules regarding Coastal Rowing please refer Article 58 of the Rules of Rowing Competitions. The fisnish will be in front of Willem III. The total race course is about 5km.
 
 24. **DEVIATIONS FROM THE RULES**
 

@@ -1,59 +1,64 @@
 {{ define "main" }}
 {{ with site.GetPage "homepage" }}
+<!-- Banner -->
 <section class="section-hslider">
-  <div >
-    <div class="row justify-center">
-      <div style="position:relative; max-height: 600px;">
-        {{ $image := resources.Get "../assets/images/homepage/HomeSider 2023_Blue_1920-2.jpg" }}
-        <img src="{{ $image.RelPermalink }}"
-          style="user-select: none; width: 100%; height:auto; visibility: inherit; opacity: 1;">
-        <div style="position:absolute; top:15%; width:100%; text-align:center;">
-          {{ $image := resources.Get "../assets/images/logos/logo-darkmode.png" }}
-          <img src="{{ $image.RelPermalink }}"
-            style="width: 300px; height: 300px; display: block; margin-left: auto; margin-right: auto; z-index:10">
-        </div>
-        <div style="position:absolute; top:75%; width:100%; text-align:center;">
-          <h1
-            style="display: block; color:white; text-align: center;">
-            9 & 10 Maart 2024</h1>
-          <H2 id="countdown"
-            style="display: block; color:white; text-align: center;">
-          </h2>
+  <div class="banner-wrapper">
+    <div class="home-slider">
+      <div class="item" style="background-image: url('../assets/images/homepage/HomeSider_2023_Blue_1920-2.jpg'); height: 600px;">
+        <div class="caption_home">
+           <div class="container">
+             <div class="slide_title">
+              <img src="../assets/images/logos/logo-darkmode.png" >
+               <h1>9 & 10 Maart 2024</h1>
+               <h2 id="countdown"></h2>
+               <script>
+                // Set the date we're counting down to
+                var countDownDate = new Date("Mar 9, 2024 12:00:00").getTime();
+      
+                // Update the count down every 1 second
+                var x = setInterval(function () {
+      
+                  // Get today's date and time
+                  var now = new Date().getTime();
+      
+                  // Find the distance between now and the count down date
+                  var distance = countDownDate - now;
+      
+                  // Time calculations for days, hours, minutes and seconds
+                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+      
+                  // Output the result in an element with id="demo"
+                  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+                    + minutes + "m " + seconds + "s ";
+      
+                  // If the count down is over, write some text 
+                  if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("countdown").innerHTML = "De Head of the River Amstel is begonnen!";
+                  }
+                }, 1000);
+              </script>
+             </div>
+           </div>
+         </div>
+       </div>
+    </div>
+  </div>
 
-          <script>
-            // Set the date we're counting down to
-            var countDownDate = new Date("Mar 9, 2024 12:00:00").getTime();
 
-            // Update the count down every 1 second
-            var x = setInterval(function () {
 
-              // Get today's date and time
-              var now = new Date().getTime();
 
-              // Find the distance between now and the count down date
-              var distance = countDownDate - now;
 
-              // Time calculations for days, hours, minutes and seconds
-              var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-              var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-              var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-              var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-              // Output the result in an element with id="demo"
-              document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
-                + minutes + "m " + seconds + "s ";
 
-              // If the count down is over, write some text 
-              if (distance < 0) {
-                clearInterval(x);
-                document.getElementById("countdown").innerHTML = "De Head of the River Amstel is begonnen!";
-              }
-            }, 1000);
-          </script>
-        </div>
-      </div>
+
+
+  
 </section>
-<!-- /fotoslider -->
+<!-- /banner -->
 <!-- Latest News -->
 <section class="section-home">
   <div class="container" style="margin:auto;">
@@ -75,7 +80,7 @@
   <div class="container">
     <div class="row justify-center">
       <div class="lg:col-10 mb-8 mt-8 text-center">
-        <h2>"Hèt Lange Afstandskampioenschap van Nederland"</h2>
+        <h2>"Dè Lange Afstandsklassieker van Nederland"</h2>
       </div>
     </div>
   </div>
