@@ -89,7 +89,7 @@
             style="padding: 16px; height:100%;">
             <div class="mx-auto mb-6 home-tilelink " >
               {{ $image := resources.Get .image1 }}
-              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+              <img src="{{ $image.Permalink }}" caption="" alt="image1" loading="lazy" decoding="async">
             </div>    
             <h4 class="mb-3">{{ .title1 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text1 | markdownify }}</p>
@@ -102,7 +102,7 @@
             style="padding: 16px; height:100%;">
             <div class="mx-auto mb-6 home-tilelink " >
               {{ $image := resources.Get .image2 }}
-              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+              <img src="{{ $image.Permalink }}" caption="" alt="image2" loading="lazy" decoding="async">
             </div>  
             <h4 class="mb-3">{{ .title2 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text2 | markdownify }}</p>
@@ -115,7 +115,7 @@
             style="padding: 16px; height:100%;">
             <div class="mx-auto mb-6 home-tilelink " >
               {{ $image := resources.Get .image3 }}
-              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+              <img src="{{ $image.Permalink }}" caption="" alt="image3" loading="lazy" decoding="async">
             </div>  
             <h4 class="mb-3">{{ .title3 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text3 | markdownify }}</p>
@@ -128,7 +128,7 @@
             style="padding: 16px; height:100%;">
             <div class="mx-auto mb-6 home-tilelink " >
               {{ $image := resources.Get .image4 }}
-              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+              <img src="{{ $image.Permalink }}" caption="" alt="image4" loading="lazy" decoding="async">
             </div>  
             <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text4 | markdownify }}</p>
