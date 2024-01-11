@@ -37,14 +37,14 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = false
-label = "get a quote"
+label = "Weercodes"
 link = "contact"
 
 # search
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["blog"]
+include_sections = ["blog", "deelnemers", "homepage", "nieuws"]
 show_image = true
 show_description = true
 show_tags = true

@@ -9,19 +9,19 @@ banner:
 linktiles:
   title1: "Tijdschema"
   text1: "Benieuwd hoelaat je moet starten? Check de bloktijden voor een indicatie"
-  image1: "/images/homepage/placeholder_head.jpg"
+  image1: "/images/homepage/tilelinks/timetable.jpg"
   link1: "/deelnemers/tijdschema/"
   title2: "Loting"
   text2: "Vind je plek in de loting"
-  image2: "/images/homepage/placeholder_head.jpg"
+  image2: "/images/homepage/tilelinks/draw.jpg"
   link2: "/deelnemers/loting/"
   title3: "Stuurlieden"
   text3: "Volg een korte instructie hoe de Amstel te bevaren tijdens de Head"
-  image3: "/images/homepage/placeholder_head.jpg"
+  image3: "/images/homepage/tilelinks/coxwain.jpg"
   link3: "/deelnemers/stuurliedeninstructie/"
   title4: "Uitslagen"
   text4: "Bekijk de uitslagen van afgelopen jaren"
-  image4: "/images/homepage/placeholder_head.jpg"
+  image4: "/images/homepage/tilelinks/results.jpg"
   link4: "/deelnemers/uitslag/"
 
 # Features

@@ -1,14 +1,16 @@
 {{ define "main" }}
 {{ with site.GetPage "homepage" }}
-<!-- Banner -->
+<!-- slider image -->
 <section class="section-hslider">
   <div class="banner-wrapper">
     <div class="home-slider">
-      <div class="item" style="background-image: url('../assets/images/homepage/HomeSider_2023_Blue_1920-2.jpg'); height: 600px;">
+      {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
+      <div class="item" style="background-image: url('{{ $image.RelPermalink }}'); height: 600px;">
         <div class="caption_home">
            <div class="container">
              <div class="slide_title">
-              <img src="../assets/images/logos/logo-darkmode.png" >
+              {{ $image := resources.Get "images/logos/logo-darkmode.png" }}
+              <img src="{{ $image.RelPermalink }}" alt="Head of the River">
                <h1>9 & 10 Maart 2024</h1>
                <h2 id="countdown"></h2>
                <script>
@@ -47,18 +49,8 @@
        </div>
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-  
 </section>
-<!-- /banner -->
+<!-- /slider image -->
 <!-- Latest News -->
 <section class="section-home">
   <div class="container" style="margin:auto;">
@@ -93,11 +85,12 @@
     <div class="row justify-center">
       <div class="md:col-6 lg:col-3 mb-4">
         <a href="{{ .link1 | absURL }}">
-          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
+          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center "
             style="padding: 16px; height:100%;">
-            {{ $image := resources.Get .image1 }}
-            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
-              class="mx-auto mb-6 rounded img" width="200" height="200">
+            <div class="mx-auto mb-6 home-tilelink " >
+              {{ $image := resources.Get .image1 }}
+              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+            </div>    
             <h4 class="mb-3">{{ .title1 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text1 | markdownify }}</p>
           </div>
@@ -107,9 +100,10 @@
         <a href="{{ .link2 | absURL }}">
           <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
             style="padding: 16px; height:100%;">
-            {{ $image := resources.Get .image2 }}
-            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
-              class="mx-auto mb-6 rounded img" width="200" height="200">
+            <div class="mx-auto mb-6 home-tilelink " >
+              {{ $image := resources.Get .image2 }}
+              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+            </div>  
             <h4 class="mb-3">{{ .title2 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text2 | markdownify }}</p>
           </div>
@@ -119,9 +113,10 @@
         <a href="{{ .link3 | absURL }}">
           <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
             style="padding: 16px; height:100%;">
-            {{ $image := resources.Get .image3 }}
-            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
-              class="mx-auto mb-6 rounded img" width="200" height="200">
+            <div class="mx-auto mb-6 home-tilelink " >
+              {{ $image := resources.Get .image3 }}
+              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+            </div>  
             <h4 class="mb-3">{{ .title3 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text3 | markdownify }}</p>
           </div>
@@ -131,9 +126,10 @@
         <a href="{{ .link4 | absURL }}">
           <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
             style="padding: 16px; height:100%;">
-            {{ $image := resources.Get .image4 }}
-            <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
-              class="mx-auto mb-6 rounded img" width="200" height="200">
+            <div class="mx-auto mb-6 home-tilelink " >
+              {{ $image := resources.Get .image4 }}
+              <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async">
+            </div>  
             <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text4 | markdownify }}</p>
           </div>

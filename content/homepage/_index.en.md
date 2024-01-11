@@ -13,19 +13,19 @@ banner:
 linktiles:
   title1: "Block schedule"
   text1: "Find out what events will be there at the Head of the River Amstel 2024"
-  image1: "/images/homepage/placeholder_head.jpg"
+  image1: "/images/homepage/tilelinks/timetable.jpg"
   link1: "/deelnemers/tijdschema/"
   title2: "Draw"
   text2: "Find your position in the Draw"
-  image2: "/images/homepage/placeholder_head.jpg"
+  image2: "/images/homepage/tilelinks/draw.jpg"
   link2: "/deelnemers/loting/"
   title3: "Coxwain info"
   text3: "Find a brief instruction about the rules on the river Amstel during the Head"
-  image3: "/images/homepage/placeholder_head.jpg"
+  image3: "/images/homepage/tilelinks/coxwain.jpg"
   link3: "/deelnemers/stuurliedeninstructie/"
   title4: "Uitslagen"
   text4: "As soon as we have them, you will find them here"
-  image4: "/images/homepage/placeholder_head.jpg"
+  image4: "/images/homepage/tilelinks/results.jpg"
   link4: "/deelnemers/uitslag/"
 
 # Features

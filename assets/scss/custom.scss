@@ -87,6 +87,26 @@
   display: block;
   color: #fff;
 }
+.home-tilelink {
+  position: relative;
+  border-radius: 6px;
+}
+
+.home-tilelink::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  background-color: rgba(99, 176, 227, 0.5); /* Change the color and opacity as needed */
+}
+
+.home-tilelink img {
+  border-radius: 6px;
+}
 
 iframe {
   display: block;
