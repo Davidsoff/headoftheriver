@@ -2,51 +2,49 @@
 {{ with site.GetPage "homepage" }}
 <!-- slider image -->
 <section class="section-hslider">
-  <div class="banner-wrapper">
-    <div class="home-slider">
-      {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
-      <div class="item" style="background-image: url('{{ $image.RelPermalink }}'); height: 600px;">
-        <div class="caption_home">
-           <div class="container">
-             <div class="slide_title">
-              {{ $image := resources.Get "images/logos/logo-darkmode.png" }}
-              <img src="{{ $image.RelPermalink }}" alt="Head of the River">
-               <h1>9 & 10 Maart 2024</h1>
-               <h2 id="countdown"></h2>
-               <script>
-                // Set the date we're counting down to
-                var countDownDate = new Date("Mar 9, 2024 12:00:00").getTime();
-      
-                // Update the count down every 1 second
-                var x = setInterval(function () {
-      
-                  // Get today's date and time
-                  var now = new Date().getTime();
-      
-                  // Find the distance between now and the count down date
-                  var distance = countDownDate - now;
-      
-                  // Time calculations for days, hours, minutes and seconds
-                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-                  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-                  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-      
-                  // Output the result in an element with id="demo"
-                  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
-                    + minutes + "m " + seconds + "s ";
-      
-                  // If the count down is over, write some text 
-                  if (distance < 0) {
-                    clearInterval(x);
-                    document.getElementById("countdown").innerHTML = "De Head of the River Amstel is begonnen!";
-                  }
-                }, 1000);
-              </script>
-             </div>
-           </div>
-         </div>
-       </div>
+  <div class="home-slider">
+    {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
+    <div class="item" style="background-image: url('{{ $image.RelPermalink }}'); height: 600px;">
+    </div>
+    <div class="caption_home">
+      <div class="container">
+        <div class="slide_title">
+          {{ $image := resources.Get "images/logos/logo-darkmode.png" }}
+          <img src="{{ $image.RelPermalink }}" alt="Head of the River">
+          <h1>9 & 10 Maart 2024</h1>
+          <h2 id="countdown"></h2>
+          <script>
+            // Set the date we're counting down to
+            var countDownDate = new Date("Mar 9, 2024 12:00:00").getTime();
+
+            // Update the count down every 1 second
+            var x = setInterval(function () {
+
+              // Get today's date and time
+              var now = new Date().getTime();
+
+              // Find the distance between now and the count down date
+              var distance = countDownDate - now;
+
+              // Time calculations for days, hours, minutes and seconds
+              var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+              var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+              var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+              var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+              // Output the result in an element with id="demo"
+              document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+                + minutes + "m " + seconds + "s ";
+
+              // If the count down is over, write some text 
+              if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("countdown").innerHTML = "De Head of the River Amstel is begonnen!";
+              }
+            }, 1000);
+          </script>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -87,10 +85,10 @@
         <a href="{{ .link1 | absURL }}">
           <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center "
             style="padding: 16px; height:100%;">
-            <div class="mx-auto mb-6 home-tilelink " >
+            <div class="mx-auto mb-6 home-tilelink ">
               {{ $image := resources.Get .image1 }}
               <img src="{{ $image.Permalink }}" caption="" alt="image1" loading="lazy" decoding="async">
-            </div>    
+            </div>
             <h4 class="mb-3">{{ .title1 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text1 | markdownify }}</p>
           </div>
@@ -100,10 +98,10 @@
         <a href="{{ .link2 | absURL }}">
           <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
             style="padding: 16px; height:100%;">
-            <div class="mx-auto mb-6 home-tilelink " >
+            <div class="mx-auto mb-6 home-tilelink ">
               {{ $image := resources.Get .image2 }}
               <img src="{{ $image.Permalink }}" caption="" alt="image2" loading="lazy" decoding="async">
-            </div>  
+            </div>
             <h4 class="mb-3">{{ .title2 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text2 | markdownify }}</p>
           </div>
@@ -113,10 +111,10 @@
         <a href="{{ .link3 | absURL }}">
           <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
             style="padding: 16px; height:100%;">
-            <div class="mx-auto mb-6 home-tilelink " >
+            <div class="mx-auto mb-6 home-tilelink ">
               {{ $image := resources.Get .image3 }}
               <img src="{{ $image.Permalink }}" caption="" alt="image3" loading="lazy" decoding="async">
-            </div>  
+            </div>
             <h4 class="mb-3">{{ .title3 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text3 | markdownify }}</p>
           </div>
@@ -126,10 +124,10 @@
         <a href="{{ .link4 | absURL }}">
           <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
             style="padding: 16px; height:100%;">
-            <div class="mx-auto mb-6 home-tilelink " >
+            <div class="mx-auto mb-6 home-tilelink ">
               {{ $image := resources.Get .image4 }}
               <img src="{{ $image.Permalink }}" caption="" alt="image4" loading="lazy" decoding="async">
-            </div>  
+            </div>
             <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
             <p class="mb-4" style="overflow: hidden;">{{ .text4 | markdownify }}</p>
           </div>
