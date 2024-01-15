@@ -17,14 +17,17 @@
   }
 
   overflow: hidden;
-  // background-color: coral;
 }
 
 .div {
   overflow-y: hidden;
 }
 
-.home-slider { width:100%; position:relative; z-index:2;}
+.home-slider { 
+  width:100%; 
+  position:relative; 
+  z-index:2;
+}
 
 .home-slider .item {
   min-height: 100%;
@@ -41,7 +44,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(99, 176, 227, 0);
+  background: rgba(99, 176, 227, 0); /* set color overlay in Head blue by adding opacity (alpha) of 0.4-0.5 */
 }
 
 .caption_home {
@@ -91,7 +94,7 @@
   width: 100%;
   height: 100%;
   border-radius: 6px;
-  background-color: rgba(99, 176, 227, 0.5); /* Change the color and opacity as needed */
+  background-color: rgba(99, 176, 227, 0.5); /* set color overlay in Head blue by adding opacity (alpha) of 0.4-0.5 */
 }
 
 .home-tilelink img {
