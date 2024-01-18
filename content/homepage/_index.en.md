@@ -28,6 +28,10 @@ linktiles:
   image4: "/images/homepage/tilelinks/results (Large).jpg"
   link4: "/deelnemers/uitslag/"
 
+# Divider-quote
+dividerquote:
+  title: "'The long-distance classic of The Netherlands'"
+
 # Features
 features:
   - title: "What's Included in Hugoplate"

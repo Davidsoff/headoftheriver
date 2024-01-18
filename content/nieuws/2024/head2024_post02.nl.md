@@ -3,7 +3,10 @@ title: "Head Of The River Amstel 2024"
 meta_title: ""
 description: "Head 2024 - Post 02"
 date: 2023-11-15T19:00:00.000Z
-image: ""
+photo:
+    enable: true
+    image: "Head2024_post02.jpg"
+    photographer: "Ikzelf"
 categories: ["2024", "All"]
 author: "John Doe"
 tags: [""]
@@ -20,4 +23,4 @@ Indien je wilt deelnemen aan de Head, ook als  je nog geen ploeg hebt, geef dit 
 
 De inschrijving voor de Head of the River Amstel zal vanaf 1 februari 2024 geopend zijn. 
 
-De blok- en veldindeling is nu al elders op de website te vinden.
+De [blok- en veldindeling](../../deelnemers/tijdschema/) is nu al elders op de website te vinden.

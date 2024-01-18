@@ -11,41 +11,6 @@ name = "Over"
 url = "over/"
 weight = 2
 
-[[main]]
-name = "Elementen"
-url = "elementen/"
-weight = 3
-
-[[main]]
-weight = 4
-name = "Paginas"
-hasChildren = true
-
-[[main]]
-parent = "Paginas"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Paginas"
-name = "Contact"
-url = "contact/"
-
-[[main]]
-parent = "Paginas"
-name = "Auteurs"
-url = "auteurs/"
-
-[[main]]
-parent = "Paginas"
-name = "Categorieen"
-url = "categories/"
-
-[[main]]
-parent = "Paginas"
-name = "404 Pagina"
-url = "404/"
-
 # footer menu
 [[footer]]
 name = "De Organisatie"

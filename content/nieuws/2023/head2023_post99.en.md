@@ -3,7 +3,10 @@ title: "Head Of The River Amstel 2023: Once Again One Big Rowing Festival"
 meta_title: ""
 description: "Head 2023 - Post 99"
 date: 2023-04-01T00:00:00.000Z
-image: ""
+photo:
+    enable: true
+    image: ""
+    photographer: ""
 categories: ["2023", "All"]
 author: "John Doe"
 tags: [""]

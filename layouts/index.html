@@ -65,17 +65,19 @@
   </div>
 </section>
 <!-- /Latest News -->
-<!-- Divider -->
+<!-- Divider - Quote -->
+{{ with .Params.dividerquote }}
 <section class="section-home mt-8 mb-8 bg-theme-head">
   <div class="container">
     <div class="row justify-center">
       <div class="lg:col-10 mb-8 mt-8 text-center">
-        <h2>"Dè Lange Afstandsklassieker van Nederland"</h2>
+        <h2>{{ .title | markdownify }}</h2>
       </div>
     </div>
   </div>
 </section>
-<!-- /Divider -->
+{{ end }}
+<!-- /Divider - Quote -->
 <!-- LinkTiles -->
 {{ with .Params.linktiles }}
 <section class="section-home">

@@ -3,7 +3,10 @@ title: "Nieuwe Blokindeling Head 2024"
 meta_title: ""
 description: "Head 2024 - Post 01"
 date: 2023-10-31T20:00:00.000Z
-image: ""
+photo:
+    enable: true
+    image: "Head2024_post01.jpg"
+    photographer: "tst"
 categories: ["2024", "All"]
 author: "John Doe"
 tags: [""]
