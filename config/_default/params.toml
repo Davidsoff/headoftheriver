@@ -16,7 +16,7 @@ logo_text = "Head of the River Amstel"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "dark" # available options [light/dark/system]
+theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -36,9 +36,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = false
-label = "Weercodes"
-link = "contact"
+enable = true
+label = "Word Vrijwilliger"
+link = "overnew/vrijwilligers/"
 
 # search
 [search]

@@ -14,7 +14,7 @@ If you want to participate in the Head, please register yourself twice.
 2. Once with the National Rowing Association (KNRB)
 
 ### 1. Register with the Organising Committee
-Please sent an email to wedstrijdsecretariaat@headoftheriver.nl.
+Please send an email to wedstrijdsecretariaat@headoftheriver.nl.
 
 Please include in your e-mail:
 

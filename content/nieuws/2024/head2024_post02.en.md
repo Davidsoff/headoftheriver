@@ -5,8 +5,8 @@ description: "Head 2024 - Post 02"
 date: 2023-11-15T19:00:00.000Z
 photo:
     enable: true
-    image: "Head2024_post02.jpg"
-    photographer: ""
+    image: "images/nieuws/2024/Head2024_post02.jpg"
+    photographer: "Merijn Soeters"
 categories: ["2024", "All"]
 author: "John Doe"
 tags: [""]

@@ -1,9 +1,30 @@
 <div class="md:col-6 lg:col-3 mb-4">
   <a href="{{ .RelPermalink }}">
     <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style="padding: 16px; height:100%">
-      {{ $image := resources.Get "/images/homepage/placeholder_head.jpg" }}
-      <img src="{{ $image.RelPermalink }}" caption="" alt="image1" loading="lazy" decoding="async"
-        class="mx-auto mb-6 rounded img" width="200" height="200">
+
+      {{ with .Params.photo }}
+      {{ if .enable }}
+      {{ with resources.Get .image }}
+      {{ with .Fill "800x400 Center" }}
+      <div class="mb-10">
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
+          Class=" rounded">
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ else }}
+      {{ with resources.Get "images/logos/logo-darkmode.png" }}
+      {{ with .Fill "800x400 Center" }}
+      <div class="mb-10 bg-theme-head rounded">
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
+          Class=" rounded">
+      </div>
+      {{ end }}
+      {{ end }}
+
+      {{ end }}
+      {{ end }}
+
       <h4 class="mb-3">{{ .Title | markdownify }}</h4>
       <div class="text-slate-400 dark:text-slate-200">{{ .Date | time.Format ":date_long"}} - {{ .Date | time.Format
         ":time_short" }}</div>

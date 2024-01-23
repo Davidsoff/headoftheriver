@@ -4,11 +4,13 @@
     <div class="row justify-center">
       <article class="lg:col-10">
         {{ with .Params.photo }}
-        {{ $image :=  .image }}
-        {{ if $image }}
+        {{ with resources.Get .image }}
+        {{ with .Fill "1080x400 Smart" }}
         <div class="mb-10">
-          {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded") }}
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
+            Class=" rounded">
         </div>
+        {{ end }}
         {{ end }}
         {{ end }}
         <h1 class="h2 mb-4">
@@ -38,12 +40,12 @@
             {{ time.Format ":date_long" .PublishDate }}
           </li>
           {{ with .Params.photo }}
-            {{ if .enable }}
-              <li class="mr-4 inline-block">
-                <i class="fa-regular fa-camera mr-2"></i>
-                {{ .photographer | markdownify }}
-              </li>
-            {{end}}
+          {{ if .enable }}
+          <li class="mr-4 inline-block">
+            <i class="fa-regular fa-camera mr-2"></i>
+            {{ .photographer | markdownify }}
+          </li>
+          {{end}}
           {{end}}
           <div class="content mb-10">
             {{ .Content }}

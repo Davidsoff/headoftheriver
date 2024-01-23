@@ -1,8 +1,26 @@
 <div class="bg-body dark:bg-darkmode-body" >
-  {{ $image:= .Params.image }}
-  {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mb-6 w-full rounded") }}
-  {{ end }}
+  {{ with .Params.photo }}
+      {{ if .enable }}
+      {{ with resources.Get .image }}
+      {{ with .Fill "800x400 Center" }}
+      <div class="mb-10">
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
+          Class=" rounded">
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ else }}
+      {{ with resources.Get "images/logos/logo-darkmode.png" }}
+      {{ with .Fill "800x400 Center" }}
+      <div class="mb-10 bg-theme-head rounded">
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
+          Class=" rounded">
+      </div>
+      {{ end }}
+      {{ end }}
+
+      {{ end }}
+      {{ end }}
   <h4 class="mb-3">
     <a href="{{ .RelPermalink }}">
       {{ .Title }}

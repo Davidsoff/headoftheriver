@@ -4,7 +4,7 @@ meta_title: ""
 description: "Head 2023 - Post 99"
 date: 2023-04-01T00:00:00.000Z
 photo:
-    enable: true
+    enable: false
     image: ""
     photographer: ""
 categories: ["2023", "All"]
