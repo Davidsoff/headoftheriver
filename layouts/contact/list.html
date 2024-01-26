@@ -15,67 +15,25 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form name="contact formulier" method="POST" data-netlify="true" data-netlify-recaptcha="true">
-            <input type="hidden" name="subject" value="Nieuw bericht van het Contactformulier" />
-            <div class="mb-6">
-              <input type="hidden" name="subject" value="Nieuw bericht van het Contactformulier" />
-              <label for="name" class="form-label">
-                {{.Params.title_name}} <span class="text-red-500">*</span>
-              </label>
-              <input
-                id="name"
-                name="name"
-                class="form-input"
-                placeholder=""
-                type="text" />
-            </div>
-            <div class="mb-6">
-              <label for="email" class="form-label">
-                {{.Params.title_emailaddress}} <span class="text-red-500">*</span>
-              </label>
-              <input
-                id="email"
-                name="email"
-                class="form-input"
-                placeholder=""
-                type="email" />
-            </div>
-            <div class="mb-6">
-              <label for="phone" class="form-label">
-                {{.Params.title_phone}}
-              </label>
-              <input
-                id="phone"
-                name="phone"
-                class="form-input"
-                placeholder=""
-                type="text" />
-            </div>
-            <div class="mb-6">
-              <label for="subjectform" class="form-label">
-                {{.Params.title_subject}} <span class="text-red-500">*</span>
-              </label>
-              <input
-                id="subjectform"
-                name="subjectform"
-                class="form-input"
-                placeholder=""
-                type="text" />
-            </div>
-            <div class="mb-6">
-              <label for="message" class="form-label">
-                {{.Params.title_message}} <span class="text-red-500">*</span>
-              </label>
-              <textarea
-                id="message"
-                name="message"
-                class="form-input"
-                placeholder=""
-                rows="8"></textarea>
-            </div>
-            <div data-netlify-recaptcha="true">
-            </div>
-            <button type="submit" class="btn btn-primary">{{.Params.title_button}}</button>
+          <form name="contact" method="POST" data-netlify="true">
+            <p>
+              <label>Your Name: <input type="text" name="name" /></label>
+            </p>
+            <p>
+              <label>Your Email: <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <label>Your Role: <select name="role[]" multiple>
+                <option value="leader">Leader</option>
+                <option value="follower">Follower</option>
+              </select></label>
+            </p>
+            <p>
+              <label>Message: <textarea name="message"></textarea></label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
           </form>
         </div>
       </div>
