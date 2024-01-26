@@ -5,7 +5,7 @@ description: "History of the Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: AboutNew
+    parent: About
     weight: 20
 ---
 ### History of the Head of the River Amstel

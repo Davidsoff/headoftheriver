@@ -2,13 +2,12 @@
 title: "Participants"
 meta_title: ""
 description: ""
-menu:
+identifier: Deelnemers
+name: Participants
+menus: 
   main:
-    identifier: Deelnemers
-    name: Participants
-    title: Participants
-    weight: 4
+    weight: 3
 draft: false
 _build:
-  render: "never"
+  render: ""
 ---

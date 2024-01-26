@@ -5,7 +5,7 @@ description: "Info for volunteers of the Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: AboutNew
+    parent: About
     weight: 40
 ---
 Without volunteers it is difficult to organise the Head of the River Amstel. For now the volunteer information is only available in Dutch. 

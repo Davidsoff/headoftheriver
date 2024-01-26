@@ -15,8 +15,9 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form action="{{ site.Params.contact_form_action }}" method="POST">
+          <form name="contact formulier" data-netlify="true" method="POST">
             <div class="mb-6">
+              <input type="hidden" name="subject" value="Nieuw bericht van het %{formName}" />
               <label for="name" class="form-label">
                 {{.Params.title_name}} <span class="text-red-500">*</span>
               </label>

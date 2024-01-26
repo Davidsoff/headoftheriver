@@ -3,10 +3,12 @@ title: "De Organisatie"
 meta_title: ""
 description: "Het organisatieteam van de Head of the River Amstel"
 draft: false
-menu:
+menus: 
   main:
-    parent: OverNew
+    parent: Over
     weight: 10
+  footer:
+    weight: 1
 ---
 De organisatie van de Head of de River bestaat uit twee onderdelen:
 - De commissie; Druk in de voorbereiding en tijdens het wedstrijdweekend

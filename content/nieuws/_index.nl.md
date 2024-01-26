@@ -1,12 +1,13 @@
 ---
 title: "Nieuws"
 meta_title: ""
-description: "this is meta description"
-menu:
+description: "News page"
+identifier: Nieuws
+name: Nieuws
+menus: 
   main:
-    identifier: Nieuws
-    name: Nieuws
-    title: Nieuws
-    weight: 6
+    weight: 2
 draft: false
+_build:
+  render: ""
 ---

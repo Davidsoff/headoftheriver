@@ -5,7 +5,7 @@ description: "Result archive of the Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: AboutNew
+    parent: About
     weight: 30
 ---
 

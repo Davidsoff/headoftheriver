@@ -6,17 +6,7 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[main]]
-name = "About"
-url = "about/"
-weight = 2
-
 # footer menu
-[[footer]]
-name = "Organising Committee"
-url = "en/overnew/organisatie/"
-weight = 1
-
 [[footer]]
 name = "ARB"
 url = "https://amsterdamscheroeibond.nl/"

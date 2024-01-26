@@ -1,8 +1,16 @@
 ---
 title: "Contact"
 meta_title: ""
-description: "this is meta description"
+description: "Contact page"
+identifier: Contact
+name: Contact
+menus: 
+  main:
+    weight: 5
 draft: false
+_build:
+  render: ""
+
 title_name: "Naam"
 title_emailaddress: "Emailadres"
 title_phone: "Telefoonnummer (Optioneel)"

@@ -1,12 +1,13 @@
 ---
 title: "News"
 meta_title: ""
-description: "this is meta description"
-menu:
+description: "News Page"
+identifier: News
+name: News
+menus: 
   main:
-    identifier: Nieuws
-    name: News
-    title: News
-    weight: 6
+    weight: 2
 draft: false
+_build:
+  render: ""
 ---

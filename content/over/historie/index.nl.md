@@ -5,7 +5,7 @@ description: "Geschiedenis van de Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: OverNew
+    parent: Over
     weight: 20
 ---
 
