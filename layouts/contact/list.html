@@ -15,9 +15,10 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form name="contact formulier" data-netlify="true" method="POST">
+          <form name="contact formulier" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+            <input type="hidden" name="subject" value="Nieuw bericht van het Contactformulier" />
             <div class="mb-6">
-              <input type="hidden" name="subject" value="Nieuw bericht van het %{formName}" />
+              <input type="hidden" name="subject" value="Nieuw bericht van het Contactformulier" />
               <label for="name" class="form-label">
                 {{.Params.title_name}} <span class="text-red-500">*</span>
               </label>
@@ -51,12 +52,12 @@
                 type="text" />
             </div>
             <div class="mb-6">
-              <label for="subject" class="form-label">
+              <label for="subjectform" class="form-label">
                 {{.Params.title_subject}} <span class="text-red-500">*</span>
               </label>
               <input
-                id="subject"
-                name="subject"
+                id="subjectform"
+                name="subjectform"
                 class="form-input"
                 placeholder=""
                 type="text" />
