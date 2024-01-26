@@ -15,7 +15,7 @@
     <div class="container">
       <div class="row">
         <div class="md:col-10 lg:col-6 mx-auto">
-          <form name="contact formulier" action="/nieuws" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+          <form name="contact formulier" action="/nieuws/" method="POST" data-netlify="true" data-netlify-recaptcha="true">
             <div class="mb-6">
               <input type="hidden" name="subject" value="Nieuw bericht van het Contactformulier" />
               <label for="name" class="form-label">
@@ -73,7 +73,7 @@
                 rows="8"></textarea>
             </div>
             <div data-netlify-recaptcha="true"></div>
-            <button type="submit">{{.Params.title_button}}</button>
+            <button type="submit" class="btn btn-primary">{{.Params.title_button}}</button>
           </form>
         </div>
       </div>
