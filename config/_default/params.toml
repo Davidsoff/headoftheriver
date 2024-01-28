@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Word Vrijwilliger"
-link = "overnew/vrijwilligers/"
+link = "over/vrijwilligers/"
 
 # search
 [search]
