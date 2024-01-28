@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+
+{{ $sectionDelimiter := "<!-- section break -->" }}
+{{ $rawContentSections := split .RawContent $sectionDelimiter }}
+{{ if gt (len $rawContentSections) 1 }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div id="section-1" class="content">
+          {{ index $rawContentSections 0 | .RenderString }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section>
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div class="row">
+      {{ range $i, $e:= .Params.positions }}
+      <div class="md:col-6 lg:col-3 mb-14">
+        {{ partial "components/organisatie-card" . }}
+      </div>
+      {{ end }}
+    </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+{{ if gt (len $rawContentSections) 1 }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div id="section-2" class="content">
+          {{ index $rawContentSections 1 | .RenderString }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<section>
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div class="row">
+      {{ range $i, $e:= .Params.jury }}
+      <div class="md:col-6 lg:col-3 mb-14">
+        {{ partial "components/organisatie-card" . }}
+      </div>
+      {{ end }}
+    </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+{{ end }}

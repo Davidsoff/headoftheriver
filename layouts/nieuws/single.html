@@ -5,7 +5,7 @@
       <article class="lg:col-10">
         {{ with .Params.photo }}
         {{ with resources.Get .image }}
-        {{ with .Fill "1080x400 Smart" }}
+        {{ with .Fill "1080x400 Center" }}
         <div class="mb-10">
           <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
             Class=" rounded">

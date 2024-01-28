@@ -1,6 +1,18 @@
 {{ define "main" }}
-{{ partial "page-header" . }}
-
+<section>
+  <div class="container text-center">
+    <div {{ with resources.Get "images/nieuws/hero.png" }} 
+    style="background-image: url('{{ .Permalink }}');
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; " {{ end }}
+      class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
+      <h1>{{ .Title | title }}</h1>
+      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+    </div>
+  </div>
+</section>
 
 <section class="section">
   <div class="container">
