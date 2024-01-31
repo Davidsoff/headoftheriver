@@ -1,5 +1,5 @@
 ---
-title: "Meld jij je aan als vrijwilliger voor de Head of the River 2024"
+title: "Meld jij je aan als vrijwilliger voor de Head of the River 2024?"
 meta_title: ""
 description: "Head 2024 - Post 04"
 date: 2024-01-24T18:00:00.000Z

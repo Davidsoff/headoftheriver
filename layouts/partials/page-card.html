@@ -24,11 +24,12 @@
 
       {{ end }}
       {{ end }}
-
-      <h4 class="mb-3">{{ .Title | markdownify }}</h4>
+      
       <div class="text-slate-400 dark:text-slate-200">{{ .Date | time.Format ":date_long"}} - {{ .Date | time.Format
         ":time_short" }}</div>
-      <p class="mb-4" style="height:10ch;">{{ .Summary | markdownify }}</p>
+      <h4 class="mb-3">{{ .Title | markdownify }}</h4>
+      
+      <!-- <p class="mb-4" style="height:10ch;">{{ .Summary | markdownify }}</p> -->
     </div>
   </a>
 </div>
