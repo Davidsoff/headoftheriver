@@ -162,3 +162,41 @@ h4 {
   padding-top: 3px;
   padding-bottom: 3px;
 }
+
+// Countdown style
+
+.container_cd {
+  color: #ffffff;
+  margin: 1em 0 0 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container_cd li {
+  display: inline-block;
+  font-size: .8em;
+  list-style-type: none;
+  padding: 0em 1em 0.5em 1em;
+  text-transform: uppercase;
+}
+
+.container_cd li span {
+  display: block;
+  font-size: 2rem;
+}
+
+.container_cd ul { 
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+@media all and (max-width: 768px) {
+  .container_cd li {
+    font-size: calc(.8rem * 0.75);
+  }
+  
+  .container_cd li span {
+    font-size: calc(2rem * 0.75);
+  }
+}

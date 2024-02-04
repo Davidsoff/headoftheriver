@@ -36,3 +36,15 @@
 
 - id: empty_search_results_placeholder
   translation: Type something to search..
+
+- id: cd_days
+  translation: days
+  
+- id: cd_hours
+  translation: hours
+
+- id: cd_minutes
+  translation: minutes
+
+- id: cd_seconds
+  translation: seconds

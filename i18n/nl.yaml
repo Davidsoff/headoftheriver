@@ -36,3 +36,15 @@
 
 - id: empty_search_results_placeholder
   translation: Schrijf iets om te zoeken..
+
+- id: cd_days
+  translation: dagen
+  
+- id: cd_hours
+  translation: uren
+
+- id: cd_minutes
+  translation: minuten
+
+- id: cd_seconds
+  translation: seconden

@@ -26,7 +26,7 @@ linktiles:
 
 # Divider-quote
 dividerquote:
-  title: "'Dè Lange Afstandsklassieker van Nederland'"
+  title: "'Dé Lange Afstandsklassieker van Nederland'"
 
 # Features
 features:
