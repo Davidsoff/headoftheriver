@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ with site.GetPage "homepage" }}
 <!-- slider image -->
+{{ with .Params.slider }}
 <section class="section-hslider">
   <div class="home-slider">
     {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
@@ -14,7 +15,7 @@
             <img src="{{ $image.RelPermalink }}" alt="Head of the River">
           </div>
           <div>
-            <h1>9 & 10 Maart 2024</h1>
+            <h1>{{ .title | markdownify }}</h1>
           </div>
           <div>
             {{ partial "components/countdown.html" . }}
@@ -24,6 +25,7 @@
     </div>
   </div>
 </section>
+{{ end }}
 <!-- /slider image -->
 <!-- Latest News -->
 <section class="section-home">
@@ -46,8 +48,8 @@
 <section class="section-home mt-8 mb-8 bg-theme-head">
   <div class="container">
     <div class="row justify-center">
-      <div class="lg:col-10 mb-8 mt-8 text-center">
-        <h2>{{ .title | markdownify }}</h2>
+      <div class="lg:col-10 mb-8 mt-8 text-center ">
+        <h2 class="text-white dark:text-darkmode-dark">{{ .title | markdownify }}</h2>
       </div>
     </div>
   </div>
@@ -100,7 +102,7 @@
       </div>
       <div class="md:col-6 lg:col-3 mb-4">
         <a href="{{ .link4 | absURL }}">
-          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center"
+          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center "
             style="padding: 16px; height:100%;">
             <div class="mx-auto mb-6 home-tilelink ">
               {{ $image := resources.Get .image4 }}

@@ -1,13 +1,12 @@
 ---
-# Banner
-banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+# Slider
+slider:
+  title: "9 & 10 MARCH 2024"
+  CD_date: "Mar 9, 2024 12:00:00"
+
+# Divider-quote
+dividerquote:
+  title: "'The long-distance classic of The Netherlands'"
     
 # Link Tiles
 linktiles:
@@ -28,9 +27,19 @@ linktiles:
   image4: "/images/homepage/tilelinks/results (Large).jpg"
   link4: "/deelnemers/uitslag/"
 
-# Divider-quote
-dividerquote:
-  title: "'The long-distance classic of The Netherlands'"
+
+
+
+######### OLD TEMPLATE #######
+# Banner
+banner:
+  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
+  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  image: "/images/banner.png"
+  button:
+    enable: true
+    label: "Get Started For Free"
+    link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:

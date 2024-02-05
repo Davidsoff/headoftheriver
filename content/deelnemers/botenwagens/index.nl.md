@@ -23,12 +23,12 @@ Meld de botenwagen aan met de volgende gegevens;
 Stuur de informatie naar (zie verdeling hieronder):
 
 - Botenwagens die zijn ingedeeld bij RIC: gebouw@ricamsterdam.nl
-- Botenwagens die zijn ingedeeld bij Willem III, Skoll of Poseidon: veiligheid@headoftheriver.nl
+- Botenwagens die zijn ingedeeld bij Willem III, Skøll of Poseidon: veiligheid@headoftheriver.nl
 
 #### Indien mogelijk: direct afladen en elders parkeren
 Vrijwilligers van de Headorganisatie begeleiden de wagens naar hun aflaadlocatie. De grote botenwagens die naar de Jan Vroegopsingel rijden, krijgen een vaste plaats waar zij niet direct afgeladen hoeven te worden. Kleinere botenwagens dienen wel zoveel mogelijk direct  afgeladen te worden. De boten dienen dan in de stellingen te worden geplaatst en niet op bokjes of schragen te worden achtergelaten, dat beperkt de beschikbare ruimte.
 
-Een lege botenwagen kan  worden geparkeerd op het terrein van het [Politie Trainings Centrum](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), achter de Rozenoordbrug. Een lege botenwagen mag daar staan van vrijdagmiddag 10-03 tot uiterlijk zondagavond 12-03. Mogelijk is ook het terrein aan de Jan Vroegopsingel onder de Rozenoordbrug beschikbaar
+Een lege botenwagen kan  worden geparkeerd op het terrein van het [Politie Trainings Centrum](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), achter de Rozenoordbrug. Een lege botenwagen mag daar staan van vrijdagmiddag 8-03 tot uiterlijk zondagavond 10-03. Mogelijk is ook het terrein aan de Jan Vroegopsingel onder de Rozenoordbrug beschikbaar
 
 #### Verdeling deelnemers over gastverenigingen
 Geactualiseerde lijst per 09-03 2023.

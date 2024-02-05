@@ -1,5 +1,5 @@
 ---
-title: "De Organisatie"
+title: "Organisatie"
 meta_title: ""
 description: "Het organisatieteam van de Head of the River Amstel"
 type: over

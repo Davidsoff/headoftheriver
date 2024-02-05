@@ -1,5 +1,5 @@
 ---
-title: "Result Archive"
+title: "Result archive"
 meta_title: ""
 description: "Result archive of the Head of the River Amstel"
 draft: false

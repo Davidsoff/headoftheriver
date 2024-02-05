@@ -116,7 +116,9 @@ iframe {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5,
+h6 {
   font-family: Metropolis-Bold, sans-serif;
 }
 
@@ -142,7 +144,7 @@ h4 {
   @apply text-dark hover:text-head dark:text-darkmode-text dark:hover:text-darkmode-primary active:underline;
 }
 
-// content style
+// content style table header
 .content {
   @apply prose-thead:bg-theme-head prose-thead:dark:bg-theme-head;
   @apply prose-th:text-dark prose-th:dark:text-darkmode-dark;
@@ -182,7 +184,7 @@ h4 {
 }
 
 .container_cd li span {
-  display: block;
+  display: block; 
   font-size: 2rem;
 }
 

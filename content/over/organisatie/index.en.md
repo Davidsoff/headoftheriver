@@ -1,5 +1,5 @@
 ---
-title: "Organising Committee"
+title: "Organising committee"
 meta_title: ""
 description: "Organisation committee of the Head of the River Amstel"
 draft: false

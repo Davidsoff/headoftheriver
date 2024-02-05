@@ -25,7 +25,7 @@ The required information can be submitted at the following email addresses:
 #### Unloading and parking
 Volunteers of the Head organisation will guide arriving boat trailers to their designated location. Large trailers, coming to the Jan Vroegopsingel, will have their designated parking spot, where they are not asked to unload. Smaller trailers are asked to unload if possible to the available boat racks. Please do not place your boats on single supports, or on the grass, this would limit the available space.
 
-An empty boat trailer can be parked at the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), Ouderkerkerdijk 150, 1096 CR Amsterdam Parking is possible from Friday afternoon 10 March until no later than Sunday evening 12 March.
+An empty boat trailer can be parked at the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), Ouderkerkerdijk 150, 1096 CR Amsterdam Parking is possible from Friday afternoon 8 March until no later than Sunday evening 10 March.
 
 
 #### Who is you guest rowing club?

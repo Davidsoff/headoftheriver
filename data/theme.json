@@ -13,7 +13,8 @@
         "default": "#444444",
         "dark": "#040404",
         "light": "#717171",
-        "head": "#62B0E2"
+        "head": "#62B0E2",
+        "white": "#fff"
       }
     },
     "darkmode": {
@@ -28,7 +29,8 @@
         "default": "#B4AFB6",
         "dark": "#fff",
         "light": "#B4AFB6",
-        "head": "#62B0E2"
+        "head": "#62B0E2",
+        "white": "#fff"
       }
     }
   },

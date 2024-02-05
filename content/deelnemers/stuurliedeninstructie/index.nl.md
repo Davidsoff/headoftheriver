@@ -59,4 +59,3 @@ Klik op onderstaande afbeelding om de baankaart in groot formaat te openen.
 
 </div>
 
-{{< openstreetmap mapName="head-of-the-river-main_1012318"  searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}

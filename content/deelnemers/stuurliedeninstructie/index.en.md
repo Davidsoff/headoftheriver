@@ -54,3 +54,5 @@ Click the image below to open the map of the race course.
 [{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
 
 </div>
+
+{{< openstreetmap mapName="head-of-the-river-main_1012318"  searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
