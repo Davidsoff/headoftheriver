@@ -57,4 +57,4 @@ Het organiseren van de Head of the River Amstel gebeurt niet zomaar. Het team va
 <!-- section break -->
 
 ### De Jury
-Tijdens het weekend zorgt de Jury voor het eerlijk verloop van de wedstrijd.
+Tijdens het weekend zorgt de jury voor het eerlijk verloop van de wedstrijd.

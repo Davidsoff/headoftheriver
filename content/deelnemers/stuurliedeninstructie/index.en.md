@@ -17,7 +17,7 @@ The following two presentations will give you information on the rules that appl
 
 <div class="grid grid-cols-2 gap-4">
 
-[{{< image src="images/Stuurliedeninstructie_2023_ENG_v2_1_300h.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="m-0" title="stuurliedeninstructie english"  webp="false" >}}](documents/Stuurliedeninstructie_2023_ENG_v2.pdf)
+[{{< image src="images/Stuurliedeninstructie_2024_ENG_v1.0_1 (Small).png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="m-0" title="stuurliedeninstructie english"  webp="false" >}}](documents/Stuurliedeninstructie_2024_ENG_v1.0.pdf)
 
 [{{< image src="images/Toelichting_inhaalsituaties_300_2022_english.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="m-0" title="toelichting inhaalsituaties english"  webp="false" >}}](documents/Toelichting_inhaalsituaties_2022_english.pdf)
 
