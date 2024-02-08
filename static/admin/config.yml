@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: Davidsoff/headoftheriver
+  name: git-gateway
 media_folder: static/images
 public_folder: /images
 i18n:
