@@ -1,16 +1,19 @@
 ---
-title: "Blockage Bridge Ouderkerk: Rearranging Of The Start And Finish Areas"
-meta_title: ""
-description: "Head 2023 - Post 97"
+draft: false
+author: John Doe
 date: 2023-03-06T12:00:00.000Z
 photo:
-    enable: true
-    image: "images/nieuws/2023/Head2023_post97.jpg"
-    photographer: "Alex Rutten"
-categories: ["2023", "All"]
-author: "John Doe"
-tags: [""]
-draft: false
+  enable: true
+  image: images/nieuws/2023/Head2023_post97.jpg
+  photographer: Alex Rutten
+title: "Blockage Bridge Ouderkerk: Rearranging Of The Start And Finish Areas"
+tags:
+  - ""
+categories:
+  - "2023"
+  - All
+description: Head 2023 - Post 97
+meta_title: ""
 ---
 Due to construction works on the Bridge in Ouderkerk, there is no passage possible under the bridge during the weekend of the Head of the River. Because of this, the start of the race has been moved in the direction of Amsterdam.
 
