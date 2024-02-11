@@ -84,7 +84,7 @@ Below you will find the block schedule for the Head of the River 2024.
 | C         | average > 43 |
 | D         | average > 50 |
 | E         | average > 55 |
-| F         | average > 65 |
-| G         | average > 70 |   
+| F         | average > 60 |
+| G         | average > 65 |   
      
 </div>
