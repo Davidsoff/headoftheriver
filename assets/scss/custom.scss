@@ -202,3 +202,22 @@ h6 {
     font-size: calc(2rem * 0.75);
   }
 }
+
+////////// Fixed button //////////
+
+.fixedButton{
+  position: fixed;
+  z-index: 90;
+  bottom: 0px;
+  right: 20px; 
+  padding: 20px;
+  text-align: center;
+  display: none;
+  justify-content: center;
+}
+.roundedFixedBtn{
+padding: 10px;
+border-radius: 8px;
+background-color: #4CAF50;
+cursor: pointer;
+}

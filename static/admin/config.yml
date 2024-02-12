@@ -1,6 +1,9 @@
+local_backend: true
 backend:
   name: git-gateway
   squash_merges: true
+logo_url: https://headoftheriver.nl/images/logos/logo_huf7a8c27693522814827308104210c1b5_29134_240x0_resize_q90_h2_lanczos_3.webp
+display_url: https://headoftheriver.nl
 media_folder: static/images
 public_folder: /images
 publish_mode: editorial_workflow
@@ -22,3 +25,36 @@ collections:
       - { label: 'Publicatie datum', name: 'date', widget: 'datetime' }
       - { label: 'Omschrijving', name: 'description', widget: 'string', i18n: true }
       - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
+  - name: 'weercode_live'
+    i18n: true
+    label: 'Weercode'
+    folder: "content/deelnemers/weercodes/weercode_live/"
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - label: 'Titel'
+        name: "title"
+        widget: "hidden"
+        default: "Weather Code Live"
+      - label: "Presenteer weercodeknop" 
+        name: "weather_button"
+        widget: "boolean"
+        default: false
+      - label: 'Weercode'
+        name: "weathercode"
+        widget: "select"
+        options: ["groen", "geel", "rood"]
+        default: groen
+      - label: "Tekst Groen"
+        name: "text_green"
+        widget: "text"
+        i18n: true
+      - label: "Text Geel"
+        name: "text_yellow"
+        widget: "text"
+        i18n: true
+      - label: "Text Rood"
+        name: "text_red"
+        widget: "text"
+        i18n: true        
+      
