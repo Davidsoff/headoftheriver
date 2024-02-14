@@ -29,7 +29,7 @@ collections:
     i18n: true
     label: 'Weercode'
     folder: "content/deelnemers/weercodes/weercode_live/"
-    create: true
+    create: false
     slug: '{{slug}}'
     fields:
       - label: 'Titel'
@@ -39,12 +39,10 @@ collections:
       - label: "Presenteer weercodeknop" 
         name: "weather_button"
         widget: "boolean"
-        default: false
       - label: 'Weercode'
         name: "weathercode"
         widget: "select"
         options: ["groen", "geel", "rood"]
-        default: groen
       - label: "Tekst Groen"
         name: "text_green"
         widget: "text"

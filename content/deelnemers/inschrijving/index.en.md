@@ -55,4 +55,10 @@ To enter combination crews (Dutch -  foreign / foreign – foreign) please turn 
 - Names of rowers/coxes plus seating
 - Birthdates rowers/coxes (not only birthyears)
 
-Payment information can be found on the [Regulations page](../bepaling/), item 3 and 4.
+#### Entry fees:
+- Coastal Quads: € 42,50
+- Quads: €85
+- Eight: €115
+- Corporate Eight: €300
+
+Entry fees include KNRB competition license surcharge. Please pay before Tuesday, 5 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A. Please include the name of the registering rowing club and the event field.

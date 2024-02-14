@@ -37,6 +37,9 @@ positions:
     image: ""        
   - title: Communicatie
     name: "Nicole Opreij"
+    image: ""    
+  - title: Veiligheid
+    name: "Ernst Schutte"
     image: ""      
 
 jury:
