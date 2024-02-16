@@ -1,6 +1,6 @@
 ---
 title: Huidige Weercode
-weather_button: false
+weather_button: true
 weather_code: red
 text_green: "Iets"
 text_yellow: "Iets anders"

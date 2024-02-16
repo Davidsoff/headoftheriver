@@ -2,7 +2,7 @@
 title: "Gezocht: Enthousiaste content creator/ social media addict"
 meta_title: ""
 description: "Head 2024 - Post 06"
-date: 2024-02-01T07:00:00.000Z
+date: 2024-02-16T19:00:00.000Z
 photo:
     enable: true
     image: "images/nieuws/2024/Head2024_post06.png"

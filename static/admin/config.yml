@@ -28,7 +28,7 @@ collections:
   - name: 'weercode_live'
     i18n: true
     label: 'Weercode'
-    folder: "content/deelnemers/weercodes/weercode_live/"
+    folder: "content/deelnemers/weercode_live/"
     create: false
     slug: '{{slug}}'
     fields:
