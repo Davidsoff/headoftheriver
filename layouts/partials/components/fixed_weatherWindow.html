@@ -1,0 +1,26 @@
+{{ with .GetPage "/deelnemers/weercode_live" }}
+{{ if .Params.weather_button }}
+{{if eq .Params.weather_code "green" }}
+<div id="myFixedWindow" class="fixedWindow fixedWindow_gr">
+  {{else if eq .Params.weather_code "yellow" }}
+  <div id="myFixedWindow" class="fixedWindow fixedWindow_ye">
+    {{else if eq .Params.weather_code "red" }}
+    <div id="myFixedWindow" class="fixedWindow fixedWindow_re">
+      {{ end }}
+      <h4>Weercode: {{ .Params.weather_code | markdownify }}</h4>
+      <div class="rounded_FW_Btn">
+        <ul>
+          <li><a href="../../../deelnemers/weercodes/">Meer Info</a></li>
+          <li><a onclick="closeFixedWindow()" href="#">Sluiten</a></li>
+        </ul>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    <script>
+      // Close the Fixed window
+      function closeFixedWindow() {
+        document.getElementById("myFixedWindow").style.display = "none";
+      }
+    </script>

@@ -42,7 +42,7 @@ collections:
       - label: 'Weercode'
         name: "weathercode"
         widget: "select"
-        options: ["groen", "geel", "rood"]
+        options: ["green", "yellow", "red"]
       - label: "Tekst Groen"
         name: "text_green"
         widget: "text"

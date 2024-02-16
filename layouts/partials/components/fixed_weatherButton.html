@@ -1,0 +1,30 @@
+{{ with .GetPage "/deelnemers/weercode_live" }}
+{{ if .Params.weather_button}}
+{{if eq .Params.weather_code "green" }}
+<div id="myFixedButton" class="fixedButton fixedWindow_gr">
+  <a href="#">
+    <div class="rounded_FB_Btn">
+      <i class="fa-regular fa-sun fa-2xl"></i>
+    </div>
+  </a>
+</div>
+{{else if eq .Params.weather_code "yellow" }}
+<div id="myFixedButton" class="fixedButton fixedWindow_ye">
+  <a href="#">
+    <div class="rounded_FB_Btn">
+      <i class="fa-regular fa-cloud-sun fa-2xl"></i>
+    </div>
+  </a>
+</div>
+{{else if eq .Params.weather_code "red" }}
+<div id="myFixedButton" class="fixedButton fixedWindow_re">
+  <a href="#">
+    <div class="rounded_FB_Btn">
+      <i class="fa-regular fa-cloud-bolt fa-2xl"></i>
+    </div>
+  </a>
+</div>
+{{ end }}
+
+{{end}}
+{{end}}

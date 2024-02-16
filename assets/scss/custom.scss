@@ -203,21 +203,61 @@ h6 {
   }
 }
 
-////////// Fixed button //////////
+////////// Fixed Window //////////
+
+.fixedWindow{
+  position: fixed;
+  z-index: 90;
+  bottom: 10px;
+  right: 20px; 
+  padding: 10px;
+  text-align: center;
+  display: auto;
+  justify-content: center;
+  border-radius: 8px;
+  text-transform: uppercase;
+
+}
+.fixedWindow_gr{
+  background-color: #4CAF50;
+}
+.fixedWindow_ye{
+  background-color: #fbff00;
+}
+.fixedWindow_re{
+  background-color: #ff0000;
+}
+
+.rounded_FW_Btn{
+padding: 5px;
+border-radius: 8px;
+border-style: solid;
+cursor: pointer;
+}
+
+.rounded_FW_Btn li {
+  display: inline-block;
+  font-size: .8em;
+  list-style-type: none;
+  padding: 0.5em 1em 0.5em 1em;
+  text-transform: uppercase;
+  color: #000000;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+////////// Fixed Button //////////
 
 .fixedButton{
   position: fixed;
   z-index: 90;
-  bottom: 0px;
+  bottom: 10px;
   right: 20px; 
-  padding: 20px;
-  text-align: center;
-  display: none;
+  padding: 10px;
+  border-radius: 50%;
+  display: auto;
   justify-content: center;
+  border-radius: 8px;
+  text-transform: uppercase;
 }
-.roundedFixedBtn{
-padding: 10px;
-border-radius: 8px;
-background-color: #4CAF50;
-cursor: pointer;
-}
+
