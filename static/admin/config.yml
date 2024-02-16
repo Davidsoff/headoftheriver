@@ -40,7 +40,7 @@ collections:
         name: "weather_button"
         widget: "boolean"
       - label: 'Weercode'
-        name: "weathercode"
+        name: "weather_code"
         widget: "select"
         options: ["green", "yellow", "red"]
       - label: "Tekst Groen"
