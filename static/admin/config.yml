@@ -36,13 +36,16 @@ collections:
         name: "title"
         widget: "hidden"
         default: "Weather Code Live"
-      - label: "Presenteer weercodeknop" 
+        i18n: duplicate
+      - label: "Weercodeknop weergeven" 
         name: "weather_button"
         widget: "boolean"
+        i18n: duplicate
       - label: 'Weercode'
         name: "weather_code"
         widget: "select"
         options: ["green", "yellow", "red"]
+        i18n: duplicate
       - label: "Tekst Groen"
         name: "text_green"
         widget: "text"

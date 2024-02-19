@@ -48,3 +48,21 @@
 
 - id: cd_seconds
   translation: seconden
+
+- id: wc_green
+  translation: Groen
+
+- id: wc_yellow
+  translation: Geel
+
+- id: wc_red
+  translation: Rood
+
+- id: wc_title
+  translation: Weercode
+
+- id: close
+  translation: Sluiten  
+
+- id: wc_current
+  translation: Huidige weercode

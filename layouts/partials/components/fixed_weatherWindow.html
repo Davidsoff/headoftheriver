@@ -1,17 +1,19 @@
-{{ with .GetPage "/deelnemers/weercode_live" }}
+{{ with .GetPage "deelnemers/weercode_live" }}
 {{ if .Params.weather_button }}
 {{if eq .Params.weather_code "green" }}
 <div id="myFixedWindow" class="fixedWindow fixedWindow_gr">
+  <h4 style="color: #000000;">{{ i18n "wc_title" }}: {{ i18n "wc_green" }}</h4>
   {{else if eq .Params.weather_code "yellow" }}
   <div id="myFixedWindow" class="fixedWindow fixedWindow_ye">
+    <h4 style="color: #000000;">{{ i18n "wc_title" }}: {{ i18n "wc_yellow" }}</h4>
     {{else if eq .Params.weather_code "red" }}
     <div id="myFixedWindow" class="fixedWindow fixedWindow_re">
+      <h4 style="color: #000000;">{{ i18n "wc_title" }}: {{ i18n "wc_red" }}</h4>
       {{ end }}
-      <h4>Weercode: {{ .Params.weather_code | markdownify }}</h4>
       <div class="rounded_FW_Btn">
         <ul>
-          <li><a href="../../../deelnemers/weercodes/">Meer Info</a></li>
-          <li><a onclick="closeFixedWindow()" href="#">Sluiten</a></li>
+          <li><a href="deelnemers/weercode_live/">{{ i18n "read_more" }}</a></li>
+          <li><a onclick="closeFixedWindow()" href="#">{{ i18n "close" }}</a></li>
         </ul>
       </div>
     </div>

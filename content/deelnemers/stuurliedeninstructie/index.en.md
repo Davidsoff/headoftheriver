@@ -1,5 +1,5 @@
 ---
-title: "Coxwains"
+title: "Coxswains"
 meta_title: ""
 description: "Informatie voor stuurlieden"
 draft: false

@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div class="content">
+          {{if eq .Params.weather_code "green" }}
+          <div class="wc_currentpage fixedWindow_gr">
+            <h2>{{ i18n "wc_current" }}: {{ i18n "wc_green" }}</h2>
+          </div>
+          <h4 style="padding: 0px 5px 0px 15px">{{ .Params.text_green }}</h4>
+          {{else if eq .Params.weather_code "yellow" }}
+          <div class="wc_currentpage fixedWindow_ye">
+            <h2>{{ i18n "wc_current" }}: {{ i18n "wc_yellow" }}</h2>
+          </div>
+          <h4 style="padding: 0px 5px 0px 15px">{{ .Params.text_yellow }}</h4>
+          {{else if eq .Params.weather_code "red" }}
+          <div class="wc_currentpage fixedWindow_re">
+            <h2>{{ i18n "wc_current" }}: {{ i18n "wc_red" }}</h2>
+          </div>
+          <h4 style="padding: 0px 5px 0px 15px">{{ .Params.text_red }}</h4>
+          {{ end }}
+          {{ .Content }}
+        </div>
+      </div>
+</section>
+{{ end }}

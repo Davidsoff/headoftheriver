@@ -25,6 +25,7 @@
 {{ partial "basic-seo.html" . }}
 
 
+
 <!-- custom script -->
 {{ partialCached "custom-script.html" . }}
 
@@ -42,6 +43,8 @@
 <!-- search index -->
 {{ partial "search-index.html" . }}
 
+<!-- Weather code buttonm -->
+{{ partial "components/fixed_weatherButton" . }}
 
 <!-- matomo analytics -->
 {{/* {{ partialCached "matomo-analytics.html" . }} */}}

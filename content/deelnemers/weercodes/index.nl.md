@@ -8,7 +8,7 @@ menu:
     parent: Deelnemers
     weight: 80
 ---
-De Head of the River maakt gebruik van weercodes. Vanaf woensdag voor de wedstrijd, om 20.00u zal de actuele weercode op de homepage worden gepresenteerd.
+De Head of the River maakt gebruik van weercodes. Vanaf woensdag voor de wedstrijd zal de actuele weercode op de homepage worden gepresenteerd.
 
 Er zijn 3 weercodes: Groen, Geel of Rood. Deze weercodes geven de situatie aan met betrekking tot het eerstvolgende blok. Zie onder voor een uitleg van de weercodes.
 

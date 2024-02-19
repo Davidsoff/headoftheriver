@@ -12,7 +12,11 @@ Inschrijving vindt plaats via [mijnvereniging.knrb.nl.](https://mijnvereniging.k
 
 Wil je deelnemen met combinatieploeg met internationale roeiers kan je vanaf de opening van de inschrijving contact op met de KNRB via [Martijn van Rossum.](martijn.vanrossum@knrb.nl)
 
-Inschrijfgeld:
+Wil je weten wie al zich heeft ingeschreven voor het veldnummer waarin je meedoet, kijk dan [hier](https://roeievenementen.knrb.nl/tournament-details/491?tab=registrations&subMenu=matrix).
+
+NB: Zijn er nog weinig inschrijvingen voor je veld, dit kan nog veranderen. De meeste teams schrijven zich in een van de laatste weken voor de deadline in.
+
+#### Inschrijfgeld:
 
 - Coastal: €42,50
 - Vier: €85

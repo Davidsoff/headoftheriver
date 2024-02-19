@@ -1,5 +1,6 @@
 ---
-title: Weather Code Live
+title: Current weather code
+layout: weercode_live_single
 weather_button: false
 weather_code: green
 text_green: Iets

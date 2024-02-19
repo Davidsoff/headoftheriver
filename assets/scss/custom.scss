@@ -212,7 +212,6 @@ h6 {
   right: 20px; 
   padding: 10px;
   text-align: center;
-  display: auto;
   justify-content: center;
   border-radius: 8px;
   text-transform: uppercase;
@@ -246,6 +245,13 @@ cursor: pointer;
   border-radius: 5px;
 }
 
+@media all and (max-width: 720px) {
+  .fixedWindow {
+    display: none;
+  }
+
+}
+
 ////////// Fixed Button //////////
 
 .fixedButton{
@@ -257,7 +263,16 @@ cursor: pointer;
   border-radius: 50%;
   display: auto;
   justify-content: center;
+  color: #000000;
   border-radius: 8px;
   text-transform: uppercase;
 }
+
+////////// Current Weather Page//////////
+
+.wc_currentpage{
+  padding: 30px 5px 30px 15px;
+  border-radius: 8px;
+  text-transform: uppercase;
+  }
 

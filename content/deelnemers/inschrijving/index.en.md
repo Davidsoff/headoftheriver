@@ -19,7 +19,7 @@ Please send an email to wedstrijdsecretariaat@headoftheriver.nl.
 Please include in your e-mail:
 
 - The name of your rowing club
-- The field number(s)
+- Event number, for example 115-D8* (see web page [Block schedule](../../deelnemers/tijdschema/) at 'ID' and 'Event'.)
 - If you want to rent one or more boats
 
 If are you coming with one or more boat trailers, we need to be notified in advance. Please send us, at least two weeks before the race:
@@ -55,10 +55,10 @@ To enter combination crews (Dutch -  foreign / foreign – foreign) please turn 
 - Names of rowers/coxes plus seating
 - Birthdates rowers/coxes (not only birthyears)
 
-#### Entry fees:
+### Entry fees:
 - Coastal Quads: € 42,50
 - Quads: €85
 - Eight: €115
 - Corporate Eight: €300
 
-Entry fees include KNRB competition license surcharge. Please pay before Tuesday, 5 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A. Please include the name of the registering rowing club and the event field.
+Entry fees include KNRB competition license surcharge. Please pay before Tuesday, 5 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A or the name and address of the bank (ING BANK, Bijlmerdreef 106, 1102 CT, Amsterdam). Please include the name of the registering rowing club and the event field.
