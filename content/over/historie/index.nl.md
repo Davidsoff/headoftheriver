@@ -28,5 +28,29 @@ Sinds 2021 is het, na een aantal jaren van afwezigheid door slecht weer en Coron
 <hr>
 
 ### Uit de oude doos
-In den beginne werd de Head of the River verroeid vanuit Oudekerk tot aan Amsterdam.
-{{< youtube Bvi267-IAsI >}}
+In den beginne werd de Head of the River verroeid vanuit Oudekerk tot aan Amsterdam.   
+      
+##### Njord wint de Head of the River in 1949
+<div style="width: 100%; max-width: 700px;">
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/RnKlrl4BSQY" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+</div>
+
+  
+    
+##### Willem III wint de Head of the River in 1948
+<div style="width: 100%; max-width: 700px;">
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/GsGThQ9-MP8" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+</div>
+
+##### Nereus wint de Head of the River in 1939
+<div style="width: 100%; max-width: 700px;">
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/S6-0RSE3uT4" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+</div>
+
+
