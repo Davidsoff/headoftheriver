@@ -27,8 +27,7 @@ Sinds 2021 is het, na een aantal jaren van afwezigheid door slecht weer en Coron
 
 <hr>
 
-### Uit de oude doos
-In den beginne werd de Head of the River verroeid vanuit Oudekerk tot aan Amsterdam.   
+### De Head of the River in de eerste jaren
       
 ##### Njord wint de Head of the River in 1949
 <div style="width: 100%; max-width: 700px;">
@@ -36,8 +35,6 @@ In den beginne werd de Head of the River verroeid vanuit Oudekerk tot aan Amster
 <p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/RnKlrl4BSQY" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
 </div>
 </div>
-
-  
     
 ##### Willem III wint de Head of the River in 1948
 <div style="width: 100%; max-width: 700px;">
