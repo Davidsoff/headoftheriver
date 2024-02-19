@@ -37,13 +37,9 @@ Wel is in 2021 de Virtual Head of the River georganiseerd. Hieronder vind je de 
     <a href="https://rowingtracker.com/hotr/2021" target="_blank"><img alt="Kaartuitslagen Virtual Head 2021" src="images/virtualhead/hotr2021_NL_UitslagenKaart.png" width="519"></a>
     </div>
     <div class="md:col-6 py-10" style="background-image: url('images/virtualhead/stille-amstel-rembrandttoren-Head.cr.hvg.jpg'); background-size:cover;">
-    <a href="https://regatta.time-team.nl/hotr/2021/index.php" target="_blank"><img alt="Tabeluitslagen Virtual Head 2021" height="54" src="images/virtualhead/hotr2021_ENG_resultaatTABEL_1.png" width="519"></a>
+    <a href="https://regatta.time-team.nl/hotr/2021/index.php" target="_blank"><img alt="Tabeluitslagen Virtual Head 2021" height="54" src="images/virtualhead/hotr2021_NL_UitslagenTabel.png" width="519"></a>
   </div>
 </div>
-
-<a href="https://rowingtracker.com/hotr/2021" target="_blank"><img alt="Kaartuitslagen Virtual Head 2021" src="images/virtualhead/hotr2021_NL_UitslagenKaart.png" width="519"></a>
-
-<a href="https://regatta.time-team.nl/hotr/2021/index.php" target="_blank"><img alt="Tabeluitslagen Virtual Head 2021" height="54" src="images/virtualhead/hotr2021_NL_UitslagenTabel.png" width="519"></a>
 
 {{< /accordion >}}
 

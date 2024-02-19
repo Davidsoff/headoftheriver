@@ -48,3 +48,21 @@
 
 - id: cd_seconds
   translation: seconds
+
+- id: wc_green
+  translation: Green
+  
+- id: wc_yellow
+  translation: Yellow
+
+- id: wc_red
+  translation: Red
+
+- id: wc_title
+  translation: Weather code
+
+- id: close
+  translation: Close   
+
+- id: wc_current
+  translation: Current weather code

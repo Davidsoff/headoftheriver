@@ -77,14 +77,14 @@ Below you will find the block schedule for the Head of the River 2024.
 
 <div class = "minitable">
 
-| Cathegory | Age          |
+| Category | Age          |
 |-----------|--------------|
 | A         | > 27         |
 | B         | average > 36 |
 | C         | average > 43 |
 | D         | average > 50 |
 | E         | average > 55 |
-| F         | average > 65 |
-| G         | average > 70 |   
+| F         | average > 60 |
+| G         | average > 65 |   
      
 </div>
