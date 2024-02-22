@@ -4,7 +4,7 @@ backend:
   squash_merges: true
 logo_url: https://headoftheriver.nl/images/logos/logo_huf7a8c27693522814827308104210c1b5_29134_240x0_resize_q90_h2_lanczos_3.webp
 display_url: https://headoftheriver.nl
-media_folder: /images/nieuws
+media_folder: /static/images
 public_folder: /images
 publish_mode: editorial_workflow
 i18n:
@@ -23,13 +23,14 @@ collections:
     fields:
       - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
       - { label: 'Meta Titel', name: 'meta_title', widget: 'hidden', default: '', i18n: duplicate}
-      - { label: 'Omschrijving', name: 'description', widget: 'hidden', default: "{{year}}-{{month}}-{{day}}-Head Nieuwspost", i18n: duplicate}
+      - { label: 'Omschrijving', name: 'description', widget: 'hidden', default: "{{slug}}", i18n: duplicate}
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: false, i18n: duplicate }
       - { label: 'Publicatie datum', name: 'date', widget: 'datetime' }
       - label: 'Headerfoto'
         name: 'photo'
         widget: 'object'
         collapsed: false
+        i18n: duplicate
         fields:
           - label: 'Foto Weergeven?'
             name: 'enable'
@@ -40,10 +41,11 @@ collections:
             widget: 'image'
             required: false
             choose_url: false
+            default: ''
             hint: 'Als je een foto toevoegd, dan ook aangeven wie de fotograaf was.'
           - label: 'Fotograaf'
             name: 'photographer'
-            widget: 'text'
+            widget: 'string'
             required: false
             hint: 'Als je een foto toevoegd, dan ook aangeven wie de fotograaf was.'
       - label: 'Categorieën'
