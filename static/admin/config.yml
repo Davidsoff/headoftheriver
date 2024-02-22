@@ -22,14 +22,13 @@ collections:
       preview: true
     fields:
       - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
-      - { label: 'Meta Titel', name: 'meta_title', widget: 'hidden'}
-      - { label: 'Omschrijving', name: 'description', widget: 'hidden', default: '{{year}}-{{month}}-{{day}}-Head Nieuwspost'}
+      - { label: 'Meta Titel', name: 'meta_title', widget: 'hidden', default: '', i18n: duplicate}
+      - { label: 'Omschrijving', name: 'description', widget: 'hidden', default: "{{year}}-{{month}}-{{day}}-Head Nieuwspost", i18n: duplicate}
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: false, i18n: duplicate }
       - { label: 'Publicatie datum', name: 'date', widget: 'datetime' }
       - label: 'Headerfoto'
         name: 'photo'
-        widget: 'list'
-        allow_add: false
+        widget: 'object'
         collapsed: false
         fields:
           - label: 'Foto Weergeven?'
