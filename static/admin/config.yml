@@ -29,8 +29,10 @@ collections:
       - label: 'Headerfoto'
         name: 'photo'
         widget: 'list'
+        allow_add: false
+        collapsed: false
         fields:
-          - label: 'enable'
+          - label: 'Foto Weergeven?'
             name: 'enable'
             widget: 'boolean'
             default: false
@@ -38,6 +40,7 @@ collections:
             name: 'image'
             widget: 'image'
             required: false
+            choose_url: false
             hint: 'Als je een foto toevoegd, dan ook aangeven wie de fotograaf was.'
           - label: 'Fotograaf'
             name: 'photographer'
