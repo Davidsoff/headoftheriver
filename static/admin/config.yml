@@ -4,7 +4,7 @@ backend:
   squash_merges: true
 logo_url: https://headoftheriver.nl/images/logos/logo_huf7a8c27693522814827308104210c1b5_29134_240x0_resize_q90_h2_lanczos_3.webp
 display_url: https://headoftheriver.nl
-media_folder: static/images
+media_folder: /images/nieuws
 public_folder: /images
 publish_mode: editorial_workflow
 i18n:
@@ -17,20 +17,52 @@ collections:
     label: 'Nieuws'
     folder: 'content/nieuws'
     create: true
-    slug: '{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
     fields:
       - { label: 'Titel', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Meta Titel', name: 'meta_title', widget: 'hidden'}
+      - { label: 'Omschrijving', name: 'description', widget: 'hidden', default: '{{year}}-{{month}}-{{day}}-Head Nieuwspost'}
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false, i18n: duplicate }
       - { label: 'Publicatie datum', name: 'date', widget: 'datetime' }
-      - { label: 'Omschrijving', name: 'description', widget: 'string', i18n: true }
-      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
+      - label: 'Headerfoto'
+        name: 'photo'
+        widget: 'list'
+        fields:
+          - label: 'enable'
+            name: 'enable'
+            widget: 'boolean'
+            default: false
+          - label: 'Image'
+            name: 'image'
+            widget: 'image'
+            required: false
+            hint: 'Als je een foto toevoegd, dan ook aangeven wie de fotograaf was.'
+          - label: 'Fotograaf'
+            name: 'photographer'
+            widget: 'text'
+            required: false
+            hint: 'Als je een foto toevoegd, dan ook aangeven wie de fotograaf was.'
+      - label: 'Categorieën'
+        name: "categories"
+        widget: "select"
+        multiple: true
+        min: 2
+        options: ["All", "2024", "2023"]
+        i18n: duplicate
+        hint: 'Selecteer de relevante categorieën. Meerdere opties mogelijk. Selecteer in ieder geval All'
+      - { label: 'Auteur', name: 'author', widget: 'string', i18n: duplicate }
+      - { label: 'Tags', name: 'tags', widget: 'hidden'}
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true, hint: 'Schrijf hier de hoofdtekst van het nieuwsbericht. Vergeet niet de engelse vertaling.' }
   - name: 'weercode_live'
     i18n: true
     label: 'Weercode'
     folder: "content/deelnemers/weercode_live/"
     create: false
     slug: '{{slug}}'
+    description: >
+      Deze sectie dient om de huidige weercode aanduiding op de site aan en uit te zetten. Ook kan de aanduiging en bijhorende teksten aangepast worden.
     fields:
       - label: 'Titel'
         name: "title"
