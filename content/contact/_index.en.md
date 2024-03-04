@@ -2,8 +2,8 @@
 title: "Contact"
 meta_title: ""
 description: "Contact page"
-identifier: Contact
-name: Contact
+identifier: contact
+name: contact
 menus: 
   main:
     weight: 5

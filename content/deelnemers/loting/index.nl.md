@@ -8,6 +8,8 @@ menu:
     parent: Deelnemers
     weight: 50
 ---
-## Loting
+De loting is bekend voor de Head of the River 2024.   
+Klik om onderstaande link om te zien wat je positie in het veld is.
 
-In de week voorafgaand aan de wedstrijd zal de loting plaatsvinden. Kort hierop zullen wij de loting op deze pagina presenteren.
+<a href="https://hoesnelwasik.nl/head/2024/loting" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
+
