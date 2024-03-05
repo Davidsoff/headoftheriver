@@ -28,7 +28,8 @@
   <div class="container">
     <div class="row gx-5">
       <!-- shop posts -->
-      <div class="lg:col-12">
+      <div class="row justify-center">
+      <div class="lg:col-10">
         <div class="row">
           {{ $paginator:= .Paginate .RegularPages 10}}
           {{ range $paginator.Pages }}
@@ -39,7 +40,7 @@
         </div>
         {{ partial "components/pagination.html" . }}
       </div>
-      
+    </div>
     </div>
   </div>
 </section>

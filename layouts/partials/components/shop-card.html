@@ -1,30 +1,26 @@
-<div class="bg-body dark:bg-darkmode-body" >
+<div class="bg-body dark:bg-darkmode-body">
   {{ with .Params.photo }}
-      {{ if .enable }}
-      {{ with resources.Get .image }}
-      {{ with .Fill "500x500 Center" }}
-      <div class="mb-10">
-        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
-          Class=" rounded">
-      </div>
-      {{ end }}
-      {{ end }}
-      {{ else }}
-      {{ with resources.Get "images/nieuws/base/1920_web_logo.png" }}
-      {{ with .Fill "500x500 Center" }}
-      <div class="mb-10 bg-theme-head rounded">
-        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
-          Class=" rounded">
-      </div>
-      {{ end }}
-      {{ end }}
+  {{ if .enable }}
+  {{ with resources.Get .image }}
+  {{ with .Fill "500x500 Center" }}
+  <div class="mb-10">
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}" Class=" rounded">
+  </div>
+  {{ end }}
+  {{ end }}
+  {{ else }}
+  {{ with resources.Get "images/nieuws/base/1920_web_logo.png" }}
+  {{ with .Fill "500x500 Center" }}
+  <div class="mb-10 bg-theme-head rounded">
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}" Class=" rounded">
+  </div>
+  {{ end }}
+  {{ end }}
 
-      {{ end }}
-      {{ end }}
+  {{ end }}
+  {{ end }}
   <h4 class="mb-3">
-    <a href="{{ .RelPermalink }}">
-      {{ .Title }}
-    </a>
+    {{ .Title }}
   </h4>
   <ul class="mb-4">
     <li class="mr-4 inline-block">
@@ -32,7 +28,7 @@
       {{ .Params.price }}
     </li>
   </ul>
-  {{/*  <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
+  {{/* <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
     {{ i18n "read_more" }}
-  </a>  */}}
+  </a> */}}
 </div>
