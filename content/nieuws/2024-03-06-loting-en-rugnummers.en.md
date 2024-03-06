@@ -2,7 +2,7 @@
 title: Draw and back numbers
 meta_title: ""
 description: "{{slug}}"
-date: 2024-03-06T13:49:52.813Z
+date: 2024-03-06T14:04:04.240Z
 photo:
   enable: true
   image: /assets/images/nieuws/dsc_4937.jpg
