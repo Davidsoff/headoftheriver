@@ -4,7 +4,7 @@ backend:
   squash_merges: true
 logo_url: https://headoftheriver.nl/images/logos/logo_huf7a8c27693522814827308104210c1b5_29134_240x0_resize_q90_h2_lanczos_3.webp
 display_url: https://headoftheriver.nl
-media_folder: /static/images
+media_folder: /images/nieuws
 public_folder: /images
 publish_mode: editorial_workflow
 i18n:
@@ -42,7 +42,6 @@ collections:
             widget: 'image'
             required: false
             choose_url: false
-            media_folder: /static/images
             default: ''
             hint: 'Als je een foto toevoegd, dan ook aangeven wie de fotograaf was.'
             i18n: duplicate
