@@ -76,9 +76,9 @@
       </article>
     </div>
 
-    <!-- Related posts -->
+    <!-- Related posts -- | union (site.RegularPages.Related . ) -->
     {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where
-    site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+    site.RegularPages ".Title" "!=" .Title)  }}
     {{ $related = $related | shuffle | first 3 }}
     {{ with $related }}
     <div class="section pb-0">
