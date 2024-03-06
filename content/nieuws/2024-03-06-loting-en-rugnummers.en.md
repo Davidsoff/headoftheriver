@@ -4,8 +4,8 @@ meta_title: ""
 description: "{{slug}}"
 date: 2024-03-06T14:04:04.240Z
 photo:
-  enable: false
-  image: /static/images/dsc_4937.jpg
+  enable: true
+  image: /images/h7.jpg
   photographer: null
 categories:
   - "2024"
