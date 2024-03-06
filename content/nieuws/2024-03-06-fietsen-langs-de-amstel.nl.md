@@ -5,7 +5,7 @@ description: "{{slug}}"
 draft: false
 date: 2024-03-06T19:54:12.238Z
 photo:
-  enable: true
+  enable: false
   image: /images/fiets2.jpg
 categories:
   - "2024"
