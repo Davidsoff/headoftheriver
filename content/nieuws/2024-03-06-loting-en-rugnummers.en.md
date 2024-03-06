@@ -5,7 +5,7 @@ description: "{{slug}}"
 date: 2024-03-06T14:04:04.240Z
 photo:
   enable: true
-  image: /images/nieuws/1920_web_logo0.png
+  image: /static/images/dsc_4937.jpg
   photographer: null
 categories:
   - "2024"
