@@ -4,7 +4,7 @@ meta_title: ""
 description: "{{slug}}"
 date: 2024-03-06T14:04:04.240Z
 photo:
-  enable: true
+  enable: false
   image: /assets/images/nieuws/dsc_4937.jpg
   photographer: null
 categories:
