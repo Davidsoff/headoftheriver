@@ -12,12 +12,10 @@ categories:
   - All
 author: "Nicole Opreij "
 ---
-Meefietsen met de Head langs de Amstel is beperkt mogelijk. Aan de kant van Willem III, Ouderkerkerdijk is meefietsen beperkt mogelijk vanuit Ouderkerk. https://lnkd.in/d_ykW2j4
-
-
+Meefietsen met de Head langs de Amstel is beperkt mogelijk. Aan de kant van Willem III, Ouderkerkerdijk is meefietsen beperkt mogelijk vanuit Ouderkerk. https://www.agv.nl/werk-in-uitvoering/Ouderkerkerdijk/
 
 ![](/images/afbeelding-jan-vroegopsingel.png "Ouderkerkerdijk")
 
-Aan de overkant van Willem III kan wel worden gefietst maar is het verkeer voor Zorgvlied gestremd. Vanaf de Rozenoordbrug tot aan de brug bij de Zuidelijke wandelweg kan niet gefietst worden over de blauwe route (Zie kaart fase 2). https://lnkd.in/dYjq49QN
+Aan de overkant van Willem III kan wel worden gefietst maar is het verkeer voor Zorgvlied gestremd. Vanaf de Rozenoordbrug tot aan de brug bij de Zuidelijke wandelweg kan niet gefietst worden over de blauwe route (Zie kaart fase 2). https://www.amsterdam.nl/projecten/werkzaamheden/overige/amsteldijk/
 
 ![](/images/afbeelding-zorgvlied.png "Stremming Zorgvlied")

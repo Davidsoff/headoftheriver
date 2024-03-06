@@ -12,10 +12,10 @@ categories:
   - All
 author: "Nicole Opreij "
 ---
-Co-cycling with the Head along the Amstel is limited. On the side of Willem III, Ouderkerkerdijk is limited cycling along from Ouderkerk. https://lnkd.in/d_ykW2j4
+Co-cycling with the Head along the Amstel is limited. On the side of Willem III, Ouderkerkerdijk is limited cycling along from Ouderkerk. https://www.agv.nl/werk-in-uitvoering/Ouderkerkerdijk/
 
 ![](/images/afbeelding-jan-vroegopsingel.png "Ouderkerkerdijk")
 
-On the other side of Willem III, cycling is possible but traffic for Zorgvlied is blocked. From the Rozenoord bridge to the bridge at the South Walkway, cycling on the blue route is not possible (See map phase 2). https://lnkd.in/dYjq49QN
+On the other side of Willem III, cycling is possible but traffic for Zorgvlied is blocked. From the Rozenoord bridge to the bridge at the Zuidelijke wandelweg, cycling on the blue route is not possible (See map phase 2). https://www.amsterdam.nl/projecten/werkzaamheden/overige/amsteldijk/
 
 ![](/images/afbeelding-zorgvlied.png "Obstruction Zorgvlied")
