@@ -42,7 +42,7 @@ collections:
             widget: 'image'
             required: false
             choose_url: false
-            media_folder: /images/nieuws
+            media_folder: /static/images
             default: ''
             hint: 'Als je een foto toevoegd, dan ook aangeven wie de fotograaf was.'
             i18n: duplicate
