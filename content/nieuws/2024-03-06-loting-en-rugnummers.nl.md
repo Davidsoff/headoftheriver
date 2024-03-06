@@ -6,7 +6,7 @@ draft: false
 date: 2024-03-06T14:04:04.240Z
 photo:
   enable: true
-  image: /images/nieuws/1920_web_logo.png
+  image: /static/images/dsc_4937.jpg
 categories:
   - "2024"
   - All
