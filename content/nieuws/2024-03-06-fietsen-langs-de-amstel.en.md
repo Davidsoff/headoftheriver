@@ -2,6 +2,7 @@
 title: Cycling along the Amstel
 meta_title: ""
 description: "{{slug}}"
+draft: false
 date: 2024-03-06T19:54:12.238Z
 photo:
   enable: true

@@ -2,6 +2,7 @@
 title: Draw and back numbers
 meta_title: ""
 description: "{{slug}}"
+draft: false
 date: 2024-03-06T14:04:04.240Z
 photo:
   enable: false
