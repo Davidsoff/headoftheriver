@@ -6,7 +6,7 @@ draft: false
 date: 2024-03-06T19:54:12.238Z
 photo:
   enable: true
-  image: /images/nieuws/fiets.jpg
+  image: /images/nieuws/fiets2.jpg
 categories:
   - "2024"
   - All
