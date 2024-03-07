@@ -4,7 +4,7 @@ backend:
   squash_merges: true
 logo_url: https://headoftheriver.nl/images/logos/logo_huf7a8c27693522814827308104210c1b5_29134_240x0_resize_q90_h2_lanczos_3.webp
 display_url: https://headoftheriver.nl
-media_folder: static/images/nieuws
+media_folder: images/nieuws
 public_folder: /images/nieuws
 publish_mode: editorial_workflow
 i18n:
