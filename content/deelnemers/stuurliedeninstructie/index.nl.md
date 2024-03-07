@@ -15,12 +15,22 @@ Beide onderstaande presentaties geven instructie over het bevaren van De Amstel
 
 * De Stuurinstructie gaat in op de verschillende (belangrijke) punten die je tegenkomt tijdens het afleggen van de wedstrijdbaan. 
 * De Inhaalinstructie gaat in op de verschillende situaties waarin boten elkaar willen / moeten passeren langs de baan. 
+* De Baankaart
 
 <div class="grid grid-cols-1 gap-4 md:grid-cols-2 content-start">
 
 [{{< image src="images/Stuurliedeninstructie_2024_v1.0_1 (Small).png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="m-0" title="stuurliedeninstructie"  webp="false" >}}](documents/Stuurliedeninstructie_2024_v1.0.pdf)
 
 [{{< image src="images/Toelichting_inhaalsituaties_300_2022.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="m-0" title="toelichting inhaalsituaties"  webp="false" >}}](documents/Toelichting_inhaalsituaties_2022.pdf)
+
+</div>
+
+#### Baankaart
+Klik op onderstaande afbeelding om de baankaart in groot formaat te openen.
+
+<div class="grid grid-cols-2 gap-4">
+
+[{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
 
 </div>
 
@@ -50,12 +60,4 @@ Indien een stuurman/vrouw niet aan de eisen conform RvR atrikel 7 voldoet, wordt
 
 Met uitzondering van stuurlieden in de junioren 16 velden geldt dat een stuur in het lopende jaar tenminste de leeftijd van 15 jaar moet bereiken.
 
-#### Baankaart
-Klik op onderstaande afbeelding om de baankaart in groot formaat te openen.
-
-<div class="grid grid-cols-2 gap-4">
-
-[{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
-
-</div>
 
