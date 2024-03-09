@@ -15,7 +15,7 @@ logo_text = "Head of the River Amstel"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
-theme_switcher = true
+theme_switcher = false
 theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["nieuws"]
@@ -27,18 +27,18 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "2023 Copyright @headoftheriver.nl - All rights reserved"
+copyright = "2024 Copyright @headoftheriver.nl - All rights reserved"
 
 # Preloader
 [preloader]
 enable = false
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "images/logos/logo_huf7a8c27693522814827308104210c1b5_29134_240x0_resize_q90_h2_lanczos_3.webp" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = false
-label = "Word Vrijwilliger"
-link = "over/vrijwilligers/"
+enable = true
+label = "Live Uitslagen"
+link = "https://hoesnelwasik.nl/head/2024/uitslagen#blocks"
 
 # search
 [search]

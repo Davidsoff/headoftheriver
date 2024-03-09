@@ -9,7 +9,9 @@ menu:
     weight: 60
 ---
 ## Live Uitslagen
-Zodra de Head of the River van start gaat zullen we hier live de uitslagen presenteren. Tot die tijd kan je kijken wat je voorgangers in eerdere jaren hebben gedaan op onze Uitslagenarchiefpagina.
+Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslagen volgen.
+
+<a href="https://hoesnelwasik.nl/head/2024/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
 
 ### Bekers en wimpels
 In de onderstaande velden kunnen de teams strijden om de wisselbekers of de blauwe wimpel!    

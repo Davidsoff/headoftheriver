@@ -66,3 +66,6 @@
 
 - id: wc_current
   translation: Current weather code
+  
+- id: liveresults
+  translation: Live Results

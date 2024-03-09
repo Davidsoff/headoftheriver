@@ -9,5 +9,6 @@ menu:
     weight: 60
 ---
 ## Live Results
-As soon as the Head of the River has started we will present live results on our website. 
-You can always check the results of previous years via our Results Archive page.
+As soon as the Head of the River has started you can follow the live results via the link below.
+
+<a href="https://hoesnelwasik.nl/head/2024/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
