@@ -23,4 +23,4 @@ Hieronder vind je een aantal links naar websites van aanwezige fotograven. Check
 * [Kylian Alkemade](https://www.kylianalkemade.nl/head-of-the-river-amstel-2024-zaterdag/)
 * [Daniel Korvemaker](https://danielkorvemaker.nl/) 
 * [KNRB](https://knrb.pixieset.com/headoftheriveramstel/)
-* [Jonathan Ogilivie](https://knrb.pixieset.com/headoftheriveramstel/)
+* [Jonathan Ogilivie](https://www.facebook.com/media/set/?set=a.920079966786673&type=3)
