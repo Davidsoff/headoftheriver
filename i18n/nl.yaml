@@ -69,4 +69,6 @@
 
 - id: liveresults
   translation: Live Uitslagen
-  
+
+- id: aftermovie
+  translation: Evenementimpressie  
