@@ -6,7 +6,7 @@ draft: false
 date: 2024-03-12T07:00:00.000Z
 photo:
   enable: true
-  image: /images/nieuws/5V2A5432.jpg
+  image: /images/nieuws/5V2A8783.jpg
   photographer: "Minko Scheltinga"
 categories:
   - "2024"
