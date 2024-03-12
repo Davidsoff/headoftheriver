@@ -17,7 +17,7 @@ author: Guido
 
 ##### Check de fotos!
 
-Hieronder vind je een aantal links naar websites van aanwezige fotograven. Check snel of je er zelf tussen zit!  
+Hieronder vind je een aantal links naar websites van aanwezige fotografen. Check snel of je er zelf tussen zit!  
 
 * [Leo de Keizer (LOEP)](https://www.loep.nu/roeiwedstrijden-2024/)
 * [Kylian Alkemade](https://www.kylianalkemade.nl/head-of-the-river-amstel-2024-zaterdag/)
