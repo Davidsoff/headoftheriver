@@ -17,7 +17,7 @@ Thank you all for a great opening of the Dutch rowing season last weekend! Congr
 
 ##### Check de photos!
 
-Below you will find several link of pgotographers that were present around the race course during the weekend of the Head of the River 2024. Check if you can find yourself!
+Below you will find several links of photographers who were present around the race course during the weekend of the Head of the River 2024. Check if you can find yourself!
 
 * [Leo de Keizer (LOEP)](https://www.loep.nu/roeiwedstrijden-2024/)
 * [Kylian Alkemade](https://www.kylianalkemade.nl/head-of-the-river-amstel-2024-zaterdag/)
