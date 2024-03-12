@@ -13,7 +13,7 @@ categories:
   - All
 author: Guido
 ---
-<https://www.facebook.com/media/set/?set=a.920079966786673&type=3>Dank allemaal! Wat een fantastische opening van het roeiseizoen hebben we afgelopen weekend mogen beleven. Felicitaties aan alle winnaars. En dank aan alle roeiers, coaches en alle vrijwilligers die hieraan een bijdrage hebben geleverd. Op naar een mooi vervolg van het seizoen en we zien jullie volgend jaar graag weer terug!
+Dank allemaal! Wat een fantastische opening van het roeiseizoen hebben we afgelopen weekend mogen beleven. Felicitaties aan alle winnaars. En dank aan alle roeiers, coaches en alle vrijwilligers die hieraan een bijdrage hebben geleverd. Op naar een mooi vervolg van het seizoen en we zien jullie volgend jaar graag weer terug!
 
 ##### Check de fotos!
 
