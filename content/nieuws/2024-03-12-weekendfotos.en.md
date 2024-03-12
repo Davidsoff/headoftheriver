@@ -24,3 +24,4 @@ Below you will find several link of pgotographers that were present around the r
 * [Daniel Korvemaker](https://danielkorvemaker.nl/) 
 * [KNRB](https://knrb.pixieset.com/headoftheriveramstel/)
 * [Jonathan Ogilivie](https://www.facebook.com/media/set/?set=a.920079966786673&type=3)
+* [Hannah Barnhoorn](https://hannahbarnhoornfotografie.myportfolio.com/head-of-the-river-amstel)
