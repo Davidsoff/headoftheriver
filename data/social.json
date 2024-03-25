@@ -14,6 +14,12 @@
       "name": "linkedin",
       "icon": "fab fa-linkedin",
       "link": "https://www.linkedin.com/company/head-of-the-river-amstel"
+    },
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/channel/UCIvdUJ0Mz4CIXn8-xkzSTAg"
     }
+
   ]
 }

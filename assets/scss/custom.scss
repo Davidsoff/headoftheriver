@@ -288,3 +288,16 @@ cursor: pointer;
   aspect-ratio: 16 / 9;
   width: 100%;
 }
+
+.gallery::after {
+  content: "";
+  flex-grow: 99999;
+  min-width: calc(100vw / 5);
+}
+
+.gallery .gallery-item {
+  margin: 0 10px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  max-width: calc(100% - 20px);
+}
