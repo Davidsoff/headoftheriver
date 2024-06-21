@@ -1,8 +1,8 @@
 ---
 # Slider
 slider:
-  title: "9 & 10 MAART 2024"
-  CD_date: "Mar 9, 2024 12:00:00"
+  title: "8 & 9 MAART 2025"
+  CD_date: "Mar 8, 2025 12:00:00"
 
 # Divider-quote
 dividerquote:

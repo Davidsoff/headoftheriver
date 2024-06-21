@@ -34,6 +34,8 @@ Via onderstaande links vind je meer fotos namens de organisatie van de Head of t
  {{< youtube R7sLkPGVkcg >}}
 </div>
 
+Voor commercieel gebruik van bovenstaand beeldmateriaal neem contact op met communicatie@headoftheriver.nl of maak gebruik van ons [contactformulier](../contact/).
+
 ## Social Media
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-791b1fa6-4ca9-4328-b0b3-96a2a136056d" data-elfsight-app-lazy></div>

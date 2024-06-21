@@ -1,10 +1,13 @@
+
 (function () {
-    const second = 1000,
+        const second = 1000,
         minute = second * 60,
         hour = minute * 60,
         day = hour * 24;
 
-    const countDown = new Date("Mar 9, 2024 12:00:00").getTime();
+    // const countDown = new Date(params.CD_date).getTime();
+    const countDown = new Date("Mar 8, 2025 12:00:00").getTime();
+
 
     x = setInterval(function () {
 
