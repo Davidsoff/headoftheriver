@@ -136,9 +136,94 @@ h6 {
   color: #ffffff;
 }
 
+///// Quick links bar /////
+.quicklinks-section .quicklinks-container {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  position:relative; 
+  box-sizing: border-box;
+  z-index: 2;
+}
+
+.quicklinks-column {
+  width: 100%;
+  position: relative;
+  min-height: 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.quicklinks-widgetwrap {
+  position: relative;
+  width: 100%;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.quicklinks-element {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.quicklinks-widget-container {
+  position: relative;
+  margin: -50px 0px 0px 0px;
+  background-color: #62B0E2;
+  background-image: url('/images/quicklinks-bg.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px 30px 30px 30px;
+  box-sizing: border-box;
+}
+
+.ql-content-wrap {
+  position: relative;
+  background-color: #AF3C3C00;
+  padding: 32px 16px;
+  box-sizing: border-box;
+}
+
+.ql-content-header {
+  position: relative;
+  width: 30%;
+  box-sizing: border-box;
+}
+
+.ql-content-header__title {
+  position: relative;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 1.29;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+}
+
+.ql-content-header__desc {
+  position: relative;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.67;
+  color: #ffffff;
+}
+
+
+///// logo transition /////
+.logo-light{
+  transition: 0.4s;
+}
+
+///// navbar /////
 .nav-link {
   @apply text-dark hover:text-head dark:text-darkmode-dark active:text-head;
 }
+
 
 .nav-dropdown-link {
   @apply text-dark hover:text-head dark:text-darkmode-text dark:hover:text-darkmode-primary active:underline;
