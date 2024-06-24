@@ -5,7 +5,7 @@
     <div class="order-0">
       <!-- navbar brand/logo -->
       <a class="navbar-brand block" href="{{ site.BaseURL | relLangURL }}">
-        {{ partial "logo" }}
+        {{ partial "essentials/logo.html" (dict "logo_id" "navbar-logo")}}
       </a>
     </div>
     <!-- navbar toggler -->
