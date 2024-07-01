@@ -1,12 +1,19 @@
+{{/*  https://revibe-main--headoftheriver.netlify.app/  */}}
 {{ define "main" }}
 {{ with site.GetPage "homepage" }}
 <!-- slider image -->
 {{ with .Params.slider }}
 <section class="section-hslider">
   <div class="home-slider">
-    {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
-    <div class="item" style="background-image: url('{{ $image.RelPermalink }}'); height: 600px;">
+    {{ $video := resources.Get "images/homepage/head_site_v01.mp4" }}
+    <div class="video_container item">
+      <video class=video_back id="video_header" muted loop playsinline autoplay>
+        <source src="{{ $video.RelPermalink }}" type="video/mp4">
+      </video>
     </div>
+    {{/*  {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
+    <div class="item" style="background-image: url('{{ $image.RelPermalink }}'); height: 600px;">
+    </div>  */}}
     <div class="caption_home">
       <div class="container">
         <div class="slide_title">
@@ -27,6 +34,71 @@
 </section>
 {{ end }}
 <!-- /slider image -->
+
+<!-- Quick link menu -->
+<section class="section-quicklinks">
+  <div class="container" style="margin:auto;">
+    <div class="row justify-center">
+  {{/*  <div class="quicklinks-container">
+    <div class=" justify-center quicklinks-column">  */}}
+      <div class="quicklinks-widgetwrap">
+        <div class="quicklinks-widget-container">
+          <div class="ql-content-wrap">
+            <div class="ql-content-header">
+              <h2 class="ql-content-header__title">De Head in het kort</h2>
+              <div class="ql-content-header__desc">Hier vind je links naar de meest belangrijke informatie rondom de Head of the River</div>
+            </div>
+            <div class="ql-content-main">
+              <ul class="ql-content-main-button-wrap">
+                <li>
+                  <a href="deelnemers/inschrijving/">
+                    <button type="button" class="ql-content-main-button-link">Inschrijven</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="deelnemers/uitslag/">
+                    <button type="button" class="ql-content-main-button-link">Uitslagen</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="deelnemers/stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf" target="_blank" rel="noopener">
+                    <button type="button" class="ql-content-main-button-link">Baankaart</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="deelnemers/tijdschema/">
+                    <button type="button" class="ql-content-main-button-link">Tijdschema</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="deelnemers/bepaling/">
+                    <button type="button" class="ql-content-main-button-link">Regels</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="deelnemers/botenwagens/">
+                    <button type="button" class="ql-content-main-button-link">Botenwagens</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="over/organisatie/">
+                    <button type="button" class="ql-content-main-button-link">Organisatie</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="over/vrijwilligers/">
+                    <button type="button" class="ql-content-main-button-link">Vrijwilligers</button>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{/*  <!-- Uitslagen -->
 <section class="section-home">
   <div class="container" style="margin:auto;">
@@ -57,29 +129,9 @@
       </div>
     </div>
   </div>
-</section>
-<!-- /Aftermovie -->  */}}
-<!-- Latest News -->
-<section class="quicklinks-section">
-  <div class="quicklinks-container">
-    <div class="quicklinks-column">
-      <div class="quicklinks-widgetwrap">
-        <div class="quicklinks-widget-container">
-          <div class="ql-content-wrap">
-            <div class="ql-content-header">
-              <h2 class="ql-content-header__title">De Head in het kort</h2>
-              <div class="ql-content-header__desc">Hiernaast vind je links naar de meest belangrijke informatie rondom de Head</div>
-            </div>
-            <div class="ql-content-links">
+</section>  */}}
 
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
+<!-- Laatste Nieuws -->
 <section class="section-home">
   <div class="container" style="margin:auto;">
     <div class="row justify-center">
