@@ -21,4 +21,4 @@ Ben jij een multitasker? Dan is de informatiebalie iets voor jou! Mensen komen h
 #### Vlotcommissaris
 Kan jij door de bomen altijd het bos nog zien? Help orde scheppen op het vlot, zorg dat ploegen op tijd vertrekken en snel hun boot uit het water halen na hun race. Voor deze functie is het handig als je niet op je mond bent gevallen, maar mensen wel met een glimlach kunt overhalen te doen waar je om vraagt.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvysQ-jUGuO3Xqao3PvTvZpHNPAUyRDirxjnEgGtDW7kAqyg/viewform?embedded=true" width="640" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvysQ-jUGuO3Xqao3PvTvZpHNPAUyRDirxjnEgGtDW7kAqyg/viewform?embedded=true" width="640" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
