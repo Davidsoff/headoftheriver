@@ -1,37 +1,11 @@
 {{/*  https://revibe-main--headoftheriver.netlify.app/  */}}
 {{ define "main" }}
 {{ with site.GetPage "homepage" }}
-<!-- slider image -->
+
+<!-- slider image  / choice for video or still header image-->
 {{ with .Params.slider }}
-<section class="section-hslider">
-  <div class="home-slider">
-    {{ $video := resources.Get "images/homepage/head_site_v01.mp4" }}
-    <div class="video_container item">
-      <video class=video_back id="video_header" muted loop playsinline autoplay>
-        <source src="{{ $video.RelPermalink }}" type="video/mp4">
-      </video>
-    </div>
-    {{/*  {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
-    <div class="item" style="background-image: url('{{ $image.RelPermalink }}'); height: 600px;">
-    </div>  */}}
-    <div class="caption_home">
-      <div class="container">
-        <div class="slide_title">
-          <div>
-            {{ $image := resources.Get "images/logos/logo-darkmode.png" }}
-            <img src="{{ $image.RelPermalink }}" alt="Head of the River">
-          </div>
-          <div>
-            <h1>{{ .title | markdownify }}</h1>
-          </div>
-          <div>
-            {{ partial "components/countdown.html" . }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+{{ partial "essentials/header_video" . }}
+{{/*  {{ partial "essentials/header_photo" . }}  */}}
 {{ end }}
 <!-- /slider image -->
 
@@ -53,6 +27,8 @@
                 <li>
                   <a href="deelnemers/inschrijving/">
                     <button type="button" class="ql-content-main-button-link">Inschrijven</button>
+                  {{/*  TODO - Translate buttons to English (i18n) */}}
+                  {{/*  TODO - Put links in front matter */}}
                   </a>
                 </li>
                 <li>
@@ -147,6 +123,7 @@
   </div>
 </section>
 <!-- /Latest News -->
+
 <!-- Divider - Quote -->
 {{ with .Params.dividerquote }}
 <section class="section-home mt-8 mb-8 bg-theme-head">
@@ -160,6 +137,7 @@
 </section>
 {{ end }}
 <!-- /Divider - Quote -->
+
 <!-- LinkTiles -->
 {{ with .Params.linktiles }}
 <section class="section-home">
@@ -222,6 +200,7 @@
 </section>
 {{ end }}
 <!-- /Tiles -->
+
 <!-- Weather -->
 <section class="section-home mt-8 mb-8">
   <div class="row items-center justify-between">
@@ -236,6 +215,7 @@
     </div>
 </section>
 <!-- /Weather -->
+
 <!-- Sponsors -->
 <section class="section-home mb-8">
   <div class="container">

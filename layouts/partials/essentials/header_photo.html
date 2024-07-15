@@ -1,0 +1,24 @@
+<section class="section-hslider">
+    <div class="home-slider">
+      {{ $image := resources.Get "images/homepage/HomeSider_2023_Blue_1920-2.jpg" }}
+      <div class="image_container item">
+        <img class="image_back" src="{{ $image.RelPermalink }}">
+      </div>
+      <div class="caption_home">
+        <div class="container">
+          <div class="slide_title">
+            <div>
+              {{ $image := resources.Get "images/logos/logo-darkmode.png" }}
+              <img src="{{ $image.RelPermalink }}" alt="Head of the River">
+            </div>
+            <div>
+              <h1>{{ .title | markdownify }}</h1>
+            </div>
+            <div>
+              {{ partial "components/countdown.html" . }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

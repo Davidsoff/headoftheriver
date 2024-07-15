@@ -2,19 +2,19 @@
   translation: Home
 
 - id: news
-  translation: Latest News
+  translation: Latest news
 
 - id: poweredBy
-  translation: Powered By
+  translation: Powered by
 
 - id: read_more
-  translation: Read More
+  translation: Read more
 
 - id: send
   translation: Send
 
 - id: related_posts
-  translation: Related Posts
+  translation: Related posts
 
 - id: categories
   translation: Categories
@@ -23,13 +23,13 @@
   translation: Tags
 
 - id: toc
-  translation: Table of Contents
+  translation: Table of contents
 
 - id: share
   translation: Share
 
 - id: search_input_placeholder
-  translation: Search Post ...
+  translation: Search post ...
 
 - id: no_results_for
   translation: No results for
@@ -68,7 +68,7 @@
   translation: Current weather code
   
 - id: liveresults
-  translation: Live Results
+  translation: Live results
 
 - id: aftermovie
-  translation: Event Impression 
+  translation: Event impression 

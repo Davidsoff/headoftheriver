@@ -26,7 +26,7 @@
 .section-hslider {
   position:relative; 
   z-index:2;
-  padding: (8px 0px 0px 0px);
+  padding: (0px 0px 0px 0px);
 }
 
 .home-slider { 
@@ -37,16 +37,8 @@
   place-items: center;
 }
 
-.home-slider .item {
-  // min-height: 100%;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-
-.home-slider .item:before {
+.home-slider:before {
   content: '';
-  // display: block;
   position: absolute;
   top: 0;
   left: 0;
@@ -54,14 +46,35 @@
   height: 100%;
   background: rgba(99, 176, 227, 0); /* set color overlay in Head blue by adding opacity (alpha) of 0.4-0.5 */
 }
-///// video header /////
-.video_container {
-  // width: 20%;
+
+///// still image header ///// 
+.home-slider .item {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.image_container {
   position: relative;
   overflow: hidden;
   display: block;
   z-index: -1;
-  // height: 100%;
+}
+
+.image_back {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  margin-top: -8%; 
+}
+
+///// video header /////
+.video_container {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  z-index: -1;
 }
 
 .video_back {
@@ -480,3 +493,10 @@ cursor: pointer;
   overflow: hidden;
   max-width: calc(100% - 20px);
 }
+
+///// Accordions /////
+.accordion.active .accordion-content {
+  max-height: 300vh;
+}
+
+

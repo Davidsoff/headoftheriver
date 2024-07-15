@@ -12,6 +12,15 @@ menu:
 ### Results archive 
 Below you will find the results of the Head of the River Amstel of the past years.
 
+{{< accordion "Results 2024" >}}
+
+The results of the Head of the River Amstel 2024 can be viewed via the link below.
+.
+
+<a href="https://hoesnelwasik.nl/head/2024/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
+
+{{< /accordion >}}
+
 {{< accordion "Results 2023" >}}
 
 The results of the Head of the River Amstel 2023 can be viewed via the link below.

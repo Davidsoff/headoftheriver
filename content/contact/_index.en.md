@@ -6,11 +6,10 @@ identifier: contact
 name: contact
 menus: 
   main:
-    weight: 5
+    weight: 6
 draft: false
 _build:
   render: ""
-
 
 title_name: "Name"
 title_emailaddress: "Email address"
