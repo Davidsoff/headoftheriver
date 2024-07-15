@@ -1,15 +1,12 @@
 ---
 title: "Media"
 meta_title: ""
-description: "Media Page"
-identifier: Media
-name: Media
-menus: 
-  main:
-    weight: 7
+description: "Media of the Head of the River Amstel"
 draft: false
-_build:
-  render: ""
+menu:
+  main:
+    parent: About
+    weight: 5
 ---
 ## Evenementimpressie 2024
 

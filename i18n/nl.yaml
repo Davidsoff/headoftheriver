@@ -2,7 +2,7 @@
   translation: Home
 
 - id: news
-  translation: Laatste Nieuws
+  translation: Laatste nieuws
 
 - id: poweredBy
   translation: Mede mogelijk gemaakt door
@@ -68,7 +68,7 @@
   translation: Huidige weercode
 
 - id: liveresults
-  translation: Live Uitslagen
+  translation: Live uitslagen
 
 - id: aftermovie
   translation: Evenementimpressie  

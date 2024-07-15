@@ -5,8 +5,8 @@ description: "Hotels and accommodation around Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: Participants
-    weight: 70
+    parent: Visitors
+    weight: 20
 ---
 ### Hotels close to the regatta location
 **Mercure Hotel Amsterdam City (5 minutes walk to the Regatta Office at Willem III)**   

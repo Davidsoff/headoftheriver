@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "Visitors"
 meta_title: ""
 description: ""
-identifier: Over
-name: About
+identifier: Bezoekers
+name: Visitors
 menus: 
   main:
-    weight: 5
+    weight: 4
 draft: false
 _build:
   render: ""

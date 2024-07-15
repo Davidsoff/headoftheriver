@@ -1,0 +1,26 @@
+<section class="section-hslider">
+    <div class="home-slider">
+      {{ $video := resources.Get "images/homepage/head_site_v01.mp4" }}
+      <div class="video_container">
+        <video class=video_back id="video_header" muted loop playsinline autoplay>
+          <source src="{{ $video.RelPermalink }}" type="video/mp4">
+        </video>
+      </div>
+      <div class="caption_home">
+        <div class="container">
+          <div class="slide_title">
+            <div>
+              {{ $image := resources.Get "images/logos/logo-darkmode.png" }}
+              <img src="{{ $image.RelPermalink }}" alt="Head of the River">
+            </div>
+            <div>
+              <h1>{{ .title | markdownify }}</h1>
+            </div>
+            <div>
+              {{ partial "components/countdown.html" . }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

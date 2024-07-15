@@ -5,8 +5,8 @@ description: "UOvernachtingslocaties rondom de Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: Deelnemers
-    weight: 70
+    parent: Bezoekers
+    weight: 20
 ---
 ### Hotels dichtbij de regattalocatie
 **Mercure Hotel Amsterdam City (5 minuten loopafstand van Willem III)**   
