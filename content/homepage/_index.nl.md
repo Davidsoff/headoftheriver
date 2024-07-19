@@ -4,6 +4,30 @@ slider:
   title: "8 & 9 MAART 2025"
   CD_date: "Mar 8, 2025 12:00:00"
 
+# Quick links menu
+quick_links:
+  ql_header: De Head in het kort
+  ql_desc: Hier vind je links naar de meest belangrijke informatie rondom de Head of the River
+  buttons:
+    - button: Inschrijven
+      link: "deelnemers/inschrijving/"
+    - button: Uitslagen
+      link: "deelnemers/uitslag/"
+    - button: Baankaart
+      link: "deelnemers/stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf"
+    - button: Tijdschema
+      link: "deelnemers/tijdschema/"
+    - button: Bepalingen
+      link: "deelnemers/bepaling/"
+    - button: Botenwagens
+      link: "deelnemers/botenwagens/"
+    - button: Organisatie
+      link: "over/organisatie/"
+    - button: Vrijwilligers
+      link: "over/vrijwilligers/"
+  
+
+
 # Divider-quote
 dividerquote:
   title: "'Dé Lange Afstandsklassieker van Nederland'"
