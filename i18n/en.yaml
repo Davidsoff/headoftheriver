@@ -72,3 +72,28 @@
 
 - id: aftermovie
   translation: Event impression 
+
+  # QuickLinks Home page
+- id: hp_inschrijven
+  translation: Entries
+
+- id: hp_uitslagen
+  translation: Results
+
+- id: hp_baankaart
+  translation: Course map
+
+- id: hp_tijdschema
+  translation: Schedule
+
+- id: hp_bepalingen
+  translation: Rules
+
+- id: hp_botenwagens
+  translation: Boat trailers
+   
+- id: hp_organisatie
+  translation: Organising committee
+
+- id: hp_vrijwilligers
+  translation: Volunteers
