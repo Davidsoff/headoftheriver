@@ -45,38 +45,6 @@
 </section>
 {{ end }}
 
-{{/*  <!-- Uitslagen -->
-<section class="section-home">
-  <div class="container" style="margin:auto;">
-    <div class="row justify-center">
-      <div class="lg:col-10 mb-8 mt-8 text-center">
-        <h2>{{i18n "liveresults"}}</h2>
-      </div>
-    </div>
-    <div class="row justify-center">
-      <div class="lg:col-10 mb-8 mt-8 text-center irishome">
-      <a href="https://hoesnelwasik.nl/head/2024/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
-    </div>
-  </div>
-  </div>
-</section>  */}}
-
-{{/*  <!-- Aftermovie -->
-<section class="section-home">
-  <div class="container" style="margin:auto;">
-    <div class="row justify-center">
-      <div class="lg:col-10 mb-8 mt-8 text-center">
-        <h2>{{i18n "aftermovie"}}</h2>
-      </div>
-    </div>
-    <div class="row justify-center">
-      <div class="lg:col-6 mb-0 mt-0 text-center">
-          <iframe  class="youtube-aftermovie" src="https://www.youtube.com/embed/R7sLkPGVkcg?si=DyZkxR1wuEM_azGE&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
-    </div>
-  </div>
-</section>  */}}
-
 <!-- Laatste Nieuws -->
 <section class="section-home">
   <div class="container" style="margin:auto;">
@@ -156,19 +124,6 @@
             <h4 class="mt-3 mb-3">{{ .title4 | markdownify }}</h4>
           </div>
       </div>
-      {{/*  <div class="md:col-6 lg:col-3 mb-4">
-        <a href="{{ .link4 | absURL }}">
-          <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center "
-            style="padding: 16px; height:100%;">
-            <div class="mx-auto mb-6 home-tilelink ">
-              {{ $image := resources.Get .image4 }}
-              <img src="{{ $image.Permalink }}" caption="" alt="image4" loading="lazy" decoding="async">
-            </div>
-            <h4 class="mb-3">{{ .title4 | markdownify }}</h4>
-            <p class="mb-4" style="overflow: hidden;">{{ .text4 | markdownify }}</p>
-          </div>
-        </a>
-      </div>  */}}
     </div>
     {{- $js_counter := resources.Get "js/counter.js" -}}
     <script src="{{ $js_counter.Permalink }}"></script>

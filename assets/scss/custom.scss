@@ -602,7 +602,7 @@ cursor: pointer;
   >div {
     flex: 1 1;
     margin: 1rem 0;
-    min-width: 100px;
+    min-width: 275px;
     max-width: 100%;
     padding: 0 1rem;
   }
@@ -610,5 +610,12 @@ cursor: pointer;
   .markdown-inner {
     margin-top: 0;
     margin-bottom: 0;
+  }
+}
+
+/* Example for responsive behavior */
+@media (max-width: 768px) {
+  .md-columns {
+    flex: 100%;
   }
 }
