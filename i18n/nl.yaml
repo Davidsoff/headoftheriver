@@ -73,27 +73,3 @@
 - id: aftermovie
   translation: Evenementimpressie  
 
-# QuickLinks Home page
-- id: hp_inschrijven
-  translation: Inschrijven
-
-- id: hp_uitslagen
-  translation: Uitslagen
-
-- id: hp_baankaart
-  translation: Baankaart
-
-- id: hp_tijdschema
-  translation: Tijdschema
-
-- id: hp_bepalingen
-  translation: Bepalingen
-
-- id: hp_botenwagens
-  translation: Botenwagens
-   
-- id: hp_organisatie
-  translation: Organisatie
-
-- id: hp_vrijwilligers
-  translation: Vrijwilligers
