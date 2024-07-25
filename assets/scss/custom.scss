@@ -266,7 +266,8 @@
   // grid-template-columns: repeat(auto-fit, minmax(85px, 1fr));
   grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size, 10rem), 1fr));
   grid-gap: 20px;
-  margin-bottom: 20px;
+  // margin-bottom: 10px;
+  // margin-top: 10px;
   display: grid;
   box-sizing: border-box;
 }
@@ -279,6 +280,22 @@
   line-height: 1.67;
   color: #ffffff;
   background: transparent;
+  overflow: unset;
+  padding: 10px;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.ql-content-header-button-link {
+  position: relative;
+  width: 100%;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.67;
+  color: #62B0E2;
+  background-color: #ffffff;
+  // background: transparent;
   overflow: unset;
   padding: 10px;
   border: 2px solid #FFFFFF;
@@ -393,7 +410,36 @@ h6 {
   padding-bottom: 3px;
 }
 
+// partner table style
+.partnertable table {
+  width: 100%;
+  border: 0px solid;
+}
+.partnertable thead {
+  width: 100%;
+  border: 0px solid;
+}
+.partnertable body {
+  border: 0px solid;
+}
+.partnertable th  {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background-color: #ffffff;
+  border: 0px solid;
+}
+.partnertable td {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border: 0px solid;
+}
+.partnertable tr {
+  border: 0px solid;
+}
 
+.partnertable table::before  {
+  border-width: 0px;
+}
 
 ////////// Fixed Window //////////
 
@@ -499,4 +545,70 @@ cursor: pointer;
   max-height: 300vh;
 }
 
+///// counter /////
+.counters {
+  position: relative;
+}
 
+.counter_container {
+  
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto;
+  aspect-ratio: 1/1;
+  border-color: #ffffff;
+  color: #ffffff;
+  background-color: #62B0E2;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+}
+.counter_layout {
+  // padding: 30px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1;
+  max-width: 100%;
+  transition-duration: inherit;
+  box-sizing: border-box;
+}
+.counter {
+  position: relative;
+}
+.counter_textmain {
+  position: relative;
+  will-change: contents;
+  font-weight: 400;
+  margin: 0 auto;
+  // font-size: 3.5em;
+  word-wrap: break-word;
+  padding: 0;
+  color: #ffffff;
+}
+
+///// multiple columns in MD /////
+
+.md-columns {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -1rem;
+  margin-right: -1rem;
+
+  >div {
+    flex: 1 1;
+    margin: 1rem 0;
+    min-width: 100px;
+    max-width: 100%;
+    padding: 0 1rem;
+  }
+
+  .markdown-inner {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}

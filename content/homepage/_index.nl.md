@@ -6,11 +6,12 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_header: De Head in het kort
+  ql_header: Wordt nu Partner!
   ql_desc: Hier vind je links naar de meest belangrijke informatie rondom de Head of the River
+  ql_header_link: "over/partners/"
   buttons:
-    - button: Inschrijven
-      link: "deelnemers/inschrijving/"
+    - button: Media
+      link: "over/media/"
     - button: Uitslagen
       link: "deelnemers/uitslag/"
     - button: Baankaart
@@ -34,19 +35,23 @@ dividerquote:
 
 # Link Tiles
 linktiles:
-  title1: "Tijdschema"
+  title1: "Deelnemers"
+  value1: 1000
   text1: "Benieuwd hoelaat je moet starten? Check de bloktijden voor een indicatie"
   image1: "/images/homepage/tilelinks/timetable (Large).jpg"
   link1: "/deelnemers/tijdschema/"
-  title2: "Loting"
+  title2: "Boten"
+  value2: 350
   text2: "Vind je plek in de loting"
   image2: "/images/homepage/tilelinks/draw (Large).jpg"
   link2: "/deelnemers/loting/"
-  title3: "Stuurlieden"
+  title3: "Vrijwilligers"
+  value3: 200
   text3: "Volg een korte instructie hoe de Amstel te bevaren tijdens de Head"
   image3: "/images/homepage/tilelinks/coxwain (Large).jpg"
   link3: "/deelnemers/stuurliedeninstructie/"
-  title4: "Uitslagen"
+  title4: "Trofeeën"
+  value4: 15
   text4: "Bekijk de uitslagen van afgelopen jaren"
   image4: "/images/homepage/tilelinks/results (Large).jpg"
   link4: "/deelnemers/uitslag/"

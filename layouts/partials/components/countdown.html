@@ -9,6 +9,12 @@
     </div>
 </div>
 
-<script 
+{{- $js := resources.Get "js/countdown.js" -}}
+{{- $datevar := .CD_date -}}
+{{- $opts := dict "params" (dict "countdown_date" $datevar) -}}
+{{- $js = $js | js.Build $opts -}}
+<script src="{{ $js.Permalink }}"></script>
+
+{{/*  <script 
     src="/js/countdown.js">
-</script>
+</script>  */}}

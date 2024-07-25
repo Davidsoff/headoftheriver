@@ -6,8 +6,9 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_header: The Head in short
+  ql_header: Become a Partner!
   ql_desc: Here you will find quick links to the most important information of the Head of the River
+  ql_header_link: "over/partners/"
   buttons:
     - button: Entries
       link: "deelnemers/inschrijving/"
@@ -28,80 +29,31 @@ quick_links:
 
 # Divider-quote
 dividerquote:
-  title: "'The long-distance classic of The Netherlands'"
+  title: "'The long-distance rowing classic of The Netherlands'"
     
 # Link Tiles
 linktiles:
-  title1: "Block schedule"
-  text1: "Find out what events will be there at the Head of the River Amstel 2024"
+  title1: "Participants"
+  value1: 1000
+  text1: "Benieuwd hoelaat je moet starten? Check de bloktijden voor een indicatie"
   image1: "/images/homepage/tilelinks/timetable (Large).jpg"
   link1: "/deelnemers/tijdschema/"
-  title2: "Draw"
-  text2: "Find your position in the Draw"
+  title2: "Boats"
+  value2: 350
+  text2: "Vind je plek in de loting"
   image2: "/images/homepage/tilelinks/draw (Large).jpg"
   link2: "/deelnemers/loting/"
-  title3: "Coxwain info"
-  text3: "Find a brief instruction about the rules on the river Amstel during the Head"
+  title3: "Volunteers" 
+  value3: 200
+  text3: "Volg een korte instructie hoe de Amstel te bevaren tijdens de Head"
   image3: "/images/homepage/tilelinks/coxwain (Large).jpg"
   link3: "/deelnemers/stuurliedeninstructie/"
-  title4: "Uitslagen"
-  text4: "As soon as we have them, you will find them here"
+  title4: "Trophies"
+  value4: 15
+  text4: "Bekijk de uitslagen van afgelopen jaren"
   image4: "/images/homepage/tilelinks/results (Large).jpg"
   link4: "/deelnemers/uitslag/"
 
-
-
-
-######### OLD TEMPLATE #######
-# Banner
-banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
-
-# Features
-features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
 ---
+
+
