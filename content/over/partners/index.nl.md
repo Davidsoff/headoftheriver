@@ -6,13 +6,22 @@ draft: false
 menu: {main: {parent: Over, weight: 50}}
 ---
 ### Head of the River partners
-Huidige partners
+<div class="lg:col-10 mb-0 mt-0 text-center">
+  <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
+    class="bg-transparent dark:bg-white p-px"
+    style="min-width:150px; width: 25%; display: block;  position:relative; margin-top: 25px;"></a>
+</div>
+
 
 ### Partnerschap
 
 The Head of the River is een van de meest prestigueze roeievenementen in Nederland. Als officiele sponsor van de Head of the River raakt u betrokken bij een breed bezocht roeievenement met een grote verscheidenheid aan deelnemers en vrijwilligers.
 
-# Video partners
+<div style="width: 100%; max-width: 700px; padding-bottom:50px">
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/RnKlrl4BSQY" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+</div>
 
 {{% columns %}}
 

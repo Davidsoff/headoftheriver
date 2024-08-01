@@ -73,4 +73,11 @@
 - id: aftermovie
   translation: Event impression 
 
-  
+- id: submenus
+  translation: Submenus
+
+- id: quick_links
+  translation: Quick links
+
+- id: faq
+  translation: Frequently asked questions

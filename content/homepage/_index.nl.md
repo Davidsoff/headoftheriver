@@ -6,9 +6,12 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_header: Wordt nu Partner!
-  ql_desc: Hier vind je links naar de meest belangrijke informatie rondom de Head of the River
-  ql_header_link: "over/partners/"
+  ql_col1: Word nu Partner!
+  ql_col1_link: "over/partners/"
+  ql_col2: Deelnemers
+  ql_col2_link: "deelnemers/"
+  ql_col3: Vrijwilligers
+  ql_col3_link: "over/vrijwilligers/"
   buttons:
     - button: Media
       link: "over/media/"
@@ -27,8 +30,6 @@ quick_links:
     - button: Vrijwilligers
       link: "over/vrijwilligers/"
   
-
-
 # Divider-quote
 dividerquote:
   title: "'Dé Lange Afstandsklassieker van Nederland'"

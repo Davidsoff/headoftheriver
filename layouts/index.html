@@ -11,38 +11,8 @@
 
 <!-- Quick link menu -->
 {{ with .Params.quick_links }}
-<section class="section-quicklinks">
-  <div class="container" style="margin:auto;">
-    <div class="row justify-center">
-  {{/*  <div class="quicklinks-container">
-    <div class=" justify-center quicklinks-column">  */}}
-      <div class="quicklinks-widgetwrap">
-        <div class="quicklinks-widget-container">
-          <div class="ql-content-wrap">
-            <div class="ql-content-header">
-              <a href= {{ .ql_header_link }} >
-                <button type="button" style=height:100% class="ql-content-header-button-link">{{ .ql_header }}</button>
-              </a>
-              {{/*  <h2 class="ql-content-header__title">{{ .ql_header | markdownify }}</h2>
-              <div class="ql-content-header__desc">{{ .ql_desc | markdownify }}</div>  */}}
-            </div>
-            <div class="ql-content-main">
-              <ul class="ql-content-main-button-wrap">
-                {{ range $i, $e:= .buttons }}
-                <li>
-                  <a href= {{ .link }} >
-                    <button type="button" class="ql-content-main-button-link">{{ .button }}</button>
-                  </a>
-                </li>
-                {{ end }}
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+{{/*  {{ partial "essentials/quick_links_small_buttons" . }}  */}}
+{{ partial "essentials/quick_links_three_buttons" . }}
 {{ end }}
 
 <!-- Laatste Nieuws -->

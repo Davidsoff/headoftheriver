@@ -6,9 +6,12 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_header: Become a Partner!
-  ql_desc: Here you will find quick links to the most important information of the Head of the River
-  ql_header_link: "over/partners/"
+  ql_col1: Become Partner!
+  ql_col1_link: "over/partners/"
+  ql_col2: Participants
+  ql_col2_link: "deelnemers/"
+  ql_col3: Volunteers
+  ql_col3_link: "over/vrijwilligers/"
   buttons:
     - button: Entries
       link: "deelnemers/inschrijving/"
