@@ -73,3 +73,11 @@
 - id: aftermovie
   translation: Evenementimpressie  
 
+- id: submenus
+  translation: Submenus
+
+- id: quick_links
+  translation: Handige links
+
+- id: faq
+  translation: Veelgestelde vragen

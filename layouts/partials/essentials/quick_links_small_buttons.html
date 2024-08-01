@@ -1,0 +1,32 @@
+<section class="section-quicklinks">
+    <div class="container" style="margin:auto;">
+      <div class="row justify-center">
+    {{/*  <div class="quicklinks-container">
+      <div class=" justify-center quicklinks-column">  */}}
+        <div class="quicklinks-widgetwrap">
+          <div class="quicklinks-widget-container">
+            <div class="ql-content-wrap">
+              <div class="ql-content-col">
+                <a href= {{ .ql_col1_link }} >
+                  <button type="button" style=height:100% class="ql-content-col-button-link">{{ .ql_col1 }}</button>
+                </a>
+                {{/*  <h2 class="ql-content-col__title">{{ .ql_col | markdownify }}</h2>
+                <div class="ql-content-col__desc">{{ .ql_desc | markdownify }}</div>  */}}
+              </div>
+              <div class="ql-content-main">
+                <ul class="ql-content-main-button-wrap">
+                  {{ range $i, $e:= .buttons }}
+                  <li>
+                    <a href= {{ .link }} >
+                      <button type="button" class="ql-content-main-button-link">{{ .button }}</button>
+                    </a>
+                  </li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

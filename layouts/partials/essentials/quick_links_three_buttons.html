@@ -1,0 +1,30 @@
+<section class="section-quicklinks">
+    <div class="container" style="margin:auto;">
+      <div class="row justify-center">
+    {{/*  <div class="quicklinks-container">
+      <div class=" justify-center quicklinks-column">  */}}
+        <div class="quicklinks-widgetwrap">
+          {{ $bg_im := resources.Get "images/homepage/ql_background.png" }}
+          <div class="quicklinks-widget-container" style = "background-image: url('{{ $bg_im.RelPermalink }}')">
+            <div class="ql-content-wrap">
+              <div class="ql-content-col">
+                <a href= {{ .ql_col1_link }} >
+                  <button type="button" style=height:100% class="ql-content-col-button-link">{{ .ql_col1 }}</button>
+                </a>
+              </div>
+              <div class="ql-content-col">
+                <a href= {{ .ql_col2_link }} >
+                  <button type="button" style=height:100% class="ql-content-col-button-link">{{ .ql_col2 }}</button>
+                </a>
+              </div>
+              <div class="ql-content-col">
+                <a href= {{ .ql_col3_link }} >
+                  <button type="button" style=height:100% class="ql-content-col-button-link">{{ .ql_col3 }}</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
