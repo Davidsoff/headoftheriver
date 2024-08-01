@@ -6,5 +6,3 @@ command = "yarn project-setup; yarn build"
 HUGO_VERSION = "0.117.0"
 GO_VERSION = "1.20.5"
 
-[[plugins]]
-package = "netlify-plugin-image-optim"
