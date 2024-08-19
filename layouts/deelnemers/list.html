@@ -15,11 +15,6 @@
               <div class="lb-content-main">
                 <ul class="lb-content-main-button-wrap">
                   {{ range .RegularPages }}
-                  {{/* <li class="m-3">
-                    <a href="{{ .Permalink }}" class="text-dark dark:text-darkmode-dark block ">
-                      {{ .Title }}
-                    </a>
-                  </li> */}}
                   <li>
                     <a href="{{ .Permalink }}">
                       <button type="button" class="lb-content-main-button-link">{{ .Title }}</button>
@@ -68,18 +63,4 @@
 </section>
 {{ end }}
 
-<section class="section-sm">
-  <div class="container">
-    <div class="row justify-center">
-      <div class="lg:col-10">
-        <div class="content">
-          <h3>{{i18n "faq"}}</h3>
-        </div>
-        <div class="content">
-          {{ .Content }}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 {{ end }}

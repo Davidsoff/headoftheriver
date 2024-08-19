@@ -11,6 +11,11 @@ menu:
 ### Uitslagenarchief 
 Hieronder vind je de uitslagen van de Head of the River Amstel van de afgelopen jaren.
 
+{{< results_years >}}
+
+
+
+
 {{< accordion "Uitslagen 2024" >}}
 
 De uitslagen van de Head of the River Amstel 2024 kan je vinden via onderstaande link.
