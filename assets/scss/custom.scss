@@ -210,7 +210,7 @@
 
 .quicklinks-widget-container {
   position: relative;
-  margin: -3vw 0px 0px 0px; //-65px
+  margin: -2vw 0px 0px 0px; //-65px
   background-color: #62B0E2;
   // background-image: url('/images/ql_background.png');
   background-position: center center;
@@ -288,8 +288,8 @@
 .ql-content-col-button-link {
   position: relative;
   width: 100%;
-  font-size: 40px;
-  font-weight: 700;
+  // font-size: 40px;
+  // font-weight: 700;
   line-height: 1.67;
   color: #ffffff;
   // background-color: #ffffff;
@@ -307,11 +307,11 @@
   }
   .ql-content-col {
     width: 100%;
+    padding: (10px 0px 10px 0px);
   }
   .ql-content-main {
     width: 100%;
-    padding-left: 0px;
-    padding-top: 25px;
+    padding: (10px 0px 10px 0px);
   }
 }
 
