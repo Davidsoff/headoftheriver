@@ -3,7 +3,7 @@
   @apply py-24 xl:py-28;
 
   &-sm {
-    @apply py-8 xl:py-10;
+    @apply py-4 xl:py-6;
   }
 
   &-home {
@@ -267,6 +267,7 @@
   grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size, 10rem), 1fr));
   grid-gap: 20px;
   display: grid;
+  list-style-type: none;
   box-sizing: border-box;
 }
 
@@ -699,4 +700,95 @@ cursor: pointer;
     padding-left: 0px;
     padding-top: 25px;
   }
+}
+
+///// Notice /////
+.notice.waarschuwing {
+  color: #db2c23;
+  border-color: currentColor;
+}
+
+
+///// Top page button for in page scroll /////
+.section_top_page_btn {
+  position:relative; 
+  z-index:3;
+}
+
+.top_page_btn-widgetwrap {
+  position: relative;
+  width: 100%;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  box-sizing: border-box;
+}
+
+.top_page_btn-widget-container {
+  position: relative;
+  margin: -1vw 0px 0px 0px; //-65px
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 25px 25px 25px 25px;
+  box-sizing: border-box;
+}
+
+.tpbtn-content-wrap {
+  position: relative;
+  background-color: #AF3C3C00;
+  box-sizing: border-box;
+  display: flex;
+
+}
+
+.tpbtn-content-main {
+  position: relative;
+  width: calc(100% / 3 * 2);
+  box-sizing: border-box;
+}
+
+.tpbtn-content-main-button-wrap {
+  grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size, 10rem), 1fr));
+  grid-gap: 20px;
+  display: grid;
+  list-style-type: none;
+  box-sizing: border-box;
+  padding: (0px 0px 0px 0px);
+  margin: (0px 0px 0px 0px);
+}
+
+.tpbtn-content-main-button-wrap li {
+  padding: (0px 0px 0px 0px);
+  margin: (0px 0px 0px 0px);
+}
+
+.tpbtn-content-main-button-link {
+  position: relative;
+  width: 100%;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.67;
+  color: #ffffff;
+  overflow: unset;
+  padding: 10px;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+  box-sizing: border-box;
+  background-color: #62B0E2;
+}
+
+
+@media all and (max-width: 768px) {
+  .tpbtn-content-wrap { 
+    flex-direction: column;
+  }
+  .tpbtn-content-main {
+    width: 100%;
+    padding: (10px 0px 10px 0px);
+  }
+}
+
+//// HTML scroll ////
+html {
+  scroll-behavior: smooth;
 }

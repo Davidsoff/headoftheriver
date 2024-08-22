@@ -11,8 +11,7 @@ menu: {main: {parent: Over, weight: 50}}
     class="bg-transparent dark:bg-white p-px"
     style="min-width:150px; width: 25%; display: block;  position:relative; margin-top: 25px;"></a>
 </div>
-
-
+<!-- TODO -->
 ### Partnerschap
 
 The Head of the River is een van de meest prestigueze roeievenementen in Nederland. Als officiele sponsor van de Head of the River raakt u betrokken bij een breed bezocht roeievenement met een grote verscheidenheid aan deelnemers en vrijwilligers.
@@ -48,6 +47,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <--->
 
 ##### Scholing
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+##### Live videoregistratie
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 
@@ -151,7 +154,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     chart.draw(data, options);
   }
 </script>
-<!-- <div id="piechart2" style="width: 900px; height: 500px;"></div> -->
 <div id="piechart2" style="width: 100%;"></div>  
 
 {{% /columns %}}
@@ -159,13 +161,38 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 #### Partneropties
 {{< accordion "Partner - Goud" >}}
+Pakketwaarde: €   
+Pakketinhoud:
+- Item 1
+- Item 2
+- Item 3
+- Item 4
 
 {{< /accordion >}}
 
 {{< accordion "Partner - Zilver" >}}
 
+Pakketwaarde: €    
+Pakketinhoud:
+- Item 1
+- Item 2
+- Item 3
+
 {{< /accordion >}}
 
 {{< accordion "Partner - Brons" >}}
+
+Pakketwaarde: €
+Pakketinhoud:
+- Item 1
+- Item 2
+
+{{< /accordion >}}
+
+{{< accordion "Roeiexposanten" >}}
+
+Pakketwaarde: €
+Pakketinhoud:
+- Item 99
 
 {{< /accordion >}}

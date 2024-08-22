@@ -12,9 +12,7 @@ menu:
 Hieronder vind je de uitslagen van de Head of the River Amstel van de afgelopen jaren.
 
 {{< results_years >}}
-
-
-
+<!-- TODO -->
 
 {{< accordion "Uitslagen 2024" >}}
 
