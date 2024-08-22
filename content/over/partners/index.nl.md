@@ -12,6 +12,7 @@ menu: {main: {parent: Over, weight: 50}}
     style="min-width:150px; width: 25%; display: block;  position:relative; margin-top: 25px;"></a>
 </div>
 <!-- TODO -->
+
 ### Partnerschap
 
 The Head of the River is een van de meest prestigueze roeievenementen in Nederland. Als officiele sponsor van de Head of the River raakt u betrokken bij een breed bezocht roeievenement met een grote verscheidenheid aan deelnemers en vrijwilligers.
