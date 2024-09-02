@@ -6,11 +6,66 @@ draft: false
 menu: {main: {parent: Over, weight: 50}}
 ---
 ### Head of the River partners
-<div class="lg:col-10 mb-0 mt-0 text-center">
-  <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
-    class="bg-transparent dark:bg-white p-px"
-    style="min-width:150px; width: 25%; display: block;  position:relative; margin-top: 25px;"></a>
+<!-- <div class="container" style="margin-bottom:50px" >
+  <div class="row bg-theme-light dark:bg-darkmode-theme-light rounded partners">
+    <h5>Hoofdpartners</h5>
+    <div class="md:col-6 lg:col-3 partners_griditems">
+      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
+        class="bg-transparent dark:bg-white image_center"></a>
+    </div>
+    <div class="md:col-6 lg:col-3 partners_griditems ">
+      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/logo-darkmode.png" caption="" alt="Roeigoed"
+        class="bg-transparent dark:bg-white image_center"></a>
+    </div>
+        <div class="md:col-6 lg:col-3 partners_griditems">
+      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
+        class="bg-transparent dark:bg-white image_center"></a>
+    </div>
+        <div class="md:col-6 lg:col-3 partners_griditems">
+      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
+        class="bg-transparent dark:bg-white image_center"></a>
+    </div>
+        <div class="md:col-6 lg:col-3 ">
+      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
+        class="bg-transparent dark:bg-white image_center"></a>
+    </div>
+  </div>
+</div> -->
+
+<div class="bg-theme-light dark:bg-darkmode-theme-light rounded partners">
+<div class="partners_logo_grid">
+  <h5><span>Partners</span></h5>
+  <div class="partners_grid_items">
+    <div class="partners_grid_item">
+      <a href="https://www.roeigoed.nl" target="_blank">
+        <img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
+      </a>
+    </div>
+    <div class="partners_grid_item">
+      <a href="https://www.roeigoed.nl" target="_blank">
+        <img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
+      </a>
+    </div>
+    <div class="partners_grid_item">
+      <a href="https://www.roeigoed.nl" target="_blank">
+        <img src="images/partnerlogos/verburg_hoogendijk_architecten.jpeg" caption="" alt="Roeigoed">
+      </a>
+    </div>
+    <div class="partners_grid_item">
+      <a href="https://www.KNRB.nl" target="_blank">
+        <img src="images/partnerlogos/KNRB.png" caption="" alt="KNRB">
+      </a>
+    </div>
+    <div class="partners_grid_item">
+      <a href="https://www.roeigoed.nl" target="_blank">
+        <img src="images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
+      </a>
+    </div>
+  </div>
 </div>
+</div>
+
+
 <!-- TODO -->
 
 ### Partnerschap
@@ -19,7 +74,7 @@ The Head of the River is een van de meest prestigueze roeievenementen in Nederla
 
 <div style="width: 100%; max-width: 700px; padding-bottom:50px">
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
-<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/RnKlrl4BSQY" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jfCe92a1UiM?si=l-EDQkqdZmqhIpYe" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
 </div>
 </div>
 
@@ -37,13 +92,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ###### Social Media
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+Onze (social)mediaplatformen groeien elk jaar weer. Ze bieden een breed publiek in verschillende leeftijdsgroepen. 
 
-24,000,000 Total Impressions   
-29,000 Facebook Followers   
-865,900 Facebook Reach   
-28,700 Instagram Followers   
-15,700 LinkedIn Followers   
+20.000 Unieke websitebezoeken   
+3.000 Facebookvolgers    
+20.000 Faceboekbereik    
+1.500 Instagramvolgers   
+150 LinkedInvolgers    
++15 landen vanwaar de website bezocht wordt  
 
 <--->
 
@@ -72,12 +128,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
     var data = google.visualization.arrayToDataTable([
       ['Task', 'Amount'],
-      ['<18',     60],
-      ['18-24',   50],
-      ['25-35',   40],
-      ['36-51',   30],
-      ['52-70',   20],
-      ['>70',     10],
+      ['<18',     103],
+      ['18-24',   486],
+      ['25-35',   205],
+      ['36-51',   234],
+      ['52-70',   577],
+      ['>70',     101],
     ]);
 
     var options = {
@@ -142,8 +198,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
     var data = google.visualization.arrayToDataTable([
       ['Task', 'Aantal'],
-      ['Man',     10],
-      ['Vrouw',   20]
+      ['Man',     1738],
+      ['Vrouw',   1198]
     ]);
 
     var options = {
@@ -190,10 +246,37 @@ Pakketinhoud:
 
 {{< /accordion >}}
 
-{{< accordion "Roeiexposanten" >}}
+{{< accordion "Partner - Roeiexposanten" >}}
 
 Pakketwaarde: €
 Pakketinhoud:
 - Item 99
 
 {{< /accordion >}}
+
+{{< accordion "Partner - Op Maat" >}}
+
+Uiteraard gaan we graag vrijblijvend met u in gesprek, ook als u een pakket op maat samen met ons wilt maken. Misschien wil u wel een combinatie van het bovenstaande of heeft u interesse in iets anders? 
+
+{{< /accordion >}}
+
+#### Partnervideos
+
+<div class="container" style="margin-bottom:50px" >
+  <div class="row bg-theme-light dark:bg-darkmode-theme-light rounded partners">
+    <div class="md:col-6 lg:col-4 mt-4 mb-4 ">
+      <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jfCe92a1UiM?si=l-EDQkqdZmqhIpYe" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+    </div>
+    <div class="md:col-6 lg:col-4 mt-4 mb-4 ">
+      <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/6v1lJOwkx3g?si=WZGimHxiN9I9d0cm" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+    </div>
+        <div class="md:col-6 lg:col-4 mt-4 mb-4">
+      <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/OiSIrbpXx8k?si=da-797q-gSvS6N4g" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+</div>
+  </div>
+</div>

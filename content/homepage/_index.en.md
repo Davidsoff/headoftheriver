@@ -37,12 +37,12 @@ dividerquote:
 # Link Tiles
 linktiles:
   title1: "Participants"
-  value1: 1000
+  value1: 3000
   text1: "Benieuwd hoelaat je moet starten? Check de bloktijden voor een indicatie"
   image1: "/images/homepage/tilelinks/timetable (Large).jpg"
   link1: "/deelnemers/tijdschema/"
   title2: "Boats"
-  value2: 350
+  value2: 475
   text2: "Vind je plek in de loting"
   image2: "/images/homepage/tilelinks/draw (Large).jpg"
   link2: "/deelnemers/loting/"
