@@ -52,7 +52,7 @@ linktiles:
   image3: "/images/homepage/tilelinks/coxwain (Large).jpg"
   link3: "/deelnemers/stuurliedeninstructie/"
   title4: "Trofeeën"
-  value4: 15
+  value4: 9
   text4: "Bekijk de uitslagen van afgelopen jaren"
   image4: "/images/homepage/tilelinks/results (Large).jpg"
   link4: "/deelnemers/uitslag/"

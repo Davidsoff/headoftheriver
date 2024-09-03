@@ -42,13 +42,13 @@ menu: {main: {parent: Over, weight: 50}}
       </a>
     </div>
     <div class="partners_grid_item">
-      <a href="https://www.roeigoed.nl" target="_blank">
-        <img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
+      <a href="http://www.vharch.nl" target="_blank">
+        <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="Roeigoed">
       </a>
     </div>
     <div class="partners_grid_item">
       <a href="https://www.roeigoed.nl" target="_blank">
-        <img src="images/partnerlogos/verburg_hoogendijk_architecten.jpeg" caption="" alt="Roeigoed">
+        <img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
       </a>
     </div>
     <div class="partners_grid_item">
@@ -163,17 +163,13 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
           ['Country', 'Deelnemende boten'],
-          ['Netherlands', 750],
-          ['Germany', 200],
-          ['Belgium', 2],
-          ['Czech Republic', 10],
-          ['Poland',10],
-          ['France', 25],
-          ['Ireland', 1],
+          ['Netherlands', 10],
+          ['Germany', 10],
+          ['Belgium', 10],
         ]);
 
         var options = {
-          region: '150', // Western Europe
+          region: '155', // Western Europe 155, Europe 150
           };
 
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
