@@ -47,7 +47,7 @@ linktiles:
   image2: "/images/homepage/tilelinks/draw (Large).jpg"
   link2: "/deelnemers/loting/"
   title3: "Volunteers" 
-  value3: 125
+  value3: 155
   text3: "Volg een korte instructie hoe de Amstel te bevaren tijdens de Head"
   image3: "/images/homepage/tilelinks/coxwain (Large).jpg"
   link3: "/deelnemers/stuurliedeninstructie/"
