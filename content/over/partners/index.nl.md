@@ -46,34 +46,17 @@ menu: {main: {parent: Over, weight: 50}}
         <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="Roeigoed">
       </a>
     </div>
-    <!-- <div class="partners_grid_item">
-      <a href="https://www.roeigoed.nl" target="_blank">
-        <img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
-      </a>
-    </div>
-    <div class="partners_grid_item">
-      <a href="https://www.KNRB.nl" target="_blank">
-        <img src="images/partnerlogos/KNRB.png" caption="" alt="KNRB">
-      </a>
-    </div>
-    <div class="partners_grid_item">
-      <a href="https://www.roeigoed.nl" target="_blank">
-        <img src="images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
-      </a>
-    </div> -->
   </div>
 </div>
 </div>
 
 
-<!-- TODO -->
-
 ### Partnerschap
 
-Met de Head wordt het wedstrijdseizoen voor vieren en achten jaarlijks in Amsterdam geopend. Bijna 4000 roeiers strijden in het weekend van 8 en 9 maart 2025 in deze klassieker, die zich de oudste en grootste langebaanroeiwedstrijd van Nederland mag noemen. Met 500 ploegen en veel buitenlandse roeiers uit meer dan 10 landen is de ‘Head’ een spannend begin van het roeiseizoen. Niet voor niets Dé lange afstandsklassieker van Nederland genoemd.
+Met de Head wordt het wedstrijdseizoen voor vieren en achten jaarlijks in Amsterdam geopend. Bijna 4000 deelnemers strijden in het weekend van 8 en 9 maart 2025 in deze klassieker, die zich de oudste en grootste langebaanroeiwedstrijd van Nederland mag noemen. Met 500 ploegen en veel buitenlandse roeiers uit meer dan 10 landen is de Head een spannend begin van het roeiseizoen. Niet voor niets Dé lange afstandsklassieker van Nederland genoemd.
 Omdat de Head wil groeien en professionaliseren, zijn we op zoek naar serieuze partners voor deze prominente wedstrijd.
 
-Als officiële partner van De Head komt u uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt u ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.      
+Als officiële partner van De Head kom je uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt je ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.      
 
 <div style="width: 100%; max-width: 700px; padding-bottom:50px">
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -89,7 +72,7 @@ De Head of The River Amstel is het grootste roei-evenement van Nederland. Verdee
 
 ##### Deelnemers
 
-De Head is een tijdwedstrijd: roeiers strijden om de snelste te zijn in hun veld. Er worden diverse troffeen en ook de Blauw WImpel uitgereikt aan de winnaars. De wimpel is voor de snelste verenigingsacht. Op alle niveaus is er strijd, zowel voor de recreatieve roeier als de toproeiers met hun eigen (Olympische) record. Sinds 2 jaar is het spectaculaire Coastal Endurance aan het wedstrijdschema toegevoegd. Het laagdrempelige Coastal-roeien is wereldwijd één van de snelst groeiende disciplines binnen de roeisport en kenmerkt zich door roeien op open water, weinig regels en een massastart. ‘Coastal’ is recent Olympisch geworden en deze discipline zal voor het eerst worden geroeid tijdens de Olympische Spelen van Los Angeles in 2028.
+De Head is een tijdwedstrijd: roeiers strijden om de snelste te zijn in hun veld. Er worden diverse troffeen en ook de Blauwe Wimpel uitgereikt aan de winnaars. De wimpel is voor de snelste verenigingsacht. Op alle niveaus is er strijd, zowel voor de recreatieve roeier als de toproeiers met hun eigen (Olympische) record. Sinds 2 jaar is het spectaculaire Coastal Endurance aan het wedstrijdschema toegevoegd. Het laagdrempelige Coastal-roeien is wereldwijd één van de snelst groeiende disciplines binnen de roeisport en kenmerkt zich door roeien op open water, weinig regels en een massastart. ‘Coastal’ is recent Olympisch geworden en deze discipline zal voor het eerst worden geroeid tijdens de Olympische Spelen van Los Angeles in 2028.
 
 ##### Partners
 De Head is op zoek naar partners: bedrijven of organisaties die ons én zichzelf willen versterken. Partner worden van onze roeiwedstrijd kan op allerlei manieren, maar bovenal ondersteunt uw organisatie hiermee sport, bewegen en vrijwilligerswerk. 
@@ -99,22 +82,22 @@ Partners komen op diverse manieren in beeld:
 - Voorafgaand aan de wedstrijd op verzchillende online- en offline uitingen
 - Op locatie, langs de wedstrijdbaan en op de vereningen langs de Amstel
 - Op de beoogde live tv-uitzending, die op 9 maart gepland staat bij de Publieke Omroep Amsterdam en daarbuiten. 
-Beoogde partners bieden wij verschillende pakketten aan, maar ook kunnen we met u een pakket op maat maken.     
+Beoogde partners bieden wij verschillende pakketten aan, maar ook kunnen we met je een pakket op maat maken.     
 
 <--->
 
 ##### Marketing statistiek
 
-###### Social Media
+###### (social) Media
 
-Onze (social)mediaplatformen groeien elk jaar weer. Ze bieden een breed publiek in verschillende leeftijdsgroepen. 
+Onze (social) mediaplatformen groeien elk jaar weer. Ze bieden een breed publiek in verschillende leeftijdsgroepen. 
 
-20.000 Unieke websitebezoeken   
-3.000 Facebookvolgers    
-20.000 Faceboekbereik    
-1.500 Instagramvolgers   
-150 LinkedInvolgers    
-+15 landen vanwaar de website bezocht wordt  
+- 20.000 Unieke websitebezoeken   
+- 3.000 Facebookvolgers    
+- 20.000 Faceboekbereik    
+- 1.500 Instagramvolgers   
+- 150 LinkedInvolgers    
+- +15 landen vanwaar de website bezocht wordt  
 
 ##### Live videoregistratie
 
@@ -172,16 +155,20 @@ In 2025 gaat De Head iets nieuws doen: we leggen onze wedstrijd vast op televisi
 
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
-          ['Country', 'Deelnemende boten'],
-          ['Netherlands', 10],
-          ['Germany', 10],
-          ['Belgium', 10],
-          ['Croatia', 10],
-          ['United Kingdom', 10],
+          ['Country'],
+          ['Netherlands'],
+          ['Germany'],
+          ['Belgium'],
+          ['Croatia'],
+          ['United Kingdom'],
+          ['France'],
+          ['Czech Republic'],
+          ['Italy'],
         ]);
 
         var options = {
           region: '150', // Western Europe 155, Europe 150
+          legend: 'none',
           };
 
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
@@ -242,7 +229,7 @@ Pakketwaarde: 10.000 euro of daarboven
 - Promotie van de partner op de website en sociale media
 - Als partner zichtbaar op plekken tijdens de wedstrijd en bij prijsuitreiking
 - Mogelijkheid voor een eigen stand en/of werving (ook voor recrutering werknemers)
-- Tv-registratie: kort vooraf en na afloop (en aan het begin van reclameblokken): 'Dit programma wordt mede mogelijk gemaakt door onze partner...' 
+- Tv-registratie: kort vooraf en na afloop (en aan het begin van reclameblokken): 'Dit programma wordt mede mogelijk gemaakt door...' 
 - Alle andere vormen van zichtbaarheid in tv-registratie
 - Een eigen reclame in de reclameblokken van de zender (zelf aanleveren)
 
@@ -261,33 +248,33 @@ Pakketwaarde: 5.000 tot 10.000 euro
 {{< accordion "Partner - Roeiexposanten" >}}
 
 Bedrijven uit de wereld van het roeien bieden we de gelegenheid hun product(en) te presenteren aan onze deelnemers op locatie.   
-Voor meer informatie neem vrijblijvend contact met ons op. (info@headoftheriver.nl)
+Voor meer informatie neem je vrijblijvend contact met ons op. (info@headoftheriver.nl)
 
 {{< /accordion >}}
 
-{{< accordion "Partner - Op Maat" >}}
+{{< accordion "Partner - Op maat" >}}
 
-Uiteraard gaan we graag vrijblijvend met u in gesprek, ook als u een pakket op maat samen met ons wilt maken. Misschien wil u wel een combinatie van het bovenstaande of heeft u interesse in iets anders? 
+Uiteraard gaan we graag vrijblijvend met je in gesprek, ook als je een pakket op maat samen met ons wilt maken. Misschien wil je wel een combinatie van het bovenstaande of heb je interesse in iets anders? 
 
 {{< /accordion >}}
 
 #### Partnervideos
 
-<div class="container" style="margin-bottom:50px" >
+<div class="container" style="margin-bottom:50px; padding:0px" >
   <div class="row bg-theme-light dark:bg-darkmode-theme-light rounded partners">
     <div class="md:col-6 lg:col-4 mt-4 mb-4 ">
       <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
-<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jfCe92a1UiM?si=l-EDQkqdZmqhIpYe" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
-</div>
+        <p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jfCe92a1UiM?si=l-EDQkqdZmqhIpYe" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+      </div>
     </div>
-    <div class="md:col-6 lg:col-4 mt-4 mb-4 ">
-      <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
-<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/6v1lJOwkx3g?si=WZGimHxiN9I9d0cm" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
-</div>
+  <div class="md:col-6 lg:col-4 mt-4 mb-4 ">
+    <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+      <p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/6v1lJOwkx3g?si=WZGimHxiN9I9d0cm" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
     </div>
-        <div class="md:col-6 lg:col-4 mt-4 mb-4">
-      <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
-<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/OiSIrbpXx8k?si=da-797q-gSvS6N4g" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
-</div>
+  </div>
+  <div class="md:col-6 lg:col-4 mt-4 mb-4">
+    <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+      <p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/OiSIrbpXx8k?si=da-797q-gSvS6N4g" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+    </div>
   </div>
 </div>

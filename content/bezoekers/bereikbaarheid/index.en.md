@@ -8,3 +8,4 @@ menu:
     parent: Visitors
     weight: 10
 ---
+This page will be developed soon.

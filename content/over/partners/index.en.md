@@ -9,9 +9,23 @@ menu:
     weight: 50
 ---
 ### Head of the River partners
-<div class="lg:col-10 mb-0 mt-0 text-center">
-  <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
-    class="bg-transparent dark:bg-white p-px"
-    style="min-width:150px; width: 25%; display: block;  position:relative; margin-top: 25px;"></a>
+
+<div class="bg-theme-light dark:bg-darkmode-theme-light rounded partners">
+<div class="partners_logo_grid">
+  <h5><span>Partners</span></h5>
+  <div class="partners_grid_items">
+    <div class="partners_grid_item">
+      <a href="https://www.roeigoed.nl" target="_blank">
+        <img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
+      </a>
+    </div>
+    <div class="partners_grid_item">
+      <a href="http://www.vharch.nl" target="_blank">
+        <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="Roeigoed">
+      </a>
+    </div>
+  </div>
 </div>
+</div>
+
 
