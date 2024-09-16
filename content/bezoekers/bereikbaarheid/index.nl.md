@@ -112,8 +112,7 @@ Amsteldijk Noord 39
 1184TD, Amstelveen  
 
 ##### Fiets
-<!-- TODO -->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae pellentesque lectus. Curabitur imperdiet efficitur arcu, eu fringilla ante sollicitudin ac. Nam tincidunt elit metus, scelerisque fringilla eros rutrum eget. Curabitur sed neque sit amet risus finibus tincidunt. Mauris diam orci, rhoncus quis convallis id, iaculis in mi. Aenean molestie.
+Het startgebied is goed met de fiets bereikbaar via beide kanten van de Amstel. Gebruik onderstaande kaart om de snelste route van jouw locatie naar de start te plannen.
 
 ##### Auto 
 Het startgebied is met de auto moeilijk bereikbaar. Tijdens de wedstrijden is de Amsteldijk Noord afgesloten voor alle gemotoriseerd verkeer, met uitzondering van bestemmingsverkeer.    
@@ -144,9 +143,12 @@ De Hoop is uitstekend bereikbaar met het openbaar vervoer.
 Vanaf NS-Station Amsterdam Amstel loop je langs de Amstel in de richting van het centrum. Of neem de metro vanaf dit station of het Centraal Station naar halte Wibautstraat, uitgang ‘Grensstraat’.
 Tram 3, vanaf het Muiderpoortstation, stopt in de buurt (halte Wibautstraat/Ruyschstraat). Op het Weesperplein stoppen diverse tram- en metrolijnen.
 
-##### Auto / Fiets
-<!-- TODO -->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae pellentesque lectus. Curabitur imperdiet efficitur arcu, eu fringilla ante sollicitudin ac. Nam tincidunt elit metus, scelerisque fringilla eros rutrum eget. Curabitur sed neque sit amet risus finibus tincidunt. Mauris diam orci, rhoncus quis convallis id, iaculis in mi. Aenean molestie.
+##### Fiets
+Het finishgebied is goed met de fiets bereikbaar. Gebruik onderstaande kaart om de snelste route van jouw locatie naar de finish te plannen.
+
+##### Auto
+De Hoop is met de auto goed bereikbaar. Echter is het parkeren niet altijd gegarandeerd in de directe omgeving en is het op zaterdag betaald. Gebruik onderstaande kaart om de snelste route te vinden naar de finish vanaf jouw locatie mbv Google Maps. 
+
 <iframe width=100% height="300" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJFYjqIYUJxkcRVQ8p3W9YdPM&key=AIzaSyCEA7C5sm0EgvwdIvMBbkatWEJSrqHoFsA"></iframe>
 
 </div>

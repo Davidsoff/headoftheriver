@@ -7,6 +7,7 @@ menu:
   main:
     parent: Deelnemers
     weight: 100
+
 ---
 ### Fietsverhuur bij Willem III
 Het is mogelijk om bij Willem III een fiets te huren. Er is echter maar een beperkt aantal fietsen beschikbaar en reserveren is niet mogelijk.
