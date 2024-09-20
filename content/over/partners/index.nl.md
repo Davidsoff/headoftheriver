@@ -43,7 +43,7 @@ menu: {main: {parent: Over, weight: 50}}
     </div>
     <div class="partners_grid_item">
       <a href="http://www.vharch.nl" target="_blank">
-        <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="Roeigoed">
+        <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="VHARCH">
       </a>
     </div>
   </div>
@@ -164,6 +164,8 @@ In 2025 gaat De Head iets nieuws doen: we leggen onze wedstrijd vast op televisi
           ['France'],
           ['Czech Republic'],
           ['Italy'],
+          ['Denmark'],
+          ['Austria'],
         ]);
 
         var options = {
@@ -214,21 +216,22 @@ In 2025 gaat De Head iets nieuws doen: we leggen onze wedstrijd vast op televisi
 #### Partneropties
 {{< accordion "Partner - Goud" >}}
 Pakketwaarde: 15.000 tot 20.000 euro
+- Als partner zichtbaar voor en tijdens de wedstrijd en bij prijsuitreiking
 - Promotie van de partner op de website en sociale media
-- Als partner zichtbaar tijdens de wedstrijd en bij prijsuitreiking
-- Mogelijkheid voor een eigen stand en/of werving (ook voor recrutering werknemers)
+- Mogelijkheid voor een eigen stand en/of werving (ook voor rekrutering werknemers)
 - Tv-registratie: lang vooraf en na afloop (en aan het begin van reclameblokken): 'Dit programma wordt mede mogelijk gemaakt door...' 
 - Alle andere vormen van zichtbaarheid in tv-registratie
 - Een eigen reclame in de reclameblokken van de zender (zelf aanleveren)
+- Mogelijkheid om naam aan beker te verbinden
 
 {{< /accordion >}}
 
 {{< accordion "Partner - Zilver" >}}
 
 Pakketwaarde: 10.000 euro of daarboven
+- Als partner zichtbaar op plekken voor en tijdens de wedstrijd en bij prijsuitreiking
 - Promotie van de partner op de website en sociale media
-- Als partner zichtbaar op plekken tijdens de wedstrijd en bij prijsuitreiking
-- Mogelijkheid voor een eigen stand en/of werving (ook voor recrutering werknemers)
+- Mogelijkheid voor een eigen stand en/of werving (ook voor rekrutering werknemers)
 - Tv-registratie: kort vooraf en na afloop (en aan het begin van reclameblokken): 'Dit programma wordt mede mogelijk gemaakt door...' 
 - Alle andere vormen van zichtbaarheid in tv-registratie
 - Een eigen reclame in de reclameblokken van de zender (zelf aanleveren)
