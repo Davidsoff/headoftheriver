@@ -26,35 +26,36 @@ menu: {main: {parent: Over, weight: 50}}
 </div>
 </div>
 
+
 <!-- Intro text -->
 ### Partnerschap
 
+Met de Head wordt het wedstrijdseizoen voor vieren en achten jaarlijks in Amsterdam geopend. Bijna 4000 deelnemers strijden in het weekend van 8 en 9 maart 2025 in deze klassieker, die zich de oudste en grootste langebaanroeiwedstrijd van Nederland mag noemen. Met 500 ploegen en veel buitenlandse roeiers uit meer dan 10 landen is de Head een spannend begin van het roeiseizoen. Niet voor niets Dé lange afstandsklassieker van Nederland genoemd.
+Omdat de Head wil groeien en professionaliseren, zijn we op zoek naar serieuze partners voor deze prominente wedstrijd.
+
+Als officiële partner van De Head kom je uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt je ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.  
+
+
 <!-- Partner video -->
-<div style="width: 100%; max-width: 700px; padding-bottom:20px; margin:auto ">
+<div style="width: 100%; max-width: 700px; padding-bottom:50px; margin:auto ">
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
 <p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jfCe92a1UiM?si=l-EDQkqdZmqhIpYe" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
 </div>
 </div>
 
-Met de Head wordt het wedstrijdseizoen voor vieren en achten jaarlijks in Amsterdam geopend. Bijna 4000 deelnemers strijden in het weekend van 8 en 9 maart 2025 in deze klassieker, die zich de oudste en grootste langebaanroeiwedstrijd van Nederland mag noemen. Met 500 ploegen en veel buitenlandse roeiers uit meer dan 10 landen is de Head een spannend begin van het roeiseizoen. Niet voor niets Dé lange afstandsklassieker van Nederland genoemd.
-Omdat de Head wil groeien en professionaliseren, zijn we op zoek naar serieuze partners voor deze prominente wedstrijd.
-
-Als officiële partner van De Head kom je uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt je ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.   
-
+ 
 <!-- PDF presentation -->
+<div style="padding-top:0px;">
+  <h5>Partnermogelijkheden: <a href=../partners/documents/HeadPPT-Partners_2025.pdf>Presentatie</a></h5>
+</div>
 
-<div style="width: 100%; max-width: 700px; padding-bottom:10px; padding-top:20px; margin:auto">
+<div style="width: 100%;  padding-bottom:30px; padding-top:20px; margin:auto">
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
 <p><iframe class="pdf"  style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;"
     src="documents/HeadPPT-Partners_2025.pdf">
   </iframe></p>
 </div>
 </div>
-
-<div style="padding-bottom:30px;">
-  <h5>Partnermogelijkheden: <a href=../partners/documents/HeadPPT-Partners_2025.pdf>Presentatie</a></h5>
-</div>
-
 
 
 <!-- Two column information -->
