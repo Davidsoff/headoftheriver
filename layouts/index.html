@@ -104,7 +104,7 @@
 <!-- /Tiles -->
 
 <!-- Weather -->
-<section class="section-home mt-2 mb-8">
+<section class="section-home mt-2 mb-4">
   <div class="row items-center justify-between">
     <div class="md:col-6 py-10 bg-theme-head">
       <iframe width="325" height="325"
@@ -118,22 +118,34 @@
 </section>
 <!-- /Weather -->
 
-<!-- Sponsors -->
+<!-- Partners -->
 <section class="section-home mb-8">
   <div class="container">
     <div class="row justify-center">
-      <div class="lg:col-10 mb-0 mt-0 text-center">
-        <h3 style="display: block; margin-left: auto; margin-right: auto; position:relative; text-align: center;">{{i18n
-          "poweredBy"}}</h3>
-        {{ $image := resources.Get "images/logos/RG_Final_A _500w.png" }}
-        <a href="https://www.roeigoed.nl" target="_blank"><img src="{{ $image.RelPermalink }}" caption="" alt="KNRB"
-            class="bg-transparent dark:bg-white p-px"
-            style="min-width:150px; width: 25%; display: block; margin-left: auto; margin-right: auto; position:relative; margin-top: 25px;"></a>
+      <h3
+        style="display: block; margin-left: auto; margin-right: auto; margin-bottom:10px; position:relative; text-align: center;">
+        {{i18n
+        "poweredBy"}}</h3>
+      <div class="bg-theme-light dark:bg-darkmode-theme-light rounded partners">
+        <div class="partners_logo_grid">
+          <div class="partners_grid_items">
+            <div class="partners_grid_item">
+              <a href="https://www.roeigoed.nl" target="_blank">
+                <img src="over/partners/images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
+              </a>
+            </div>
+            <div class="partners_grid_item">
+              <a href="http://www.vharch.nl" target="_blank">
+                <img src="over/partners/images/partnerlogos/Logo_VHA_ned.png" caption="" alt="Roeigoed">
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </section>
-<!-- /Sponsors -->
+<!-- /Partners -->
 
 <!-- Weather Button -->
 {{ partial "components/fixed_weatherButton" . }}
