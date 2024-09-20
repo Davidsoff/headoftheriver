@@ -26,7 +26,7 @@ menu: {main: {parent: Over, weight: 50}}
         class="bg-transparent dark:bg-white image_center"></a>
     </div>
         <div class="md:col-6 lg:col-3 ">
-      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
+      <a href="https://www.roeigoed.nl/" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
         class="bg-transparent dark:bg-white image_center"></a>
     </div>
   </div>
