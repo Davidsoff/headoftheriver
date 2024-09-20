@@ -38,7 +38,7 @@ menu: {main: {parent: Over, weight: 50}}
   <div class="partners_grid_items">
     <div class="partners_grid_item">
       <a href="https://www.roeigoed.nl" target="_blank">
-        <img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
+        <img src="images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
       </a>
     </div>
     <div class="partners_grid_item">
