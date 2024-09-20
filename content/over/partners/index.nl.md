@@ -5,32 +5,8 @@ description: Informatie voor sponsoren en partners van de Head of the River Amst
 draft: false
 menu: {main: {parent: Over, weight: 50}}
 ---
+<!-- Partner overview grid -->
 ### Head of the River partners
-<!-- <div class="container" style="margin-bottom:50px" >
-  <div class="row bg-theme-light dark:bg-darkmode-theme-light rounded partners">
-    <h5>Hoofdpartners</h5>
-    <div class="md:col-6 lg:col-3 partners_griditems">
-      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
-        class="bg-transparent dark:bg-white image_center"></a>
-    </div>
-    <div class="md:col-6 lg:col-3 partners_griditems ">
-      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/logo-darkmode.png" caption="" alt="Roeigoed"
-        class="bg-transparent dark:bg-white image_center"></a>
-    </div>
-        <div class="md:col-6 lg:col-3 partners_griditems">
-      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
-        class="bg-transparent dark:bg-white image_center"></a>
-    </div>
-        <div class="md:col-6 lg:col-3 partners_griditems">
-      <a href="https://www.roeigoed.nl" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
-        class="bg-transparent dark:bg-white image_center"></a>
-    </div>
-        <div class="md:col-6 lg:col-3 ">
-      <a href="https://www.roeigoed.nl/" target="_blank"><img src="/images/logos/RG_Final_A _500w.png" caption="" alt="Roeigoed"
-        class="bg-transparent dark:bg-white image_center"></a>
-    </div>
-  </div>
-</div> -->
 
 <div class="bg-theme-light dark:bg-darkmode-theme-light rounded partners">
 <div class="partners_logo_grid">
@@ -50,20 +26,24 @@ menu: {main: {parent: Over, weight: 50}}
 </div>
 </div>
 
-
+<!-- Intro text -->
 ### Partnerschap
-
 Met de Head wordt het wedstrijdseizoen voor vieren en achten jaarlijks in Amsterdam geopend. Bijna 4000 deelnemers strijden in het weekend van 8 en 9 maart 2025 in deze klassieker, die zich de oudste en grootste langebaanroeiwedstrijd van Nederland mag noemen. Met 500 ploegen en veel buitenlandse roeiers uit meer dan 10 landen is de Head een spannend begin van het roeiseizoen. Niet voor niets Dé lange afstandsklassieker van Nederland genoemd.
 Omdat de Head wil groeien en professionaliseren, zijn we op zoek naar serieuze partners voor deze prominente wedstrijd.
 
-Als officiële partner van De Head kom je uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt je ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.      
+Als officiële partner van De Head kom je uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt je ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.   
 
-<div style="width: 100%; max-width: 700px; padding-bottom:50px">
+<!-- PDF presentation -->
+##### Partnermogelijkheden: [Presentatie](../partners/documents/HeadPPT-Partners_2025.pdf)
+
+<!-- Partner video -->
+<div style="width: 100%; max-width: 700px; padding-bottom:30px; padding-top:30px">
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
 <p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jfCe92a1UiM?si=l-EDQkqdZmqhIpYe" title="Njord wint de Head of the River 1949"  width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
 </div>
 </div>
 
+<!-- Two column information -->
 {{% columns %}}
 
 ##### De Head
@@ -106,7 +86,7 @@ In 2025 gaat De Head iets nieuws doen: we leggen onze wedstrijd vast op televisi
 
 {{% /columns %}}
 
-
+<!-- Demography graphs -->
 ##### Demografie
 {{% columns %}}  
 
@@ -212,7 +192,7 @@ In 2025 gaat De Head iets nieuws doen: we leggen onze wedstrijd vast op televisi
 
 {{% /columns %}}
 
-
+<!-- Accordion -->
 #### Partneropties
 {{< accordion "Partner - Goud" >}}
 Pakketwaarde: 15.000 tot 20.000 euro
@@ -261,6 +241,7 @@ Uiteraard gaan we graag vrijblijvend met je in gesprek, ook als je een pakket op
 
 {{< /accordion >}}
 
+<!-- Partner videos -->
 #### Partnervideos
 
 <div class="container" style="margin-bottom:50px; padding:0px" >
