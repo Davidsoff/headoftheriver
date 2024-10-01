@@ -3,10 +3,13 @@ title: "Partners"
 meta_title: ""
 description: "Info for partners of the Head of the River Amstel"
 draft: false
-menu:
+# menu:
+#   main:
+#     parent: About
+#     weight: 50
+menus: 
   main:
-    parent: About
-    weight: 50
+    weight: 6
 ---
 ### Head of the River partners
 

@@ -1,31 +1,48 @@
 <section class="section_top_page_btn">
-  {{/*  <div class="container" style="margin:auto;">  */}}
-    {{/*  <div class="row justify-center">  */}}
+  <div class="container" style="margin:auto;">
+    <div class="row justify-center">
       <div class="top_page_btn-widgetwrap">
         <div class="top_page_btn-widget-container">
           <div class="tpbtn-content-wrap">
             <div class="tpbtn-content-main">
+              {{ $count := .Get `count` }}
+              {{ $bg_im := resources.Get "images/homepage/ql_background.webp" }}
+              {{ if eq $count 2 }}
+              <ul class="tpbtn-content-main-button-wrap" >
+                <li>
+                  <a href="#{{ .Get `id1` }}">
+                    <button type="button" class="tpbtn-content-main-button-link" >{{ .Get "name1" }}</button>
+                  </a>
+                </li>
+                <li>
+                  <a href="#{{ .Get `id2` }}">
+                    <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name2" }}</button>
+                  </a>
+                </li>
+              </ul>
+              {{ else if eq $count 3}}
               <ul class="tpbtn-content-main-button-wrap">
                 <li>
-                  <a href= "#{{ .Get `id1` }}" >
+                  <a href="#{{ .Get `id1` }}">
                     <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name1" }}</button>
                   </a>
                 </li>
                 <li>
-                  <a href= "#{{ .Get `id2` }}" >
+                  <a href="#{{ .Get `id2` }}">
                     <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name2" }}</button>
                   </a>
                 </li>
                 <li>
-                  <a href= "#{{ .Get `id3` }}" >
+                  <a href="#{{ .Get `id3` }}">
                     <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name3" }}</button>
                   </a>
                 </li>
               </ul>
+              {{ end }}
             </div>
           </div>
         </div>
-      {{/*  </div>  */}}
-    {{/*  </div>  */}}
+      </div>
+    </div>
   </div>
 </section>

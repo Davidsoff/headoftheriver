@@ -6,7 +6,7 @@ identifier: contact
 name: contact
 menus: 
   main:
-    weight: 6
+    weight: 10
 draft: false
 _build:
   render: ""
