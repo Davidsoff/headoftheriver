@@ -242,7 +242,6 @@ Uiteraard gaan we graag vrijblijvend met je in gesprek, ook als je een pakket op
 {{< accordion "Bedrijfsroeien" >}}
 Voor bedrijven die geinteresseerd zijn in een introductie in roeien en willen bijdragen onze wedstrijd hebben bieden we een bedrijfsroeipakket.
 
-Pakketwaarde: 1250 euro
 - 2x les op de ergometers onder begeleiding van (oud-) toproeiers
 - 3x les op water onder leiding van een (oud-)topcoach
 - Lezing door combinatie van (oud-) topsporters
