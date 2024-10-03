@@ -22,7 +22,7 @@ Jan Vroegopsingel 8
 
 ##### Auto
 {{< notice "waarschuwing" >}}
-De Jan Vroegopsingel is tijdens het weekend afgesloten voor alle gemotoriseerd verkeer, uitgezonderd bestemmingsverkeer. Parkeren kunt u het beste doen aan de Joan Muyskenweg.
+De Jan Vroegopsingel is tijdens het weekend afgesloten voor alle gemotoriseerd verkeer, uitgezonderd bestemmingsverkeer. Parkeren kun je het beste doen aan de Joan Muyskenweg.
 {{< /notice >}}
 
 {{< tabs >}}

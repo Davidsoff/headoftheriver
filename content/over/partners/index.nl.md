@@ -206,7 +206,7 @@ Pakketwaarde: 15.000 tot 20.000 euro
 
 {{< accordion "Partner - Zilver" >}}
 
-Pakketwaarde: 10.000 euro of daarboven
+Pakketwaarde: 10.000 tot 15.000 euro
 - Als partner zichtbaar op plekken voor en tijdens de wedstrijd en bij prijsuitreiking
 - Promotie van de partner op de website en sociale media
 - Mogelijkheid voor een eigen stand en/of werving (ook voor rekrutering werknemers)
@@ -236,6 +236,18 @@ Voor meer informatie neem je vrijblijvend contact met ons op. (info@headoftheriv
 {{< accordion "Partner - Op maat" >}}
 
 Uiteraard gaan we graag vrijblijvend met je in gesprek, ook als je een pakket op maat samen met ons wilt maken. Misschien wil je wel een combinatie van het bovenstaande of heb je interesse in iets anders? 
+
+{{< /accordion >}}
+
+{{< accordion "Bedrijfsroeien" >}}
+Voor bedrijven die geinteresseerd zijn in een introductie in roeien en willen bijdragen onze wedstrijd hebben bieden we een bedrijfsroeipakket.
+
+Pakketwaarde: 1250 euro
+- 2x les op de ergometers onder begeleiding van (oud-) toproeiers
+- 3x les op water onder leiding van een (oud-)topcoach
+- Lezing door combinatie van (oud-) topsporters
+- Roeidiner (indien gewenst)
+- Deelnemen aan de Head of the River met een vier of een acht
 
 {{< /accordion >}}
 

@@ -27,7 +27,7 @@ positions:
     name: "Menno Vroegindeweij"
     image: ""
   - title: Baancommissaris
-    name: "Kevin de RIjke"
+    name: "Kevin de Rijke"
     image: "" 
   - title: Vrijwilligers
     name: "Marjon Nooter"
@@ -44,11 +44,11 @@ positions:
 
 jury:
   - title: Hoofd van de Jury
-    name: Herma van der Stoel
-    image: ""
-  - title: Assistent HvJ
     name: Marc Greefhorst
     image: ""
+  # - title: Assistent HvJ
+  #   name: Marc Greefhorst
+  #   image: ""
 
 ---
 De organisatie van de Head of de River bestaat uit twee onderdelen:
