@@ -8,7 +8,9 @@ menu:
     parent: Participants
     weight: 20
 ---
+In December 2024, you can view the block schedule for the Head of the River 2025 here.                        
 
+<!-- 
 Below you will find the block schedule for the Head of the River 2024.
 
 ### Saturday block 1 - 13:15
@@ -87,4 +89,4 @@ Below you will find the block schedule for the Head of the River 2024.
 | F         | average > 60 |
 | G         | average > 65 |   
      
-</div>
+</div> -->

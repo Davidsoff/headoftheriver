@@ -9,16 +9,15 @@ menu:
     weight: 100
 ---
 ### Bike rental at Willem III
-It is possible to rent bikes at rowing club Willem III. However, there is only a limited number of bikes available and making a reservation is not possible.
+Do you want to cycle along the Amstel to follow the races? It is possible to rent bikes at rowing club Willem III. However, there is only a limited number of bikes available and making a reservation is not possible.
 
-Please check the info desk at Willem II for availability.
+Please check the Info desk at Willem III for availability.
 
 #### Prices:
 - € 10 per time slot
 - € 15 per 2 time slots
 
-Payment is is done via digital payment request (QR-code).  
-An identification document, drivers license or debit card is required as deposit.
+You can pay via a digital payment request (QR-code). We also require a deposit for the bikes. For this, we ask for a OV-chip card, ID or driver's license, or bank card.
 
 <hr style="border:2px solid #62B0E2">
 

@@ -10,16 +10,16 @@ menu:
 
 ---
 ### Fietsverhuur bij Willem III
-Het is mogelijk om bij Willem III een fiets te huren. Er is echter maar een beperkt aantal fietsen beschikbaar en reserveren is niet mogelijk.
+Wil je meefietsen langs de Amstel om de race te volgen? Het is mogelijk om bij Willem III een fiets te huren. Er is echter maar een beperkt aantal fietsen beschikbaar en reserveren is niet mogelijk.
 
-Voor een fiets kunt u terecht bij het wedstrijdsecretariaat.
+Voor een fiets kunt u terecht bij het wedstrijdsecretariaat op Willem 3.
 
 #### Prijzen:
 
 - € 10 per blok
 - € 15 voor 2 blokken
 
-Betaling zal plaatsvinden via een digitaal betaalverzoek. Tevens vragen wij een borg voor de fietsen. Hiervoor vragen wij OV-chipkaart, ID- of rijbewijs of bankpas.
+Je kunt betalen via een digitaal betaalverzoek. Tevens vragen wij een borg voor de fietsen. Hiervoor vragen wij OV-chipkaart, ID- of rijbewijs of bankpas.
 
 <hr style="border:2px solid #62B0E2">
 

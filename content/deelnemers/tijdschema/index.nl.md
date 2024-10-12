@@ -8,7 +8,8 @@ menu:
     parent: Deelnemers
     weight: 20
 ---
-
+In december 2024 kan je hier het blokschema voor de Head of the River 2025 inzien.
+<!-- 
 Hieronder vind je het blokschema voor de Head of the River 2024.
 
 ## Zaterdag blok 1 - 13:15
@@ -69,4 +70,4 @@ Hieronder vind je het blokschema voor de Head of the River 2024.
 | 8       | HEj 4+     | Heren Eerstejaars Vier met   |
 | 72      | M18 4*     | Meisjes Achttien Dubbel Vier |
 | 73      | M16 4*     | Meisjes Zestien Dubbel Vier  |
-| 28      | DEj 4+     | Dames Eerstejaars Vier met   |
+| 28      | DEj 4+     | Dames Eerstejaars Vier met   | -->

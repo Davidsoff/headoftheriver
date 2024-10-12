@@ -8,23 +8,23 @@ menu:
     parent: Deelnemers
     weight: 30
 ---
-Inschrijving vindt plaats via [mijnvereniging.knrb.nl.](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F) De inschrijving is geopend tot en met 1 maart 2024. 
+De commissaris wedstrijdroeien van je vereniging kan je ploeg inschrijven via [mijnvereniging.knrb.nl.](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F) De inschrijving is geopend van 1 februari 2025 tot en met 28 februari 2025.
 
 Wil je deelnemen met combinatieploeg met internationale roeiers kan je vanaf de opening van de inschrijving contact op met de KNRB via [Martijn van Rossum.](martijn.vanrossum@knrb.nl)
 
-Wil je weten wie al zich heeft ingeschreven voor het veldnummer waarin je meedoet, kijk dan [hier](https://roeievenementen.knrb.nl/tournament-details/3015?tab=registrations&subMenu=matrix).
+Wil je weten wie al zich heeft ingeschreven voor het veldnummer waarin je meedoet, kijk dan vanaf 1 februari 2025 [hier](https://roeievenementen.knrb.nl/tournament-details/3015?tab=registrations&subMenu=matrix).
 
 NB: Zijn er nog weinig inschrijvingen voor je veld, dit kan nog veranderen. De meeste teams schrijven zich in een van de laatste weken voor de deadline in.
 
 #### Inschrijfgeld:
 
-- Coastal: €42,50
-- Vier: €85
-- Acht: €115
-- Bedrijfsacht: €300
+- Coastal: €40,00
+- Vier: €90
+- Acht: €122,50
+- Bedrijfsvier: €250
+- Bedrijfsacht: €325
 
-Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentie toeslag. Je kunt betalen voor dinsdag 05 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging en de velden.
-
+Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentie toeslag. Deze moeten zijn betaald voor dinsdag 04 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging en de velden.
 
 <div class="grid grid-cols-1">
 
