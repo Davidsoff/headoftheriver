@@ -57,7 +57,7 @@ collections:
         widget: "select"
         multiple: true
         min: 2
-        options: ["All", "2024", "2023"]
+        options: ["All", "2025", "2024", "2023"]
         i18n: duplicate
         hint: 'Selecteer de relevante categorieën. Meerdere opties mogelijk. Selecteer in ieder geval All'
       - { label: 'Auteur', name: 'author', widget: 'string', i18n: duplicate }

@@ -18,6 +18,6 @@ We hopen dat jullie, ondanks het winterse en onstuimige weer, zin hebben om bij 
 
 In 1932 werd deze voor het eerst geroeid en de Head is nog altijd springlevend. De wedstrijd zal worden gehouden op zaterdag 9 en zondag 10 maart. Er wordt hulp gezocht voor verschillende werkzaamheden zowel voorafgaand als tijdens de wedstrijd.
 
-Via onze [Vrijwilligerspagina](../../../overnew/vrijwilligers/) kun je je aanmelden. Daarbij kun je je beschikbaarheid en voorkeur voor bepaalde taken aangeven. Als je niet kunt dit jaar, maar wel op de adressenlijst wilt blijven, horen we dat ook graag. 
+Via onze [Vrijwilligerspagina](../../../over/vrijwilligers/) kun je je aanmelden. Daarbij kun je je beschikbaarheid en voorkeur voor bepaalde taken aangeven. Als je niet kunt dit jaar, maar wel op de adressenlijst wilt blijven, horen we dat ook graag. 
 
 Mocht je behoefte hebben aan persoonlijke afstemming, neem dan contact op via vrijwilligers@headoftheriver.nl

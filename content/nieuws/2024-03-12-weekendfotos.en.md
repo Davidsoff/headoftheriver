@@ -21,7 +21,7 @@ Below you will find several links of photographers who were present around the r
 
 * [Leo de Keizer (LOEP)](https://www.loep.nu/roeiwedstrijden-2024/)
 * [Kylian Alkemade](https://www.kylianalkemade.nl/head-of-the-river-amstel-2024-zaterdag/)
-* [Daniel Korvemaker](https://danielkorvemaker.nl/) 
-* [KNRB](https://knrb.pixieset.com/headoftheriveramstel/)
+* [Daniel Korvemaker](https://albums.danielkorvemaker.nl/headoftheriver/) 
+* [KNRB](https://knrb.pixieset.com/headoftheriveramstel2024/)
 * [Jonathan Ogilivie](https://www.facebook.com/media/set/?set=a.920079966786673&type=3)
 * [Hannah Barnhoorn](https://hannahbarnhoornfotografie.myportfolio.com/head-of-the-river-amstel)
