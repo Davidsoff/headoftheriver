@@ -8,14 +8,24 @@ menu:
     parent: Participants
     weight: 30
 ---
-If you want to participate in the Head, you have to register yourself.    
-In december 2024 a pre-registration form will be made available on this website. 
+If you want to participate in the Head of the River Amstel, you have to register yourself.    
 
 ### Entry fees:
 - Coastal Quads: € 42,50
 - Quads: €85
 - Eight: €115
 - Corporate Eight: €300
+
+### Registration form
+<!-- Partner video -->
+<section id="sect_pre_reg_form" style="margin-top:-200px; padding-top:200px;">
+<div id="pre_registration" style="width: 100%; max-width: 700px; padding-bottom:25px; padding-top:25px; margin-left:auto; margin-right:auto; ">
+  <div style="position: relative; width: 100%; overflow: hidden; ">
+    <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJAxRake6h5QYhFMlY_yjbtS7flZ7XO6s01kZm5IxxhXFBig/viewform?embedded=true" height="3000" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+  </div>
+</div>
+</section>
+
 
 <!-- 
 If you want to participate in the Head, please register yourself twice.
