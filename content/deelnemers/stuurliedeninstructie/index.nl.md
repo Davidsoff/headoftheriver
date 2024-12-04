@@ -30,7 +30,7 @@ Klik op onderstaande afbeelding om de baankaart in groot formaat te openen.
 
 <div class="grid grid-cols-2 gap-4">
 
-[{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
+[{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
 
 </div>
 
