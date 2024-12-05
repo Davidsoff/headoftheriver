@@ -28,9 +28,9 @@ The following presentations will give you information on the rules that apply du
 
 Click the image below to open the map of the race course.
 
-<div class= grid-cols-4">
+<div class="grid grid-cols-2 gap-4">
 
-[{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
+[{{< image src="images/Baankaart_Oudekerk_Amsterdam_400h.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="" title="baankaart"  webp="false" >}}](documents/Baankaart_Oudekerk_Amsterdam.pdf)
 
 </div>
 
