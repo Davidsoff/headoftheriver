@@ -9,12 +9,12 @@ menu:
     parent: Deelnemers
     weight: 10
 ---
-Op 9 en 10 maart 2025 vindt de Head of the River Amstel plaats. Deze klassieker van 8 km voor gestuurde vieren en achten opent sinds lange tijd het roeiwedstrijdseizoen. Met circa 3000-3500 deelnemers is de Head de grootste roeiwedstrijd qua deelnemers in Nederland.  Wil je meedoen? In december 2024 kun je hier de Bepalingen en Reglementen voor de Head of the River 2025 inzien.
+<!-- Op 9 en 10 maart 2025 vindt de Head of the River Amstel plaats. Deze klassieker van 8 km voor gestuurde vieren en achten opent sinds lange tijd het roeiwedstrijdseizoen. Met circa 3000-3500 deelnemers is de Head de grootste roeiwedstrijd qua deelnemers in Nederland.  Wil je meedoen? In december 2024 kun je hier de Bepalingen en Reglementen voor de Head of the River 2025 inzien. -->
 
-<!-- Hieronder vindt je de bepalingen en reglementen voor de Head of the River.
+Hieronder vindt je de bepalingen en reglementen voor de Head of the River.
 
 ## Bepalingen
-De regatta vindt plaats op zaterdag 09 en zondag 10 maart 2024
+De regatta vindt plaats op zaterdag 08 en zondag 09 maart 2025
 
 #### Racetype
 
@@ -22,31 +22,38 @@ Achtervolgingswedstrijd over 8 km.
 
 #### Wedstrijdleiding:
 
-Menno Vroegindeweij: wedstrijdleiding@headoftheriver.nl
+Menno Vroegindeweij, Robin van den Brink & Ivo Kessler:    
+wedstrijdleiding@headoftheriver.nl
 
 #### Hoofd van de Jury:
 
-Herma van der Stoel
+Mark Greefhorst
 
 #### Inschrijving:
 
-Tot vrijdag 01 maart 23.59 uur via het KNRB inschrijfprogramma.
+Tot vrijdag 28 februari 23.59 uur via het KNRB inschrijfprogramma. 
 
 #### Inschrijfgeld: 
 
-- Vier €85
-- Acht €115
-- Bedrijfsacht €300.
+- Coastal €40
+- Vier €90
+- Acht €122.50
+- Bedrijfsvier €250
+- Bedrijfsacht €325
 
-Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentie toeslag. Betalen voor Dinsdag 05 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging.
+Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentietoeslag. Betalen voor Dinsdag 04 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. naam van de (inschrijvende) roeivereniging.
 
 #### Loting:
 
-Maandag 04 maart 20:00 uur te Amsterdam.
+Maandag 3 maart 20:00 uur te Amsterdam.
 
 #### Weging:
 
-Roeivereniging Skøll, Jan Vroegopsingel 6, tussen 3 en 2 uur voor de eerste start van het eigen veld. Stuurlieden (voor zover van toepassing) wegen in roeitenue (Conform RvR). Stuurlieden dienen zelf eventuele ballast mee te nemen.
+Roeivereniging Skøll, Jan Vroegopsingel 6, tussen 3 en 2 uur voor de start. Stuurlieden (voor zover van toepassing) wegen in roeitenue (Conform RvR). Stuurlieden dienen zelf eventuele ballast mee te nemen.
+
+#### Samenvoegen van velden:
+
+Velden waarin op het moment van sluiten van de inschrijving 3 ploegen of minder waren ingeschreven zullen worden samengevoegd met een hoger veld. Velden voor senioren worden eerst samengevoegd met een hoger veld op basis van prestatiepunten en daarna op basis van gewichtscategorie. In het geval van Masters zal het veld worden samengevoegd met een veld met een jongere ploeggemiddelde leeftijd. Wanneer er geen velden meer zijn om een veld met te weinig inschrijvingen mee samen te voegen, zal het veld niet verroeid worden.
 
 #### Stuurlieden:
 
@@ -69,7 +76,7 @@ Botenwagens dienen vooraf te worden aangemeld bij de organisatie. Voor meer info
 
 ## Reglementen
 
-REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 2024
+REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 2025
 
 1. **ALGEMEEN**
    
@@ -83,26 +90,29 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 2. **TIJDWAARNEMING**
    
-    De wedstrijden worden op tijd geroeid. Voor iedere ploeg wordt de tijd opgenomen waarin zij de baan aflegt. Winnaar is de ploeg met de snelste tijd. In geen geval wordt er overgeroeid.
+    De wedstrijden worden op tijd geroeid. Voor iedere ploeg wordt de tijd opgenomen waarin zij de baan aflegt. Winnaar is de ploeg met de snelste tijd. In geen geval wordt er overgeroeid.   
+    Ploegen met een verschil in gemeten tijd kleiner dan 0,20 seconden worden geacht even snel te zijn.
 
 3. **WIJZIGINGEN IN PLOEGSAMENSTELLING**
    
-    Eventuele wijzigingen in de ploegsamenstelling kunnen conform artikel RvR 37 aan de wedstrijdleiding doorgegeven worden.
+    Eventuele wijzigingen in de ploegsamenstelling kunnen conform artikel RvR 40 aan de wedstrijdleiding doorgegeven worden.
 
     - Wijziging geschiedt via het KNRB inschrijfsysteem, ook na loting en op de wedstrijddagen
-    - Op de wedstrijddagen kan een wijziging ook schriftelijk aan de balie worden gemeld.
+    - Op de wedstrijddagen kan een wijziging ook schriftelijk aan de balie worden gemeld.    
+
+    Indien de wijziging ertoe leidt dat de ploeg niet meer startgerechtigd is voor het veld waarin zij staat ingeschreven zal de wijziging worden geweigerd. Een wijziging leidt nooit tot een wijziging van het veld waarin de ploeg start.
 
 4. **STARTVOLGORDE**
 
-    Behalve voor veteranenploegen, wordt de startvolgorde bepaald door de uitslagen van het afgelopen jaar in een divisie. De winnende ploeg van afgelopen jaar vertrekt als eerste. De ploeg van de vereniging die als 2e was geëindigd start als 2e, enz. Combinatieploegen en nieuwe inschrijvingen worden door loting ingedeeld na de laatste geplaatste verenigingsploeg. Bij inschrijving van meer ploegen per vereniging in hetzelfde veld wordt de ploeg-nummering van de vereniging gebruikt bij de plaatsing. Dus ploeg met nummer 1 krijgt de best behaalde plaats van het afgelopen jaar.
+    Behalve voor mastersploegen wordt de startvolgorde bepaald door de uitslagen van het afgelopen jaar in een divisie. De winnende ploeg van afgelopen jaar vertrekt als eerste. De ploeg van de vereniging die als 2e was geëindigd start als 2e, enz. Combinatieploegen en nieuwe inschrijvingen worden door loting ingedeeld na de laatste geplaatste mastersploegen. Bij inschrijving van meer ploegen per vereniging in hetzelfde veld wordt de ploeg-nummering van de vereniging gebruikt bij de plaatsing. Dus ploeg met nummer 1 krijgt de best behaalde plaats van het afgelopen jaar.
 
-    Voor veteranenploegen wordt de startvolgorde bepaald in 2 stappen. Eerst wordt bepaald of een ploeg ‘matcht’ met een ploeg van vorig jaar. Een ploeg matcht als minimaal de helft van de roeiers overeenkomt met een ploeg van vorig jaar. Vervolgens worden van alle gematchte ploegen, alleen de snelste 50% geplaatst (wederom op basis van het resultaat van vorig jaar). De andere 50% en alle niet gematchte ploegen zijn ongeplaatst. Hun startpositie valt achter de geplaatste ploegen en wordt bepaald aan de hand van loting.    
+    Voor mastersploegen wordt de startvolgorde bepaald in 2 stappen. Eerst wordt bepaald of een ploeg ‘matcht’ met een ploeg van vorig jaar. Een ploeg matcht als minimaal de helft van de roeiers overeenkomt met een ploeg van vorig jaar. Vervolgens worden van alle gematchte ploegen, alleen de snelste 50% geplaatst (wederom op basis van het resultaat van vorig jaar). De andere 50% en alle niet gematchte ploegen zijn ongeplaatst. Hun startpositie valt achter de geplaatste ploegen en wordt bepaald aan de hand van loting.    
 
 5. **RUGNUMMERS**
    
     Rugnummers moeten gedurende de wedstrijd en gedurende het oproeien en terugroeien duidelijk zichtbaar op de rug van stuurman/vrouw en de boegroeier(ster) bevestigd zijn. Eén rugnummer op het wedstrijdshirt van de boegroeier, één op het oproeishirt van de boegroeier en één op de achterin zittende stuur (als de stuur voorin ligt dan op het achterdek).
 
-    De drie rugnummers zijn alleen na de tijdig ontvangen betaling (Voor 07 maart op de rekening van de ARB) van het inschrijfgeld door de vereniging (of buitenlandse ploeg) op de volgende momenten op te halen door een verenigingsvertegenwoordiger:
+    De drie rugnummers zijn alleen na de tijdig ontvangen betaling (Voor 04 maart op de rekening van de ARB, zie Bepalingen - Inschrijfgeld) van het inschrijfgeld door de vereniging (of buitenlandse ploeg) op de volgende momenten op te halen door een verenigingsvertegenwoordiger:
 
     - Vrijdagmiddag tussen 14.00 – 20.00  uur
     - Zaterdag van 09.00 tot 15.00 uur
@@ -170,7 +180,7 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
     Het eerste aligneerpunt T1 bevindt zich ter hoogte van de Duivendrechtsevaart. Ploegen die noordelijker te water gaan, mogen dit punt tussen 55 en 45 minuten voor de eigen starttijd passeren.
 
-    Het tweede aligneerpunt T2 bevindt zich vlak voor de Rozenoordbrug. Ploegen moeten dit punt tussen 40 en 35 minuten voor de eigen starttijd passeren. Te laat aankomen bij deze brug om op te roeien, kan leiden tot uitsluiting.
+    Het tweede aligneerpunt T2 bevindt zich vlak voor de Rozenoordbrug. Ploegen moeten dit punt tussen 35 en 30 minuten voor de eigen starttijd passeren. Te laat aankomen bij deze brug om op te roeien, kan leiden tot uitsluiting.
 
     Na het passeren van dit punt mag alleen in zuidelijke richting worden geroeid tot aan de keerzone in Ouderkerk.
 
@@ -178,7 +188,9 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
     
     De lengte van de baan voor alle ploegen is ongeveer 8 kilometer.
     
-    De start ligt in Ouderkerk, ter hoogte van Amsteldijk Noord 37. De finish is in Amsterdam bij roeivereniging De Hoop.
+    De start ligt in Ouderkerk, ter hoogte van Amsteldijk Noord 37. De finish is in Amsterdam bij roeivereniging KARZV De Hoop.   
+    
+    Voor coastal ploegen en junioren 16 ploegen is de baan ongeveer 5 kilometer. De start ligt in Amstelveen, bij Amsteldijk Noord 127-134. De finish is in Amsterdam bij KARZV De Hoop.
 
     Kijk op de [stuurliedenpagina](../stuurliedeninstructie/) voor de actuele baankaart.
 
@@ -240,7 +252,7 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
     
     Zie met name RvR artikel 75 t/m 81. De tijdstraf, zoals bedoeld in artikel 75 lid 8 RvR is vastgesteld op 15 seconden.
 
-    Protesten worden kenbaar gemaakt door het opsteken van de hand als teken van protest. Protesten worden in ontvangst genomen door de kamprechter voor protesten. Deze bevindt zich in de motorboot direct na de finish. Elk protest moet schriftelijk worden toegelicht, met de daarvoor beschikbare protestformulieren, bij het wedstrijdsecretariaat binnen één uur na de finish van de race. Zowel bij RIC als bij Willem III kunnen de formulieren worden ingeleverd. Protesten worden afgehandeld door de kamprechters die zitting hebben in de juryraad. De juryraad zetelt in de bestuurskamer van Willem III.
+    Protesten worden kenbaar gemaakt door het opsteken van de hand als teken van protest. Protesten worden in ontvangst genomen door het jurylid voor protesten. Deze bevindt zich in de motorboot direct na de finish. Elk protest moet schriftelijk worden toegelicht, met de daarvoor beschikbare protestformulieren, bij het wedstrijdsecretariaat binnen één uur na de finish van de race. Bij Willem III kunnen de formulieren worden ingeleverd. Protesten worden afgehandeld door de juryraad. De juryraad zetelt in de bestuurskamer van Willem III.
 
     Het is noodzakelijk dat de verenigingsvertegenwoordiger of ploegvertegenwoordiger aanwezig is en blijft gedurende de afhandeling van het protest. Voor een vlotte afhandeling dient de verenigingsvertegenwoordiger of ploegvertegenwoordiger erop toe te zien dat de verenigingsvertegenwoordigers of ploegvertegenwoordigers waartegen geprotesteerd wordt ook aanwezig dan wel bereikbaar zijn. Wij gebruiken het 06 nummer zoals bekend middels uw inschrijving.
 
@@ -259,8 +271,8 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 23. **COASTAL ROWING**
 
-    De Head of the River Amstel is voornemens om Coastal nummers uit te schrijven voor heren en dames Coastal vieren. Voor de reglementen omtrent Coastal Rowing verwijzen we u naar artikel 58 van het Reglement voor Roeiwedstrijden. De start is in Ouderkerk aan de Amstel en de finish is voor Willem 3. Het parcours is circa 5 km.
+    De Head of the River Amstel is voornemens om Coastal nummers uit te schrijven voor heren en dames Coastal vieren. Voor de reglementen omtrent Coastal Rowing verwijzen we u naar artikel 58 van het Reglement voor Roeiwedstrijden. 
 
 24. **AFWIJKING VAN DE BEPALINGEN**
 
-    Van de hierboven omschreven bepalingen moet worden afgeweken voor zover de eisen van goed zeemanschap en sportiviteit dit onder bijzondere omstandigheden vereisen. -->
+    Van de hierboven omschreven bepalingen moet worden afgeweken voor zover de eisen van goed zeemanschap en sportiviteit dit onder bijzondere omstandigheden vereisen.

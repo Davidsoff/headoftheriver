@@ -16,36 +16,36 @@ menus:
 positions:
   - title: Voorzitter
     name: "Rob Florijn"
-    image: ""
+    image: "images/organisatie/blanc.jpg"
   - title: Penningmeester
     name: "Gijs Andringa"
-    image: ""
+    image: "images/organisatie/gijs.jpg"
   - title: Wedstrijdsecretaris
     name: "Nicole Feller"
-    image: ""
+    image: "images/organisatie/blanc.jpg"
   - title: Wedstrijdleiding
     name: "Menno Vroegindeweij"
-    image: ""
+    image: "images/organisatie/menno.jpg"
   - title: Baancommissaris
     name: "Kevin de Rijke"
-    image: "" 
+    image: "images/organisatie/kevin.jpg" 
   - title: Vrijwilligers
     name: "Marjon Nooter"
-    image: "" 
+    image: "images/organisatie/marjon.jpg" 
   - title: Catering
     name: "Judith Gelmers"
-    image: ""        
+    image: "images/organisatie/blanc.jpg"        
   - title: Communicatie
     name: "Nicole Opreij"
-    image: ""    
+    image: "images/organisatie/blanc.jpg"    
   - title: Veiligheid
     name: "Ernst Schutte"
-    image: ""      
+    image: "images/organisatie/blanc.jpg"      
 
 jury:
   - title: Hoofd van de Jury
     name: Marc Greefhorst
-    image: ""
+    image: "images/organisatie/blanc.jpg"
   # - title: Assistent HvJ
   #   name: Marc Greefhorst
   #   image: ""

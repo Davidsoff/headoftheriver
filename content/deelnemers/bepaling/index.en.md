@@ -9,13 +9,13 @@ menu:
     parent: Participants
     weight: 10
 ---
-March 9 and 10, 2025, the Head of the River Amstel will take place. This 8 km classic for coxed fours and eights has long been the opening event of the rowing competition season. With approximately 3,000-3,500 participants, the Head is the largest rowing competition in the Netherlands in terms of participants. Want to participate? In December 2024, you can review the Rules and Regulations for the Head of the River 2025 here.
+<!-- March 9 and 10, 2025, the Head of the River Amstel will take place. This 8 km classic for coxed fours and eights has long been the opening event of the rowing competition season. With approximately 3,000-3,500 participants, the Head is the largest rowing competition in the Netherlands in terms of participants. Want to participate? In December 2024, you can review the Rules and Regulations for the Head of the River 2025 here. -->
 
-<!-- 
-Below you will find the Rules and Regulations of the Head of the River 2024.
+
+Below you will find the Rules and Regulations of the Head of the River 2025.
 
 ## Regulations
-The regatta takes place on Saturday, March 9, and Sunday, March 10, 2024.
+The regatta takes place on Saturday, March 08, and Sunday, March 09, 2025.
 
 #### Racetype
 
@@ -23,34 +23,40 @@ Pursuit race over approximately 8 km.
 
 #### Regatta Manager:
 
-Menno Vroegindeweij: wedstrijdleiding@headoftheriver.nl
+Menno Vroegindeweij, Robin van den Brink & Ivo Kessler:    
+wedstrijdleiding@headoftheriver.nl
 
 #### Head of the Jury: 
 
-Herma van der Stoel
+Mark Greefhorst
 
 #### Entries: 
 
-Find out how to register on our Entries page. Registration closes on Friday, 1st of March at 23.59 hr. via the KNRB registration site.
+Find out how to register on our Entries page. Registration closes on Friday, 28st of February at 23.59 hr. via the KNRB registration site.
 
 #### Entry fees: 
 
-- Four €85
-- Eight €115
-- Corporate Eight €300.
+- Coastal €40
+- Four €90
+- Eight €122.50
+- Corporate Four €250.
+- Corporate Eight €325.
 
-Entry fees include KNRB competition license surcharge. Please pay before Tuesday, 5 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A.    
+Entry fees include KNRB competition license surcharge. Please pay before Tuesday, 04 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A.    
 Please include the name of the registering rowing club.
 
 #### Draw:
 
-The draw will take place Monday, March 4 at 20:00 hrs. in Amsterdam.
+The draw will take place Monday, March 03 at 20:00 hrs. in Amsterdam.
 
 #### Weigh-in:
 
-Weigh-in will take place at Skøll Rowing Club (Jan Vroegopsingel 6 1096CN Amsterdam). Rowers will be weighed between 2 and 3 hours before the start of their own race.    
+Weigh-in will take place at Skøll Rowing Club (Jan Vroegopsingel 6 1096CN Amsterdam). Rowers will be weighed between 2 and 3 hours before the start.    
 Coxswains (as applicable) will weigh in wearing their rowing outfit. (conforming to RvR guidelines)    
 Coxswains should bring any required ballast themselves.    
+
+#### Combining of events:
+Events in which 3 or fewer teams were registered at the time of closing of the registration will be merged with a higher event. Events for seniors will first be merged with a higher event based on performance points and then based on weight category. In the case of Masters, the event will be merged with a event with a younger average crew age. If there are no more events to merge an event with insufficient registrations, the event will not be rowed.
 
 #### Coxswain Meeting:
 
@@ -74,9 +80,10 @@ Boat trailers need to be registered in advance by the organizing committee. Chec
 
 ## Rules
 
-RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2024
+RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2025
 
-1. **GENERAL**
+1. **GENERAL**   
+
     The race will be held in eights and steered fours for men and women who are members of a KNRB-affiliated rowing club or with another member of FISA. The competitive race will be held under the rules and regulations of the KNRB with the exceptions and special provisions below. Events for first year and advanced teams are not open to foreign teams.
 
     The fastest Dutch club team of the Elite eights in the men's and women's competition win the Championship of the Amstel. To symbolize this championship, this club may fly a long blue pennant from the club’s flagpole throughout the year.
@@ -87,14 +94,17 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
 2. **TIMING**
    
-    The races are organized as time trials. The time in which each crew completes the course shall be recorded. The team with the fastest time is the winner. Under no circumstances will a team be allowed to row the race a second time.
+    The races are organized as time trials. The time in which each crew completes the course shall be recorded. The team with the fastest time is the winner. Under no circumstances will a team be allowed to row the race a second time.   
+    Teams with a measured time difference less then 0.20 seconds are considered to be equal in time. 
 
 3. **CREW CHANGES**
    
-    Any changes in the team composition can be reported to the race committee in accordance with article RRS 37.
+    Any changes in the team composition can be reported to the race committee in accordance with article RRS 40.
 
     - At any time after the draw and on race days, changes shall be made via the KNRB registration system.
-    - On race days, changes can also be reported in writing at the desk.
+    - On race days, changes can also be reported in writing at the desk.   
+
+    If the change results in the team no longer being eligible to start in the field in which they are registered, the change will be refused. A change will never result in a change of the field in which the team starts.
 
 4. **STARTING ORDER**
 
@@ -174,23 +184,22 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
     The first check point, T1, is located at the Duivendrechtsevaart. Teams starting north may pass this point between 55 and 45 minutes before their own starting time.
 
-    The second checkpoint, T2, is located just before the Rozenoordbrug (Rozenoord Bridge). Crews must pass this point between 40 and 35 minutes before their starting time. Arriving late at this bridge checkpoint to row on, can result in disqualification.
+    The second checkpoint, T2, is located just before the Rozenoordbrug (Rozenoord Bridge). Crews must pass this point between 35 and 30 minutes before their starting time. Arriving late at this bridge checkpoint to row on, can result in disqualification.
 
     After passing this point, crews may only row in a southerly direction until they reach the turning area in Ouderkerk.
 
 13. **RACE COURSE**
     
-    The length of the course is approximately 8 kilometres for all crews.
+    The length of the course for all teams is approximately 8 kilometers.
+    The start is at Ouderkerk, at Amsteldijk Noord 37. The finish is in Amsterdam at KARZV De Hoop.   
 
-    The start is in Ouderkerk, close to the Oostmeerweg. The finish is in Amsterdam, just before the Nieuwe Amstel Brug (Bridge).
+    For coastal teams and junior 16 teams, the course is approximately 5 kilometers. The start is in Amstelveen, at Amsteldijk Noord 127-134. The finish is in Amsterdam at KARZV De Hoop.   
 
     Check the [coxwains page](../stuurliedeninstructie/) for the current course map and further details.
 
 14. **PRESTART, START AND FINISH**
     
-    The Starting Line is marked by two poles with a white flag. At approximately 100 meters before the
-
-    Starting Line, the Pre-starting line is marked by two poles with a red flag.
+    The Starting Line is marked by two poles with a white flag. At approximately 100 meters before the Starting Line, the Pre-starting line is marked by two poles with a red flag.
 
     The start is a ‘flying start’ with an interval of 15 seconds between the crews. Between divisions, there will be a start difference of at least 60 seconds.
 
@@ -213,7 +222,8 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
     - Rozenoordbrug (Rozenoord Bridge): only the port side opening is permitted for use. The starboard opening is prohibited for use by racing teams.
     - Utrechtsebrug (Utrechtse Bridge): only the port and middle openings are permitted for use.  Use of the other openings is forbidden.
     - Berlagburg (Berlag Bridge): only the middle opening and the two openings at port side are permitted for use. Use of the other openings are forbidden.
-    - If fewer bridge holes are available during the Head of the River, due to construction works, we will publish modified regulations.
+    
+    If fewer bridge holes are available during the Head of the River, due to construction works, we will publish modified regulations.
 
     Immediately after the finish, crews must continue under the Nieuwe Amstel Brug (Bridge) to the turn buoy.
 
@@ -243,7 +253,7 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
     
     In accordance with the RvR*, Article 75 up to and including 81, the time penalty is set to 15 seconds.
 
-    Protests will be made known by raising the hand as a sign of protest. Protests will be received and registered by the race official in charge of protests. The official in charge of protests can be found at the motorboat immediately after the finish line. Each protest must be submitted in writing using the protest forms available for that purpose and given to the Jury Secretary within one hour of the race finish. Forms can be turned into the Jury Secretary at the boathouses of either RIC or William III. Protests will be handled by the umpire/s which are member of the Jury Board. The Jury Board sits in the boardroom at the Willem III boathouse.
+    Protests will be made known by raising the hand as a sign of protest. Protests will be received and registered by the race official in charge of protests. The official in charge of protests can be found at the motorboat immediately after the finish line. Each protest must be submitted in writing using the protest forms available for that purpose and given to the Jury Secretary within one hour of the race finish. Forms can be turned into the Jury Secretary at the boathouse of William III. Protests will be handled by the umpire/s which are member of the Jury Board. The Jury Board sits in the boardroom at the Willem III boathouse.
 
     It is necessary that the club or team representative is and remains nearby during the handling of the protest. For a smooth processing of the protest, the club or team representative must ensure that the club or team representatives against whom the protest is made, is also present and available. We use the phone number that begins with 06 and can be found through your profile you made during making your entry.
 
@@ -262,10 +272,10 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
 23. **COASTAL ROWING**
 
-    The Head of the River Amstel intends to issue Coastal numbers for men's and women's Coastal fours. For the rules regarding Coastal Rowing please refer Article 58 of the Rules of Rowing Competitions. The fisnish will be in front of Willem III. The total race course is about 5km.
+    The Head of the River Amstel intends to issue Coastal numbers for men's and women's Coastal fours. For the rules regarding Coastal Rowing please refer Article 58 of the Rules of Rowing Competitions.
 
 24. **DEVIATIONS FROM THE RULES**
 
     Deviations from the rules above shall be made if special circumstances and/or good seamanship and sportsmanship so require.
 
-***RvR * = Racing Rules of the Dutch Rowing Federation*** -->
+***RvR * = Racing Rules of the Dutch Rowing Federation***

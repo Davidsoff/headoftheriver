@@ -1,9 +1,9 @@
   <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style=" height:100%">
-  {{ $image:= .Params.image }}
+  {{ $image:= .image }}
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Alt" .title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
   {{ else}}
-   <!-- {{ partial "image" (dict "Src" "images/avatar.png" "Alt" .title "Class" "mx-auto mb-6 rounded" "size" "120x120") }} -->
+    {{/*  {{ partial "image" (dict "Src" "images/avatar.png" "Alt" .title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}  */}}
   {{ end }}
   <h5 class="mb-3">
     <!-- <a href="{{ .RelPermalink }}">{{ .title }}</a> -->
