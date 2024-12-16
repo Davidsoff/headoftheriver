@@ -16,7 +16,7 @@ menus:
 positions:
   - title: Voorzitter
     name: "Rob Florijn"
-    image: "images/organisatie/blanc.jpg"
+    image: "images/organisatie/rob.jpg"
   - title: Penningmeester
     name: "Gijs Andringa"
     image: "images/organisatie/gijs.jpg"
@@ -37,15 +37,15 @@ positions:
     image: "images/organisatie/blanc.jpg"        
   - title: Communicatie
     name: "Nicole Opreij"
-    image: "images/organisatie/blanc.jpg"    
+    image: "images/organisatie/nicoleO2.jpg"    
   - title: Veiligheid
     name: "Ernst Schutte"
-    image: "images/organisatie/blanc.jpg"      
+    image: "images/organisatie/ernst.jpg"      
 
 jury:
   - title: Hoofd van de Jury
-    name: Marc Greefhorst
-    image: "images/organisatie/blanc.jpg"
+    name: Mark Greefhorst
+    image: "images/organisatie/mark.jpg"
   # - title: Assistent HvJ
   #   name: Marc Greefhorst
   #   image: ""
