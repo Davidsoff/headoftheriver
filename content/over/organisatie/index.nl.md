@@ -22,7 +22,7 @@ positions:
     image: "images/organisatie/gijs.jpg"
   - title: Wedstrijdsecretaris
     name: "Nicole Feller"
-    image: "images/organisatie/blanc.jpg"
+    image: "images/organisatie/nicoleF.jpg"
   - title: Wedstrijdleiding
     name: "Menno Vroegindeweij"
     image: "images/organisatie/menno.jpg"
