@@ -52,6 +52,7 @@
       "span",
       "strong",
       "summary",
+      "sup",
       "svg",
       "table",
       "tbody",
@@ -217,6 +218,7 @@
       "md:grid-cols-2",
       "md:hidden",
       "md:order-2",
+      "minitable",
       "ml-0",
       "ml-2",
       "ml-auto",
@@ -495,6 +497,8 @@
       "results-archive",
       "rules",
       "samenvoegen-van-velden",
+      "saturday-block-1---1315",
+      "saturday-block-2---1600",
       "search-modal-input",
       "seconds",
       "sect_current_partners",
@@ -512,6 +516,8 @@
       "stuurliedenleeftijd",
       "stuurliedenweging",
       "subjectform",
+      "sunday-block-1---1045",
+      "sunday-block2---1400",
       "tab",
       "tables",
       "terreinopbouw",
@@ -536,7 +542,11 @@
       "wie-wordt-de-winnaar-van-de-head-of-the-river-amstel-in-2024",
       "willem-iii-wint-de-head-of-the-river-in-1948",
       "wimpels",
-      "youtube-video"
+      "youtube-video",
+      "zaterdag-blok-1---1315",
+      "zaterdag-blok-2---1600",
+      "zondag-blok-1---1045",
+      "zondag-blok2---1400"
     ]
   }
 }

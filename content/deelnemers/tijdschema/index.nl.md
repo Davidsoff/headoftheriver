@@ -8,66 +8,68 @@ menu:
     parent: Deelnemers
     weight: 20
 ---
-In december 2024 kan je hier het blokschema voor de Head of the River 2025 inzien.
-<!-- 
-Hieronder vind je het blokschema voor de Head of the River 2024.
+<!-- In december 2024 kan je hier het blokschema voor de Head of the River 2025 inzien. -->
 
-## Zaterdag blok 1 - 13:15
+Hieronder vind je het blokschema voor de Head of the River 2025.
 
-| ID      | Veld       | Beschrijving                                    |
-|---------|------------|-------------------------------------------------|
-| 81      | HCl 8+     | Heren Club Acht                                 |
-| 205-209 | MF- 8+     | Masters 8+ (F en ouder)                         |
-| 114     | 8*         | Open Dubbel Acht                                |
-| 113     | LHE 4*     | Lichte Elite Dubbel Vier                        |
-| 18      | LHEj 4+    | Lichte Eerstejaars Vier met                     |
-| 230-238 | DM 4*      | Dames Masters Dubbel Vier (Pre-master, A t/m J) |
-| 39      | Coastal 4* | Coastal Dubbel Vier                             |
+### Zaterdag blok 1 - 13:15
 
-## Zaterdag blok 2 - 16:00
+| ID  | Veld          | Beschrijving                                          |
+|-----|---------------|-------------------------------------------------------|
+| 39  | Coastal4*     | Coastal dubbel vier-met                               |
+| 81  | HCl 8+        | Heren club acht                                       |
+| 12  | LHE 4*        | Lichte Elite dubbel vier-met                          |
+| 42  | MF+ 8+        | Masters categorie F+ acht                             |
+| 18  | LHEj 4+       | Lichte eerstejaars vier-met                           |
+| 114 | M 8*          | Masters dubbel acht                                   |
+| 52  | DMPre, A-H 4* | Dames Masters categorie Pre & A t/m H dubbel vier-met |
 
-| ID           | Veld               | Beschrijving                              |
-|--------------|--------------------|-------------------------------------------|
-| 200-202, 239 | M8+ (Pre, A t/m C) | Masters Acht (Pre-master, A t/m C)        |
-| 82           | HCl 4*             | Heren Club Dubbel Vier                    |
-| 91           | DCl 8+             | Dames Club Acht                           |
-| 92           | DCl 4*             | Dames Club Dubbel Vier                    |
-| 220-227, 241 | M 4*               | Masters Dubbel Vier (Pre-master, A t/m J) |
-| 115          | D 8*               | Dames Dubbel Acht                         |
-| 40           | D Coastal 4*       | Dames Coastal Dubbel Vier                 |
+### Zaterdag blok 2 - 16:00
 
-## Zondag blok 1 - 10:45
+| ID  | Veld         | Beschrijving                                   |
+|-----|--------------|------------------------------------------------|
+| 40  | Dcoastal 4*  | Dames Coastal dubbel vier-met                  |
+| 41  | MPre, A-C 8+ | Masters categorie Pre, A t/m C acht            |
+| 82  | HCl 4*       | Heren club dubbel vier-met                     |
+| 91  | DCl 8+       | Dames club acht                                |
+| 92  | DCl 4*       | Dames club dubbel vier-met                     |
+| 43  | MPre, A-H 4* | Masters categorie Pre, A t/m H dubbel vier-met |
+| 115 | DM 8*        | Dames Masters dubbel acht                      |
 
-| ID           | Veld            | Beschrijving                            |
-|--------------|-----------------|-----------------------------------------|
-| 11           | LHE 8+          | Lichte Heren Elite Acht                 |
-| 12           | LHG 8+          | Lichte Heren Gevorderde Acht            |
-| 14           | LHEj 8+         | Lichte Heren Eerstejaars Acht           |
-| 61           | J18 8+          | Jongens Achttien Acht                   |
-| 73           | M18 8+          | Meisjes Achttien Acht                   |
-| 101          | Mix 8+          | Mixed Acht                              |
-| 111          | Bedr. 8+        | Bedrijfs Acht                           |
-| 62           | J18 4*          | Jongens Achttien Dubbel Vier            |
-| 63           | J16 4*          | Jongens Zestien Dubbel Vier             |
-| 31           | LDE 4*          | Lichte Dames Elite Dubbel Vier          |
-| 34           | LDEj 4*         | Lichte Dames Eerstejaars Dubbel Vier    |
-| 102          | Mix 4*          | Mixed Dubbel Vier                       |
-| 210-217, 240 | DM 8+ (A t/m J) | Dames Masters Acht (Pre-master, At/m J) |
+### Zondag blok 1 - 10:45
 
-## Zondag blok2 - 14:00
+| ID  | Veld           | Beschrijving                              |
+|-----|----------------|-------------------------------------------|
+| 63  | J16 4*         | Jongens zestien dubbel vier-met           |
+| 11  | LHE 8+         | Lichte elite acht                         |
+| 12  | LHG 8+         | Lichte gevorderde acht                    |
+| 14  | LHEj 8+        | Lichte eerstejaars acht                   |
+| 61  | J18 8+         | Jongens achttien acht                     |
+| 73  | M18 8+         | Meisjes 18 acht                           |
+| 101 | Mix 8+         | Mixed acht                                |
+| 111 | Bedr 8+        | Bedrijfs acht                             |
+| 62  | J18 4*         | Jongens achttien dubbel vier-met          |
+| 31  | LDE 4*         | Lichte dames elite dubbel vier-met        |
+| 34  | LDEj 4*        | Lichte dames eerstejaars dubbel vier-met  |
+| 51  | DM Pre, A-C 8+ | Dames Masters categorie Pre, A t/m C acht |
+|     | DM D-E 8+      | Dames Masters categorie D & E acht        |
+|     | DM F+8+        | Dames Masters categorie F+ acht           |
+| 102 | Mix 4*         | Mixed dubbel vier-met                     |
 
-| ID      | Veld       | Beschrijving                 |
-|---------|------------|------------------------------|
-| 1       | HE 8+      | Heren Elite Acht             |
-| 2       | HG 8+      | Heren Gevorderde Acht        |
-| 4       | HEj 8+     | Heren Eerstjaars Acht        |
-| 112     | HE 4*      | Heren Elite Dubbel Vier      |
-| 21      | DE 8+      | Dames Elite Acht             |
-| 22      | DG 8+      | Dames Gevorderde Acht        |
-| 24      | DEj 8+     | Dames Eerstejaars Acht       |
-| 25      | DE 4*      | Dames Elite Dubbel Vier      |
-| 203-204 | M 8+ (D&E) | Masters Acht (D & E)         |
-| 8       | HEj 4+     | Heren Eerstejaars Vier met   |
-| 72      | M18 4*     | Meisjes Achttien Dubbel Vier |
-| 73      | M16 4*     | Meisjes Zestien Dubbel Vier  |
-| 28      | DEj 4+     | Dames Eerstejaars Vier met   | -->
+### Zondag blok2 - 14:00
+
+| ID  | Veld    | Beschrijving                     |
+|-----|---------|----------------------------------|
+| 73  | M16 4*  | Meisjes zestien dubbel vier-met  |
+| 1   | HE 8+   | Elite acht                       |
+| 2   | HG 8+   | Gevorderde acht                  |
+| 4   | HEj 8+  | Eerstjaars acht                  |
+| 112 | HE 4*   | Elite dubbel vier-met            |
+| 21  | DE 8+   | Dames elite acht                 |
+| 22  | DG 8+   | Dames gevorderde acht            |
+| 24  | DEj 8+  | Dames eerstejaars acht           |
+| 25  | DE 4*   | Dames elite dubbel vier-met      |
+| 203 | MD-E 8+ | Masters categorie D & E acht     |
+| 8   | HEj 4+  | Eerstejaars vier-met             |
+| 72  | M18 4*  | Meisjes achttien dubbel vier-met |
+| 28  | DEj 4+  | Dames eerstejaars vier-met       |
