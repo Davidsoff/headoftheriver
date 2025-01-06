@@ -16,7 +16,7 @@ Hieronder vind je het blokschema voor de Head of the River 2025.
 
 | ID  | Veld          | Beschrijving                                          |
 |-----|---------------|-------------------------------------------------------|
-| 39  | Coastal4*     | Coastal dubbel vier-met                               |
+| 39  | Coastal4*     | Coastal dubbel vier-met<sup>1</sup>                   |
 | 81  | HCl 8+        | Heren club acht                                       |
 | 12  | LHE 4*        | Lichte Elite dubbel vier-met                          |
 | 42  | MF+ 8+        | Masters categorie F+ acht                             |
@@ -28,7 +28,7 @@ Hieronder vind je het blokschema voor de Head of the River 2025.
 
 | ID  | Veld         | Beschrijving                                   |
 |-----|--------------|------------------------------------------------|
-| 40  | Dcoastal 4*  | Dames Coastal dubbel vier-met                  |
+| 40  | Dcoastal 4*  | Dames Coastal dubbel vier-met<sup>1</sup>                  |
 | 41  | MPre, A-C 8+ | Masters categorie Pre, A t/m C acht            |
 | 82  | HCl 4*       | Heren club dubbel vier-met                     |
 | 91  | DCl 8+       | Dames club acht                                |
@@ -40,7 +40,7 @@ Hieronder vind je het blokschema voor de Head of the River 2025.
 
 | ID  | Veld           | Beschrijving                              |
 |-----|----------------|-------------------------------------------|
-| 63  | J16 4*         | Jongens zestien dubbel vier-met           |
+| 63  | J16 4*         | Jongens zestien dubbel vier-met<sup>1</sup>           |
 | 11  | LHE 8+         | Lichte elite acht                         |
 | 12  | LHG 8+         | Lichte gevorderde acht                    |
 | 14  | LHEj 8+        | Lichte eerstejaars acht                   |
@@ -60,7 +60,7 @@ Hieronder vind je het blokschema voor de Head of the River 2025.
 
 | ID  | Veld    | Beschrijving                     |
 |-----|---------|----------------------------------|
-| 73  | M16 4*  | Meisjes zestien dubbel vier-met  |
+| 73  | M16 4*  | Meisjes zestien dubbel vier-met<sup>1</sup>  |
 | 1   | HE 8+   | Elite acht                       |
 | 2   | HG 8+   | Gevorderde acht                  |
 | 4   | HEj 8+  | Eerstjaars acht                  |
@@ -73,3 +73,5 @@ Hieronder vind je het blokschema voor de Head of the River 2025.
 | 8   | HEj 4+  | Eerstejaars vier-met             |
 | 72  | M18 4*  | Meisjes achttien dubbel vier-met |
 | 28  | DEj 4+  | Dames eerstejaars vier-met       |
+
+1 - De wedstrijdbaan voor de junioren 16 en Coastal velden is ongeveer 5.5km

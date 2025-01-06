@@ -190,10 +190,10 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
 13. **RACE COURSE**
     
-    The length of the course for all teams is approximately 8 kilometers.
+    The length of the course for all teams is approximately 8 kilometers, with the exception of the junior 16 and Coastal events.
     The start is at Ouderkerk, at Amsteldijk Noord 37. The finish is in Amsterdam at KARZV De Hoop.   
 
-    For coastal teams and junior 16 teams, the course is approximately 5 kilometers. The start is in Amstelveen, at Amsteldijk Noord 127-134. The finish is in Amsterdam at KARZV De Hoop.   
+    For coastal teams and junior 16 teams, the course is approximately 5.5 kilometers. The start is in Amstelveen, at Amsteldijk Noord 127-134. The finish is in Amsterdam at KARZV De Hoop.   
 
     Check the [coxwains page](../stuurliedeninstructie/) for the current course map and further details.
 
@@ -205,11 +205,11 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
     The Finish Line is marked by two poles with a red flag.
 
-15. **BAANMARKERINGEN**
+15. **Race course markings**
 
     During the race, the buoys that split the race lane from the travel lane, must be kept on starboard side.
 
-    As can be seen on the course maps, extra buoys have been placed at the Amstel Canal, before the Big Bend, and before the finish for safety reasons. These additional buoys must be kept on port side.
+    As can be seen on the course maps, extra buoys have been placed at the Amstel river, before the Big Bend, and before the finish for safety reasons. These additional buoys must be kept on port side.
 
     A crew that passes a buoy at the wrong side or a crew that leaves the travel lane, may receive a penalized.
 

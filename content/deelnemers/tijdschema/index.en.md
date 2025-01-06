@@ -16,7 +16,7 @@ Below you will find the block schedule for the Head of the River 2025.
 
 | ID  | Event         | Description                                                         |
 |-----|---------------|---------------------------------------------------------------------|
-| 39  | Coastal4*     | Men's Open Coastal Coxed Quads                                      |
+| 39  | Coastal4*     | Men's Open Coastal Coxed Quads<sup>4</sup>                                     |
 | 81  | HCl 8+        | Men's Club Eights                                                   |
 | 12  | LHE 4*        | Men's Lightweight Coxed Quads                                       |
 | 42  | MF+ 8+        | Masters (Category F and older<sup>3</sup>) Eights                   |
@@ -28,7 +28,7 @@ Below you will find the block schedule for the Head of the River 2025.
 
 | ID  | Event        | Description                                                  |
 |-----|--------------|--------------------------------------------------------------|
-| 40  | Dcoastal 4*  | Women’s Coastal Coxed Quads                                  |
+| 40  | Dcoastal 4*  | Women’s Coastal Coxed Quads<sup>4</sup>                                  |
 | 41  | MPre, A-C 8+ | Pre-masters<sup>2</sup> and Masters (A-C<sup>3</sup>) Eights |
 | 82  | HCl 4*       | Men’s Club Coxed Quads                                       |
 | 91  | DCl 8+       | Women’s Club Eights                                          |
@@ -40,7 +40,7 @@ Below you will find the block schedule for the Head of the River 2025.
 
 | ID  | Event          | Description                                                         |
 |-----|----------------|---------------------------------------------------------------------|
-| 63  | J16 4*         | Men’s Under 17 Coxed Quads                                          |
+| 63  | J16 4*         | Men’s Under 17 Coxed Quads<sup>4</sup>                                          |
 | 11  | LHE 8+         | Men’s Lightweight Eights                                            |
 | 12  | LHG 8+         | Men’s Lightweight Intermediate Eights (ODTA<sup>1</sup>)            |
 | 14  | LHEj 8+        | Men’s Lightweight Freshmen Eights (ODTA<sup>1</sup>)                |
@@ -60,7 +60,7 @@ Below you will find the block schedule for the Head of the River 2025.
 
 | ID  | Event   | Description                                     |
 |-----|---------|-------------------------------------------------|
-| 73  | M16 4*  | Women’s Under 17 Coxed Quads                    |
+| 73  | M16 4*  | Women’s Under 17 Coxed Quads<sup>4</sup>                    |
 | 1   | HE 8+   | Men’s Elite Eights                              |
 | 2   | HG 8+   | Men’s Intermediate Eights (ODTA<sup>1</sup>)    |
 | 4   | HEj 8+  | Men’s Freshmen Eights (ODTA<sup>1</sup>)        |
@@ -91,3 +91,4 @@ Below you will find the block schedule for the Head of the River 2025.
 | G         | average > 65 |   
      
 </div>
+4 - Race course distance for the juniors 16 and Coastal events is ~5.5km
