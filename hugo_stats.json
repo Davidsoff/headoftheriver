@@ -350,6 +350,8 @@
       "zoomable"
     ],
     "ids": [
+      "1-pre-registration-form",
+      "2-register-with-the-national-rowing-association-knrb",
       "TableOfContents",
       "aanmelden-botenwagens",
       "aanmelding",
@@ -403,6 +405,7 @@
       "en",
       "entries",
       "entry-fees",
+      "entry-fees-1",
       "evenementimpressie-2024",
       "fiets",
       "fiets-1",
@@ -489,7 +492,6 @@
       "regatta-manager",
       "regions_div",
       "registration-boat-trailers",
-      "registration-form",
       "reglementen",
       "regulations",
       "required-information",
