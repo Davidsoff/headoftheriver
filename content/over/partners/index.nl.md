@@ -24,7 +24,7 @@ menus:
 Met de Head wordt het wedstrijdseizoen voor vieren en achten jaarlijks in Amsterdam geopend. Bijna 4000 deelnemers strijden in het weekend van 8 en 9 maart 2025 in deze klassieker, die zich de oudste en grootste langebaanroeiwedstrijd van Nederland mag noemen. Met 500 ploegen en veel buitenlandse roeiers uit meer dan 10 landen is de Head een spannend begin van het roeiseizoen. Niet voor niets Dé lange afstandsklassieker van Nederland genoemd.
 Omdat de Head wil groeien en professionaliseren, zijn we op zoek naar serieuze partners voor deze prominente wedstrijd.
 
-Als officiële partner van De Head kom je uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt je ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.  
+<!-- Als officiële partner van De Head kom je uitgebreid in beeld voorafgaand en tijdens de wedstrijd. Dit jaar (2025) zullen we de wedstrijd voor het eerst rechtstreeks uitzenden, zowel op  tv- als  online. Daarnaast wordt je ook betrokken bij een breed internationaal sportevenement met een grote verscheidenheid aan deelnemers en vrijwilligers.   -->
 
 
 <!-- PDF presentation -->
@@ -77,9 +77,9 @@ Onze (social) mediaplatformen groeien elk jaar weer. Ze bieden een breed publiek
 - 150 LinkedInvolgers    
 - +15 landen vanwaar de website bezocht wordt  
 
-##### Live videoregistratie
+<!-- ##### Live videoregistratie
 
-In 2025 gaat De Head iets nieuws doen: we leggen onze wedstrijd vast op televisie. Het team van Salto Amsterdam is bereid gevonden om met ons een live-uitzending te maken die zes uur duurt. Beelden van de wedstrijd (zes camera's langs de kant en twee tot vier drones in de lucht) worden afgewisseld met studiogesprekken over de wedstrijd, het evenement en alles over de roeisport. Partners komen voor, tijdens en na de uitzending goed in beeld. Ook wordt de tv-registratie op online kanalen uitgezonden en doorgezet naar andere media.
+In 2025 gaat De Head iets nieuws doen: we leggen onze wedstrijd vast op televisie. Het team van Salto Amsterdam is bereid gevonden om met ons een live-uitzending te maken die zes uur duurt. Beelden van de wedstrijd (zes camera's langs de kant en twee tot vier drones in de lucht) worden afgewisseld met studiogesprekken over de wedstrijd, het evenement en alles over de roeisport. Partners komen voor, tijdens en na de uitzending goed in beeld. Ook wordt de tv-registratie op online kanalen uitgezonden en doorgezet naar andere media. -->
 
 
 {{% /columns %}}
