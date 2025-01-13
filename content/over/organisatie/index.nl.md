@@ -34,7 +34,7 @@ positions:
     image: "images/organisatie/marjon.jpg" 
   - title: Catering
     name: "Judith Gelmers"
-    image: "images/organisatie/blanc.jpg"        
+    image: "images/organisatie/judith.jpg"        
   - title: Communicatie
     name: "Nicole Opreij"
     image: "images/organisatie/nicoleO2.jpg"    
