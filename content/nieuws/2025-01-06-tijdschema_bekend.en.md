@@ -6,8 +6,8 @@ draft: false
 date: 2025-01-06T09:00:00.000Z
 photo:
   enable: true
-  image: /images/nieuws/2025/welkom.jpg
-  photographer: 
+  image: /images/nieuws/2025/dscf8029.jpg
+  photographer: David Soff
 categories:
   - "2025"
   - All

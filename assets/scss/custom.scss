@@ -262,6 +262,11 @@
   box-sizing: border-box;
 }
 
+.ql-content-col button{
+  font-size: 100%;
+}
+
+
 .ql-content-col__title {
   position: relative;
   font-size: 34px;
@@ -326,17 +331,29 @@
 }
 
 @media all and (max-width: 768px) {
+  .quicklinks-widgetwrap {
+    padding: 0 40px 15px 40px
+  }
   .ql-content-wrap { 
     flex-direction: column;
-  }
+    padding: 15px 15px 15px 15px;
+  }  
   .ql-content-col {
     width: 100%;
-    padding: (10px 0px 10px 0px);
+    padding: (5px 0px 5px 0px);
   }
+  .ql-content-col button{
+    font-size: 75%;
+  }
+  .ql-content-col-button-link {
+    padding: 5px 10px 5px 10px;
+  }
+
   .ql-content-main {
     width: 100%;
     padding: (10px 0px 10px 0px);
   }
+
 }
 
 ///// home tile links /////
