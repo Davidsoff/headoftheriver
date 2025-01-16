@@ -1,0 +1,56 @@
+{{ define "main" }}
+{{ partial "page-header" . }}
+
+<div>
+	<section class="section pt-7 product">
+<div class="content">
+    <div class="container">
+
+        <article>
+
+	    
+	    <div class="productpage">
+		{{ partial "winkel/productimages.html" . }}
+
+		<div class="text">
+		    <h2>{{ .Title }}</h2>
+		    
+		    {{ if( gt (index  .Params.variants  0  ).price  0  ) }} 
+		    <h4>&euro; <span class="productprice"> {{ (index .Params.variants 0).price | lang.FormatNumber 2 }}</span></h4>
+		    {{ else }}
+			{{/*  {{ partial "products/share-buttons.html" . }}  */}}
+			{{ end }}
+
+		    <form action="{{ with .Site.GetPage `/winkel/cart.md` }}{{ .RelPermalink }}{{ end }}" onsubmit="return addToCart(this)">
+
+			{{ if (index .Params.variants 1).name }}
+		
+			<div>
+			    <label for="variant">Choose a {{ .Params.variant_type }}:</label>
+			    <select onchange="updateBuyButton(this)" id="variant" name="variant">
+				{{ range $variants :=.Params.variants }}<option data-sku="{{ $variants.sku }}" data-variantname="{{ $variants.name }}" data-price="{{ $variants.price }}">{{ $variants.name }}</option>{{ end }}
+			    </select>
+			</div>
+			{{ end }}
+			{{ if gt (index .Params.variants  0).price 0 }}
+			<div>
+			    <input type="submit" data-url="{{ .RelPermalink }}" data-sku="{{ (index .Params.variants 0).sku }}" data-title="{{ .Title }}" data-varianttype="{{ .Params.variant_type }}" data-variantname="{{ (index .Params.variants 0).name }}" data-price="{{ (index .Params.variants 0).price }}" data-image="{{ .Params.image }}" value="add to cart"/>
+			</div>
+			{{ end }}
+
+		    </form>
+
+			{{ partial "winkel/productimages.html" . }}
+			
+		    {{ .Content }}
+		</div>
+	    </div>
+
+   	</article>
+
+    </div>
+</div>
+</section>
+</div>
+
+{{ end }}

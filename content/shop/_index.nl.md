@@ -7,7 +7,7 @@ name: shop
 menus: 
   main:
     weight: 7
-draft: true
+draft: false
 _build:
   render: ""
 ---
