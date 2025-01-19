@@ -100,7 +100,10 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     section.product .post-header br {display: none;}
 }
 
-#shoppingcart #checkout_progress .btn, input[type="submit"] {
+#shoppingcart .btn,
+#checkout .btn,
+#shoppingcart input[type="submit"],
+#checkout input[type="submit"] {
     background: var(--head-blue); 
     font-weight: bold; 
     color: rgba(255,255,255,0.8); 
@@ -110,7 +113,11 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     cursor: pointer;
     border-radius: 0.25rem;
 }
-#shoppingcart .btn:hover {color: rgba(255,255,255,1);}
+
+#shoppingcart input:hover,
+#checkout input:hover {
+    color: rgba(255, 255, 255, 1);
+}
 
 #checkout_progress {display: block; text-align: center;}
 #checkout_progress li {width: 110px; text-align: left; display: inline-block; border-top: 1px solid #dddddd; padding-top: 8px;}
