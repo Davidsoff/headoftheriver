@@ -2,7 +2,7 @@
 {{ partial "page-header" . }}
 
 <div>
-	<section class="section pt-7 product">
+	<section class="section-sm pt-7 product">
 <div class="content">
     <div class="container">
 
@@ -34,7 +34,7 @@
 			{{ end }}
 			{{ if gt (index .Params.variants  0).price 0 }}
 			<div>
-			    <input type="submit" data-url="{{ .RelPermalink }}" data-sku="{{ (index .Params.variants 0).sku }}" data-title="{{ .Title }}" data-varianttype="{{ .Params.variant_type }}" data-variantname="{{ (index .Params.variants 0).name }}" data-price="{{ (index .Params.variants 0).price }}" data-image="{{ .Params.image }}" value="add to cart"/>
+			    <input type="submit" data-url="{{ .RelPermalink }}" data-sku="{{ (index .Params.variants 0).sku }}" data-title="{{ .Title }}" data-varianttype="{{ .Params.variant_type }}" data-variantname="{{ (index .Params.variants 0).name }}" data-price="{{ (index .Params.variants 0).price }}" data-image="{{ .Params.image }}" value="{{ i18n "shop_add_to_cart" }}"/>
 			</div>
 			{{ end }}
 

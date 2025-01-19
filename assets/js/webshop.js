@@ -98,7 +98,7 @@ function populateCart() {
     var cart = JSON.parse(localStorage.getItem("cart")), i;
     var carttotal = 0;
 
-    document.getElementById('shoppingcart').querySelector('tbody').innerHTML = '<tr><td colspan="6" style="text-align: center;">Your shopping cart is currently empty.</td></tr>';
+    document.getElementById('shoppingcart').querySelector('tbody').innerHTML = '<tr><td colspan="6" style="text-align: center;">Je winkelwagen is nog leeg.</td></tr>';
 
     if(cart && cart.length) {
         document.getElementById('shoppingcart').querySelector('tbody').innerHTML = '';
@@ -182,7 +182,7 @@ function setAddons(el) {
     // update checkoutcalculation div
     var carttotal = getCartTotal();
     var addontotal = getAddonTotal();
-    var newline = '<span>Shopping cart: </span>€ '+parseFloat(carttotal).toFixed(2);
+    var newline = '<span> Shopping cart:</span>€ '+parseFloat(carttotal).toFixed(2);
     for (i=0; i<addons.length; i++){
         newline += '\n<br /><span>'+addons[i].title+': </span>€ '+parseFloat(addons[i].price).toFixed(2);
     }
@@ -249,8 +249,10 @@ function getAddonTotal() {
 
     var addontotal = 0;
     var addons = JSON.parse(localStorage.getItem("addons")), i;
-    for (i=0; i<addons.length; i++){
-        addontotal = addontotal + parseFloat(addons[i].price);
+    if (addons) {
+        for (i = 0; i < addons.length; i++) {
+            addontotal = addontotal + parseFloat(addons[i].price);
+        }
     }
     return addontotal;
 }

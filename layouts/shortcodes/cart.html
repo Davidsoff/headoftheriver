@@ -7,13 +7,13 @@
                         <th></th>
                         <th></th>
                         <th></th>
-                        <th>{{ i18n "quantity" }}</th>
-                        <th>&nbsp;&nbsp; {{ i18n "Price" }}</th>
+                        <th>{{ i18n "shop_quantity" }}</th>
+                        <th>&nbsp;&nbsp; {{ i18n "shop_price" }}</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td colspan="6" style="text-align: center;">{{ i18n "Your shopping cart is currently empty."}}
+                        <td colspan="6" style="text-align: center;">{{ i18n "shop_empty_cart"}}
                         </td>
                     </tr>
                 </tbody>
@@ -21,18 +21,18 @@
 
             <div>&euro; <span class="carttotal">0.00</span></div>
 
-            <form action="{{ with .Site.GetPage `checkout.md` }}{{ .RelPermalink }}{{ end }}">
-                <div class="submitbutton"><a href="/winkel" class="gray">continue shopping</a><input
-                        type="submit" value="Proceed to checkout" /></div>
+            <form action="{{ with .Site.GetPage `/winkel/checkout.md` }}{{ .RelPermalink }}{{ end }}">
+                <div class="submitbutton"><a href="/winkel" class="gray">{{ i18n "shop_continue_shopping" }}</a><input
+                        type="submit" value="{{ i18n "shop_proceed_checkout" }}" /></div>
             </form>
 
         </div>
 
         <div style="margin-top: 50px; position: relative; top: 30px;">
             <ul id="checkout_progress">
-                <li class="current"><span><a href="#">{{ i18n "Shopping cart" }}</a></span></li>
-                <li><span><span>Checkout</span></span></li>
-                <li><span><span>Payment</span></span></li>
+                <li class="current"><span><a href="#">{{ i18n "shop_shopping_cart" }}</a></span></li>
+                <li><span><span>{{ i18n "shop_checkout" }}</span></span></li>
+                <li><span><span>{{ i18n "shop_payment" }}</span></span></li>
             </ul>
         </div>
     </div>

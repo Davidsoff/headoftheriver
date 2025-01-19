@@ -2,7 +2,7 @@
 
 #cartlink {position: relative; top: 0.1rem;}
 #cartlink .itemcount {
-    background: rgb(247, 44, 114);
+    background: var(--head-blue);
     color: white;
     font-weight: bold;
     position: absolute;
@@ -27,7 +27,7 @@
 #shoppingcart > table tr > *:nth-child(2) {text-align: left;}
 #shoppingcart > table tr > *:last-child {text-align: right; padding-right: 1.25rem;}
 #shoppingcart > table tr > *:first-child {padding-right: 1.25rem; width: 4rem; padding-left: 1.25rem;}
-#shoppingcart > table tr > th {border-bottom: 0.125rem solid #dddddd;; padding: 0 0 0.5rem;}
+#shoppingcart > table tr > th {border-bottom: 0.125rem solid #dddddd;}
 #shoppingcart > table tr > td {border-bottom: 0.0625rem solid #dddddd;}
 #shoppingcart > table tr > th:nth-child(2) {width: 50%;}
 #shoppingcart .productavatar {display: block; width: 4rem; height: 4rem; border-radius: 100%; background-size: cover; background-position: 50% 50%;}
@@ -37,12 +37,17 @@
 
 #checkout {display: flex; flex-wrap: wrap; margin-top: 2rem;}
 #checkout > form {width: 100%; max-width: 30rem; margin-right: 4rem;}
+#checkout > form > div.half {width: 47.5%; float: left;}
+#checkout > form > div.half + .half{margin-left: 5%; clear:none;}
+#checkout > form > div {padding-top: 0.8rem; clear: both;}
 #checkout > div {max-width: 13rem;}
+#checkout .form-label {display: block; margin-bottom: 0.3rem;}
+
 @media only screen and (max-width: 600px)  {
     #checkout > div {max-width: 100%;}
     #checkout > form {margin-right: 0rem;}
 }
-#checkoutcalculation {background: rgba(0,0,0,0.1); border-radius: 0.25rem; padding: 0.75rem 1rem 1rem; text-align: right; margin-bottom: 1rem;}
+#checkoutcalculation {background: rgba(246, 246, 246, var(--tw-bg-opacity)); border-radius: 0.25rem; padding: 0.75rem 1rem 1rem; text-align: right; margin-bottom: 1rem;}
 #checkoutcalculation span {float: left;}
 #checkoutcalculation .sum {border-top: 0.1rem solid rgba(0,0,0,0.5); padding-top: 0.1rem; margin-top: 0.35rem;}
 
@@ -95,10 +100,21 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     section.product .post-header br {display: none;}
 }
 
+#shoppingcart #checkout_progress .btn, input[type="submit"] {
+    background: var(--head-blue); 
+    font-weight: bold; 
+    color: rgba(255,255,255,0.8); 
+    text-decoration: none;
+    padding: 0.35rem 0.7rem;
+    border: 0;
+    cursor: pointer;
+    border-radius: 0.25rem;
+}
+#shoppingcart .btn:hover {color: rgba(255,255,255,1);}
 
 #checkout_progress {display: block; text-align: center;}
 #checkout_progress li {width: 110px; text-align: left; display: inline-block; border-top: 1px solid #dddddd; padding-top: 8px;}
-#checkout_progress li.past {border-color: rgb(247, 44, 114);}
+#checkout_progress li.past {border-color: var(--head-blue)}
 #checkout_progress li:last-child {border: 0; width: 55px;}
 #checkout_progress li > span > * {
     white-space: nowrap;
@@ -112,4 +128,4 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     box-shadow: 0px 0px 0.1px 1px #bbb; background: white;
 }
 #checkout_progress li.past > span:before,
-#checkout_progress li.current > span:before {box-shadow: 0px 0px 0.1px 1px rgb(247, 44, 114); background: rgb(247, 44, 114);}
+#checkout_progress li.current > span:before {box-shadow: 0px 0px 0.1px 1px var(--head-blue); background: var(--head-blue);}
