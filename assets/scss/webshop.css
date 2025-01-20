@@ -104,7 +104,15 @@
 
 .submitbutton {text-align: right; margin-top: 1rem;}
 .submitbutton a {margin: 0 0 0.5rem; display: inline-block;}
-.submitbutton button {margin: 0.5rem 0 1rem 2rem;}
+.submitbutton button {margin: 0.5rem 0 1rem 2rem;
+    background: var(--head-blue); 
+    font-weight: bold; 
+    color: rgba(255,255,255,0.8); 
+    text-decoration: none;
+    padding: 0.35rem 0.7rem;
+    border: 0;
+    cursor: pointer;
+    border-radius: 0.25rem;}
 
 .product form {margin: 0 0 1.5rem;}
 .product article {max-width: 57rem;}
