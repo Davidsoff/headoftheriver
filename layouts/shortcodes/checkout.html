@@ -65,7 +65,7 @@
             <label class="form-label" for="message">{{ i18n "shop_message" }}</label>
             <textarea class="form-input" name="message"></textarea>
         </div>
-
+        <div data-netlify-recaptcha="true"></div>
         <div class="submitbutton"><a href="{{ with .Site.GetPage `/winkel/cart.md` }}{{ .RelPermalink }}{{ end }}" class="gray">{{ i18n "shop_back_to_cart" }}</a><input type="submit" value="{{ i18n "shop_proceed_payment" }}" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
 
     </form>
