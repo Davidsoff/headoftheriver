@@ -104,8 +104,10 @@
 
 .submitbutton {text-align: right; margin-top: 1rem;}
 .submitbutton a {margin: 0 0 0.5rem; display: inline-block;}
-.submitbutton button {margin: 0.5rem 0 1rem 2rem;
-    background: var(--head-blue); 
+
+.submitbutton input[type="submit"] {margin: 0.5rem 0 1rem 2rem;}
+.submitbutton input[type="submit"],
+.product input[type="submit"] {background: var(--head-blue); 
     font-weight: bold; 
     color: rgba(255,255,255,0.8); 
     text-decoration: none;
@@ -116,6 +118,14 @@
 
 .product form {margin: 0 0 1.5rem;}
 .product article {max-width: 57rem;}
+/* .product input[type="submit"] {background: var(--head-blue); 
+    font-weight: bold; 
+    color: rgba(255,255,255,0.8); 
+    text-decoration: none;
+    padding: 0.35rem 0.7rem;
+    border: 0;
+    cursor: pointer;
+    border-radius: 0.25rem;} */
 
 #productlist {display: flex; flex-wrap: wrap; margin-left: -3.33%;}
 #productlist li {list-style: none; width: 20%; text-align: center; margin: 0 0 2rem 3.33%;}
@@ -159,7 +169,7 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     section.product .post-header br {display: none;}
 }
 
-#product button[type="submit"],
+/* #product button[type="submit"],
 #shoppingcart button[type="submit"],
 #checkout button[type="submit"] {
     background: var(--head-blue); 
@@ -170,7 +180,7 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     border: 0;
     cursor: pointer;
     border-radius: 0.25rem;
-}
+} */
 
 #product button:hover,
 #shoppingcart button:hover,
