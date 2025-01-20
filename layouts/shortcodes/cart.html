@@ -20,13 +20,12 @@
             </table>
 
             <div>&euro; <span class="carttotal">0.00</span></div>
-
             <form action="{{ with .Site.GetPage `/winkel/checkout.md` }}{{ .RelPermalink }}{{ end }}">
-                <div class="submitbutton"><a href="/winkel" class="gray">{{ i18n "shop_continue_shopping" }}</a><input
-                        type="submit" value="{{ i18n "shop_proceed_checkout" }}" /></div>
+                <div class="submitbutton"><a href="/winkel" class="gray">{{ i18n "shop_continue_shopping" }}</a><button
+                        type="submit">{{ i18n "shop_proceed_checkout" }}</button></div>
             </form>
-
-        </div>
+            
+            </div>
 
         <div style="margin-top: 50px; position: relative; top: 30px;">
             <ul id="checkout_progress">

@@ -104,7 +104,7 @@
 
 .submitbutton {text-align: right; margin-top: 1rem;}
 .submitbutton a {margin: 0 0 0.5rem; display: inline-block;}
-.submitbutton input {margin: 0.5rem 0 1rem 2rem;}
+.submitbutton button {margin: 0.5rem 0 1rem 2rem;}
 
 .product form {margin: 0 0 1.5rem;}
 .product article {max-width: 57rem;}
@@ -151,9 +151,9 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     section.product .post-header br {display: none;}
 }
 
-#product input[type="submit"],
-#shoppingcart input[type="submit"],
-#checkout input[type="submit"] {
+#product button[type="submit"],
+#shoppingcart button[type="submit"],
+#checkout button[type="submit"] {
     background: var(--head-blue); 
     font-weight: bold; 
     color: rgba(255,255,255,0.8); 
@@ -164,9 +164,9 @@ section.product .content h2 {padding-top: 0; position: relative; bottom: 0.2rem;
     border-radius: 0.25rem;
 }
 
-#product input:hover,
-#shoppingcart input:hover,
-#checkout input:hover {
+#product button:hover,
+#shoppingcart button:hover,
+#checkout button:hover {
     color: rgba(255, 255, 255, 1);
 }
 
