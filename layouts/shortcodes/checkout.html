@@ -1,5 +1,5 @@
-<div id="checkout">
-    <form action="/winkel/paylink/" method="post" onchange="setAddons(this)">
+<div id="checkout"> 
+    <form action="/winkel/paylink/" method="post" onchange="setAddons(this)" name="bestellen" data-netlify="true" data-netlify-recaptcha="true">
         <input name="_gotcha" style="display:none" type="text">
         <input name="_to" type="hidden" value="webmaster@headoftheriver.nl">
         <input name="_subject" value="New order!" type="hidden">
