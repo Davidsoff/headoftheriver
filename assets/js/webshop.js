@@ -208,41 +208,24 @@ function initCheckoutForm(el) {
 
     var cart = JSON.parse(localStorage.getItem("cart")), i;
 
-    // add order input (hidden)
-    var newinput = document.createElement("input");
-    newinput.setAttribute('type',"hidden");
-    newinput.setAttribute('name',"order");
+    // Initialize the totalInput variable to store the concatenated product descriptions
+    var totalInput = '';    
     for (i = 0; i < cart.length; ++i) {
         var productdescription = cart[i].quantity+' x '+cart[i].title;
         if(cart[i].varianttype && cart[i].variantname) productdescription += ' ('+capitalizeFirstLetter(cart[i].varianttype)+': '+cart[i].variantname+')';
         productdescription += ' = € '+parseFloat(cart[i].quantity * cart[i].price).toFixed(2);
-        if(i) newinput.setAttribute('value',newinput.getAttribute('value') + ' | ' + productdescription);
-        else newinput.setAttribute('value',productdescription);
+        if(i) {
+            tmpInput = totalInput
+            totalInput = tmpInput + ' | ' + productdescription
+        }
+        else {
+            totalInput = productdescription
+        }
+        
     }
-    // el.appendChild(newinput);
-
-    // // add empty checkout input (hidden)
-    // var newinput = document.createElement("input");
-    // newinput.setAttribute('type',"hidden");
-    // newinput.setAttribute('name',"checkout");
-    // el.appendChild(newinput);
-
-    // Create an empty hidden input for checkout
-    var checkoutInput = document.createElement("input");
-    checkoutInput.setAttribute('type', "hidden");
-    checkoutInput.setAttribute('name', "checkout");
-
-    // Locate the specific <div> element
-    var targetDiv = el.querySelector('div:has(label[for="message"])');
-
-    // Append the new inputs directly after the target <div>
-    if (targetDiv) {
-        targetDiv.insertAdjacentElement('afterend', newinput);
-        newinput.insertAdjacentElement('afterend', checkoutInput);
-    }
+    el.querySelector('input[name="order"]').value = stripHtml(totalInput).replace(/(?:\r\n|\r|\n)/g, ' | ');
 
     // Call setAddons to handle additional form modifications
-
     setAddons(el);
 }
 
