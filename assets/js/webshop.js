@@ -219,13 +219,30 @@ function initCheckoutForm(el) {
         if(i) newinput.setAttribute('value',newinput.getAttribute('value') + ' | ' + productdescription);
         else newinput.setAttribute('value',productdescription);
     }
-    el.appendChild(newinput);
+    // el.appendChild(newinput);
 
-    // add empty checkout input (hidden)
-    var newinput = document.createElement("input");
-    newinput.setAttribute('type',"hidden");
-    newinput.setAttribute('name',"checkout");
-    el.appendChild(newinput);
+    // // add empty checkout input (hidden)
+    // var newinput = document.createElement("input");
+    // newinput.setAttribute('type',"hidden");
+    // newinput.setAttribute('name',"checkout");
+    // el.appendChild(newinput);
+
+    // Create an empty hidden input for checkout
+    var checkoutInput = document.createElement("input");
+    checkoutInput.setAttribute('type', "hidden");
+    checkoutInput.setAttribute('name', "checkout");
+
+    // Locate the specific <div> element
+    var targetDiv = el.querySelector('div:has(label[for="message"])');
+
+    // Append the new inputs directly after the target <div>
+    if (targetDiv) {
+        targetDiv.insertAdjacentElement('afterend', newinput);
+        newinput.insertAdjacentElement('afterend', checkoutInput);
+    }
+
+    // Call setAddons to handle additional form modifications
+
     setAddons(el);
 }
 
