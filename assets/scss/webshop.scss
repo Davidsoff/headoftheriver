@@ -70,15 +70,16 @@
       width: 50%;
     }
   }
-}
-/* purgecss ignore */
-.productavatar {
-  display: block;
-  width: 4rem;
-  height: 4rem;
-  border-radius: 100%;
-  background-size: cover;
-  background-position: 50% 50%;
+
+  /* purgecss ignore */
+  .productavatar {
+    display: block;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
 }
 
 .productimage {
@@ -98,6 +99,23 @@
   #shoppingcart > table tr > *:nth-child(3) {
     display: none;
   }
+}
+
+
+ input[type="number"].quantity {
+  font-size: 0.8rem;
+  height: 1.83rem;
+  line-height: 1rem;
+  border: 0.0625rem solid #dddddd;
+  border-radius: 0.25rem;
+  width: calc(100% - 1.24rem);
+  padding: 0.1875rem 0.625rem;
+  background: white;
+  color: #666666;
+  appearance: none;
+  width: 5rem; 
+  min-width: 1.5rem; 
+  text-align: center
 }
 
 #checkout {
