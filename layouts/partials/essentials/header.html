@@ -110,6 +110,23 @@
           </li>
         {{ else }}
           <li class="nav-item">
+            {{ if (eq .Name "Shop")}}
+            <a
+              class="nav-link {{ if $active }}active{{- end -}}"
+              {{ if findRE `^http` .URL }}
+                target="_blank" rel="noopener"
+              {{ end }}
+              href="{{- if findRE `^#` .URL -}}
+                {{- if not $.IsHome -}}
+                  {{- site.BaseURL | relLangURL -}}
+                {{- end }}{{- .URL -}}
+              {{- else -}}
+                {{- .URL | relLangURL -}}
+              {{- end -}}"
+              >{{ .Name }} <span class="itemcount" style="display: initial;">0</span>
+              </a
+            >
+            {{ else }}
             <a
               class="nav-link {{ if $active }}active{{- end -}}"
               {{ if findRE `^http` .URL }}
@@ -124,6 +141,7 @@
               {{- end -}}"
               >{{ .Name }}</a
             >
+            {{ end }}
           </li>
         {{ end }}
       {{ end }}

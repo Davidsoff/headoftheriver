@@ -1,6 +1,6 @@
 ---
 title: Winkelwagen
-url: winkel/cart
+url: shop/cart
 hideme: "yes"
 layout: cart/single
 ---

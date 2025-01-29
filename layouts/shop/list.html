@@ -1,48 +1,58 @@
 {{ define "main" }}
 {{ partial "page-header" . }}
-{{/*  <section>
-  <div class="container text-center">
-    <div {{ with resources.Get "images/nieuws/hero.png" }} 
-    style="background-image: url('{{ .Permalink }}');
-    min-height: 100%;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover; " {{ end }}
-      class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      <h1>{{ .Title | title }}</h1>
-      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
-    </div>
-  </div>
-</section>  */}}
-<section class="section-sm" style="padding-bottom: 0px;">
-  <div class="container">
-    <div class="row justify-center">
-      <div class="lg:col-10">
-        <div class="content">
-          {{ .Content }}
+
+{{ partial "shop/cartbutton" . }}
+
+<section class="section-sm pt-7 productlistpage">
+
+    <div class="container">
+        <div class="row justify-center">
+            <div class="lg:col-10">
+                <div class="content">
+                    <article>
+                        <header class="post-header">
+                            {{/* {{ partial "breadcrumbs.html" . }} */}}
+                            {{/* <h1 class="post-title">{{ .Title }}</h1> */}}
+                        </header>
+                        <div class="post-content">
+                            {{/*  <div class="titlearea">
+                                <div class="pagetitle">
+                                    <h3>{{ .Params.Subtitle }}</h3>
+                                </div>
+                                <div class="cartbutton" id="cartlink">
+                                    <form action="../winkel/cart/">
+                                        <input type="submit" value="Winkelwagen" />
+                                        <span class="itemcount" style="display: initial;">0</span>
+                                    </form>
+                                </div>
+                            </div>  */}}
+                            <h3>{{ .Params.Subtitle }}</h3>
+                            {{ .Content }}
+
+                            <br />
+
+                            <ul id="productlist">
+
+                                {{ range (where .Site.RegularPages "Section" .Section ) }}
+                                {{ if ne ( .Params.hideme) "yes"}}
+                                <li>
+                                    <a href="{{ .RelPermalink}}">
+                                        <div class="productimage" style="background-image: url({{ .Params.image }});">
+                                            <span class="overlay"></span></div>
+                                    </a>
+                                    <a href="{{ .RelPermalink }}">
+                                        <h2>{{ .Title }}</h2>
+                                    </a>
+                                    <span>€ {{ (index .Params.variants 0).price | lang.FormatNumber 2 }}</span>
+                                </li>
+                                {{end}}
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </article>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-</section>
-<section class="section-sm">
-  <div class="container">
-    <div class="row gx-5">
-      <!-- shop posts -->
-      <div class="row justify-center">
-      <div class="lg:col-10">
-        <div class="row">
-          {{ $paginator:= .Paginate .RegularPages 10}}
-          {{ range $paginator.Pages }}
-          <div class="md:col-3 mb14">
-            {{ partial "components/shop-card" . }}
-          </div>
-          {{ end }}
-        </div>
-        {{ partial "components/pagination.html" . }}
-      </div>
-    </div>
-    </div>
-  </div>
 </section>
 {{ end }}

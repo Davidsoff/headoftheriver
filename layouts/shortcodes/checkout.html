@@ -1,5 +1,5 @@
 <div id="checkout"> 
-    <form action="/winkel/paylink/" method="post" onchange="setAddons(this)" name="bestellen" data-netlify="true" data-netlify-recaptcha="true">
+    <form action="/shop/paylink/" method="post" onchange="setAddons(this)" name="bestellen" data-netlify="true" data-netlify-recaptcha="true">
         <input name="_gotcha" style="display:none" type="text">
         <input name="_to" type="hidden" value="webmaster@headoftheriver.nl">
         <input name="_subject" value="New order!" type="hidden">
@@ -39,7 +39,7 @@
         </div>
 
         <div data-netlify-recaptcha="true"></div>
-        <div class="submitbutton"><a href="{{ with .Site.GetPage `/winkel/cart.md` }}{{ .RelPermalink }}{{ end }}" class="gray">{{ i18n "shop_back_to_cart" }}</a><input type="submit" value="{{ i18n "shop_proceed_payment" }}" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
+        <div class="submitbutton"><a href="{{ with .Site.GetPage `/shop/cart.md` }}{{ .RelPermalink }}{{ end }}" class="gray">{{ i18n "shop_back_to_cart" }}</a><input type="submit" value="{{ i18n "shop_proceed_payment" }}" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
 
     </form>
     <div>
@@ -54,6 +54,6 @@
 
 <div style="margin-top: 50px; position: relative; top: 30px;">
         <ul id="checkout_progress">
-            <li class="past"><span><a href="{{ with .Site.GetPage `/winkel/cart.md` }}{{ .RelPermalink }}{{ end }}">{{ i18n "shop_shopping_cart"}}</a></span></li><li class="current"><span><a href="#">{{ i18n "shop_checkout"}}</a></span></li><li><span><span>{{ i18n "shop_payment"}}</span></span></li>
+            <li class="past"><span><a href="{{ with .Site.GetPage `/shop/cart.md` }}{{ .RelPermalink }}{{ end }}">{{ i18n "shop_shopping_cart"}}</a></span></li><li class="current"><span><a href="#">{{ i18n "shop_checkout"}}</a></span></li><li><span><span>{{ i18n "shop_payment"}}</span></span></li>
         </ul>
 </div>

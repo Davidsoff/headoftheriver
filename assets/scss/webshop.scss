@@ -1,8 +1,10 @@
+/* purgecss start ignore */
+.nav-item,
 #cartlink {
     position: relative;
     top: 0.1rem;
     .itemcount {
-      background: var(--head-blue);
+      background: red;
       color: white;
       font-weight: bold;
       position: absolute;
@@ -11,10 +13,11 @@
       height: 1.25rem;
       border-radius: 100%;
       text-align: center;
+      // align-items: center;
       z-index: 3;
       top: 0;
-      margin-left: 0.6rem;
-      margin-top: -0.2rem;
+      margin-left: -0.5rem;
+      margin-top: 0rem;
       display: none;
     }
   }
@@ -60,6 +63,7 @@
 
     tr > th {
       border-bottom: 0.125rem solid #dddddd;
+      color: white;
     }
 
     tr > td {
@@ -71,7 +75,6 @@
     }
   }
 
-  /* purgecss ignore */
   .productavatar {
     display: block;
     width: 4rem;
@@ -83,7 +86,7 @@
 }
 
 .productimage {
-  padding-bottom: 70%;
+  padding-bottom: 85%;
   background-size: cover;
   background-position: 50% 50%;
   display: block;
@@ -101,8 +104,7 @@
   }
 }
 
-
- input[type="number"].quantity {
+input[type="number"].quantity {
   font-size: 0.8rem;
   height: 1.83rem;
   line-height: 1rem;
@@ -298,6 +300,32 @@
   }
 }
 
+section.section_cartbutton {
+  margin-top: -80px;
+  
+  .cartbutton {
+    text-align: right;
+    margin-top: 1rem;
+
+    a {
+      margin: 0 0 0.5rem;
+      display: inline-block;
+    }
+
+    input {
+      margin: 0.5rem 0 1rem 2rem;
+      background: var(--head-blue);
+      font-weight: bold;
+      color: rgba(255, 255, 255, 0.8);
+      text-decoration: none;
+      padding: 0.35rem 0.7rem;
+      border: 0;
+      cursor: pointer;
+      border-radius: 0.25rem;
+    }
+  }
+}
+
 section.product {
   .productpage {
     display: flex;
@@ -331,7 +359,7 @@ section.product {
         margin: 0 0 1% 1%;
 
         &:first-child {
-          width: 100%;
+          width: 70%;
           margin-bottom: 1%;
         }
       }
@@ -434,4 +462,5 @@ section.product {
     }
   }
 }
-  
+/* purgecss end ignore */
+ 

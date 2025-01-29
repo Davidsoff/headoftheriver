@@ -1,6 +1,6 @@
 ---
 title: Bestellen
-url: winkel/checkout
+url: shop/checkout
 layout: checkout/single
 hideme: "yes"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Betaallink
-url: winkel/paylink
+url: shop/paylink
 hideme: "yes"
 layout: paylink/single
 ---
