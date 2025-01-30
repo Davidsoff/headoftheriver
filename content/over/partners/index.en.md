@@ -27,6 +27,11 @@ menus:
         <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="VHARCH">
       </a>
     </div>
+        <div class="partners_grid_item">
+      <a href="https://jumble.nl/" target="_blank">
+        <img src="images/partnerlogos/logo_jumble.jpg" caption="" alt="Jumble">
+      </a>
+    </div>
   </div>
 </div>
 </div>
