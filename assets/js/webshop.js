@@ -266,6 +266,25 @@ function redirectToPayment(paymentlink) {
     document.location.href = paymentlink+'/'+checkoutcalculation+'/Order%20number%20'+ordernumber;
 }
 
+function clearCart() {
+    // // Clear the cart in local storage // HEADadd
+    // localStorage.removeItem("cart");
+    
+    // // Update the cart display
+    // populateCart();
+    
+    // // Update the cart count display
+    // updateCartCount();
+
+    var cart = JSON.parse(localStorage.getItem("cart")), i;
+    for (i = 0; i < cart.length; ++i) {
+            cart.splice(i, 1);
+    }
+    localStorage.setItem("cart", JSON.stringify(cart));
+
+    populateCart();
+
+}
 
 // init functions
 if(document.getElementById('variant')) updateBuyButton(document.getElementById('variant'));

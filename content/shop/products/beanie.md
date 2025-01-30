@@ -7,7 +7,7 @@ variant_type: size
 variants:
 - name: default
   price: "9.95"
-  sku: chocolates
+  sku: beanie
 weight: 4
 ---
 

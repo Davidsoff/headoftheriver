@@ -22,7 +22,7 @@
             <div>&euro; <span class="carttotal">0.00</span></div>
 
             <form action="{{ with .Site.GetPage `/shop/checkout.md` }}{{ .RelPermalink }}{{ end }}">
-                <div class="submitbutton"><a href="/shop" class="gray">{{ i18n "shop_continue_shopping" }}</a><input
+                <div class="submitbutton"><a href="/shop" class="gray">{{ i18n "shop_continue_shopping" }}</a><a href="javascript:clearCart();" class="gray">Winkelwagen leegmaken</a><input
                         type="submit" value="{{ i18n "shop_proceed_checkout" }}" /></div>
             </form>
 

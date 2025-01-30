@@ -17,11 +17,11 @@ menus:
 <div class="partners_logo_grid">
   <h5><span>Partners</span></h5>
   <div class="partners_grid_items">
-    <div class="partners_grid_item">
+    <!-- <div class="partners_grid_item">
       <a href="https://www.roeigoed.nl" target="_blank">
         <img src="images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
       </a>
-    </div>
+    </div> -->
     <div class="partners_grid_item">
       <a href="http://www.vharch.nl" target="_blank">
         <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="VHARCH">
