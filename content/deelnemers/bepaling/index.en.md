@@ -71,6 +71,7 @@ The Masters divisions row (per block) interchangeably. Last year's finish time d
 #### Pennants:
 
 Pennants will be awarded to the fastest Dutch club eight in the elite men and women events.
+Pennants will be awarded to the fastest Dutch club eight in the elite events for men and women. If the elite event is not contested, the pennant will be awarded to the fastest club eight in the highest senior category based on performance points.
 
 #### Boat trailers:
 
