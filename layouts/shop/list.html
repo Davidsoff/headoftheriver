@@ -37,8 +37,11 @@
                                 {{ if ne ( .Params.hideme) "yes"}}
                                 <li>
                                     <a href="{{ .RelPermalink}}">
-                                        <div class="productimage" style="background-image: url({{ .Params.image }});">
-                                            <span class="overlay"></span></div>
+                                        {{with resources.Get .Params.image }}
+                                        <div class="productimage" style="background-image: url({{ .RelPermalink}})">
+                                            <span class="overlay"></span>
+                                        </div>
+                                        {{ end }}
                                     </a>
                                     <a href="{{ .RelPermalink }}">
                                         <h2>{{ .Title }}</h2>

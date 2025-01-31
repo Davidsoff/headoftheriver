@@ -1,6 +1,14 @@
 <div class="image">
     <ul>
-        <li><a href="{{ .Params.image }}" class="productimage" style="background-image: url({{ .Params.image }});"><span class="overlay"></span></a></li>
-	{{ range .Params.slides }} <li><a href="{{ .image }}" class="productimage" style="background-image: url({{ .image }});"><span class="overlay"></span></a></li>{{ end }}
+        {{with resources.Get .Params.image }}
+        <li><a href="{{ .RelPermalink }}" class="productimage" style="background-image: url({{ .RelPermalink }})"><span
+                    class="overlay"></span></a></li>
+        {{ end }}
+        {{ range $i, $e := .Params.images }}
+        {{ with resources.Get $e.image }}
+        <li><a href="{{ .RelPermalink }}" class="productimage" style="background-image: url({{ .RelPermalink }})"><span
+                    class="overlay"></span></a></li>
+        {{ end }}
+        {{ end }}
     </ul>
 </div>

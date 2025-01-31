@@ -1,8 +1,8 @@
 ---
 title: Sokken
-image: "/images/shop/2025/sok01.jpg"
-slides: 
-  - image: "/images/shop/2025/sok02.jpg"
+image: "images/shop/2025/sok01.jpg"
+images: 
+  - image: "images/shop/2025/sok02.jpg"
 variant_type: size
 variants:
 - name: Small

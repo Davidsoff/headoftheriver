@@ -215,6 +215,10 @@ input[type="number"].quantity {
     margin: 0 0 1.5rem;
   }
 
+  form > div{
+    padding-top: 0.8rem;
+  }
+
   article {
     max-width: 57rem;
   }
@@ -460,6 +464,39 @@ section.product {
       box-shadow: 0px 0px 0.1px 1px var(--head-blue);
       background: var(--head-blue);
     }
+  }
+}
+
+.productpage {
+  select {
+    font-size: 0.8rem;
+    height: 1.83rem;
+    line-height: 1rem;
+    border: 0.0625rem solid #dddddd;
+    border-radius: 0.25rem;
+    width: calc(100% - 1.24rem);
+    padding: 0.1875rem 0.625rem;
+    background: white;
+    color: #666666;
+  }
+
+  select {
+    padding: 0.6rem;
+    height: auto;
+    line-height: 1.4;
+    width: 100%;
+  }
+
+  select::-ms-expand {
+    display: none;
+  }
+
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: white url("/images/chevron_down.svg") calc(100% - 0.8rem) 55% no-repeat;
+    background-size: auto 0.7rem;
   }
 }
 

@@ -1,7 +1,7 @@
 ---
 title: Beanie
-image: "/images/shop/2024/beanie_1200x1200.png"
-slides:
+image: "images/shop/2024/beanie_1200x1200.png"
+images:
   - image: 
 variant_type: size
 variants:
