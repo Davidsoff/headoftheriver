@@ -6,30 +6,13 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Word nu Partner!
-  ql_col1_link: "over/partners/"
+  ql_col1: Inschrijven
+  ql_col1_link: "deelnemers/inschrijving"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
   ql_col3: Vrijwilligers
   ql_col3_link: "over/vrijwilligers/"
-  buttons:
-    - button: Media
-      link: "over/media/"
-    - button: Uitslagen
-      link: "deelnemers/uitslag/"
-    - button: Baankaart
-      link: "deelnemers/stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf"
-    - button: Tijdschema
-      link: "deelnemers/tijdschema/"
-    - button: Bepalingen
-      link: "deelnemers/bepaling/"
-    - button: Botenwagens
-      link: "deelnemers/botenwagens/"
-    - button: Organisatie
-      link: "over/organisatie/"
-    - button: Vrijwilligers
-      link: "over/vrijwilligers/"
-  
+    
 # Divider-quote
 dividerquote:
   title: "'Dé Lange Afstandsklassieker van Nederland'"

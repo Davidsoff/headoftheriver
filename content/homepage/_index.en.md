@@ -6,29 +6,12 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Become Partner!
-  ql_col1_link: "over/partners/"
+  ql_col1: Entries
+  ql_col1_link: "deelnemers/inschrijving/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
   ql_col3: Volunteers
   ql_col3_link: "over/vrijwilligers/"
-  buttons:
-    - button: Entries
-      link: "deelnemers/inschrijving/"
-    - button: Results
-      link: "deelnemers/uitslag/"
-    - button: Course map
-      link: "deelnemers/stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf"
-    - button: Schedule
-      link: "deelnemers/tijdschema/"
-    - button: Rules
-      link: "deelnemers/bepaling/"
-    - button: Boat trailers
-      link: "deelnemers/botenwagens/"
-    - button: Committee
-      link: "over/organisatie/"
-    - button: Volunteers
-      link: "over/vrijwilligers/"
 
 # Divider-quote
 dividerquote:
