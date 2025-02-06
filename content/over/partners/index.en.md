@@ -3,13 +3,13 @@ title: "Partners"
 meta_title: ""
 description: "Info for partners of the Head of the River Amstel"
 draft: false
-# menu:
-#   main:
-#     parent: About
-#     weight: 50
-menus: 
+menu:
   main:
-    weight: 6
+    parent: About
+    weight: 50
+# menus: 
+#   main:
+#     weight: 6
 ---
 ### Head of the River partners
 
@@ -29,7 +29,7 @@ menus:
     </div>
         <div class="partners_grid_item">
       <a href="https://jumble.nl/" target="_blank">
-        <img src="images/partnerlogos/logo_jumble.jpg" caption="" alt="Jumble">
+        <img src="images/partnerlogos/logo_jumble.png" caption="" alt="Jumble">
       </a>
     </div>
   </div>

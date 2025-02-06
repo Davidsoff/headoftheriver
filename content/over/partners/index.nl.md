@@ -303,7 +303,7 @@ Voor bedrijven die geinteresseerd zijn in een introductie in roeien en willen bi
     </div>
     <div class="partners_grid_item">
       <a href="https://jumble.nl/" target="_blank">
-        <img src="images/partnerlogos/logo_jumble.jpg" caption="" alt="Jumble">
+        <img src="images/partnerlogos/logo_jumble.png" caption="" alt="Jumble">
       </a>
     </div>
   </div>

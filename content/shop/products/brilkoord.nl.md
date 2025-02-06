@@ -6,7 +6,7 @@ images:
 variant_type: size
 variants:
 - name: default
-  price: 9.95
+  price: 4.00
   sku: brilkoord
 weight: 1
 ---

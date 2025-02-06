@@ -5,16 +5,16 @@ images:
   - image: "images/shop/2025/sok02.jpg"
 variant_type: size
 variants:
-- name: Small
-  price: 9.95
-  sku: sokken_s
-- name: Medium
-  price: 9.95
-  sku: sokken_m
+- name: Maat 40-46
+  price: 7.50
+  sku: sokken
 weight: 1
 ---
+##### Casual sok gebreid 
+  
+Maat:   
+- 40-46      
 
-Casual sok gebreid
 Materiaal:
 - Oeko tex katoen
 - Geregenereerd katoen
