@@ -8,7 +8,8 @@ menu:
     parent: Participants
     weight: 30
 ---
-If you want to participate in the Head of the River Amstel, you have to register yourself.   You can do that by filling in the pre-registration form below AND register at the Dutch Rowing Association (KNRB, see this page below the pre-registration form)
+<!-- If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by filling in the pre-registration form below AND register at the Dutch Rowing Association (KNRB, see this page below the pre-registration form) -->
+If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by registering at the Dutch Rowing Association (KNRB)
 
 #### Entry fees:
 - Coastal Quads: € 42,50
