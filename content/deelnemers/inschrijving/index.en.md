@@ -16,17 +16,17 @@ If you want to participate in the Head of the River Amstel, you have to register
 - Eight: €115
 - Corporate Eight: €300
 
-### 1. Pre-registration form
-<!-- Partner video -->
-<section id="sect_pre_reg_form" style="margin-top:-200px; padding-top:200px;">
+<!-- ### 1. Pre-registration form -->
+<!-- <section id="sect_pre_reg_form" style="margin-top:-200px; padding-top:200px;">
 <div id="pre_registration" style="width: 100%; max-width: 700px; padding-bottom:25px; padding-top:25px; margin-left:auto; margin-right:auto; ">
   <div style="position: relative; width: 100%; overflow: hidden; ">
     <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJAxRake6h5QYhFMlY_yjbtS7flZ7XO6s01kZm5IxxhXFBig/viewform?embedded=true" height="3000" width="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
   </div>
 </div>
-</section>
+</section> -->
 
-### 2. Register with the National Rowing Association (KNRB)
+
+### 1. Register with the National Rowing Association (KNRB)
 
 **Entries with existing username and password**   
 If you have participated in last year’s event, you should have received a username and password on behalf of your rowing club. You can re-use these credentials for this year’s event and sign up at [mijnvereniging.knrb.nl](http://www.mijnvereniging.knrb.nl).   
