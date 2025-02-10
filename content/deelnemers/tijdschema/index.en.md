@@ -10,7 +10,7 @@ menu:
 ---
 <!-- In December 2024, you can view the block schedule for the Head of the River 2025 here.                         -->
 
-Below you will find the block schedule for the Head of the River 2025.
+Below you will find the block schedule for the Head of the River 2025. We have a lot of different events with different criteria. [Here](../tijdschema/documents/Veldkeuze%20Head%202025%20dd%20050202025.pdf) you can find an overview of the events with their corresponding criteria.
 
 ### Saturday block 1 - 13:15
 
@@ -18,7 +18,7 @@ Below you will find the block schedule for the Head of the River 2025.
 |-----|---------------|---------------------------------------------------------------------|
 | 39  | Coastal4*     | Men's Open Coastal Coxed Quads<sup>4</sup>                                     |
 | 81  | HCl 8+        | Men's Club Eights                                                   |
-| 12  | LHE 4*        | Men's Lightweight Coxed Quads                                       |
+| 113 | LHE 4*        | Men's Lightweight Coxed Quads                                       |
 | 42  | MF+ 8+        | Masters (Category F and older<sup>3</sup>) Eights                   |
 | 18  | LHEj 4+       | Men's Lightweight Freshmen Coxed Fours (ODTA<sup>1</sup>)           |
 | 114 | M 8*          | Masters Scull Eights                                                |

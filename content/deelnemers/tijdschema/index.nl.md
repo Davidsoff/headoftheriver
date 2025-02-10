@@ -10,7 +10,7 @@ menu:
 ---
 <!-- In december 2024 kan je hier het blokschema voor de Head of the River 2025 inzien. -->
 
-Hieronder vind je het blokschema voor de Head of the River 2025.
+Hieronder vind je het blokschema voor de Head of the River 2025. We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](../tijdschema/documents/Veldkeuze%20Head%202025%20dd%20050202025.pdf) kun je een overzicht van de velden vinden met de daarbij behorende criteria voor de wedstrijd (document is engelstalig).
 
 ### Zaterdag blok 1 - 13:15
 
@@ -18,7 +18,7 @@ Hieronder vind je het blokschema voor de Head of the River 2025.
 |-----|---------------|-------------------------------------------------------|
 | 39  | Coastal4*     | Coastal dubbel vier-met<sup>1</sup>                   |
 | 81  | HCl 8+        | Heren club acht                                       |
-| 12  | LHE 4*        | Lichte Elite dubbel vier-met                          |
+| 113 | LHE 4*        | Lichte Elite dubbel vier-met                          |
 | 42  | MF+ 8+        | Masters categorie F+ acht                             |
 | 18  | LHEj 4+       | Lichte eerstejaars vier-met                           |
 | 114 | M 8*          | Masters dubbel acht                                   |

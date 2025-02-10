@@ -9,7 +9,7 @@ menu:
     weight: 30
 ---
 <!-- If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by filling in the pre-registration form below AND register at the Dutch Rowing Association (KNRB, see this page below the pre-registration form) -->
-If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by registering at the Dutch Rowing Association (KNRB)
+If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by registering at the Dutch Rowing Association (KNRB).
 
 #### Entry fees:
 - Coastal Quads: € 42,50
@@ -50,3 +50,9 @@ To enter combination crews (Dutch -  foreign / foreign – foreign) please turn 
 
 **Payment**   
 The entry fees include KNRB competition license surcharge. Please pay before Tuesday, 5 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A or the name and address of the bank (ING BANK, Bijlmerdreef 106, 1102 CT, Amsterdam). Please include the name of the registering rowing club and the event field.
+
+<div class="grid grid-cols-1">
+
+[{{< image src="images/logos/KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://roeievenementen.knrb.nl/tournament-details/3256?tab=details)
+
+</div>
