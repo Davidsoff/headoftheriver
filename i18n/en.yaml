@@ -81,3 +81,6 @@
 
 - id: faq
   translation: Frequently asked questions
+
+- id: shop_choose_variant
+  translation: Choose a

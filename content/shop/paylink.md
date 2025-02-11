@@ -3,6 +3,7 @@ title: Betaallink
 url: shop/paylink
 hideme: "yes"
 layout: paylink/single
+draft: true
 ---
 
 ## Kies je betaalmethode

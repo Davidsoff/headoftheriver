@@ -159,3 +159,6 @@
 
 - id: shop_add_to_cart
   translation: Toevoegen aan winkelwagen
+
+- id: shop_choose_variant
+  translation: Kies een

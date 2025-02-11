@@ -1,8 +1,8 @@
 ---
 title: Paraplu
-image: ""
+image: "images/shop/2025/paraplu_02.jpg"
 images: 
-  - image: ""
+  - image: "images/shop/2025/paraplu_01.jpg"
 variant_type: size
 variants:
 - name: default

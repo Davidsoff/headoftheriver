@@ -3,7 +3,7 @@ title: Thermoshirt
 image: "images/shop/2025/tshirt1_bl.jpg"
 images: 
   - image: "images/shop/2025/tshirt2_bl.jpg"
-variant_type: size
+variant_type: maat
 variants:
 - name: M
   price: 29.00

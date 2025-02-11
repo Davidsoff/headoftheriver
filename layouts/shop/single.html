@@ -2,7 +2,7 @@
 
 {{ partial "page-header_products" . }}
 
-{{ partial "shop/cartbutton" . }}
+{{/*  {{ partial "shop/cartbutton" . }}  */}}
 
 
 <section class="section-sm pt-7 product">
@@ -32,7 +32,7 @@
 									{{ if (index .Params.variants 1).name }}
 
 									<div>
-										<label for="variant">Choose a {{ .Params.variant_type
+										<label for="variant">{{ i18n "shop_choose_variant" }} {{ .Params.variant_type
 											}}:</label>
 										<select onchange="updateBuyButton(this)" id="variant" name="variant">
 											{{ range $variants :=.Params.variants }}<option
@@ -43,7 +43,7 @@
 									</div>
 									{{ end }}
 									{{ if gt (index .Params.variants 0).price 0 }}
-									<div>
+									{{/*  <div>
 										<input type="submit" 
 												
 												data-sku="{{ (index .Params.variants 0).sku }}"
@@ -56,7 +56,7 @@
 													data-image="{{ .RelPermalink }}" 
 												{{ end }}
 												value="{{ i18n "shop_add_to_cart" }}" />
-									</div>
+									</div>  */}}
 									{{ end }}
 								</form>
 
