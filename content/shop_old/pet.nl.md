@@ -12,5 +12,5 @@ photo:
 categories: [""]
 author: "John Doe"
 tags: [""]
-draft: true
+draft: false
 ---

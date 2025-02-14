@@ -1,0 +1,14 @@
+<div class="image">
+    <ul>
+        {{with resources.Get .Params.image }}
+        <li><a href="{{ .RelPermalink }}" class="productimage" style="background-image: url({{ .RelPermalink }})"><span
+                    class="overlay"></span></a></li>
+        {{ end }}
+        {{ range $i, $e := .Params.images }}
+        {{ with resources.Get $e.image }}
+        <li><a href="{{ .RelPermalink }}" class="productimage" style="background-image: url({{ .RelPermalink }})"><span
+                    class="overlay"></span></a></li>
+        {{ end }}
+        {{ end }}
+    </ul>
+</div>

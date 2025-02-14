@@ -1,97 +1,80 @@
 {{ define "main" }}
-<section class="section pt-7">
-  <div class="container">
-    <div class="row justify-center">
-      <article class="lg:col-10">
-        {{ with .Params.photo }}
-        {{ with resources.Get .image }}
-        {{ with .Fill "1080x400 Center" }}
-        <div class="mb-10">
-          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}"
-            Class=" rounded">
-        </div>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-        <h1 class="h2 mb-4">
-          {{ .Title }}
-        </h1>
-        <ul class="mb-4">
-          <!-- <li class="mr-4 inline-block">
-              <a
-                href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
-                <i class="fa-regular fa-circle-user mr-2"></i
-                >{{ .Params.author }}
-              </a>
-            </li> -->
-          <li class="mr-4 inline-block">
-            <i class="fa-regular fa-folder mr-2"></i>
-            {{ $categories:= .Params.categories }}
-            {{ range $i,$p:= $categories }}
-            <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/" class="ms-1">{{ . }}{{ if ne $i (sub
-              (len $categories) 1) }}
-              {{ ", " }}
-              {{ end }}
-            </a>
-            {{ end }}
-          </li>
-          <li class="mr-4 inline-block">
-            <i class="fa-regular fa-clock mr-2"></i>
-            {{ time.Format ":date_long" .PublishDate }}
-          </li>
-          {{ with .Params.photo }}
-          {{ if .enable }}
-          <li class="mr-4 inline-block">
-            <i class="fa-regular fa-camera mr-2"></i>
-            {{ .photographer | markdownify }}
-          </li>
-          {{end}}
-          {{end}}
-          <div class="content mb-10">
-            {{ .Content }}
-          </div>
-          <!-- <div class="row items-start justify-between">
-            <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
-              <h5 class="mr-3">{{ i18n "tags" }} :</h5>
-              <ul>
-                {{ $tags:= .Params.tags }}
-                {{ range $i,$p:= $tags }}
-                  <li class="inline-block">
-                    <a
-                      class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white"
-                      href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">
-                      {{ . | humanize }}
-                    </a>
-                  </li>
-                {{ end }}
-              </ul>
-            </div>
-          </div> -->
-          <!-- comments -->
-          <!-- {{ if site.DisqusShortname }}
-            <div class="mt-20">
-              {{ template "_internal/disqus.html" . }}
-            </div>
-          {{ end }} -->
-      </article>
-    </div>
 
-    <!-- Related posts -->
-    {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where
-    site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
-    {{ $related = $related | shuffle | first 3 }}
-    {{ with $related }}
-    <div class="section pb-0">
-      <h2 class="h3 mb-12">{{ i18n "related_posts" }}</h2>
-      <div class="row">
-        {{ range . }}
-        <div class="lg:col-4">
-          {{ partial "components/nieuws-card" . }}
-        </div>
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
-  </div>
+{{ partial "page-header_products" . }}
+
+{{/*  {{ partial "shop/cartbutton" . }}  */}}
+
+
+<section class="section-sm pt-7 product">
+	<div class="container">
+		<div class="row justify-center">
+			<div class="lg:col-10">
+				<div class="content" id="product">
+
+					<article>
+
+						<div class="productpage">
+							{{ partial "shop/productimages.html" . }}
+
+							<div class="text">
+								<h2>{{ .Title }}</h2>
+
+								{{ if( gt (index .Params.variants 0 ).price 0 ) }}
+								<h4>&euro; <span class="productprice"> {{ (index .Params.variants
+										0).price | lang.FormatNumber 2 }}</span></h4>
+								{{ else }}
+								{{/* {{ partial "products/share-buttons.html" . }} */}}
+								{{ end }}
+
+								<form action="{{ with .Site.GetPage `/shop/cart.md` }}{{ .RelPermalink }}{{ end }}"
+									onsubmit="return addToCart(this)">
+
+									{{ if (index .Params.variants 1).name }}
+
+									<div>
+										<label for="variant">{{ i18n "shop_choose_variant" }} {{ .Params.variant_type
+											}}:</label>
+										<select onchange="updateBuyButton(this)" id="variant" name="variant">
+											{{ range $variants :=.Params.variants }}<option
+												data-sku="{{ $variants.sku }}" data-variantname="{{ $variants.name }}"
+												data-price="{{ $variants.price }}">{{ $variants.name }}
+											</option>{{ end }}
+										</select>
+									</div>
+									{{ end }}
+									{{ if gt (index .Params.variants 0).price 0 }}
+									{{/*  <div>
+										<input type="submit" 
+												
+												data-sku="{{ (index .Params.variants 0).sku }}"
+												data-title="{{ .Params.Title }}" 
+												data-varianttype="{{ .Params.variant_type }}"
+												data-variantname="{{ (index .Params.variants 0).name }}" 
+												data-price="{{ (index .Params.variants 0).price }}"
+												{{ with resources.Get .Params.image }}
+													data-url="{{ .RelPermalink }}" 
+													data-image="{{ .RelPermalink }}" 
+												{{ end }}
+												value="{{ i18n "shop_add_to_cart" }}" />
+									</div>  */}}
+									{{ end }}
+								</form>
+
+								{{ partial "shop/productimages.html" . }}
+
+								{{ .Content }}
+							</div>
+						</div>
+
+					</article>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
+{{/* </div>
+</div>
+</section>
+</div> */}}
+
 {{ end }}

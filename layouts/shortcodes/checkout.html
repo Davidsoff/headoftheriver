@@ -1,0 +1,59 @@
+<div id="checkout"> 
+    <form action="/shop/paylink/" method="post" onchange="setAddons(this)" name="bestellen" data-netlify="true" data-netlify-recaptcha="true">
+        <input name="_gotcha" style="display:none" type="text">
+        <input name="_to" type="hidden" value="webmaster@headoftheriver.nl">
+        <input name="_subject" value="New order!" type="hidden">
+        <input name="ordernumber" value="" type="hidden">
+
+        <div class="half">
+            <label class="form-label" for="firstname">{{ i18n "shop_first_name" }} <span class="text-red-500">*</span></label>
+            <input class="form-input" type="text" name="firstname" required />
+        </div>
+
+        <div class="half">
+            <label class="form-label" for="lastname">{{ i18n "shop_last_name" }} <span class="text-red-500">*</span></label>
+            <input class="form-input" type="text" name="lastname" required />
+        </div>
+
+        <div>
+            <label class="form-label" for="email">{{ i18n "shop_email_address" }} <span class="text-red-500">*</span></label>
+            <input class="form-input" type="email" name="email" required />
+        </div>
+
+        <div>
+            <label class="form-label" for="phone">{{ i18n "shop_phone" }} <span class="text-red-500">*</span></label>
+            <input class="form-input" type="text" name="phone" required />
+        </div>
+
+        <div>
+            <label class="form-label" for="message">{{ i18n "shop_message" }}</label>
+            <textarea class="form-input" name="message"></textarea>
+        </div>
+
+        <div>
+            <input type="hidden" name="order" value="" />
+        </div>
+
+        <div>
+            <input type="hidden" name="checkout" value="" />
+        </div>
+
+        <div data-netlify-recaptcha="true"></div>
+        <div class="submitbutton"><a href="{{ with .Site.GetPage `/shop/cart.md` }}{{ .RelPermalink }}{{ end }}" class="gray">{{ i18n "shop_back_to_cart" }}</a><input type="submit" value="{{ i18n "shop_proceed_payment" }}" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
+
+    </form>
+    <div>
+        <label class="form-label" style="padding-top: 0.8rem;">{{ i18n "shop_payment_total" }}</label>
+        <div id="checkoutcalculation">
+            <span>{{ i18n "shop_shopping_cart"}}: </span>€ 0.00
+        </div>
+        <p><em>{{ .Get 0 }}</em></p>
+    </div>
+</div>
+
+
+<div style="margin-top: 50px; position: relative; top: 30px;">
+        <ul id="checkout_progress">
+            <li class="past"><span><a href="{{ with .Site.GetPage `/shop/cart.md` }}{{ .RelPermalink }}{{ end }}">{{ i18n "shop_shopping_cart"}}</a></span></li><li class="current"><span><a href="#">{{ i18n "shop_checkout"}}</a></span></li><li><span><span>{{ i18n "shop_payment"}}</span></span></li>
+        </ul>
+</div>

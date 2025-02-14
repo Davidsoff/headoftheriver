@@ -76,8 +76,8 @@ Partners komen op diverse manieren in beeld:
 
 -   Voorafgaand aan de wedstrijd op verzchillende online- en offline uitingen
 -   Op locatie, langs de wedstrijdbaan en op de vereningen langs de Amstel
--   Op de beoogde live tv-uitzending, die op 9 maart gepland staat bij de Publieke Omroep Amsterdam en daarbuiten. 
-    Beoogde partners bieden wij verschillende pakketten aan, maar ook kunnen we met je een pakket op maat maken.  
+<!-- -   Op de beoogde live tv-uitzending, die op 9 maart gepland staat bij de Publieke Omroep Amsterdam en daarbuiten. 
+    Beoogde partners bieden wij verschillende pakketten aan, maar ook kunnen we met je een pakket op maat maken.   -->
 
 <!-- ##### Live videoregistratie
 
@@ -291,14 +291,19 @@ Voor bedrijven die geinteresseerd zijn in een introductie in roeien en willen bi
 <div class="partners_logo_grid">
   <h5><span>Partners</span></h5>
   <div class="partners_grid_items">
-    <div class="partners_grid_item">
+    <!-- <div class="partners_grid_item">
       <a href="https://www.roeigoed.nl" target="_blank">
         <img src="images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
       </a>
-    </div>
+    </div> -->
     <div class="partners_grid_item">
       <a href="http://www.vharch.nl" target="_blank">
         <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="VHARCH">
+      </a>
+    </div>
+    <div class="partners_grid_item">
+      <a href="https://jumble.nl/" target="_blank">
+        <img src="images/partnerlogos/logo_jumble.png" caption="" alt="Jumble">
       </a>
     </div>
   </div>

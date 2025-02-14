@@ -81,3 +81,84 @@
 
 - id: faq
   translation: Veelgestelde vragen
+
+- id: shop_quantity
+  translation: Aantal
+
+- id: shop_price
+  translation: Prijs
+
+- id: shop_empty_cart
+  translation: Uw winkelwagen is nog leeg.
+
+- id: shop_shopping_cart
+  translation: Winkelwagen
+  
+- id: shop_first_name
+  translation: Voornaam
+
+- id: shop_last_name
+  translation: Achternaam
+    
+- id: shop_email_address
+  translation: Emailadres
+
+- id: shop_address
+  translation: Adres
+      
+- id: shop_zipcode
+  translation: Postcode
+
+- id: shop_city
+  translation: Stad
+  
+- id: shop_shipping
+  translation: Verzending
+      
+- id: shop_country
+  translation: Land
+
+- id: shop_gift_wrapping
+  translation: Kadoverpakking
+        
+- id: shop_no_giftwrap
+  translation: Geen kadoverpakking
+
+- id: shop_giftwrapped
+  translation: Kadoverpakking
+
+- id: shop_message
+  translation: Bericht
+  
+- id: shop_back_to_cart
+  translation: Terug naar winkelwagen
+  
+- id: shop_payment_total
+  translation: Totaalbedrag
+  
+- id: shop_shopping_cart
+  translation: Winkelwagen
+
+- id: shop_proceed_payment
+  translation: Afronden
+
+- id: shop_payment
+  translation: Afronden
+
+- id: shop_checkout
+  translation: Bestellen
+
+- id: shop_phone
+  translation: Telefoonnummer
+
+- id: shop_proceed_checkout
+  translation: Ga naar bestellen
+
+- id: shop_continue_shopping
+  translation: Doorgaan met winkelen
+
+- id: shop_add_to_cart
+  translation: Toevoegen aan winkelwagen
+
+- id: shop_choose_variant
+  translation: Kies een

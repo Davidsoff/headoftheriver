@@ -3,13 +3,13 @@ title: "Partners"
 meta_title: ""
 description: "Info for partners of the Head of the River Amstel"
 draft: false
-# menu:
-#   main:
-#     parent: About
-#     weight: 50
-menus: 
+menu:
   main:
-    weight: 6
+    parent: About
+    weight: 50
+# menus: 
+#   main:
+#     weight: 6
 ---
 ### Head of the River partners
 
@@ -17,14 +17,19 @@ menus:
 <div class="partners_logo_grid">
   <h5><span>Partners</span></h5>
   <div class="partners_grid_items">
-    <div class="partners_grid_item">
+    <!-- <div class="partners_grid_item">
       <a href="https://www.roeigoed.nl" target="_blank">
         <img src="images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
       </a>
-    </div>
+    </div> -->
     <div class="partners_grid_item">
       <a href="http://www.vharch.nl" target="_blank">
         <img src="images/partnerlogos/Logo_VHA_ned.png" caption="" alt="VHARCH">
+      </a>
+    </div>
+        <div class="partners_grid_item">
+      <a href="https://jumble.nl/" target="_blank">
+        <img src="images/partnerlogos/logo_jumble.png" caption="" alt="Jumble">
       </a>
     </div>
   </div>
