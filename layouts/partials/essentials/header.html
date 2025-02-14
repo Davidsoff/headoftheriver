@@ -123,7 +123,8 @@
               {{- else -}}
                 {{- .URL | relLangURL -}}
               {{- end -}}"
-              >{{ .Name }} <span class="itemcount" style="display: initial;">0</span>
+              >{{ .Name }} 
+              {{/*  <span class="itemcount" style="display: initial;">0</span>  */}}
               </a
             >
             {{ else }}
