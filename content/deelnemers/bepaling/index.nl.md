@@ -66,7 +66,7 @@ De masters velden roeien (per blok) door elkaar. De finishtijd van vorig jaar is
 
 #### Wimpels:
 
-Wimpels worden uitgereikt aan de snelste Nederlandse verenigingsacht in het elite-veld heren en dames
+Wimpels worden uitgereikt aan de snelste Nederlandse verenigingsacht in het elite-veld voor heren en voor dames. Indien het eliteveld niet verroeid wordt zal de wimpel worden uitgereikt aan de snelste verenigingsacht in het op basis van prestatiepunten hoogste seniorenveld.
 
 #### Botenwagens:
 

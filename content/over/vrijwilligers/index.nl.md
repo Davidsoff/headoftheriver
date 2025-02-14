@@ -9,7 +9,7 @@ menu:
     weight: 40
 ---
 Zonder vrijwilligers kan de Head of the River niet bestaan. Elk jaar zijn er weer tientallen vrijwilligers in de weer om te zorgen dat er op de kant en op het water alles soepel en eerlijk verloopt. Naast de juryleden en motorbootbestuurders zetten tal van anderen zich in op de minder bekende plekken. Het is een groot team, op heel diverse posities en functies, die elkaar ook waar nodig weer kunnen aanvullen en opvangen. Heb je zin om een keer te helpen? Zie hieronder de beschrijving van verschillende functies, er zit vast iets tussen wat je leuk lijkt!  
-<!-- Geef je nu op via onderstaand formulier. -->
+Geef je nu op via onderstaand formulier.
 
 #### Baanopbouw 
 Voor en na de wedstrijd moet de baan worden uitgelegd. Het uitleggen en binnenhalen van boeien is geen moeilijk werkje, maar je moet er wel fit voor zijn en niet bang zijn om een beetje vies en nat te worden! De baancommissie regelt alles maar kan altijd meer handjes gebruiken!
@@ -26,4 +26,4 @@ Kan jij door de bomen altijd het bos nog zien? Help orde scheppen op het vlot, z
 #### EHBO
 #### Voorbereiden en inrichten ruimtes
 
-<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvysQ-jUGuO3Xqao3PvTvZpHNPAUyRDirxjnEgGtDW7kAqyg/viewform?embedded=true" width="640" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAmM5lr3BO5AHw49D_xOkZLxSq6h4jEODu-zMNtdQ6B1tZXg/viewform?embedded=true" width="640" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
