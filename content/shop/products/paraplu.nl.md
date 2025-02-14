@@ -6,7 +6,7 @@ images:
 variant_type: size
 variants:
 - name: default
-  price: 5.00
+  price: 7.50
   sku: paraplu
 weight: 1
 ---

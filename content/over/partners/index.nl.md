@@ -76,8 +76,8 @@ Partners komen op diverse manieren in beeld:
 
 -   Voorafgaand aan de wedstrijd op verzchillende online- en offline uitingen
 -   Op locatie, langs de wedstrijdbaan en op de vereningen langs de Amstel
--   Op de beoogde live tv-uitzending, die op 9 maart gepland staat bij de Publieke Omroep Amsterdam en daarbuiten. 
-    Beoogde partners bieden wij verschillende pakketten aan, maar ook kunnen we met je een pakket op maat maken.  
+<!-- -   Op de beoogde live tv-uitzending, die op 9 maart gepland staat bij de Publieke Omroep Amsterdam en daarbuiten. 
+    Beoogde partners bieden wij verschillende pakketten aan, maar ook kunnen we met je een pakket op maat maken.   -->
 
 <!-- ##### Live videoregistratie
 

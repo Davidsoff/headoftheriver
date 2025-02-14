@@ -104,6 +104,15 @@
   }
 }
 
+@media only screen and (max-width: 400px) {
+  .productimage {
+    .overlay {
+      position: absolute;
+      padding-bottom: 70%;
+    }
+  }
+}
+
 input[type="number"].quantity {
   font-size: 0.8rem;
   height: 1.83rem;
@@ -263,11 +272,13 @@ input[type="number"].quantity {
 
       div {
         margin-bottom: 0.3rem;
-        filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);
+        // filter: grayscale(100%) brightness(116%) contrast(83%) opacity(70%);
         transition: filter 0.3s ease;
 
         &:hover {
-          filter: grayscale(0%) brightness(100%) contrast(100%) opacity(100%);
+          filter: grayscale(80%) brightness(100%) contrast(100%) opacity(100%);
+          border:1px solid rgb(211, 211, 211);
+          border-radius: 5px;
         }
       }
 
@@ -285,6 +296,7 @@ input[type="number"].quantity {
 @media only screen and (max-width: 800px) {
   #productlist {
     margin-left: -5%;
+    padding-right: 1.625em;
 
     li {
       width: 45%;
@@ -296,7 +308,8 @@ input[type="number"].quantity {
 @media only screen and (max-width: 400px) {
   #productlist {
     margin-left: 0%;
-
+    padding-right: 1.625em;
+    
     li {
       width: 100%;
       margin-left: 0;
