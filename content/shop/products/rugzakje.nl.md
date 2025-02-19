@@ -9,6 +9,7 @@ variants:
   price: 3.50
   sku: rugzakje
 weight: 1
+draft: false
 ---
 
 

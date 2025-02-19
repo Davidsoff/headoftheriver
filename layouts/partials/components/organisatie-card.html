@@ -1,5 +1,5 @@
   <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8 text-center" style=" height:100%">
-  {{ $image:= .image }}
+  {{ $image := .image }}
   {{ if $image }}
     {{ partial "image" (dict "Src" $image "Alt" .title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
   {{ else}}

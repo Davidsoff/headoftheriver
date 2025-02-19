@@ -9,6 +9,7 @@ variants:
   price: 7.50
   sku: sokken
 weight: 1
+draft: false
 ---
 ##### Casual sok gebreid 
   

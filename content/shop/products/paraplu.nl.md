@@ -9,6 +9,7 @@ variants:
   price: 7.50
   sku: paraplu
 weight: 1
+draft: false
 ---
 
 

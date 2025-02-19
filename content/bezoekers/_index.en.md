@@ -2,7 +2,7 @@
 title: "Visitors"
 meta_title: ""
 description: ""
-identifier: Bezoekers
+identifier: Visitors
 name: Visitors
 menus: 
   main:

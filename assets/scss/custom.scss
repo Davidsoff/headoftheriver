@@ -836,4 +836,7 @@ html {
   scroll-behavior: smooth;
 }
 
-
+.horeca_bordered:not(:last-child) {
+  border-bottom: 2px solid var(--head-blue);
+  padding: 2px;
+}

@@ -84,3 +84,12 @@
 
 - id: shop_choose_variant
   translation: Choose a
+
+- id: hospitality_home
+  translation: Hospitality partners
+
+- id: hospitality_title1
+  translation: Establishments with a special Head of the River offer 
+
+- id: hospitality_title2
+  translation: Establishments promoting the Head of the River

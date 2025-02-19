@@ -32,6 +32,3 @@ quick_links:
       link: "../over/vrijwilligers/"
 ---
 
-{{< accordion "Waar kan ik rugnummers afhalen?" >}}
-
-{{< /accordion >}}

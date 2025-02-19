@@ -10,6 +10,8 @@ variants:
   price: 5.00
   sku: buff
 weight: 1
+draft: false
 ---
-
+##### Fleece Buff   
+- Materiaal: Fleece
 

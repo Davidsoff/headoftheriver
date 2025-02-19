@@ -25,7 +25,6 @@ defaultContentLanguage = "nl"
 [permalinks.page]
 "pages" = "/:slugorfilename/"
 
-
 ############################# Modules ############################
 [module]
 [[module.mounts]]

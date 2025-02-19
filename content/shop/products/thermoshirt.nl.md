@@ -15,6 +15,7 @@ variants:
   price: 29.00
   sku: thermoshirt-xl
 weight: 1
+draft: false
 ---
 
 

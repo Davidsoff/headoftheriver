@@ -9,6 +9,9 @@ variants:
   price: 9.00
   sku: zonneklep
 weight: 1
+draft: false
 ---
+##### Blauwe zonneklep   
+- Materiaal: neoprene
 
 

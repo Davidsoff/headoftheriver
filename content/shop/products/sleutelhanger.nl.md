@@ -9,6 +9,7 @@ variants:
   price: 3.50
   sku: sleutelhanger
 weight: 1
+draft: false
 ---
 
 

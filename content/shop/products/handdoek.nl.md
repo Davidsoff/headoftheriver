@@ -9,6 +9,7 @@ variants:
   price: 12.00
   sku: handdoek
 weight: 1
+draft: false
 ---
 ##### Microfiber sporthanddoek    
 - Materiaal: 100% polyester (suède)

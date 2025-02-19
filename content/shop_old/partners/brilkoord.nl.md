@@ -9,7 +9,6 @@ variants:
   price: 4.00
   sku: brilkoord
 weight: 1
-draft: false
 ---
 
 

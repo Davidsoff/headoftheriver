@@ -1,0 +1,91 @@
+{{/* {{ define "main" }}
+{{ partial "page-header" . }}
+
+<section class="section-sm pt-7 productlistpage">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div class="content">
+          <article>
+            <div class="post-content">
+
+              <h3>{{ .Params.Subtitle }}</h3>
+              {{ .Content }}
+              <h3>iets</h3>
+              <br />
+
+              {{ range .RegularPages }}
+              <li class="m-3">
+                <a href="{{ .Permalink }}" class="text-dark dark:text-darkmode-dark block text-xl">
+                  {{ .Title }}
+                </a>
+              </li>
+              {{ end }}
+
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }} */}}
+
+{{ define "main" }}
+{{ partial "page-header_listpage" . }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div class="content">
+          <h3>{{i18n "hospitality_title1"}}</h3>
+          {{ range .RegularPages }}
+          {{ if .Params.headmenu}}
+          <div class="m-3 flex flex-wrap horeca_bordered">
+            {{with resources.Get .Params.image }}
+            <div class="w-full md:w-1/3 flex justify-center items-center">
+              <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="w-full h-auto"
+                style="width: 200px; height: 200px; object-fit: cover;">
+            </div>
+            {{ end }}
+            <div class="w-full md:w-2/3 p-4">
+              <a href="{{ .Params.weblink }}" target="_blank" class="text-dark dark:text-darkmode-dark block text-xl">
+                <h3>{{ .Title }}</h3>
+              </a>
+              <p>{{ .Content }}</p>
+            </div>
+            {{/*  <div class="w-full" style="border-bottom: 2px solid var(--head-blue); padding: 2px;"></div>  */}}
+          </div>
+          {{ end }}
+          {{ end }}
+
+          <div style="padding-top: 50px;">
+            <h3>{{i18n "hospitality_title2"}}</h3>
+          </div>
+
+          {{ range .RegularPages }}
+          {{ if not .Params.headmenu}}
+          <div class="m-3 flex flex-wrap horeca_bordered">
+            {{with resources.Get .Params.image }}
+            <div class="w-full md:w-1/3 flex justify-center items-center">
+              <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="w-full h-auto"
+                style="width: 200px; height: 200px; object-fit: cover;">
+            </div>
+            {{ end }}
+            <div class="w-full md:w-2/3 p-4">
+              <a href="{{ .Params.weblink }}" target="_blank" class="text-dark dark:text-darkmode-dark block text-xl">
+                <h3>{{ .Title }}</h3>
+              </a>
+              <p>{{ .Content }}</p>
+            </div>
+            {{/*  <div class="w-full" style="border-bottom: 2px solid var(--head-blue); padding: 2px;"></div>  */}}
+          </div>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

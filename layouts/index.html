@@ -103,6 +103,24 @@
 
 <!-- /Tiles -->
 
+<!-- Horeca Partners -->
+<section class="section-home mb-8">
+  <div class="container">
+    <div class="row justify-center">
+      <h2 style="display: block; margin-left: auto; margin-right: auto; margin-bottom:10px; position:relative; text-align: center;">
+        {{i18n "hospitality_home"}}</h2>
+        <div style="display: flex; justify-content: center;">
+          <a href="{{ "/bezoekers/horecapartners/" | relLangURL }}">
+            {{ with resources.Get "images/bezoekers/horecapartners/partnercloud.jpg" }}
+            <img src="{{ .Permalink }}" alt="Partnercloud" class="w-full h-auto" style="width: 700px; object-fit: cover;">
+          {{ end }}
+          </a>
+        </div>
+      </div>
+  </div>
+</section>
+<!-- /Horeca Partners -->
+
 <!-- Weather -->
 <section class="section-home mt-2 mb-4">
   <div class="row items-center justify-between">
@@ -118,14 +136,16 @@
 </section>
 <!-- /Weather -->
 
+
+
 <!-- Partners -->
 <section class="section-home mb-8">
   <div class="container">
     <div class="row justify-center">
-      <h3
+      <h2
         style="display: block; margin-left: auto; margin-right: auto; margin-bottom:10px; position:relative; text-align: center;">
         {{i18n
-        "poweredBy"}}</h3>
+        "poweredBy"}}</h2>
       <div class="bg-theme-light dark:bg-darkmode-theme-light rounded partners">
         <div class="partners_logo_grid">
           <div class="partners_grid_items">

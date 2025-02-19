@@ -1,7 +1,7 @@
 ---
 title: "Overnachten"
 meta_title: ""
-description: "UOvernachtingslocaties rondom de Head of the River Amstel"
+description: "Overnachtingslocaties rondom de Head of the River Amstel"
 draft: false
 menu:
   main:

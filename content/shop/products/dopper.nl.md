@@ -9,6 +9,10 @@ variants:
   price: 10.00
   sku: dopper
 weight: 1
+draft: false
 ---
+##### Blauwe dopper   
+- Materiaal: Plastic
+- Inhoud: 450ml
 
 
