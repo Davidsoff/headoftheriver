@@ -111,9 +111,8 @@
         {{i18n "hospitality_home"}}</h2>
         <div style="display: flex; justify-content: center;">
           <a href="{{ "/bezoekers/horecapartners/" | relLangURL }}">
-            {{ with resources.Get "images/bezoekers/horecapartners/partnercloud.jpg" }}
-            <img src="{{ .Permalink }}" alt="Partnercloud" class="w-full h-auto" style="width: 700px; object-fit: cover;">
-          {{ end }}
+            {{ $imagePath:= "/images/bezoekers/horecapartners/partnercloud.jpg" }}
+            <img src="{{ $imagePath}}" alt="Partnercloud" class="w-full h-auto" style="width: 700px; object-fit: cover;">
           </a>
         </div>
       </div>
@@ -149,11 +148,6 @@
       <div class="bg-theme-light dark:bg-darkmode-theme-light rounded partners">
         <div class="partners_logo_grid">
           <div class="partners_grid_items">
-            {{/*  <div class="partners_grid_item">
-              <a href="https://www.roeigoed.nl" target="_blank">
-                <img src="over/partners/images/partnerlogos/RG_Final_A _500w.png" caption="" alt="Roeigoed">
-              </a>
-            </div>  */}}
             <div class="partners_grid_item">
               <a href="http://www.vharch.nl" target="_blank">
                 <img src="over/partners/images/partnerlogos/Logo_VHA_ned.png" caption="" alt="Roeigoed">

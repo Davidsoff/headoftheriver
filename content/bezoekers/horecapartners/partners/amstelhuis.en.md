@@ -1,6 +1,6 @@
 ---
 title: Sociëteit Amstelhuis
-image: "images/bezoekers/horecapartners/Amstelhuis-01 (Medium).jpg"
+image: "/images/bezoekers/horecapartners/Amstelhuis-01 (Medium).jpg"
 weblink: "https://hetamstelhuis.nl/societeit/"
 headmenu: false
 draft: false

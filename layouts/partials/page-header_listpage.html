@@ -1,26 +1,21 @@
 <section>
   <div class="container text-center">
-      {{ $path := .File.Dir }}
-      {{ $imagePath := printf "images/%shero.*" $path  }}
-      {{/*  {{ $heroImage := resources.Get $imagePath }}  */}}
-      {{ $heroImage := resources.GetMatch $imagePath }}
-      {{/*  <h3>{{ $imagePath }}</h3>  */}}
-      {{ with $heroImage }}
-      <div style="background-image: url('{{ .RelPermalink }}');
+    {{ $path := .File.Dir }}
+    {{/*  <h3>{{ $path }}</h3>  */}}
+    {{ $imagePath := printf "/images/%shero.png" (replace $path "\\" "/") }}
+
+    {{/* <h3>{{ $imagePath }}</h3> */}}
+    <div style="background-image: url('{{ $imagePath }}');
              background-repeat: no-repeat;
              background-size: auto;
              background-position: center top;"
-           class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      {{ else }}
-      <div style="background-color: #da1414;" 
-           class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      {{ end }}
+      class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
 
       <!-- Title of the page -->
       <h1>{{ .Title | title }}</h1>
 
       <!-- Subtitle or additional text -->
-      {{/*  <h3></h3>  */}}
+      {{/* <h3></h3> */}}
 
       <!-- Breadcrumb partial -->
       {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}

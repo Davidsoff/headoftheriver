@@ -1,6 +1,6 @@
 ---
 title: Heisa
-image: "images/bezoekers/horecapartners/heisa-terras-3 (Medium).jpg"
+image: "/images/bezoekers/horecapartners/heisa-terras-3 (Medium).jpg"
 weblink: "https://www.caferestaurantheisa.nl/"
 headmenu: false
 draft: false
