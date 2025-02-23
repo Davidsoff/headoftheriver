@@ -8,29 +8,35 @@ menu:
     parent: Participants
     weight: 90
 ---
-### Registration boat trailers
-In the weeks leading up to the Head of the River Amstel weekend, each boat trailer should be registered. Registration can be done at the rowing club where your own club is assigned to. (see below)
+### Registering Boat Trailers
+In the weeks leading up to the Head weekend, boat trailers must be registered. This is done with the Amsterdam rowing clubs to which the participating clubs are affiliated (see list below).
 
-#### Required information:
-- Name of transporter / transporting club
-- Name of driver and contact details (a cell phone number is needed, please include)
-- Arrival date and estimated time of arrival
-- Quantity of boats and type of boats
+#### Registration:
+Register the boat trailer with the following information:
 
-The required information can be submitted at the following email addresses:
-- Boat trailers assigned to RIC: gebouw@ricamsterdam.nl
-- Boat trailers assigned to Willem III, Skøll, Poseidon: veiligheid@headoftheriver.nl
+- Name of the transporter
+- Name of the driver and contact details (including mobile number)
+- License plate of the boat trailer and car
+- Arrival date, estimated arrival time
+- Number of boats per type
 
+Send the information to (see allocation below):   
+- Boat trailers assigned to RIC: [Register boat trailer RIC (Dutch)](https://www.ricamsterdam.nl/botenwagen-aanmelden/)
+- Boat trailers assigned to Willem III, Skoll, or Poseidon: veiligheid@headoftheriver.nl
+- Boat trailers assigned to De Hoop: gebouw@karzvdehoop.nl
 
-#### Unloading and parking
-Volunteers of the Head organisation will guide arriving boat trailers to their designated location. Large trailers, coming to the Jan Vroegopsingel, will have their designated parking spot, where they are not asked to unload. Smaller trailers are asked to unload if possible to the available boat racks. Please do not place your boats on single supports, or on the grass, this would limit the available space.
+#### If possible: unload immediately and park elsewhere
+Volunteers from the Head organization will guide the trailers to their unloading location. The large boat trailers heading to Jan Vroegopsingel will have a fixed spot where they do not need to be unloaded immediately. Smaller boat trailers should be unloaded as much as possible right away. The boats should then be placed in the racks and not left on trestles or supports, as that limits the available space.
 
-An empty boat trailer can be parked at the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), Ouderkerkerdijk 150, 1096 CR Amsterdam Parking is possible from Friday afternoon 8 March until no later than Sunday evening 10 March.
+An empty boat trailer can be parked on the grounds of the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), behind the Rozenoord Bridge. An empty boat trailer can be parked there from Friday afternoon 07-03 until no later than Sunday evening 09-03.    
+Only the outer parking lanes (the two closest to the access road) are available!
 
+Additionally, the area at Jan Vroegopsingel under the Rozenoord Bridge is also available.
 
 #### Who is you guest rowing club?
-The list of boat trailer distribution to the different rowing clubs in Amsterdam will be published early January.
-<!-- Updated list per 03-2024
+<!-- The list of boat trailer distribution to the different rowing clubs in Amsterdam will be published early January. -->
+The list of boat trailer distribution to the different rowing clubs in Amsterdam is presented below. 
+Updated list per 23-02-2025
 
 ##### Jan Vroegopsingel
 **Willem III**  
@@ -42,6 +48,10 @@ Skadi • Nautilus • Laga • Asopos de Vliet • Leythe • Aegir • Gyas �
 **Poseidon**  
 Pelargos • Asser Roeiclub • De Helling • Jason • De Maas • VADA • De Drie Provincien • Thyro • Tubantia • Aengwirden 
 
-##### Korte Ouderkerkerdijk
+##### Korte Ouderkerkerdijk (Check the route to RIC (Dutch) [Route to RIC](https://www.ricamsterdam.nl/route/) )
 **RIC**  
-Amycus • ARV De Ank • CUS Torino • Naarden • Dordrechtse R&ZV • Saurus • Spaarne • Eem • Daventria • Hemus • Zwolsche R&ZV • Alkmaarsche R&ZV • UR&KV Michiel de Ruyter • Tilburgse open Roeivereniging • Grift • Pampus • Breda • Rijnland • MWC • Beatrix • Hertog • Gouda • Dudok van Heel • Favorite Hammonia • Alphen • AROSS • Boreas • ‘t Diep • Meije • Weesp • Wetterwille • Pontos • London Rowing Club/Tromp/Aengwirden/Triton • RV Treviris Trier • Società Canottieri Armida • Societa' Canottieri Caprera Torino • SteeringUwright/Endeavor Racing Alliance • Vegesacker RV • Wassersportverein Waldshut e.V • ZZV Roeien -->
+Amycus • ARV De Ank • CUS Torino • Naarden • Dordrechtse R&ZV • Saurus • Spaarne • Eem • Daventria • Hemus • Zwolsche R&ZV • Alkmaarsche R&ZV • UR&KV Michiel de Ruyter • Tilburgse open Roeivereniging • Grift • Pampus • Breda • Rijnland • MWC • Beatrix • Hertog • Gouda • Dudok van Heel • Favorite Hammonia • Alphen • AROSS • Boreas • ‘t Diep • Meije • Weesp • Wetterwille • Pontos • London Rowing Club/Tromp/Aengwirden/Triton • RV Treviris Trier • Società Canottieri Armida • Societa' Canottieri Caprera Torino • SteeringUwright/Endeavor Racing Alliance • Vegesacker RV • Wassersportverein Waldshut e.V • ZZV Roeien
+
+##### Weesperzijde
+**De Hoop**   
+Njord • De Maas
