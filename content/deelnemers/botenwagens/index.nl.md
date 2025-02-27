@@ -29,7 +29,7 @@ Stuur de informatie naar (zie verdeling hieronder):
 #### Indien mogelijk: direct afladen en elders parkeren
 Vrijwilligers van de Headorganisatie begeleiden de wagens naar hun aflaadlocatie. De grote botenwagens die naar de Jan Vroegopsingel rijden, krijgen een vaste plaats waar zij niet direct afgeladen hoeven te worden. Kleinere botenwagens dienen wel zoveel mogelijk direct afgeladen te worden. De boten dienen dan in de stellingen te worden geplaatst en niet op bokjes of schragen te worden achtergelaten, dat beperkt de beschikbare ruimte.
 
-Een lege botenwagen kan worden geparkeerd op het terrein van het [Politie Trainings Centrum](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), achter de Rozenoordbrug. Een lege botenwagen mag daar staan van vrijdagmiddag 07-03 tot uiterlijk zondagavond 09-03. 
+Een lege botenwagen kan worden geparkeerd op het terrein van het [Politie Trainings Centrum](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), achter de Rozenoordbrug. Een lege botenwagen mag daar staan van vrijdagmiddag 07-03 tot uiterlijk zondagavond 09-03.    
 Alleen de buitenste parkeerstroken (de twee die het dichtst bij de toegansweg liggen) zijn beschikbaar!
 
 Daarnaast is ook het terrein aan de Jan Vroegopsingel onder de Rozenoordbrug beschikbaar

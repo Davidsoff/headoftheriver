@@ -12,10 +12,11 @@ menu:
 If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by registering at the Dutch Rowing Association (KNRB).
 
 #### Entry fees:
-- Coastal Quads: € 42,50
-- Quads: €85
-- Eight: €115
-- Corporate Eight: €300
+- Coastal Quads: € 40,00
+- Quads: €90,00
+- Eight: €122,50
+- Corporate Four: €250,00
+- Corporate Eight: €325,00
 
 <!-- ### 1. Pre-registration form -->
 <!-- <section id="sect_pre_reg_form" style="margin-top:-200px; padding-top:200px;">
