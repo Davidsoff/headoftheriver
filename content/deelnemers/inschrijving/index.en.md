@@ -8,15 +8,19 @@ menu:
     parent: Participants
     weight: 30
 ---
+The registration for the Head of the River 2025 is now closed. Please check the [TimeTeam page](https://regatta.time-team.nl/headoftheriveramstel/2025/entries/clubs.php) to see the registered clubs and teams.
+
+
 <!-- If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by filling in the pre-registration form below AND register at the Dutch Rowing Association (KNRB, see this page below the pre-registration form) -->
-If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by registering at the Dutch Rowing Association (KNRB).
+
+<!-- If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by registering at the Dutch Rowing Association (KNRB).
 
 #### Entry fees:
 - Coastal Quads: € 40,00
 - Quads: €90,00
 - Eight: €122,50
 - Corporate Four: €250,00
-- Corporate Eight: €325,00
+- Corporate Eight: €325,00 -->
 
 <!-- ### 1. Pre-registration form -->
 <!-- <section id="sect_pre_reg_form" style="margin-top:-200px; padding-top:200px;">
@@ -28,7 +32,7 @@ If you want to participate in the Head of the River Amstel, you have to register
 </section> -->
 
 
-### 1. Register with the National Rowing Association (KNRB)
+<!-- ### 1. Register with the National Rowing Association (KNRB)
 
 **Entries with existing username and password**   
 If you have participated in last year’s event, you should have received a username and password on behalf of your rowing club. You can re-use these credentials for this year’s event and sign up at [mijnvereniging.knrb.nl](http://www.mijnvereniging.knrb.nl).   
@@ -56,4 +60,4 @@ The entry fees include KNRB competition license surcharge. Please pay before Tue
 
 [{{< image src="images/logos/KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://roeievenementen.knrb.nl/tournament-details/3256?tab=details)
 
-</div>
+</div> -->
