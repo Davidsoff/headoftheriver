@@ -14,8 +14,8 @@
             <div class="lb-content-wrap">
               <div class="lb-content-main">
                 <ul class="lb-content-main-button-wrap">
-                  {{ range .RegularPages }}
-                  {{ if .Params.menu }}
+                  {{ range .Pages }}
+                  {{ if not (strings.Contains .File.Path "images") }}
                   <li>
                     <a href="{{ .Permalink }}">
                       <button type="button" class="lb-content-main-button-link">{{ .Title }}</button>

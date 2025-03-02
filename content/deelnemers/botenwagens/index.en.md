@@ -25,8 +25,8 @@ Send the information to (see allocation below):
 - Boat trailers assigned to Willem III, Skoll, or Poseidon: veiligheid@headoftheriver.nl
 - Boat trailers assigned to De Hoop: gebouw@karzvdehoop.nl
 
-#### If possible: unload immediately and park elsewhere
-Volunteers from the Head organization will guide the trailers to their unloading location. The large boat trailers heading to Jan Vroegopsingel will have a fixed spot where they do not need to be unloaded immediately. Smaller boat trailers should be unloaded as much as possible right away. The boats should then be placed in the racks and not left on trestles or supports, as that limits the available space.
+#### On the Jan Vroegop Singel, the rule is: unload as much as possible directly and park elsewhere
+Volunteers from the Head organization guide the vehicles to their unloading location on the JVSingel. The large boat trailers driving to the Jan Vroegopsingel are given a fixed place where they do not need to be unloaded immediately. Smaller boat trailers should be unloaded here as much as possible. The boats should then be placed in the racks and not left on supports or trestles, as this limits the available space.
 
 An empty boat trailer can be parked on the grounds of the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), behind the Rozenoord Bridge. An empty boat trailer can be parked there from Friday afternoon 07-03 until no later than Sunday evening 09-03.    
 Only the outer parking lanes (the two closest to the access road) are available!

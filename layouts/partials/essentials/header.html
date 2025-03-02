@@ -37,7 +37,7 @@
         {{ $active := eq $menuURL $pageURL }}
         {{ if .HasChildren }}
           <li class="nav-item nav-dropdown group relative">
-            {{ if or (eq .Name "Deelnemers") (eq .Name "Participants")}}
+            {{ if or (eq .Name "Deelnemers") (eq .Name "Participants") (eq .Name "Bezoekers") (eq .Name "Visitors")}}
             <a
             class="nav-link {{ if $active }}active{{ end }} inline-flex items-center"
             {{ if findRE `^http` .URL }}
