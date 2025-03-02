@@ -17,15 +17,15 @@ quick_links:
     - button: Media
       link: "../over/media/"
     - button: Results
-      link: "uitslag/"
+      link: "../deelnemers/uitslag/"
     - button: Course map
-      link: "stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf"
+      link: "../deelnemers/stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf"
     - button: Time schedule
-      link: "tijdschema/"
+      link: "../deelnemers/tijdschema/"
     - button: Rules and regulations
-      link: "bepaling/"
+      link: "../deelnemers/bepaling/"
     - button: Boat trailers
-      link: "botenwagens/"
+      link: "../deelnemers/botenwagens/"
     - button: Organising Committee
       link: "../over/organisatie/"
     - button: Volunteers

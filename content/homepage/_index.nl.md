@@ -10,8 +10,8 @@ quick_links:
   ql_col1_link: "deelnemers/inschrijving"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
-  ql_col3: Vrijwilligers
-  ql_col3_link: "over/vrijwilligers/"
+  ql_col3: Bezoekers
+  ql_col3_link: "bezoekers/"
     
 # Divider-quote
 dividerquote:

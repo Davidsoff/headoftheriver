@@ -9,6 +9,14 @@ menu:
     weight: 20
 ---
 <!-- In december 2024 kan je hier het blokschema voor de Head of the River 2025 inzien. -->
+UPDATE 02/03/2025:
+Omdat er een aantal velden te weinig inschrijvingen hadden om door te gaan, zijn ze samengevoegd met een andere categorie. De volgende velden zijn samengevoegd;
+
+LDE4* samengevoegd met DE4*    
+DMG8+ samengevoegd met DMF8+   
+DMB8+ samengevoegd met DMA8+   
+DMG4* samengevoegd met DMF4*   
+MJ8+ samengevoegd met MI8+   
 
 Hieronder vind je het blokschema voor de Head of the River 2025. We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](../tijdschema/documents/Veldkeuze%20Head%202025%20dd%20050202025.pdf) kun je een overzicht van de velden vinden met de daarbij behorende criteria voor de wedstrijd (document is engelstalig).
 
@@ -49,7 +57,7 @@ Hieronder vind je het blokschema voor de Head of the River 2025. We hebben een g
 | 101 | Mix 8+         | Mixed acht                                |
 | 111 | Bedr 8+        | Bedrijfs acht                             |
 | 62  | J18 4*         | Jongens achttien dubbel vier-met          |
-| 31  | LDE 4*         | Lichte dames elite dubbel vier-met        |
+| ~~31~~  | ~~LDE 4*~~         | ~~Lichte dames elite dubbel vier-met~~        |
 | 34  | LDEj 4*        | Lichte dames eerstejaars dubbel vier-met  |
 | 51  | DM Pre, A-C 8+ | Dames Masters categorie Pre, A t/m C acht |
 |     | DM D-E 8+      | Dames Masters categorie D & E acht        |
