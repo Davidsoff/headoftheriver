@@ -14,4 +14,4 @@ If your interested in the results of previous editions of the Head of the River 
 
 <!-- As soon as the Head of the River has started you can follow the live results via the link below.
 
-<a href="https://hoesnelwasik.nl/head/2024/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a> -->
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2025/results/events.php" target="_blank"><img alt="" height="54" src="https://time-team.nl/inc/img/timeteam/time-team.gif" width="519"></a> -->

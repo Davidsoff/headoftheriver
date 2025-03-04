@@ -40,7 +40,10 @@ positions:
     image: "images/organisatie/nicoleO2.jpg"    
   - title: Veiligheid
     name: "Ernst Schutte"
-    image: "images/organisatie/ernst.jpg"      
+    image: "images/organisatie/ernst.jpg"     
+  - title: Vergunningen
+    name: "Thijs Verburg"
+    image: "images/organisatie/thijs2.jpg"   
 
 jury:
   - title: Hoofd van de Jury

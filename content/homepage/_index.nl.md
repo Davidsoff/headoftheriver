@@ -6,8 +6,8 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Inschrijven
-  ql_col1_link: "deelnemers/inschrijving"
+  ql_col1: Loting
+  ql_col1_link: "deelnemers/loting/"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
   ql_col3: Bezoekers
@@ -26,6 +26,6 @@ linktiles:
   title3: "Vrijwilligers"
   value3: 155
   title4: "Trofeeën"
-  value4: 9
+  value4: 12
 
 ---
