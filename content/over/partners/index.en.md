@@ -32,6 +32,11 @@ menu:
         <img src="images/partnerlogos/logo_jumble.png" caption="" alt="Jumble">
       </a>
     </div>
+      <div class="partners_grid_item">
+      <a href="https://www.autobedrijf-nieuwendijk.nl/renault/modellen/renault-5/" target="_blank">
+        <img src="images/partnerlogos/32338_logo-nieuwendijk-renault-2x_default.png" caption="" alt="Renault">
+      </a>
+    </div>
   </div>
 </div>
 </div>

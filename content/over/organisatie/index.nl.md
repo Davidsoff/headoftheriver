@@ -44,6 +44,9 @@ positions:
   - title: Vergunningen
     name: "Thijs Verburg"
     image: "images/organisatie/thijs2.jpg"   
+  - title: Webbeheer / Baan
+    name: "Guido van der Salm"
+    image: "images/organisatie/guido.jpg" 
 
 jury:
   - title: Hoofd van de Jury
