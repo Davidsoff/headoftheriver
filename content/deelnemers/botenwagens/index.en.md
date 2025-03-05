@@ -33,6 +33,8 @@ Only the outer parking lanes (the two closest to the access road) are available!
 
 Additionally, the area at Jan Vroegopsingel under the Rozenoord Bridge is also available.
 
+All coastal boats should be launched at rowing club Willem 3.
+
 #### Who is you guest rowing club?
 <!-- The list of boat trailer distribution to the different rowing clubs in Amsterdam will be published early January. -->
 The list of boat trailer distribution to the different rowing clubs in Amsterdam is presented below. 

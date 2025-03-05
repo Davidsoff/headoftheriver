@@ -10,6 +10,10 @@ slug: faq
 menus: 
   footer:
     weight: 1
+  main:
+    parent: Deelnemers
+    weight: 110
+
 draft: false
 _build:
   render: ""
@@ -24,6 +28,8 @@ faqlist:
       link: 
         urllink: "../deelnemers/botenwagens/"
         linktext: Botenwagens
+    - question: Waar moeten we de Coastal boten te water laten?
+      answer: Alle coastal boten dienen bij roeivereniging Willem 3 te water te worden gelaten.
 
 ---
 ### Veelgestelde vragen

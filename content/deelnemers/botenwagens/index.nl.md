@@ -34,6 +34,8 @@ Alleen de buitenste parkeerstroken (de twee die het dichtst bij de toegansweg li
 
 Daarnaast is ook het terrein aan de Jan Vroegopsingel onder de Rozenoordbrug beschikbaar
 
+Alle coastal boten dienen bij roeivereniging Willem 3 te water te worden gelaten.
+
 #### Verdeling deelnemers over gastverenigingen
 <!-- De verdeling van botenwagens over de diverse Amsterdamse roeiverenigingen voor de komende editie van de Head of the River zal begin Januari gepresenteerd worden. -->
 De onderstaande lijst is voorlopig, De definitieve lijst wordt uiterlijk donderdagochtend voor de Head geactualiseerd.    

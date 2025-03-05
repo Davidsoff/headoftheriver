@@ -10,6 +10,9 @@ slug: faq
 menus: 
   footer:
     weight: 1
+  main:
+    parent: Participants
+    weight: 110
 draft: false
 _build:
   render: ""
@@ -17,13 +20,15 @@ _build:
   # FAQs TODO
 faqlist:
   faqs:
-    - question: Lorem ipsum
-      answer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae pellentesque lectus. Curabitur imperdiet efficitur arcu, eu fringilla ante sollicitudin ac. Nam tincidunt elit metus, scelerisque fringilla eros rutrum eget. Curabitur sed neque sit amet risus finibus tincidunt. Mauris diam orci, rhoncus quis convallis id, iaculis in mi. Aenean molestie.
-    - question: Lorem ipsum
-      answer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae pellentesque lectus. Curabitur imperdiet efficitur arcu, eu fringilla ante sollicitudin ac. Nam tincidunt elit metus, scelerisque fringilla eros rutrum eget. Curabitur sed neque sit amet risus finibus tincidunt. Mauris diam orci, rhoncus quis convallis id, iaculis in mi. Aenean molestie.
+    - question: Where is the Head of the River organization located during the weekend?
+      answer: You will find us in the workshop of rowing club Willem 3.
+    - question: How can I register my boat trailer?
+      answer: Check the following page on our website.
       link: 
-        urllink: "https://www.lipsum.com/"
-        linktext: Lore Ipsum
+        urllink: "../deelnemers/botenwagens/"
+        linktext: Boat trailers
+    - question: Where should we launch the Coastal boats?
+      answer: All coastal boats should be launched at rowing club Willem 3.
 ---
 ### Frequently asked questions
 The most frequestly asked questions are presented below.
