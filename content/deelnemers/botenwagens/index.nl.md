@@ -38,13 +38,12 @@ Alle coastal boten dienen bij roeivereniging Willem 3 te water te worden gelaten
 
 #### Verdeling deelnemers over gastverenigingen
 <!-- De verdeling van botenwagens over de diverse Amsterdamse roeiverenigingen voor de komende editie van de Head of the River zal begin Januari gepresenteerd worden. -->
-De onderstaande lijst is voorlopig, De definitieve lijst wordt uiterlijk donderdagochtend voor de Head geactualiseerd.    
-Geactualiseerde lijst per 23-02-2025.
+Geactualiseerde lijst per 05-03-2025.
 
 ##### Jan Vroepopsingel
 
 **Willem III**  
-Proteus Eretes • DDS • Orca • Triton • Viking • Vidar • De Laak • Okeanos • Argo • Donau RC Ingolstadt • Erster Kieler Ruder-Club • Erster Wiener Ruderclub LIA • Frankfurter RG Germania • Frankfurter RG Nied • Hannoverscher Ruderclub von 1880 e.v • HRV de Compagnie • Lübecker RG • Limburger CfW • Wiking Berlin • Mannheimer Rudergesellschaft Rheinau etc. • Richtershorner Ruderverein • Ruder-Gesellschaft HANSA e.V. • Ruderklub am Wannsee • RK am Baldeneysee Essen • Ruderverein Weser v. 1885 e.V. Hameln • Wassersport Abteilung Polizei Hamburg • Wassersportverein Mülheim (Ruhr) e.V • Sportschule im Olympiapark – Poelchau • York City • KNZ&RV • KWVL • Osnabrücker Ruder-Verein • Ulmer RC Donau • IJburg RTK • Germania e.V. Köln • Ruderverein an den Teichwiesen e.V. VK • Tresnjevka
+Proteus Eretes • DDS • Orca • Triton • Viking • Vidar • De Laak • Okeanos • Argo • Donau RC Ingolstadt • Erster Kieler Ruder-Club • Erster Wiener Ruderclub LIA • Frankfurter RG Germania • Frankfurter RG Nied • Hannoverscher Ruderclub von 1880 e.v • Limburger CfW • Mannheimer Rudergesellschaft Rheinau etc. • Richtershorner Ruderverein • Ruder-Gesellschaft HANSA e.V. • RK am Baldeneysee Essen • Wassersportverein Mülheim (Ruhr) e.V • KNZ&RV • KWVL • Osnabrücker Ruder-Verein • Ulmer RC Donau • IJburg RTK • Ruderverein an den Teichwiesen e.V. VK • Bremer Ruderverein von 1882 e.V. • BSG Commerzbank Frankfurt • De Kaag • Essen-Werdener RC • Frankfurter Rudergesellschaft Sachsenhausen v. 1879 • Greifswalder RC 'Hilda' • Isala • Leerdam • Michiel de Ruyter • Oldenburger RV • RG Wiking • Roosendaalse RV • Société d'Encouragement du Sport Nautique • Veslařský klub Smíchov • VK Smichov • ALLE coastal boten
 
 **Skøll**  
 Skadi • Nautilus • Laga • Asopos de Vliet • Leythe • Aegir • Gyas • Hunze • Euros • Phocas • De Waal • Njord • Honte
@@ -54,7 +53,8 @@ Pelargos • Asser Roeiclub • De Helling • Jason • De Maas • VADA • De
 
 ##### Korte Ouderkerkerdijk (kijk voor de aanrijroute op [Route naar RIC](https://www.ricamsterdam.nl/route/) )
 **RIC**  
-Amycus • ARV De Ank • CUS Torino • Naarden • Dordrechtse R&ZV • Saurus • Spaarne • Eem • Daventria • Hemus • Zwolsche R&ZV • Alkmaarsche R&ZV • UR&KV Michiel de Ruyter • Tilburgse open Roeivereniging • Grift • Pampus • Breda • Rijnland • MWC • Beatrix • Hertog • Gouda • Dudok van Heel • Favorite Hammonia • Alphen • AROSS • Boreas • ‘t Diep • Meije • Weesp • Wetterwille • Pontos • London Rowing Club/Tromp/Aengwirden/Triton • RV Treviris Trier • Società Canottieri Armida • Societa' Canottieri Caprera Torino • SteeringUwright/Endeavor Racing Alliance • Vegesacker RV • Wassersportverein Waldshut e.V • ZZV Roeien
+Amycus • ARV De Ank • CUS Torino • Naarden • Dordrechtse R&ZV • Saurus • Spaarne • Eem • Daventria • Hemus • Zwolsche R&ZV • Alkmaarsche R&ZV • UR&KV Michiel de Ruyter • Tilburgse open Roeivereniging • Grift • Pampus • Breda • Rijnland • MWC • Beatrix • Hertog • Gouda • Dudok van Heel • Favorite Hammonia • Alphen • Boreas • ‘t Diep • Meije • Weesp • Wetterwille • Pontos • London Rowing Club/Tromp/Aengwirden/Triton • RV Treviris Trier • Vegesacker RV • Wassersportverein Waldshut e.V • ZZV Roeien • Tromp
+
 
 ##### Weesperzijde
 **De Hoop**   
