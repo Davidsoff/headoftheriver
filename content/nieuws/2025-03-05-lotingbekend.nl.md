@@ -2,7 +2,7 @@
 title: Loting en rugnummers
 meta_title: ""
 description: "{{slug}}"
-draft: true
+draft: false
 date: 2025-03-05T19:00:00.000Z
 photo:
   enable: true
