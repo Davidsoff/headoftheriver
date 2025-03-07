@@ -9,12 +9,14 @@ menu:
     weight: 60
 ---
 ## Live Uitslagen
-Zodra de Head of the River is gestart zal je hier live de uitslagen kunnen volgen.   
-Kijk voor uitslagen van de afgelopen edities op ons [Uitslagenarchief](../../over/uitslagenarchief/).   
+<!-- Zodra de Head of the River is gestart zal je hier live de uitslagen kunnen volgen.   
+Kijk voor uitslagen van de afgelopen edities op ons [Uitslagenarchief](../../over/uitslagenarchief/).    -->
 
-<!-- Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslagen volgen.
+Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslagen volgen.
 
-<a href="https://regatta.time-team.nl/headoftheriveramstel/2025/results/events.php" target="_blank"><img alt="" height="54" src="https://time-team.nl/inc/img/timeteam/time-team.gif" width="519"></a> -->
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2025/results/events.php" target="_blank"><img alt="" src="https://time-team.nl/inc/img/timeteam/time-team.gif" width="400"></a>
+
+<div style= "margin-top:25px; margin-bottom:25px;padding-top:25px;"></div>
 
 ### Bekers en wimpels
 In de onderstaande velden kunnen de teams strijden om de wisselbekers of de blauwe wimpel!    

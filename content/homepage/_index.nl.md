@@ -6,8 +6,8 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Loting
-  ql_col1_link: "deelnemers/loting/"
+  ql_col1: Uitslagen
+  ql_col1_link: "deelnemers/uitslag/"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
   ql_col3: Bezoekers
