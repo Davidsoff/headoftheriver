@@ -12,7 +12,7 @@ photo:
 menus:
   main:
     weight: 2
-title: "LET OP: Fiesbrug richting RIC is gestremd"
+title: "LET OP: Fiestbrug richting RIC is gestremd"
 meta_title: ""
 description: News page
 categories:

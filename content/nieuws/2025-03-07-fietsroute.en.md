@@ -13,7 +13,7 @@ photo:
 menus:
   main:
     weight: 2
-title: News
+title: "WATCH OUT: Bicycle bridge closed"
 meta_title: ""
 description: News Page
 categories:
