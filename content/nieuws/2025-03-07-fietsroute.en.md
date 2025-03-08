@@ -1,24 +1,16 @@
 ---
+title: "WATCH OUT: Bicycle bridge closed"
+meta_title: ""
+description: News page
 draft: false
-identifier: News
-author: Nicole Opreij
-name: News
 date: 2025-03-08T07:44:00.000Z
-_build:
-  render: ""
 photo:
   enable: true
   image: /images/nieuws/whatsapp-image-2025-03-08-at-08.25.45.jpeg
-  photographer: null
-menus:
-  main:
-    weight: 2
-title: "WATCH OUT: Bicycle bridge closed"
-meta_title: ""
-description: News Page
 categories:
   - "2025"
   - All
+author: Nicole Opreij  
 ---
 Dear participants and visitors,
 
