@@ -3,7 +3,7 @@ title: Times of back numbers block 2 Sunday March 9
 meta_title: ""
 description: "{{slug}}"
 draft: false
-date: 2025-03-08T18:15:00.000Z
+date: 2025-03-08T17:15:00.000Z
 photo:
   enable: true
   image: /images/nieuws/whatsapp-image-2025-03-08-at-18.02.39.jpeg
