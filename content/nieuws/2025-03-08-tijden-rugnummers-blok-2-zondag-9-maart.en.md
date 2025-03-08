@@ -1,5 +1,5 @@
 ---
-title: Times of back numbers block 2 Sunday, March 9
+title: Times of back numbers block 2 Sunday March 9
 meta_title: ""
 description: "{{slug}}"
 draft: false
