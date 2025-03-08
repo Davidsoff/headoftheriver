@@ -3,7 +3,7 @@ draft: false
 identifier: News
 author: Nicole Opreij
 name: News
-date: 2025-03-08T08:44:00.000Z
+date: 2025-03-08T07:44:00.000Z
 _build:
   render: ""
 photo:
