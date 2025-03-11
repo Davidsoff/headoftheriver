@@ -1,7 +1,7 @@
 ---
 title: Huidige weercode
 layout: weercode_live_single
-weather_button: true
+weather_button: false
 weather_code: green
 text_green: De weersvoorspelling voor het gehele weekend is goed en de wedstrijd
   gaat door zoals gepland.
