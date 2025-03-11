@@ -1,5 +1,5 @@
 ---
-title: "LET OP: Fiestbrug richting RIC is gestremd"
+title: "LET OP: Fietsbrug richting RIC is gestremd"
 meta_title: ""
 description: News page
 draft: false
