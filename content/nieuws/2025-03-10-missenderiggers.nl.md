@@ -13,7 +13,9 @@ categories:
   - All
 author: 
 ---
-In de nacht van 7 op 8 maart zijn er riggers gestolen van de botenwagens van A.U.S.R. Orca en R.V. Nautilus. Een onbekende partij heeft een groot aantal onderdelen meegenomen, waarvan het merendeel in rigging hoezen zat van de merken Filippi en Swift.
+In de nacht van 7 op 8 maart zijn er riggers gestolen van de botenwagens van A.U.S.R. Orca en R.V. Nautilus. Een onbekende partij heeft een groot aantal onderdelen meegenomen, waarvan het merendeel in rigging hoezen zat van de merken Filippi en Swift. Een lijst met missende onderdelen per vereniging kan hieronder gevonden worden:
+* [A.U.S.R. Orca](/images/nieuws/2025/missing_riggers/Orca_missing.png)
+* [R.V. Nautilus](/images/nieuws/2025/missing_riggers/Nautilus_missing.png)
 
 Beide verenigingen doen een dringend beroep op iedereen die mogelijk iets heeft gezien of gehoord. Informatie kan gedeeld worden met Roos Demmers, de Commissaris Wedstrijdroeien van A.U.S.R. Orca, en Eveline Wouters, de Commissaris Wedstrijdroeien van R.V. Nautilus.
 

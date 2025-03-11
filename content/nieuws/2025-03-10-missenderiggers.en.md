@@ -13,7 +13,9 @@ categories:
   - All
 author: 
 ---
-During the night of March 7th to 8th, riggers were stolen from the boat trailers of A.U.S.R. Orca and R.V. Nautilus. An unknown party took a large number of parts, most of which were in rigging covers from the brands Filippi and Swift (among others).
+During the night of March 7th to 8th, riggers were stolen from the boat trailers of A.U.S.R. Orca and R.V. Nautilus. An unknown party took a large number of parts, most of which were in rigging covers from the brands Filippi and Swift (among others). A list of missing items per association can be found here:
+* [A.U.S.R. Orca](/images/nieuws/2025/missing_riggers/Orca_missing.png)
+* [R.V. Nautilus](/images/nieuws/2025/missing_riggers/Nautilus_missing.png)
 
 Both associations are urgently appealing to anyone who may have seen or heard something. Information can be shared with Roos Demmers, the Competition Rowing Commissioner of A.U.S.R. Orca, and Eveline Wouters, the Competition Rowing Commissioner of R.V. Nautilus.
 
