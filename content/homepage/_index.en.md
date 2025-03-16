@@ -10,8 +10,8 @@ quick_links:
   ql_col1_link: "deelnemers/uitslag/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
-  ql_col3: Visitors
-  ql_col3_link: "bezoekers/"
+  ql_col3: Media
+  ql_col3_link: "over/media/"
 
 # Divider-quote
 dividerquote:
