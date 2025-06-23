@@ -13,12 +13,14 @@
               {{ $image := resources.Get "images/logos/logo-darkmode.png" }}
               <img src="{{ $image.RelPermalink }}" alt="Head of the River">
             </div>
-            <div>
-              <h1>{{ .title | markdownify }}</h1>
-            </div>
-            <div>
-              {{ partial "components/countdown.html" . }}
-            </div>
+            {{ if .title_on }}
+              <div>
+                <h1>{{ .title | markdownify }}</h1>
+              </div>
+              <div>
+                {{ partial "components/countdown.html" . }}
+              </div>
+            {{ end }}
           </div>
         </div>
       </div>
