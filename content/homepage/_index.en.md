@@ -1,8 +1,9 @@
 ---
 # Slider
 slider:
-  title: "8 & 9 MARCH 2025"
-  CD_date: "Mar 8, 2025 12:00:00"
+  title_on: true
+  title: "7 & 8 MARCH 2026"
+  CD_date: "Mar 7, 2026 12:00:00"
 
 # Quick links menu
 quick_links:
