@@ -8,17 +8,9 @@ menu:
     parent: Deelnemers
     weight: 20
 ---
-<!-- In december 2024 kan je hier het blokschema voor de Head of the River 2025 inzien. -->
-UPDATE 02/03/2025:
-Omdat er een aantal velden te weinig inschrijvingen hadden om door te gaan, zijn ze samengevoegd met een andere categorie. De volgende velden zijn samengevoegd;
+In december 2025 kan je hier het blokschema voor de Head of the River 2026 inzien.
 
-LDE4* samengevoegd met DE4*    
-DMG8+ samengevoegd met DMF8+   
-DMB8+ samengevoegd met DMA8+   
-DMG4* samengevoegd met DMF4*   
-MJ8+ samengevoegd met MI8+   
-
-Hieronder vind je het blokschema voor de Head of the River 2025. We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](../tijdschema/documents/Veldkeuze%20Head%202025%20dd%20050202025.pdf) kun je een overzicht van de velden vinden met de daarbij behorende criteria voor de wedstrijd (document is engelstalig).
+<!-- Hieronder vind je het blokschema voor de Head of the River 2026. We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](../tijdschema/documents/Veldkeuze%20Head%202025%20dd%20050202025.pdf) kun je een overzicht van de velden vinden met de daarbij behorende criteria voor de wedstrijd (document is engelstalig).
 
 ### Zaterdag blok 1 - 13:15
 
@@ -82,4 +74,4 @@ Hieronder vind je het blokschema voor de Head of the River 2025. We hebben een g
 | 72  | M18 4*  | Meisjes achttien dubbel vier-met |
 | 28  | DEj 4+  | Dames eerstejaars vier-met       |
 
-1 - De wedstrijdbaan voor de junioren 16 en Coastal velden is ongeveer 5.5km
+1 - De wedstrijdbaan voor de junioren 16 en Coastal velden is ongeveer 5.5km -->

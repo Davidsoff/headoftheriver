@@ -8,8 +8,11 @@ menu:
     parent: Participants
     weight: 30
 ---
-The registration for the Head of the River 2025 is now closed.    
-Please check the [TimeTeam page](https://regatta.time-team.nl/headoftheriveramstel/2025/entries/clubs.php) to see the registered clubs and teams.
+At the beginning of the new year, registration for the upcoming edition of the Head of the River will open.
+On this page, you will then find all the necessary instructions and information to easily sign up.
+
+<!-- The registration for the Head of the River 2025 is now closed.    
+Please check the [TimeTeam page](https://regatta.time-team.nl/headoftheriveramstel/2025/entries/clubs.php) to see the registered clubs and teams. -->
 
 
 <!-- If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by filling in the pre-registration form below AND register at the Dutch Rowing Association (KNRB, see this page below the pre-registration form) -->

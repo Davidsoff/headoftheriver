@@ -8,8 +8,10 @@ menu:
     parent: Deelnemers
     weight: 30
 ---
-De inschrijving van de Head of the River 2025 is nu gesloten.    
-Kijk op onze site bij [TimeTeam](https://regatta.time-team.nl/headoftheriveramstel/2025/entries/clubs.php) om te zien welke verenigingen en ploegen er zijn ingeschreven.
+Begin van nieuwe jaar zal de inschrijving van de komende editie van de Head of the River weer openen. Op deze pagina zal je dan instructie vinden hoe je je kan inschrijven.
+
+<!-- De inschrijving van de Head of the River 2025 is nu gesloten.    
+Kijk op onze site bij [TimeTeam](https://regatta.time-team.nl/headoftheriveramstel/2025/entries/clubs.php) om te zien welke verenigingen en ploegen er zijn ingeschreven. -->
 
 <!-- 
 De commissaris wedstrijdroeien van je vereniging kan je ploeg inschrijven via [mijnvereniging.knrb.nl.](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F) De inschrijving is geopend van 1 februari 2025 tot en met 28 februari 2025.

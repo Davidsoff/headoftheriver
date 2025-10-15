@@ -13,12 +13,36 @@ Hieronder vind je de uitslagen van de Head of the River Amstel van de afgelopen 
 
 {{< results_years >}}
 <!-- TODO -->
+{{< accordion "Uitslagen 2025" >}}
+
+De uitslagen van de Head of the River Amstel 2025 kan je vinden via onderstaande link.
+
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2025/results/events.php" target="_blank"><img alt="Time-Team" src="https://regatta.time-team.nl/inc/img/header.png" style="background-color: rgb(63, 120, 227); padding: 5px;"></a>
+
+<!-- De verdeling van de bekers en de wimpels vind je in de tabel hieronder.
+
+| Prijs                 | Veld                  | Winnaar           |
+|-----------------------|-----------------------|-------------------|
+| HE8+                  | Heren Elite 8+        | A.A.S.R. Skoll    |
+| DE8+                  | Dames Elite 8+        | -                 |
+| HEj8+                 | Heren Eerstejaars 8+  | A.S.R. Nereus     |
+| DEj8+                 | Dames Eerstejaars 8+  | A.G.S.R. Gyas     |
+| DM8+                  | Dames Master 8+       | R.V. Willem III   |
+| M8+                   | Master 8+             | A.U.S.R. Orca     |
+| DCl4*                 | Dames Club 4*         | A.G.S.R. Gyas     |
+| M16/M18 4*            | Meisjes Dubbel Vier   | Alkmaarsche R. & Z.V. & H.R.V. Cornelis Tromp         |
+| J16/J18 4*            | Jongens Dubbel Vier   | L.R.Z.V. Die Leythe & R.V. DDS & K.R. & Z.V. De Maas  |
+| Blauwe Wimpel: HCl8+  | Verenigingsacht Heren | A.A.S.R. Skoll    |
+| Blauwe Wimpel: DCl8+  | Verenigingsacht Dames | -                 | -->
+
+{{< /accordion >}}
+
 
 {{< accordion "Uitslagen 2024" >}}
 
 De uitslagen van de Head of the River Amstel 2024 kan je vinden via onderstaande link.
 
-<a href="https://hoesnelwasik.nl/head/2024/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
+<a href="https://regatta.time-team.nl/headoftheriveramstel/202/results/events.php" target="_blank"><img alt="Time-Team" src="https://regatta.time-team.nl/inc/img/header.png" style="background-color: rgb(63, 120, 227); padding: 5px;"></a>
 
 De verdeling van de bekers en de wimpels vind je in de tabel hieronder.
 

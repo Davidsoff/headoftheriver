@@ -9,9 +9,9 @@ menu:
     parent: Deelnemers
     weight: 10
 ---
-<!-- Op 9 en 10 maart 2025 vind de Head of the River Amstel plaats. Deze klassieker van 8 km voor gestuurde vieren en achten opent sinds lange tijd het roeiwedstrijdseizoen. Met circa 3000-3500 deelnemers is de Head de grootste roeiwedstrijd qua deelnemers in Nederland.  Wil je meedoen? In december 2024 kun je hier de Bepalingen en Reglementen voor de Head of the River 2025 inzien. -->
+Op 7 en 8 maart 2026 vind de Head of the River Amstel plaats. Deze klassieker van 8 km voor gestuurde vieren en achten opent sinds lange tijd het roeiwedstrijdseizoen. Met circa 3000-3500 deelnemers is de Head de grootste roeiwedstrijd qua deelnemers in Nederland.  Wil je meedoen? In december 2025 kun je hier de Bepalingen en Reglementen voor de Head of the River 2026 inzien.
 
-Hieronder vind je de bepalingen en reglementen voor de Head of the River.
+<!-- Hieronder vind je de bepalingen en reglementen voor de Head of the River.
 
 ## Bepalingen
 De regatta vindt plaats op zaterdag 08 en zondag 09 maart 2025
@@ -275,4 +275,4 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 24. **AFWIJKING VAN DE BEPALINGEN**
 
-    Van de hierboven omschreven bepalingen moet worden afgeweken voor zover de eisen van goed zeemanschap en sportiviteit dit onder bijzondere omstandigheden vereisen.
+    Van de hierboven omschreven bepalingen moet worden afgeweken voor zover de eisen van goed zeemanschap en sportiviteit dit onder bijzondere omstandigheden vereisen. -->

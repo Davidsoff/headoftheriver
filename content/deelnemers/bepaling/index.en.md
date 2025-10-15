@@ -9,10 +9,10 @@ menu:
     parent: Participants
     weight: 10
 ---
-<!-- March 9 and 10, 2025, the Head of the River Amstel will take place. This 8 km classic for coxed fours and eights has long been the opening event of the rowing competition season. With approximately 3,000-3,500 participants, the Head is the largest rowing competition in the Netherlands in terms of participants. Want to participate? In December 2024, you can review the Rules and Regulations for the Head of the River 2025 here. -->
+March 7 and 8, 2026, the Head of the River Amstel will take place. This 8 km classic for coxed fours and eights has long been the opening event of the rowing competition season. With approximately 3,000-3,500 participants, the Head is the largest rowing competition in the Netherlands in terms of participants. Want to participate? In December 2025, you can review the Rules and Regulations for the Head of the River 2026 here.
 
 
-Below you will find the Rules and Regulations of the Head of the River 2025.
+<!-- Below you will find the Rules and Regulations of the Head of the River 2025.
 
 ## Regulations
 The regatta takes place on Saturday, March 08, and Sunday, March 09, 2025.
@@ -279,4 +279,4 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
     Deviations from the rules above shall be made if special circumstances and/or good seamanship and sportsmanship so require.
 
-***RvR * = Racing Rules of the Dutch Rowing Federation***
+***RvR * = Racing Rules of the Dutch Rowing Federation*** -->

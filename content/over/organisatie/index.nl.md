@@ -15,8 +15,8 @@ menus:
 # Positions
 positions:
   - title: Voorzitter
-    name: "Rob Florijn"
-    image: "images/organisatie/rob.jpg"
+    name: "Andre Mulder"
+    image: "images/organisatie/andre.jpg"
   - title: Penningmeester
     name: "Gijs Andringa"
     image: "images/organisatie/gijs.jpg"
@@ -24,8 +24,8 @@ positions:
     name: "Nicole Feller"
     image: "images/organisatie/nicoleF.jpg"
   - title: Wedstrijdleiding
-    name: "Menno Vroegindeweij"
-    image: "images/organisatie/menno.jpg"
+    name: "Ivo Kessler"
+    image: "images/organisatie/ivo.jpg"
   - title: Baancommissaris
     name: "Kevin de Rijke"
     image: "images/organisatie/kevin.jpg" 
@@ -43,7 +43,10 @@ positions:
     image: "images/organisatie/ernst.jpg"     
   - title: Vergunningen
     name: "Thijs Verburg"
-    image: "images/organisatie/thijs2.jpg"   
+    image: "images/organisatie/thijs2.jpg"  
+  - title: --
+    name: "Victor Maes"
+    image: "images/organisatie/victor.jpg"  
   - title: Webbeheer / Baan
     name: "Guido van der Salm"
     image: "images/organisatie/guido.jpg" 
