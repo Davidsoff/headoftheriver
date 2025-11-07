@@ -22,20 +22,20 @@ Kijk voor uitslagen van de afgelopen edities op ons [Uitslagenarchief](../../ove
 In de onderstaande velden kunnen de teams strijden om de wisselbekers of de blauwe wimpel!    
 De blauwe wimpel mag een jaar lang bij de vereniging worden uitgehangen.
 
-| Prijs                 | Veld                  |
-|-----------------------|-----------------------|
-| HE8+                  | Mannen Elite 8+        |
-| DE8+                  | Vrouwen Elite 8+        |
-| HEj8+                 | Mannen Eerstejaars 8+  |
-| DEj8+                 | Vrouwen Eerstejaars 8+  |
-| DM8+                  | Vrouwen Master 8+       |
-| M8+                   | Master 8+             |
-| DCl4*                 | Vrouwen Club 4*         |
-| M16 4*            | Meisjes 16 Dubbel Vier   |
-| M18 4*            | Meisjes 18 Dubbel Vier   |
-| J16 4*            | Jongens 16 Dubbel Vier   |
-| J18 4*            | Jongens 18 Dubbel Vier   |
-| Blauwe Wimpel: HCl8+  | Verenigingsacht Mannen |
-| Blauwe Wimpel: DCl8+  | Verenigingsacht Vrouwen |
+| Prijs                 | Veld                  | Winnaar editie 2025        |
+|-----------------------|-----------------------|---------------------------------|
+| HE8+                  | Mannen Elite 8+       | --                              |
+| DE8+                  | Vrouwen Elite 8+        |--                             |
+| HEj8+                 | Mannen Eerstejaars 8+  | Nereus                       |
+| DEj8+                 | Vrouwen Eerstejaars 8+  | Gyas                      |
+| DM8+                  | Vrouwen Master 8+       | Beatrix      |
+| M8+                   | Master 8+             | Hoop/Proteus-Eretes/Okeanos |
+| DCl4*                 | Vrouwen Club 4*         | -- |
+| M16 4*            | Meisjes 16 Dubbel Vier   | Hemus/Spaarne/Die Leythe   |
+| M18 4*            | Meisjes 18 Dubbel Vier   | De Hunze/Amstel/Spaarne/Willem III  |
+| J16 4*            | Jongens 16 Dubbel Vier   | Die Leythe/Tromp |
+| J18 4*            | Jongens 18 Dubbel Vier   | Die Leythe/Willem III/Hoop | 
+| Blauwe Wimpel: HG 8+  | Mannen gevorderde acht | Aegir |
+| Blauwe Wimpel: DG 8+  | Vrouwen gevorderde acht | Gyas |
 
  
