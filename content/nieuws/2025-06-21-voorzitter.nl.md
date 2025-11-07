@@ -2,7 +2,7 @@
 title: Headcommissie zoekt Voorzitter (V/M)
 meta_title: ""
 description: "{{slug}}"
-draft: false
+draft: true
 date: 2025-06-21T15:00:00.000Z
 photo:
   enable: true
