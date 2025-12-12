@@ -17,7 +17,7 @@ The Head of the River 2026 is coming! 🚣‍♂️✨
 
 Although March is still a little while away, preparations by both the organization and the crews are already in full swing. The Committee, volunteers, rowers and coxes – everyone is working hard behind the scenes toward an unforgettable edition.
 
-And… tada! Today we proudly present the [poster for 2026](/images/nieuws/2026/Post_poster.jpg)! 🎉   
+And… tada! Today we proudly present the [poster for 2026](/images/nieuws/2026/poster/Poster_2026.jpg)! 🎉   
 With this fresh look ahead, we officially open the run-up to the most beautiful long-distance classic of the spring.
 
 Mark March 7–8, 2026 in your calendar — the anticipation has begun! 💙🚣‍♀️
