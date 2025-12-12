@@ -6,7 +6,7 @@ draft: false
 date: 2025-12-12T13:00:00.000Z
 photo:
   enable: true
-  image: /images/nieuws/2026/Post_blokindeling.jpg
+  image: /images/nieuws/2026/Post_blokindeling2.jpg
   photographer: 
 categories:
   - "2026"
