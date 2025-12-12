@@ -8,70 +8,75 @@ menu:
     parent: Deelnemers
     weight: 20
 ---
-In december 2025 kan je hier het blokschema voor de Head of the River 2026 inzien.
+<!-- In december 2025 kan je hier het blokschema voor de Head of the River 2026 inzien. -->
 
-<!-- Hieronder vind je het blokschema voor de Head of the River 2026. We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](../tijdschema/documents/Veldkeuze%20Head%202025%20dd%20050202025.pdf) kun je een overzicht van de velden vinden met de daarbij behorende criteria voor de wedstrijd (document is engelstalig).
+Hieronder vind je het blokschema voor de Head of the River 2026. 
+We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](../tijdschema/documents/Veldkeuze%20Head%202026%20dd%2011-12-2025.pdf) kun je een overzicht van de velden vinden met de daarbij behorende criteria voor de wedstrijd (document is engelstalig).
 
 ### Zaterdag blok 1 - 13:15
 
-| ID  | Veld          | Beschrijving                                          |
-|-----|---------------|-------------------------------------------------------|
-| 39  | Coastal4*     | Coastal dubbel vier-met<sup>1</sup>                   |
-| 81  | HCl 8+        | Heren club acht                                       |
-| 113 | LHE 4*        | Lichte Elite dubbel vier-met                          |
-| 42  | MF+ 8+        | Masters categorie F+ acht                             |
-| 18  | LHEj 4+       | Lichte eerstejaars vier-met                           |
-| 114 | M 8*          | Masters dubbel acht                                   |
-| 52  | DMPre, A-H 4* | Dames Masters categorie Pre & A t/m H dubbel vier-met |
+| ID      | Veld         | Beschrijving                             |
+|---------|--------------|------------------------------------------|
+| 81      | MCl 8+       | Mannen club acht                         |
+| 205-209 | OMF-J 8+     | Open masters f t/m j acht                |
+| 113     | LME 4*       | Lichte Mannen elite dubbelvier-met       |
+| 18      | LMEj 4+      | Lichte Mannen eerstejaars vier-met       |
+| 238     | VPRE 4*      | Vrouwen pre-masters dubbelvier-met       |
+| 230-237 | VMA-H 4*     | Vrouwen masters a t/m h dubbelvier-met   |
+| 114     | OM 8*        | Open masters dubbelacht                  |
+| 39      | OO Coastal4* | Open open Coastal-dubbelvier<sup>1</sup> |
+
 
 ### Zaterdag blok 2 - 16:00
 
-| ID  | Veld         | Beschrijving                                   |
-|-----|--------------|------------------------------------------------|
-| 40  | Dcoastal 4*  | Dames Coastal dubbel vier-met<sup>1</sup>                  |
-| 41  | MPre, A-C 8+ | Masters categorie Pre, A t/m C acht            |
-| 82  | HCl 4*       | Heren club dubbel vier-met                     |
-| 91  | DCl 8+       | Dames club acht                                |
-| 92  | DCl 4*       | Dames club dubbel vier-met                     |
-| 43  | MPre, A-H 4* | Masters categorie Pre, A t/m H dubbel vier-met |
-| 115 | DM 8*        | Dames Masters dubbel acht                      |
+| ID      | Veld         | Beschrijving                                |
+|---------|--------------|---------------------------------------------|
+| 239     | OPRE 8+      | Open pre-masters acht                       |
+| 200-202 | OMA-C 8+     | Open masters a t/mc  acht                   |
+| 82      | MCl 4*       | Mannen club dubbelvier-met                  |
+| 91      | VCl 8+       | Vrouwen club acht                           |
+| 92      | VCl 4*       | Vrouwen club dubbelvier-met                 |
+| 241     | OPRE 4*      | Open pre-masters dubbelvier-met             |
+| 220-227 | OMA-H 4*     | Open masters a t/m h dubbelvier-met         |
+| 115     | VM 8*        | Vrouwen masters dubbelacht                  |
+| 40      | VO Coastal4* | Vrouwen open Coastal-dubbelvier<sup>1</sup> |
 
 ### Zondag blok 1 - 10:45
 
-| ID  | Veld           | Beschrijving                              |
-|-----|----------------|-------------------------------------------|
-| 63  | J16 4*         | Jongens zestien dubbel vier-met<sup>1</sup>           |
-| 11  | LHE 8+         | Lichte elite acht                         |
-| 12  | LHG 8+         | Lichte gevorderde acht                    |
-| 14  | LHEj 8+        | Lichte eerstejaars acht                   |
-| 61  | J18 8+         | Jongens achttien acht                     |
-| 73  | M18 8+         | Meisjes 18 acht                           |
-| 101 | Mix 8+         | Mixed acht                                |
-| 111 | Bedr 8+        | Bedrijfs acht                             |
-| 62  | J18 4*         | Jongens achttien dubbel vier-met          |
-| ~~31~~  | ~~LDE 4*~~         | ~~Lichte dames elite dubbel vier-met~~        |
-| 34  | LDEj 4*        | Lichte dames eerstejaars dubbel vier-met  |
-| 51  | DM Pre, A-C 8+ | Dames Masters categorie Pre, A t/m C acht |
-|     | DM D-E 8+      | Dames Masters categorie D & E acht        |
-|     | DM F+8+        | Dames Masters categorie F+ acht           |
-| 102 | Mix 4*         | Mixed dubbel vier-met                     |
+| ID      | Veld     | Beschrijving                              |
+|---------|----------|-------------------------------------------|
+| 11      | LME 8+   | Lichte Mannen elite acht                  |
+| 12      | LMG 8+   | Lichte Mannen gevorderde acht             |
+| 14      | LMEj 8+  | Lichte Mannen eerstejaars acht            |
+| 61      | M18 8+   | Mannen achttien acht                      |
+| 71      | V18 8+   | Vrouwen achttien acht                     |
+| 101     | MixO 8+  | Mixed open acht                           |
+| 111     | OBedr 8+ | Open bedrijfsacht                         |
+| 110     | OBedr 4+ | Open bedrijfsvier-met                     |
+| 62      | M18 4*   | Mannen achttien dubbelvier-met            |
+| 63      | M16 4*   | Mannen zestien dubbelvier-met<sup>1</sup> |
+| 31      | LVE 4*   | Lichte Vrouwen elite dubbelvier-met       |
+| 34      | LVEj 4*  | Lichte Vrouwen eerstejaars dubbelvier-met |
+| 102     | Mix 4*   | Mixed dubbelvier-met                      |
+| 240     | VPRE 8+  | Vrouwen pre-masters acht                  |
+| 210-217 | VMA-H 8+ | Vrouwen masters a t/m h acht              |
 
 ### Zondag blok2 - 14:00
 
-| ID  | Veld    | Beschrijving                     |
-|-----|---------|----------------------------------|
-| 73  | M16 4*  | Meisjes zestien dubbel vier-met<sup>1</sup>  |
-| 1   | HE 8+   | Elite acht                       |
-| 2   | HG 8+   | Gevorderde acht                  |
-| 4   | HEj 8+  | Eerstjaars acht                  |
-| 112 | HE 4*   | Elite dubbel vier-met            |
-| 21  | DE 8+   | Dames elite acht                 |
-| 22  | DG 8+   | Dames gevorderde acht            |
-| 24  | DEj 8+  | Dames eerstejaars acht           |
-| 25  | DE 4*   | Dames elite dubbel vier-met      |
-| 203 | MD-E 8+ | Masters categorie D & E acht     |
-| 8   | HEj 4+  | Eerstejaars vier-met             |
-| 72  | M18 4*  | Meisjes achttien dubbel vier-met |
-| 28  | DEj 4+  | Dames eerstejaars vier-met       |
+| ID      | Veld     | Beschrijving                               |
+|---------|----------|--------------------------------------------|
+| 1       | ME 8+    | Mannen elite acht                          |
+| 2       | MG 8+    | Mannen gevorderde acht                     |
+| 4       | MEj 8+   | Mannen eerstejaars acht                    |
+| 112     | ME 4*    | Mannen elite dubbelvier-met                |
+| 21      | VE 8+    | Vrouwen elite acht                         |
+| 22      | VG 8+    | Vrouwen gevorderde acht                    |
+| 24      | VEj 8+   | Vrouwen eerstejaars acht                   |
+| 25      | VE 4*    | Vrouwen elite dubbelvier-met               |
+| 203-204 | OMD-E 8+ | Open masters d t/m e acht                  |
+| 8       | MEj 4+   | Mannen eerstejaars vier-met                |
+| 72      | V18 4*   | Vrouwen achttien dubbelvier-met            |
+| 73      | V16 4*   | Vrouwen zestien dubbelvier-met<sup>1</sup> |
+| 28      | VEj 4+   | Vrouwen eerstejaars vier-met               |
 
-1 - De wedstrijdbaan voor de junioren 16 en Coastal velden is ongeveer 5.5km -->
+1 - De wedstrijdbaan voor de junioren 16 en Coastal velden is ongeveer 5.5km

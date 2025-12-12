@@ -47,6 +47,9 @@ positions:
   - title: --
     name: "Victor Maes"
     image: "images/organisatie/victor.jpg"  
+  - title: Baancommissie
+    name: "Sven Hillecamp"
+    image: "images/organisatie/sven.jpg" 
   - title: Webbeheer / Baan
     name: "Guido van der Salm"
     image: "images/organisatie/guido.jpg" 
