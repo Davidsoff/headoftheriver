@@ -6,7 +6,7 @@ draft: false
 date: 2026-01-07T19:00:00.000Z
 photo:
   enable: true
-  image: /images/nieuws/2026/doopHOTR001.jpg
+  image: /images/nieuws/2026/doophotr001.jpg
   photographer: Toon Santen
 categories:
   - "2026"
