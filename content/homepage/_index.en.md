@@ -7,12 +7,12 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Results
-  ql_col1_link: "deelnemers/uitslag/"
+  ql_col1: Block schedule
+  ql_col1_link: "deelnemers/tijdschema/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
-  ql_col3: Media
-  ql_col3_link: "over/media/"
+  ql_col3: Pre-registration
+  ql_col3_link: "deelnemers/inschrijving/"
 
 # Divider-quote
 dividerquote:

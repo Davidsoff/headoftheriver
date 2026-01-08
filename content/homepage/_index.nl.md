@@ -7,12 +7,12 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Uitslagen
-  ql_col1_link: "deelnemers/uitslag/"
+  ql_col1: Blokschema
+  ql_col1_link: "deelnemers/tijdschema/"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
-  ql_col3: Media
-  ql_col3_link: "over/media/"
+  ql_col3: Baankaart
+  ql_col3_link: "/deelnemers/stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf"
     
 # Divider-quote
 dividerquote:
