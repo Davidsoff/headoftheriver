@@ -9,24 +9,19 @@ menu:
     weight: 90
 ---
 ### Registering Boat Trailers
-In the weeks leading up to the Head weekend, boat trailers must be registered. This is done with the Amsterdam rowing clubs to which the participating clubs are affiliated (see list below).
 
-#### Registration:
-Register the boat trailer with the following information:
+In the weeks leading up to the Head weekend, all boat trailers must be registered with the race organization.
 
-- Name of the transporter
-- Name of the driver and contact details (including mobile number)
-- License plate of the boat trailer and car
-- Arrival date, estimated arrival time
-- Number of boats per type
+#### Registration
 
-Send the information to (see allocation below):   
-- Boat trailers assigned to RIC: [Register boat trailer RIC (Dutch)](https://www.ricamsterdam.nl/botenwagen-aanmelden/)
-- Boat trailers assigned to Willem III, Skoll, or Poseidon: veiligheid@headoftheriver.nl
-- Boat trailers assigned to De Hoop: gebouw@karzvdehoop.nl
+Since autumn 2025, rowing regattas on the Amstel have been using a shared system to register boat trailers (Form is in Dutch for now):
 
-#### On the Jan Vroegop Singel, the rule is: unload as much as possible directly and park elsewhere
-Volunteers from the Head organization guide the vehicles to their unloading location on the JVSingel. The large boat trailers driving to the Jan Vroegopsingel are given a fixed place where they do not need to be unloaded immediately. Smaller boat trailers should be unloaded here as much as possible. The boats should then be placed in the racks and not left on supports or trestles, as this limits the available space.
+{{< button label="Register a boat trailer" link="https://www.amsterdamscheroeibond.nl/botenwagens" style="solid" >}}
+
+After registering, you will receive an email from the organization with further details in the run-up to the event.
+
+#### On the Jan Vroegop Singel: unload as much as possible directly and park elsewhere
+Volunteers from the Head organization guide the vehicles to their unloading location on the Jan Vroegopsingel. The large boat trailers driving to the Jan Vroegopsingel are given a fixed place where they do not need to be unloaded immediately. Smaller boat trailers should be unloaded here as much as possible. The boats should then be placed in the racks and not left on supports or trestles, as this limits the available space.
 
 An empty boat trailer can be parked on the grounds of the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), behind the Rozenoord Bridge. An empty boat trailer can be parked there from Friday afternoon 07-03 until no later than Sunday evening 09-03.    
 Only the outer parking lanes (the two closest to the access road) are available!
@@ -35,9 +30,11 @@ Additionally, the area at Jan Vroegopsingel under the Rozenoord Bridge is also a
 
 All coastal boats should be launched at rowing club Willem 3.
 
-#### Who is you guest rowing club?
+If you have a question, please sent an email to veiligheid@headoftheriver.nl
+
+<!-- #### Who is you guest rowing club? -->
 <!-- The list of boat trailer distribution to the different rowing clubs in Amsterdam will be published early January. -->
-Updated list per 05-03-2025
+<!-- Updated list per 05-03-2025
 
 ##### Jan Vroepopsingel
 
@@ -56,4 +53,4 @@ Amycus • ARV De Ank • CUS Torino • Naarden • Dordrechtse R&ZV • Saurus
 
 ##### Weesperzijde
 **De Hoop**   
-Njord • De Maas
+Njord • De Maas -->

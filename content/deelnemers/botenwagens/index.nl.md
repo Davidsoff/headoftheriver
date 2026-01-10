@@ -9,36 +9,30 @@ menu:
     weight: 90
 ---
 ### Aanmelden botenwagens
-In de weken voorafgaand aan het Head weekend moeten de botenwagens worden aangemeld.   
-Dat gebeurt bij de Amsterdamse roeiverenigingen waaraan de deelnemende verenigingen zijn gekoppeld. 
+In de weken voorafgaand aan het Headweekend moeten alle botenwagens worden aangemeld bij de wedstrijdorganisatie.   
 
 #### Aanmelding:
-Meld de botenwagen aan met de volgende gegevens;
+Sinds het najaar van 2025 gebruiken de roeiwedstrijden op de Amstel een gezamelijk systeem om botenwagens aan te melden:
 
-- Naam transporteur
-- Naam chauffeur en contactgegevens (ook 06-nummer)
-- kenteken van botenwagen en trekker
-- Aankomstdatum, geschatte aankomsttijd
-- Hoeveelheid boten per type
+{{< button label="Aanmelden botenwagen" link="https://www.amsterdamscheroeibond.nl/botenwagens" style="solid" >}}
 
-Stuur de informatie naar (zie verdeling hieronder):
-- Botenwagens die zijn ingedeeld bij RIC: [aanmelden bowa RIC](https://www.ricamsterdam.nl/botenwagen-aanmelden/) 
-- Botenwagens die zijn ingedeeld bij Willem III, Skoll of Poseidon: veiligheid@headoftheriver.nl 
-- Botenwagens die zijn ingedeeld bij De Hoop: gebouw@karzvdehoop.nl	
+Na aanmelden krijg je van de organisatie, in aanloop naar de wedstrijd, een email met verdere details.
 
 #### Op de Jan Vroegop Singel geldt: zoveel mogelijk direct afladen en elders parkeren
-Vrijwilligers van de Headorganisatie begeleiden op de JVSingel de wagens naar hun aflaadlocatie. De grote botenwagens die naar de Jan Vroegopsingel rijden, krijgen een vaste plaats waar zij niet direct afgeladen hoeven te worden. Kleinere botenwagens dienen hier zoveel mogelijk direct afgeladen te worden. De boten dienen dan in de stellingen te worden geplaatst en niet op bokjes of schragen te worden achtergelaten, dat beperkt de beschikbare ruimte.
+Vrijwilligers van de Headorganisatie begeleiden op de Jan Vreogopsingel de wagens naar hun aflaadlocatie. De grote botenwagens die naar de Jan Vroegopsingel rijden, krijgen een vaste plaats waar zij niet direct afgeladen hoeven te worden. Kleinere botenwagens dienen hier zoveel mogelijk direct afgeladen te worden. De boten dienen dan in de stellingen te worden geplaatst en niet op bokjes of schragen te worden achtergelaten, dat beperkt de beschikbare ruimte.
 
-Een lege botenwagen kan worden geparkeerd op het terrein van het [Politie Trainings Centrum](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), achter de Rozenoordbrug. Een lege botenwagen mag daar staan van vrijdagmiddag 07-03 tot uiterlijk zondagavond 09-03.    
+Een lege botenwagen kan worden geparkeerd op het terrein van het [Politie Trainings Centrum](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), achter de Rozenoordbrug. Een lege botenwagen mag daar staan van vrijdagmiddag 06-03 tot uiterlijk zondagavond 08-03.    
 Alleen de buitenste parkeerstroken (de twee die het dichtst bij de toegansweg liggen) zijn beschikbaar!
 
 Daarnaast is ook het terrein aan de Jan Vroegopsingel onder de Rozenoordbrug beschikbaar
 
 Alle coastal boten dienen bij roeivereniging Willem 3 te water te worden gelaten.
 
-#### Verdeling deelnemers over gastverenigingen
+Voor vragen mail naar veiligheid@headoftheriver.nl
+
+<!-- #### Verdeling deelnemers over gastverenigingen -->
 <!-- De verdeling van botenwagens over de diverse Amsterdamse roeiverenigingen voor de komende editie van de Head of the River zal begin Januari gepresenteerd worden. -->
-Geactualiseerde lijst per 05-03-2025.
+<!-- Geactualiseerde lijst per 05-03-2025.
 
 ##### Jan Vroepopsingel
 
@@ -58,4 +52,4 @@ Amycus • ARV De Ank • CUS Torino • Naarden • Dordrechtse R&ZV • Saurus
 
 ##### Weesperzijde
 **De Hoop**   
-Njord • De Maas
+Njord • De Maas -->
