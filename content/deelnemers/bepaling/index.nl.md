@@ -41,18 +41,18 @@ Tot vrijdag 27 februari 23.59 uur via het KNRB inschrijfprogramma.
 
 Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentietoeslag. Betalen voor dinsdag 3 maart 20:00 uur op IBAN NL 71 INGB 0006 6289 83, t.n.v. Amsterdamsche Roeibond te Amsterdam o.v.v. Head 2026 + naam van de (inschrijvende) roeivereniging.
 
-#### Loting**:
+#### Loting:
 Maandag 2 maart 20:00 uur te Amsterdam.
 #### Weging**:
 Roeivereniging Skøll, Jan Vroegopsingel 6, tussen 3 en 2 uur voor de start van het veld.
-#### Samenvoegen van velden**:
+#### Samenvoegen van velden:
 Velden waarin op het moment van sluiten van de inschrijving 3 ploegen of minder waren ingeschreven zullen worden samengevoegd met een hoger veld. Velden voor senioren worden eerst samengevoegd met een hoger veld op basis van prestatiepunten en daarna op basis van gewichtscategorie. In het geval van Masters zal het veld worden samengevoegd met een veld met een jongere ploeggemiddelde leeftijd. Wanneer er geen velden meer zijn om een veld met te weinig inschrijvingen mee samen te voegen, zal het veld niet verroeid worden.
-#### Stuurlieden:**
+#### Stuurlieden:
 Stuurliedenvergadering vindt dit jaar niet plaats. De online stuurliedeninstructie is beschikbaar op de website. Alle stuurlieden dienen van de inhoud van deze instructie op de hoogte te zijn.
 Met uitzondering van stuurlieden in de junioren 16 velden geldt dat een stuur in het lopende jaar tenminste de leeftijd van 15 jaar moet bereiken.
-#### Plaatsing:**
+#### Plaatsing:
 De masters velden roeien (per blok) door elkaar. De finishtijd van vorig jaar is bepalend voor de startvolgorde. Voor masters ploegen geldt dat een ploeg moet 'matchen' met een ploeg van vorig jaar (o.b.v. 50% dezelfde roeiers). Alleen de snelste 50% van de gematchte ploegen wordt geplaatst. Startposities van alle overige masters ploegen worden geloot achter de geplaatste ploegen. Voor de overige velden geldt (zoals voorheen) het verenigingsresultaat van vorig jaar. Bij inschrijving van meer ploegen per vereniging in hetzelfde veld wordt de ploeg-nummering van de vereniging gebruikt bij de plaatsing.
-#### Wimpels**:
+#### Wimpels:
 Wimpels worden uitgereikt aan de snelste Nederlandse verenigingsacht in het elite-veld voor heren en voor dames. Indien het eliteveld niet verroeid wordt of er geen verenigingsploegen in dit veld zijn, dan zal de wimpel worden uitgereikt aan de snelste verenigingsacht in het op basis van prestatiepunten hoogste seniorenveld.
 
 #### Botenwagens:
