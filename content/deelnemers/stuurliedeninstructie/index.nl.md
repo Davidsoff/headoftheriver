@@ -46,13 +46,8 @@ Onderstaande vind je de stuurinstructievideo voor de Head of the River. Deze vid
 
 ### Stuurliedenweging
 
-Voor de regelgeving ten aanzien van de gewichtseisen aan stuurlieden, verwijzen wij u naar [RvR Artikel 7, lid 3](https://storage.knrb.nl/2022/12/79b23423-reglement-voor-roeiwedstrijden-2022.11.26.pdf).
-Stuurlieden worden gewogen in de materiaalloods van Skøll (Jan Vroegopsingel 6), net als de roeiers tussen 3 en 2 uur voor de eerste start van hun eigen divisie.
-
-Stuurlieden voor Veteranen-, Club- Mixed, Bedrijfs- en Junioren 16 ploegen worden niet gewogen.
-Wanneer, conform artikel 38 uit het RvR, of de ballast van de stuur gecontroleerd moet worden, en/of een extra weging van de stuur moet worden uitgevoerd, moet de ploeg bij het uitroeien eerst bij RV Willem III aanleggen om de gevraagde weging uit te voeren.
-
-Indien een stuurman/vrouw niet aan de eisen conform RvR atrikel 7 voldoet, wordt de ploeg uitgesloten.
+Voor de regelgeving ten aanzien van de gewichtseisen aan stuurlieden, verwijzen wij u naar [RvR Artikel 7, lid 3](https://storage.knrb.nl/2025/11/0be41e1b-7.b.-reglement-voor-roeiwedstrijden-knrb-2026-incl-aanpassingen-nav-av.pdf).     
+Stuurlieden worden niet gewogen.
 
 ### Stuurliedenleeftijd
 

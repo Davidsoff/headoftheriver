@@ -46,11 +46,8 @@ Below you will find the instruction video for coxwains, updated for the Head of 
 
 ### Coxswain weighing
 
-- For the rules on the weight of the coxswains, we refer to the Dutch [Rules of Racing, Article 7, sub3.](https://storage.knrb.nl/2022/12/79b23423-reglement-voor-roeiwedstrijden-2022.11.26.pdf) (only in Dutch)
-- Coxswain weighing will take place at rowingclub Skøll (Jan Vroegopsingel 6, nextdoor to Willem 3). Like the rowers, also the coxswains weighing will take place between 3 and 2 hours before the start of their own devision.
-- No weighing of coxswains for master, club, mixed, corporate and junior 16 events.
-- Coxswains must be weighed wearing their racing uniform.
-- If deadweight of the coxswain needs to be checked or if an extra weighing of the coxswain is needed, the crew needs to dock at Willem III during cooling down as soon as possible.
+- For the rules on the weight of the coxswains, we refer to the Dutch [Rules of Racing, Article 7, sub3.](https://storage.knrb.nl/2025/11/0be41e1b-7.b.-reglement-voor-roeiwedstrijden-knrb-2026-incl-aanpassingen-nav-av.pdf) (only in Dutch)
+- No weighing of coxswains
 
 ### Coxswain Age
 

@@ -11,8 +11,8 @@ quick_links:
   ql_col1_link: "deelnemers/tijdschema/"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
-  ql_col3: Baankaart
-  ql_col3_link: "/deelnemers/stuurliedeninstructie/documents/Baankaart_Oudekerk_Amsterdam.pdf"
+  ql_col3: Vrijwilligers
+  ql_col3_link: "over/vrijwilligers/"
     
 # Divider-quote
 dividerquote:
