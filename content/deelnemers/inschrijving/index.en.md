@@ -20,7 +20,7 @@ If you want to participate in the Head of the River Amstel, you have to register
 #### Entry fees:
 - Coastal Quads: € 45,00
 - Quads: €100,00
-- Eight: €35,00
+- Eight: €135,00
 - Corporate Four: €275,00
 - Corporate Eight: €350,00
 
