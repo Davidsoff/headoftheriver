@@ -22,8 +22,8 @@ Ben jij een multitasker? Dan is de informatiebalie iets voor jou! Mensen komen h
 #### Vlotcommissaris
 Kan jij door de bomen altijd het bos nog zien? Help orde scheppen op het vlot, zorg dat ploegen op tijd vertrekken en snel hun boot uit het water halen na hun race. Voor deze functie is het handig als je niet op je mond bent gevallen, maar mensen wel met een glimlach kunt overhalen te doen waar je om vraagt.
 
-#### Terreinopbouw
-#### EHBO
-#### Voorbereiden en inrichten ruimtes
+#### Communicatie
+Voor, tijdens en na de wedstrijd communiceren we volop met de deelnemers, toeschouwers en omwonenden en daarvoor hebben we specifieke hulp nodig. We zijn op zoek naar een _Tik Tok specialist_ voor inspirerende content, liefst een roeier die aan de Head deelneemt; een _tekstschrijver_ die mooie verhalen vertelt; een _graphic designer_ die helpt met het vormgeven van een sterk merk; _cameramensen_ voor de ondersteuning van de live registratie. Voor belangstelling en vragen mail naar communicatie@headoftheriver.nl .
 
+### Inschrijfformulier
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3goF4fQ3USesk1aZlwMTvsFAIYrm4epHfPLTfld8kd6X4mg/viewform?embedded=true" width="640" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
