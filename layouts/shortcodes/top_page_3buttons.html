@@ -6,12 +6,11 @@
           <div class="tpbtn-content-wrap">
             <div class="tpbtn-content-main">
               {{ $count := .Get `count` }}
-              {{ $bg_im := resources.Get "images/homepage/ql_background.webp" }}
               {{ if eq $count 2 }}
               <ul class="tpbtn-content-main-button-wrap" >
                 <li>
                   <a href="#{{ .Get `id1` }}">
-                    <button type="button" class="tpbtn-content-main-button-link" >{{ .Get "name1" }}</button>
+                    <button type="button" class="tpbtn-content-main-button-link " >{{ .Get "name1" }}</button>
                   </a>
                 </li>
                 <li>

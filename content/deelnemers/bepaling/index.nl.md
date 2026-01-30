@@ -43,7 +43,7 @@ Inschrijfgelden zijn inclusief KNRB-wedstrijdlicentietoeslag. Betalen voor dinsd
 
 #### Loting:
 Maandag 2 maart 20:00 uur te Amsterdam.
-#### Weging**:
+#### Weging:
 Roeivereniging Skøll, Jan Vroegopsingel 6, tussen 3 en 2 uur voor de start van het veld.
 #### Samenvoegen van velden:
 Velden waarin op het moment van sluiten van de inschrijving 3 ploegen of minder waren ingeschreven zullen worden samengevoegd met een hoger veld. Velden voor senioren worden eerst samengevoegd met een hoger veld op basis van prestatiepunten en daarna op basis van gewichtscategorie. In het geval van Masters zal het veld worden samengevoegd met een veld met een jongere ploeggemiddelde leeftijd. Wanneer er geen velden meer zijn om een veld met te weinig inschrijvingen mee samen te voegen, zal het veld niet verroeid worden.
@@ -98,16 +98,22 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 5. **RUGNUMMERS**
    
-    Rugnummers moeten gedurende de wedstrijd en gedurende het oproeien en terugroeien duidelijk zichtbaar op de rug van stuurman/vrouw en de boegroeier(ster) bevestigd zijn. Eén rugnummer op het wedstrijdshirt van de boegroeier, één op het oproeishirt van de boegroeier en één op de achterin zittende stuur (als de stuur voorin ligt dan op het achterdek).   
+    Rugnummers moeten gedurende de wedstrijd en gedurende het oproeien en terugroeien duidelijk zichtbaar op de rug van stuurman/vrouw en de boegroeier(ster) bevestigd zijn. Eén rugnummer op het wedstrijdshirt van de boegroeier, één op het oproeishirt van de boegroeier en één op de achterin zittende stuur (als de stuur voorin ligt dan op het achterdek). 
 
-    De drie rugnummers zijn alleen na de tijdig ontvangen betaling (Voor 04 maart op de rekening van de ARB, zie Bepalingen-Inschrijfgeld) van het inschrijfgeld door de vereniging (of buitenlandse ploeg) op de volgende momenten op te halen door een verenigingsvertegenwoordiger:
+    Het boegnummer moet op de daarvoor bestemde plaats op de boeg van de boot worden geplaatst waarbij het boegnummer duidelijk zichtbaar is.  
+
+    De drie rugnummers en het boegnummer zijn alleen na de tijdig ontvangen betaling (Voor 04 maart op de rekening van de ARB, zie Bepalingen-Inschrijfgeld) van het inschrijfgeld door de vereniging (of buitenlandse ploeg) op de volgende momenten op te halen door een verenigingsvertegenwoordiger:
     - Vrijdagmiddag tussen 14.00 – 20.00 uur
     - Zaterdag van 09.00 tot 15.00 uur
     - Zondag van 8.30 tot 12.00 uur   
 
-    Ze zijn op te halen op Willem III.   
-    Alle rugnummers worden per inschrijvende vereniging verstrekt.    
-    De rugnummers hoeven niet geretourneerd te worden.   
+    Ze zijn op te halen op Willem III.      
+
+    Alle rugnummers en boegnummers worden per inschrijvende vereniging verstrekt.   
+
+    De rugnummers hoeven niet geretourneerd te worden.     
+
+    De boegnummers moeten uiterlijk op de laatste wedstrijddag geretourneerd worden bij de afgifte/innamebalie van de nummers op Willem 3. Indien een boegnummer niet wordt ingeleverd dan worden de kosten naar de vereniging doorberekend. De kosten bedragen 10 euro per boegnummer.   
 
 6. **STUURLIEDENINSTRUCTIE**
    

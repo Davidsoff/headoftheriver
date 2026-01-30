@@ -114,17 +114,21 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
    
     Race numbers must be clearly visible on the backs of the coxswain and the bow rower during the race and when rowing up and down the river. One on the row rower race shirt, one on the bow rowers racing uniform and one on the coxwain sitting at the back (if the coxswain is in the front, then on the back deck).
 
-    The three numbers can only be picked up by a club representative after timely payment of the entry fee by the club (or foreign team) during the following times
+    The bow number must be placed in the designated location on the bow of the boat, clearly visible.
+
+    The three numbers and the bow number can only be picked up by a club representative after timely payment of the entry fee by the club (or foreign team) during the following times
 
     - Friday afternoon between 14.00 and 20.00 hrs.
     - Saturday between 09.00 and 15.00 hrs.
     - Sunday between 08.30 and 12.00 hrs.
 
-    They can be picked up at rowing club Willem III.
+    They can be picked up at rowing club Willem III.   
 
-    All shirt numbers will be provided per registering club.
+    All shirt numbers and bow numbers will be provided per registering club.   
 
-    The shirt numbers do not have to be returned and can be taken home as souvenir.
+    The shirt numbers do not have to be returned and can be taken home as souvenir.   
+
+    The bow numbers must be returned to Willem III no later than the last day of the competition. If a bow number is not returned, the costs will be charged to the club. The cost is 10 euros per bow number.   
 
 6. **COXSWAIN INSTRUCTIONS**
    

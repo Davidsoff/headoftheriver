@@ -8,8 +8,15 @@ menu:
     parent: Bezoekers
     weight: 10
 ---
+{{< top_page_3buttons  count=3 id1="org_section" name1="Organisatie" id2="start_section" name2="Startgebied" id3="finish_section" name3="Finishgebied" >}}   
 
-<!-- {{< top_page_3buttons id1="org_section" name1="Organisatie" id2="start_section" name2="Startgebied" id3="finish_section" name3="Finishgebied" >}} -->
+<hr style="border:1px solid #62B0E2; margin-top:20px; margin-bottom:30px">
+
+{{< notice "waarschuwing" >}}
+De voetgangersbrug tussen RIC en de Jan Vroegopsingel zal ook tijdens de Head of the River 2026 afgesloten zijn voor alle verkeer. Er wordt geadviseerd om te lopen via de Amstelstroomlaan.   
+{{< /notice >}}
+
+{{< figure src="images/omlopen_W3_RIC.jpg" caption="" alt="alter-text" height="" width="50%" position="center" command="" option="q100" class="" title=""  webp="false" >}}
 
 <div id="org_section" style="padding-top:140px; margin-top:-140px">
 

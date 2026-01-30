@@ -15665,7 +15665,7 @@ h6 {
   position: relative;
   width: 100%;
   box-sizing: border-box;
-  border-bottom: 2px solid;
+  border-color: #62B0E2;
   padding-bottom: 10px; }
 
 .tpbtn-content-main-button-wrap {
@@ -15691,7 +15691,21 @@ h6 {
   overflow: unset;
   border-radius: 10px;
   box-sizing: border-box;
-  background-color: var(--head-light-gray); }
+  --tw-border-opacity: 1;
+  border-color: rgb(98 176 226 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(98 176 226 / var(--tw-bg-opacity));
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity)); }
+
+:is(.dark .tpbtn-content-main-button-link) {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  --tw-text-opacity: 1;
+  color: rgb(4 4 4 / var(--tw-text-opacity));
+}
 
 @media all and (max-width: 768px) {
   .tpbtn-content-wrap {
