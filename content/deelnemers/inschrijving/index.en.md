@@ -36,8 +36,8 @@ If you want to participate in the Head of the River Amstel, you have to register
 
 ### 2. Register with the National Rowing Association (KNRB)
 
-Registration at the Dutch Rowing Association (KNRB) will open early next year. Please pre-register and come back in the beginning of next year for the registration at the KNRB.
-<!-- 
+<!-- Registration at the Dutch Rowing Association (KNRB) will open early next year. Please pre-register and come back in the beginning of next year for the registration at the KNRB. -->
+
 **Entries with existing username and password**   
 If you have participated in last year’s event, you should have received a username and password on behalf of your rowing club. You can re-use these credentials for this year’s event and sign up at [mijnvereniging.knrb.nl](http://www.mijnvereniging.knrb.nl).   
 If you have lost your credentials, please send an email to the KNRB. (martijn.vanrossum@knrb.nl)
@@ -64,4 +64,4 @@ The entry fees include KNRB competition license surcharge. Please pay before Tue
 
 [{{< image src="images/logos/KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://roeievenementen.knrb.nl/tournament-details/3457?tab=details)
 
-</div> -->
+</div>
