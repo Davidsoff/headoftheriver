@@ -3,13 +3,13 @@ title: "Media"
 meta_title: ""
 description: "Media van Head of the River Amstel"
 draft: false
-# menu:
-#   main:
-#     parent: Over
-#     weight: 5
 menu:
   main:
+    parent: Over
     weight: 5
+# menu:
+#   main:
+#     weight: 5
 ---
 ### Fotos
 Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River.    

@@ -37,8 +37,8 @@ preloader = "images/logos/logo_huf7a8c27693522814827308104210c1b5_29134_240x0_re
 # Navigation button
 [navigation_button]
 enable = false
-label = "Live Uitslagen"
-link = "https://hoesnelwasik.nl/head/2024/uitslagen#blocks"
+label = "Shop"
+link = "https://shop.headoftheriver.nl"
 
 # search
 [search]
