@@ -14,6 +14,13 @@ quick_links:
   ql_col3: Registration
   ql_col3_link: "deelnemers/inschrijving/"
 
+# Live video
+videolink: 
+  enable: false
+  url: "https://www.youtube.com/embed/aUolL9cNQlA?si=icPhoN1jz-VFgSam"
+  alt_text: "In case the above video does not work, check our Youtube channel"
+  alt_text_link: "https://www.youtube.com/@headoftheriveramstel/streams"
+  
 # Divider-quote
 dividerquote:
   title: "'The long-distance rowing classic of The Netherlands'"
@@ -29,6 +36,7 @@ linktiles:
   title4: "Trophies"
   value4: 12
  
+
 ---
 
 

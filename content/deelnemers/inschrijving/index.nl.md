@@ -16,9 +16,15 @@ Kijk op onze site bij [TimeTeam](https://regatta.time-team.nl/headoftheriveramst
 
 De commissaris wedstrijdroeien van je vereniging kan je ploeg inschrijven via [mijnvereniging.knrb.nl.](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F) De inschrijving is geopend van 1 februari 2026 tot en met 27 februari 2026.
 
-Wil je deelnemen met combinatieploeg met internationale roeiers kan je vanaf de opening van de inschrijving contact op met de KNRB via [Martijn van Rossum.](martijn.vanrossum@knrb.nl)
+Het is niet mogelijk om in het KNRB-inschrijfsysteem combinatieploegen van Nederlands en buitenlandse roeiers te registreren. Stuur in dit geval een mail naar de [KNRB](mailto:martijn.vanrossum@knrb.nl) met de volgende informatie:
 
-Wil je weten wie al zich heeft ingeschreven voor het veldnummer waarin je meedoet, kijk dan vanaf 1 februari 2025 [hier](https://roeievenementen.knrb.nl/tournament-details/3457?tab=registrations&subMenu=matrix).
+- Veldnummer (bijvoorbeeld 115-D8*, Vrouwen masters dubbelacht)
+- Verenigingsnaam
+- Namen van stuur en de roeiers en de plek in de boot
+- Geboortedatum van de stuur en roeiers (dd-mm-jjjj)
+- Land van elke roeier
+
+Wil je weten wie al zich heeft ingeschreven voor het veldnummer waarin je meedoet, kijk dan vanaf 1 februari 2026 [hier](https://roeievenementen.knrb.nl/tournament-details/3457?tab=registrations&subMenu=matrix).
 
 NB: Zijn er nog weinig inschrijvingen voor je veld, dit kan nog veranderen. De meeste teams schrijven zich in een van de laatste weken voor de deadline in.
 

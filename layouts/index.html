@@ -15,6 +15,33 @@
 {{ partial "essentials/quick_links_three_buttons" . }}
 {{ end }}
 
+<!-- Live video -->
+{{ with .Params.videolink }}
+{{if .enable}}
+<section class="section-home ">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10 mb-4 mt-4 text-center">
+        <h2>{{i18n "livevideo"}}</h2>
+      </div>
+    </div>
+    <div class="row justify-center">
+      <div class="lg:col-10 mb-4 mt-4 text-center ">
+        <div class="video-container">
+          <iframe width="560" height="315" src="{{ .url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </div>
+      <div class="row justify-center">
+        <div class="lg:col-10 mb-4 mt-4 text-center">
+          <p><a href="{{ .alt_text_link }}" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">{{ .alt_text }}</a></p>
+        </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /Live video -->
+
 <!-- Laatste Nieuws -->
 <section class="section-home">
   <div class="container" style="margin:auto;">

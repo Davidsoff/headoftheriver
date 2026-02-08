@@ -15,7 +15,14 @@ quick_links:
   # ql_col2_link: "deelnemers/
   ql_col3: Vrijwilligers
   ql_col3_link: "over/vrijwilligers/"
-    
+
+# Live video
+videolink: 
+  enable: false
+  url: "https://www.youtube.com/embed/aUolL9cNQlA?si=icPhoN1jz-VFgSam"
+  alt_text: "Als bovenstaande video het niet doet bekijk dan hier ons Youtube channel"
+  alt_text_link: "https://www.youtube.com/@headoftheriveramstel/streams"
+  
 # Divider-quote
 dividerquote:
   title: "'Hét Nationaal Langeafstandskampioenschap op de Amstel'"
@@ -30,5 +37,6 @@ linktiles:
   value3: 155
   title4: "Trofeeën"
   value4: 12
+
 
 ---

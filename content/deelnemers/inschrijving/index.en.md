@@ -45,19 +45,20 @@ If you have participated in last year’s event, you should have received a user
 If you have lost your credentials, please send an email to the KNRB. (martijn.vanrossum@knrb.nl)
 
 **New entries**   
-If you want to participate, please send an email (at least one week before closing date of entries) to the KNRB (martijn.vanrossum@knrb.nl) and include the following information:
+If you want to participate, please send an email (at least one week before closing date of entries) to the [KNRB](mailto:martijn.vanrossum@knrb.nl) and include the following information:
 
 - The full name of your rowing club
 - Country
 - Contact name
 - Contact mail address
 
-To enter combination crews (Dutch -  foreign / foreign – foreign) please turn to the KNRB (martijn.vanrossum@knrb.nl) with following information:
+To enter combination crews (Dutch -  foreign / foreign – foreign) please turn to the [KNRB](mailto:martijn.vanrossum@knrb.nl) with following information:
 
 - Event number, for example 115-D8* (Women’s Scull Eights)
 - Club name
 - Names of rowers/coxes plus seating
 - Birthdates rowers/coxes (not only birthyears)
+- Home country of each rower
 
 **Payment**   
 The entry fees include KNRB competition license surcharge. Please pay before Tuesday, 3 March at 20:00 hrs. to IBAN NL 71 INGB 0006 6289 83, in the name of Amsterdamsche Roeibond in Amsterdam. Sometimes a BIC/Swift code is requested: INGBNL2A or the name and address of the bank (ING BANK, Bijlmerdreef 106, 1102 CT, Amsterdam). Please include the name of the registering rowing club and the event field.
