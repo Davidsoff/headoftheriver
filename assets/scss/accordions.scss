@@ -1,0 +1,65 @@
+// accordion
+.accordion {
+  @apply border-border bg-theme-light dark:border-darkmode-border dark:bg-darkmode-theme-light mb-6 overflow-hidden rounded-lg border;
+  
+  &-header {
+    @apply text-dark dark:text-darkmode-dark;
+    @apply flex justify-between items-center p-4 font-bold cursor-pointer;
+    @apply hover:bg-opacity-80 transition-colors;
+  }
+  
+  &-icon {
+    @apply w-5 h-5 transform transition-transform duration-200 -rotate-90;
+    flex-shrink: 0;
+    margin-left: 1rem;
+  }
+  
+  &-content {
+    @apply max-h-0 overflow-hidden transition-[max-height] duration-300;
+    @apply px-4 py-0;
+    
+    // Support rich markdown content
+    h2, h3, h4 {
+      @apply mt-4 mb-2 font-bold text-dark dark:text-darkmode-dark;
+    }
+    
+    p {
+      @apply mb-3;
+    }
+    
+    ul {
+      @apply mb-3 ml-5 list-disc;
+    }
+
+    ol {
+      @apply mb-3 ml-5 list-decimal;
+    }
+    
+    li {
+      @apply mb-1;
+    }
+    
+    blockquote {
+      @apply border-l-4 border-primary pl-4 italic mb-3;
+    }
+    
+    code {
+      @apply bg-gray-200 dark:bg-gray-700 px-2 py-1 rounded;
+    }
+    
+    a {
+      @apply text-primary hover:underline dark:text-darkmode-primary;
+    }
+  }
+  
+  &.active {
+    .accordion-icon {
+      @apply rotate-0;
+    }
+    
+    .accordion-content {
+      max-height: 1000px; // Adjust based on needs
+      @apply py-4;
+    }
+  }
+}

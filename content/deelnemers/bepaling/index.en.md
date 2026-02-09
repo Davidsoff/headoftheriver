@@ -262,6 +262,8 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
     Results will be published on the [IRIS-website](http://www.hoesnelwasik.nl) and our [results page](../uitslag/).
 
+<div id="award_ceremony" style="padding-top:140px; margin-top:-140px">
+
 22. **AWARDS CEREMONY**
 
     - Saturday time slot 1: 16:30 at boathouse of Willem III
@@ -270,6 +272,7 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
     - Sunday time slot 4: 17:00 at boathouse of Willem III
 
     The awards ceremony will take place after the Board of the Jury has determined , at minimum, the first three places of every division for which there is an award. The waiting time will be, at minimum, one hour after the finish of the last team in the block.
+</div>
 
 23. **COASTAL ROWING**
 

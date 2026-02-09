@@ -5,7 +5,7 @@ description: "Bereikbaarheid van de Head of the River Amstel"
 draft: false
 menu:
   main:
-    parent: Bezoekers
+    parent: Bezoekers 
     weight: 10
 ---
 {{< top_page_3buttons  count=3 id1="org_section" name1="Organisatie" id2="start_section" name2="Startgebied" id3="finish_section" name3="Finishgebied" >}}   

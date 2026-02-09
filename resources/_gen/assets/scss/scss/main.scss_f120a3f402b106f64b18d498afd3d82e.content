@@ -2224,3 +2224,37 @@ section.product .content h2 {
   user-select: none; }
 
 /* purgecss end ignore */
+.accordion {
+  @apply border-border bg-theme-light dark:border-darkmode-border dark:bg-darkmode-theme-light mb-6 overflow-hidden rounded-lg border; }
+  .accordion-header {
+    @apply text-dark dark:text-darkmode-dark;
+    @apply flex justify-between items-center p-4 font-bold cursor-pointer;
+    @apply hover:bg-opacity-80 transition-colors; }
+  .accordion-icon {
+    @apply w-5 h-5 transform transition-transform duration-200 -rotate-90;
+    flex-shrink: 0;
+    margin-left: 1rem; }
+  .accordion-content {
+    @apply max-h-0 overflow-hidden transition-[max-height] duration-300;
+    @apply px-4 py-0; }
+    .accordion-content h2, .accordion-content h3, .accordion-content h4 {
+      @apply mt-4 mb-2 font-bold text-dark dark:text-darkmode-dark; }
+    .accordion-content p {
+      @apply mb-3; }
+    .accordion-content ul {
+      @apply mb-3 ml-5 list-disc; }
+    .accordion-content ol {
+      @apply mb-3 ml-5 list-decimal; }
+    .accordion-content li {
+      @apply mb-1; }
+    .accordion-content blockquote {
+      @apply border-l-4 border-primary pl-4 italic mb-3; }
+    .accordion-content code {
+      @apply bg-gray-200 dark:bg-gray-700 px-2 py-1 rounded; }
+    .accordion-content a {
+      @apply text-primary hover:underline dark:text-darkmode-primary; }
+  .accordion.active .accordion-icon {
+    @apply rotate-0; }
+  .accordion.active .accordion-content {
+    max-height: 1000px;
+    @apply py-4; }

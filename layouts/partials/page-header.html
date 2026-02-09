@@ -1,6 +1,10 @@
 <section>
   <div class="container text-center">
-    {{ with .GetPage "images" }}
+    {{ $p := . }}
+    {{ with .Page }}
+      {{ $p = . }}
+    {{ end }}
+    {{ with $p.GetPage "images" }}
     <div {{ with .Resources.GetMatch "hero.*" }} 
     style="background-image: url('{{ .RelPermalink }}');
         background-repeat: no-repeat;
@@ -9,7 +13,7 @@
       {{ end }}
       class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
       {{ else }}
-      <div {{ with .Resources.GetMatch "images/hero.*" }} 
+      <div {{ with $p.Resources.GetMatch "images/hero.*" }} 
       style="background-image: url('{{ .RelPermalink }}');
           background-repeat: no-repeat;
           background-size: auto;
@@ -17,8 +21,8 @@
         {{ end }}
         class="from-body to-theme-light dark:from-darkmode-body dark:to-darkmode-theme-light rounded-2xl bg-gradient-to-b px-8 py-14">
       {{ end }}  
-      <h1>{{ .Title | title }}</h1>
-        {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+      <h1>{{ $p.Title | title }}</h1>
+        {{ partial "components/breadcrumb" (dict "Context" $p "Class" "mt-6") }}
     </div>
   </div>
 </section>

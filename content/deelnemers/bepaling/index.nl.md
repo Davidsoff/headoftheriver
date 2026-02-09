@@ -249,6 +249,8 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
     De uitslagen zullen gepubliceerd worden op de website van de [IRIS](http://www.hoesnelwasik.nl) en via onze [uitslagenpagina](../uitslag/).
 
+<div id="prijsuitrijking" style="padding-top:140px; margin-top:-140px">
+
 22. **PRIJSUITREIKING**
 
     - Zaterdag blok 1: 16:30 bij Willem III
@@ -257,6 +259,7 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
     - Zondag blok 4: 17:00 bij Willem III
 
     De prijsuitreiking kan plaatsvinden nadat de Juryraad tenminste de eerste drie plaatsen van de divisies waarvoor de prijsuitreiking plaats vindt, heeft vastgesteld. Waarbij er minimaal een uur gewacht wordt na het finishen van de laatste ploeg in het blok.
+</div>
 
 23. **COASTAL ROWING**
 
