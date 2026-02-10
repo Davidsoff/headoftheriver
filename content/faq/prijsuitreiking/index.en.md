@@ -5,4 +5,4 @@ weight: 4
 ---
 
 The times of the award ceremony are included in the regulations of the Head of the River Amstel.    
-These can be found on our website under **[Award Ceremony](../deelnemers/bepaling/#award_ceremony)**
+These can be found on our website under **[Awards Ceremony](../deelnemers/bepaling/#award_ceremony)**

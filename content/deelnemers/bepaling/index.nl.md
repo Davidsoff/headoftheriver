@@ -96,6 +96,8 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
     Voor mastersploegen wordt de startvolgorde bepaald in 2 stappen. Eerst wordt bepaald of een ploeg ‘matcht’ met een ploeg van vorig jaar. Een ploeg matcht als minimaal de helft van de roeiers overeenkomt met een ploeg van vorig jaar. Vervolgens worden van alle gematchte ploegen, alleen de snelste 50% geplaatst (wederom op basis van het resultaat van vorig jaar). De andere 50% en alle niet gematchte ploegen zijn ongeplaatst. Hun startpositie valt achter de geplaatste ploegen en wordt bepaald aan de hand van loting.                                                              |
 
+<div id="rugnummers" style="padding-top:140px; margin-top:-140px">
+
 5. **RUGNUMMERS**
    
     Rugnummers moeten gedurende de wedstrijd en gedurende het oproeien en terugroeien duidelijk zichtbaar op de rug van stuurman/vrouw en de boegroeier(ster) bevestigd zijn. Eén rugnummer op het wedstrijdshirt van de boegroeier, één op het oproeishirt van de boegroeier en één op de achterin zittende stuur (als de stuur voorin ligt dan op het achterdek). 
@@ -114,6 +116,8 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
     De rugnummers hoeven niet geretourneerd te worden.     
 
     De boegnummers moeten uiterlijk op de laatste wedstrijddag geretourneerd worden bij de afgifte/innamebalie van de nummers op Willem 3. Indien een boegnummer niet wordt ingeleverd dan worden de kosten naar de vereniging doorberekend. De kosten bedragen 10 euro per boegnummer.   
+
+</div>
 
 6. **STUURLIEDENINSTRUCTIE**
    
@@ -249,7 +253,7 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
     De uitslagen zullen gepubliceerd worden op de website van de [IRIS](http://www.hoesnelwasik.nl) en via onze [uitslagenpagina](../uitslag/).
 
-<div id="prijsuitrijking" style="padding-top:140px; margin-top:-140px">
+<div id="prijsuitreiking" style="padding-top:140px; margin-top:-140px">
 
 22. **PRIJSUITREIKING**
 

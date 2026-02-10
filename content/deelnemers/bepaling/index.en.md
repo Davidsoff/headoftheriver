@@ -110,6 +110,8 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
     For masters, the starting order is determined in 2 steps. First, it is determined whether a team matches a team from last year. A team is matched if at least half of the rowers match a team from last year. Next, from all matched teams, only the fastest 50% are placed (again based on last year’s result). The other 50% and all unmatched teams are unplaced. Their starting position falls behind the seeded teams and is determined by drawing lots.
 
+<div id="race_numbers" style="padding-top:140px; margin-top:-140px">
+
 5. **RACE NUMBERS**
    
     Race numbers must be clearly visible on the backs of the coxswain and the bow rower during the race and when rowing up and down the river. One on the row rower race shirt, one on the bow rowers racing uniform and one on the coxwain sitting at the back (if the coxswain is in the front, then on the back deck).
@@ -129,6 +131,8 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
     The shirt numbers do not have to be returned and can be taken home as souvenir.   
 
     The bow numbers must be returned to Willem III no later than the last day of the competition. If a bow number is not returned, the costs will be charged to the club. The cost is 10 euros per bow number.   
+
+</div>
 
 6. **COXSWAIN INSTRUCTIONS**
    
