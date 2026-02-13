@@ -18,6 +18,8 @@ collections:
     folder: 'content/nieuws'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    media_folder: assets/images/nieuws
+    public_folder: /images/nieuws
     editor:
       preview: true
     fields:
@@ -57,7 +59,7 @@ collections:
         widget: "select"
         multiple: true
         min: 2
-        options: ["All", "2025", "2024", "2023"]
+        options: ["All", "2026", "2025", "2024", "2023"]
         i18n: duplicate
         hint: 'Selecteer de relevante categorieën. Meerdere opties mogelijk. Selecteer in ieder geval All'
       - { label: 'Auteur', name: 'author', widget: 'string', i18n: duplicate }

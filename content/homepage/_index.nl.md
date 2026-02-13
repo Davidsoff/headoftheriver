@@ -38,5 +38,15 @@ linktiles:
   title4: "Trofeeën"
   value4: 12
 
-
+# Partners
+partners:
+    partner1: "VHA"
+    partner1_link: "http://www.vharch.nl"
+    partner1_logo: "over/partners/images/partnerlogos/Logo_VHA_ned.png"
+    partner2: "Jumble"
+    partner2_link: "https://jumble.nl/"
+    partner2_logo: "over/partners/images/partnerlogos/logo_jumble.png"
+    partner3: "Renault"
+    partner3_link: "https://www.autobedrijf-nieuwendijk.nl/renault/modellen/renault-5/"
+    partner3_logo: "over/partners/images/partnerlogos/32338_logo-nieuwendijk-renault-2x_default.png"
 ---

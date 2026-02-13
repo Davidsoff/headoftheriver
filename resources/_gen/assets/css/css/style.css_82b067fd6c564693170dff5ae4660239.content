@@ -16658,6 +16658,10 @@ section.product .content h2 {
     display: block;
   }
 
+  .lg\:inline-block {
+    display: inline-block;
+  }
+
   .lg\:flex {
     display: flex;
   }
