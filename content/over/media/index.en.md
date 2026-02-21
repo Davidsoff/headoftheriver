@@ -13,7 +13,15 @@ menu:
 ---
 ### Photos
 By following the link below, you will find a collection of photos from the organization of the Head of the River.
-#### [Head of the River 2025](https://photos.app.goo.gl/nSDYiRUrpxWdMaej9)    
+
+#### Head of the River 2026
+As soon as the photos of 2026 are available, they will also be found here.
+
+<div class="grid grid-cols-2 gap-4 rounded" style="margin-top:25px; margin-bottom:25px">
+</div>
+{{< accordion "Photos 2025" >}} 
+By following the link below, you will find more photos from the organization of the Head of the River.
+[Head of the River 2025](https://photos.app.goo.gl/nSDYiRUrpxWdMaej9)    
 
 In addition, there were several commercial photographers present during the event where you can also look at their photos:   
 * [Leo de Keizer (LOEP)](https://www.loep.nu/roeiwedstrijden-2025/)
@@ -21,9 +29,7 @@ In addition, there were several commercial photographers present during the even
 * [KNRB](https://knrb.pixieset.com/headoftheriveramstel2025/)
 * [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
 
-<div class="grid grid-cols-2 gap-4 rounded" style="margin-top:25px; margin-bottom:25px">
-</div>
-
+{{< /accordion >}}
 {{< accordion "Photos 2024" >}}
 
 Through the links below, you will find more photos from the organization of the Head of the River.

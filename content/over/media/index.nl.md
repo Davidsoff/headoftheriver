@@ -12,14 +12,9 @@ menu:
 #     weight: 5
 ---
 ### Fotos
-Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River.    
-#### [Head of the River 2025](https://photos.app.goo.gl/nSDYiRUrpxWdMaej9)    
-
-Daarnaast zijn er nog een aantal commerciele fotgraven aanwezig geweest tijdens de wedstrijd waar je ook nog kunt kijken:   
-* [Leo de Keizer (LOEP)](https://www.loep.nu/roeiwedstrijden-2025/)
-* [Kylian Alkemade](https://www.kylianalkemade.nl/mobograaf/)
-* [KNRB](https://knrb.pixieset.com/headoftheriveramstel2025/)
-* [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
+Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River. 
+#### Head of the River 2026
+Zodra de fotos van 2026 beschikbaar zijn zullen deze hier ook te vinden zijn.
 
 <!-- ## Evenementimpressie 2024
 
@@ -29,6 +24,18 @@ Daarnaast zijn er nog een aantal commerciele fotgraven aanwezig geweest tijdens 
 
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:25px; margin-bottom:25px">
 </div>
+{{< accordion "Fotos 2025" >}}   
+Via onderstaande link vind je meer fotos namens de organisatie van de Head of the River.
+
+[Head of the River 2025](https://photos.app.goo.gl/nSDYiRUrpxWdMaej9)    
+
+Daarnaast zijn er nog een aantal commerciele fotgraven aanwezig geweest tijdens de wedstrijd waar je ook nog kunt kijken:   
+* [Leo de Keizer (LOEP)](https://www.loep.nu/roeiwedstrijden-2025/)
+* [Kylian Alkemade](https://www.kylianalkemade.nl/mobograaf/)
+* [KNRB](https://knrb.pixieset.com/headoftheriveramstel2025/)
+* [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
+
+{{< /accordion >}}
 
 {{< accordion "Fotos 2024" >}}
 
@@ -49,10 +56,14 @@ Via onderstaande links vind je meer fotos namens de organisatie van de Head of t
 </div>   
 
 ### Videos
-#### Head of the River 2025
+#### Head of the River 2026
+Zodra de videos van 2026 beschikbaar zijn zullen deze hier ook te vinden zijn.
+
+{{< accordion "Videos 2025" >}}
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:25px; margin-bottom:50px">
  {{< youtube YLjS9yNNm68 >}}
 </div>
+{{< /accordion >}}
 
 {{< accordion "Videos 2024" >}}
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:40px; margin-bottom:50px">
