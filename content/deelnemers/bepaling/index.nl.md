@@ -251,7 +251,7 @@ REGLEMENTEN VOOR DE WEDSTRIJD OM HET LANGE AFSTANDKAMPIOENSCHAP VAN DE AMSTEL 20
 
 21. **UITSLAGEN**
 
-    De uitslagen zullen gepubliceerd worden op de website van de [IRIS](http://www.hoesnelwasik.nl) en via onze [uitslagenpagina](../uitslag/).
+    De uitslagen zullen gepubliceerd worden op de website van de [TimeTeam](https://regatta.time-team.nl/headoftheriveramstel/2026/results/events.php) en via onze [uitslagenpagina](../uitslag/).
 
 <div id="prijsuitreiking" style="padding-top:140px; margin-top:-140px">
 

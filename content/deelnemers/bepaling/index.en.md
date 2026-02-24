@@ -264,7 +264,7 @@ RULES FOR RACING LONG DISTANCE CHAMPIONSHIP RACE: THE HEAD OF THE RIVER AMSTEL 2
 
 21. **RESULTS**
 
-    Results will be published on the [IRIS-website](http://www.hoesnelwasik.nl) and our [results page](../uitslag/).
+    Results will be published on the website of [TimeTeam](https://regatta.time-team.nl/headoftheriveramstel/2026/results/events.php) and our [results page](../uitslag/).
 
 <div id="award_ceremony" style="padding-top:140px; margin-top:-140px">
 
