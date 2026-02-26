@@ -29,7 +29,7 @@ Mark Greefhorst
 jury@headoftheriver.nl
 
 #### Inschrijving:
-Tot vrijdag 27 februari 23.59 uur via het KNRB inschrijfprogramma.
+Tot zaterdag 28 februari 23.59 uur via het KNRB inschrijfprogramma.
 
 #### Inschrijfgeld: 
 

@@ -14,7 +14,7 @@ menu:
 Kijk op onze site bij [TimeTeam](https://regatta.time-team.nl/headoftheriveramstel/2025/entries/clubs.php) om te zien welke verenigingen en ploegen er zijn ingeschreven. -->
 
 
-De commissaris wedstrijdroeien van je vereniging kan je ploeg inschrijven via [mijnvereniging.knrb.nl.](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F) De inschrijving is geopend van 1 februari 2026 tot en met 27 februari 2026.
+De commissaris wedstrijdroeien van je vereniging kan je ploeg inschrijven via [mijnvereniging.knrb.nl.](https://mijnvereniging.knrb.nl/Account/Login?ReturnUrl=%2F) De inschrijving is geopend van 1 februari 2026 tot en met 28 februari 2026.
 
 Het is niet mogelijk om in het KNRB-inschrijfsysteem combinatieploegen van Nederlands en buitenlandse roeiers te registreren. Stuur in dit geval een mail naar de [KNRB](mailto:martijn.vanrossum@knrb.nl) met de volgende informatie:
 

@@ -2,13 +2,11 @@
 title: Ode aan de Amstel
 image: "/images/bezoekers/horecapartners/ode_amstel_2 (Medium).jpg"
 weblink: "https://odeaandeamstel.nl/"
-headmenu: true
+headmenu: false
 draft: false
 weight: 3
 ---
 
-Ode aan de Amstel has a special coffee deal during the Head:   
-- Coffee/tea of your choice + Cheesecake with beetroot & blackberries for €9
+There is always an attractive weekend deal available:
 
-Additionally, there is always an attractive weekend deal available:
--   [Menu](https://odeaandeamstel.nl/en/weekend-brunch)
+{{< button label="Menu" link="https://odeaandeamstel.nl/weekendbrunch" style="solid" >}}

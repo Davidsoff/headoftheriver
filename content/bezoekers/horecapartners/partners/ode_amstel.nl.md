@@ -2,14 +2,11 @@
 title: Ode aan de Amstel
 image: "/images/bezoekers/horecapartners/ode_amstel_2 (Medium).jpg"
 weblink: "https://odeaandeamstel.nl/"
-headmenu: true
+headmenu: false
 draft: false
 weight: 3
 ---
 
-Ode aan de Amstel heeft een speciale koffiedeal tijdens de Head:    
-- Koffie/thee naar keuze + Cheesecake met rode biet & bramen voor €9 
+Ode aan de Amstel heeft standaard een aantrekkelijke weekenddeal te vinden, zo ook tijdens het Head of the River weeken:
 
-Daarnaast is er standaard een aantrekkelijke weekenddeal te vinden:
--   [Menu](https://odeaandeamstel.nl/weekendbrunch)
-
+{{< button label="Menu" link="https://odeaandeamstel.nl/weekendbrunch" style="solid" >}}

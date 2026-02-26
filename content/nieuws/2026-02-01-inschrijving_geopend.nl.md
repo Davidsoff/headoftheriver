@@ -21,4 +21,4 @@ De race van ca. 8 km over de prachtige Amstel is niet alleen een klassieker binn
 
 Schrijf je nu in en verzeker je van een startplek in deze spectaculaire wedstrijd én de kans om deel te nemen aan het nationaal langeafstandskampioenschap! 🔥
 
-👉 Inschrijven kan via het officiële [inschrijfsysteem van de KNRB](../../deelnemers/inschrijving/) (tot en met 27 februari). 
+👉 Inschrijven kan via het officiële [inschrijfsysteem van de KNRB](../../deelnemers/inschrijving/) (tot en met 28 februari). 

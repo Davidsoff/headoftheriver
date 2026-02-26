@@ -21,4 +21,4 @@ The ~8 km race along the beautiful Amstel is not only a classic within the rowin
 
 Register now to secure your spot in this spectacular race and for the chance to compete in the national long-distance championship! 🔥    
 
-👉 Check the [Entries page](../../deelnemers/inschrijving/) for the registration procedure! (until February 27).
+👉 Check the [Entries page](../../deelnemers/inschrijving/) for the registration procedure! (until February 28).

@@ -32,7 +32,7 @@ Mark Greefhorst
 
 #### Entries: 
 
-Find out how to register on our Entries page. Registration closes on Friday, 27nd of February at 23.59 hr. via the KNRB registration site.
+Find out how to register on our Entries page. Registration closes on Saturday, 28th of February at 23.59 hr. via the KNRB registration site.
 
 #### Entry fees: 
 
