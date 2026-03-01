@@ -2,8 +2,8 @@
 title: "Reminder: Become a Volunteer"
 meta_title: ""
 description: "{{slug}}"
-draft: false
-date: 2026-02-28T19:00:00.000Z
+draft: true
+date: 2026-03-01T19:00:00.000Z
 photo:
   enable: true
   image: /images/nieuws/2026/reminder_vrijwilligers (Medium).JPG

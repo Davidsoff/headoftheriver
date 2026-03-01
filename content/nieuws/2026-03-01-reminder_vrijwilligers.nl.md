@@ -2,7 +2,7 @@
 title: "Reminder: Wordt vrijwilliger"
 meta_title: ""
 description: "{{slug}}"
-draft: false
+draft: true
 date: 2026-03-01T19:00:00.000Z
 photo:
   enable: true
