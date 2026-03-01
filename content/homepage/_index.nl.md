@@ -9,8 +9,8 @@ slider:
 quick_links:
   ql_col1: Blokschema
   ql_col1_link: "deelnemers/tijdschema/"
-  ql_col2: Inschrijven
-  ql_col2_link: "deelnemers/inschrijving/"
+  ql_col2: Shop
+  ql_col2_link: "https://shop.headoftheriver.nl/"
   # ql_col2: Deelnemers
   # ql_col2_link: "deelnemers/
   ql_col3: Vrijwilligers

@@ -11,8 +11,8 @@ quick_links:
   ql_col1_link: "deelnemers/tijdschema/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
-  ql_col3: Registration
-  ql_col3_link: "deelnemers/inschrijving/"
+  ql_col3: Shop
+  ql_col3_link: "https://shop.headoftheriver.nl/"
 
 # Live video
 videolink: 

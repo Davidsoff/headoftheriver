@@ -11,12 +11,12 @@ menu:
 <!-- At the beginning of the new year, registration for the upcoming edition of the Head of the River will open.
 On this page, you will then find all the necessary instructions and information to easily sign up. -->
 
-<!-- The registration for the Head of the River 2025 is now closed.    
-Please check the [TimeTeam page](https://regatta.time-team.nl/headoftheriveramstel/2025/entries/clubs.php) to see the registered clubs and teams. -->
+The registration for the Head of the River 2026 is now closed.    
+Please check the [TimeTeam page](https://regatta.time-team.nl/headoftheriveramstel/2026/entries/clubs.php) to see the registered clubs and teams.
 
 
 <!-- If you want to participate in the Head of the River Amstel, you have to register yourself. You can do that by filling in the pre-registration form below AND register at the Dutch Rowing Association (KNRB, see this page below the pre-registration form) -->
-
+<!-- 
 Registration is now open. Follow the steps below to register at the Dutch Rowing Association (KNRB)
 
 #### Entry fees:
@@ -24,7 +24,7 @@ Registration is now open. Follow the steps below to register at the Dutch Rowing
 - Quads: €100,00
 - Eight: €135,00
 - Corporate Four: €275,00
-- Corporate Eight: €350,00
+- Corporate Eight: €350,00 -->
 
 <!-- ### 1. Pre-registration form
 <section id="sect_pre_reg_form" style="margin-top:-200px; padding-top:200px;">
@@ -35,10 +35,10 @@ Registration is now open. Follow the steps below to register at the Dutch Rowing
 </div>
 </section> -->
 
-
-### Register with the National Rowing Association (KNRB)
-
 <!-- Registration at the Dutch Rowing Association (KNRB) will open early next year. Please pre-register and come back in the beginning of next year for the registration at the KNRB. -->
+
+
+<!-- ### Register with the National Rowing Association (KNRB)
 
 **Entries with existing username and password**   
 If you have participated in last year’s event, you should have received a username and password on behalf of your rowing club. You can re-use these credentials for this year’s event and sign up at [mijnvereniging.knrb.nl](http://www.mijnvereniging.knrb.nl).   
@@ -67,4 +67,4 @@ The entry fees include KNRB competition license surcharge. Please pay before Tue
 
 [{{< image src="images/logos/KNRB.png" caption="" alt="KNRB" height="110" width="175" position="left" command="" option="q100" class="" title="KNRB"  webp="false" >}}](https://roeievenementen.knrb.nl/tournament-details/3457?tab=details)
 
-</div>
+</div> -->
