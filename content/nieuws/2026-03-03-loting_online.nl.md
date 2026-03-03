@@ -20,7 +20,7 @@ Alle ploegen kunnen nu hun startvolgorde bekijken via de officiële publicatie o
 
 Zoals ieder jaar zijn enkele velden – volgens het reglement – samengevoegd om tot goed bezette en competitieve races te komen. Dit zorgt ervoor dat iedereen kan starten in een sterk en eerlijk deelnemersveld.
 
-### **Samengevoegde velden 2026**
+##### **Samengevoegde velden 2026**
 De volgende categorieën zijn gecombineerd:
 
 - **LMG 8+ →** samengevoegd met **MG 8+**
@@ -37,5 +37,6 @@ De volgende categorieën zijn gecombineerd:
 
 Met deze samenvoegingen staat een prachtig wedstrijdweekend in het vooruitzicht—met volle velden, sterke wedstrijden en hopelijk schitterende omstandigheden op de Amstel.
 
-We wensen alle ploegen veel succes met de laatste voorbereidingen.  
+We wensen alle ploegen veel succes met de laatste voorbereidingen.     
+
 **Op naar een prachtige Head 2026! 🚣‍♀️🚣‍♂️✨**

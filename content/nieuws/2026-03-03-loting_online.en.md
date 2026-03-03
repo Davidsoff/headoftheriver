@@ -20,7 +20,7 @@ All teams can now view their starting order via the official publication on Time
 
 As every year, some fields have been merged according to the regulations to create well-filled and competitive races. This ensures that everyone can start in a strong and fair field.
 
-### **Merged fields 2026**
+##### **Merged fields 2026**
 The following categories have been combined:
 
 - **LMG 8+ →** merged with **MG 8+**
@@ -37,5 +37,6 @@ The following categories have been combined:
 
 With these mergers, a fantastic race weekend is ahead—full fields, strong competitions, and hopefully splendid conditions on the Amstel.
 
-We wish all teams the best of luck with their final preparations.  
+We wish all teams the best of luck with their final preparations.     
+
 **Here's to a wonderful Head 2026! 🚣‍♀️🚣‍♂️✨**

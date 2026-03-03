@@ -32,7 +32,7 @@ linktiles:
   title2: "Boats"
   value2: 475
   title3: "Volunteers" 
-  value3: 155
+  value3: 190
   title4: "Trophies"
   value4: 12
  

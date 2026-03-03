@@ -1,0 +1,26 @@
+{{ $paramName := .Get "param" | default "cards" }}
+{{ $items := index .Page.Params $paramName | default (slice) }}
+{{ if gt (len $items) 0 }}
+<div class="row">
+  {{ range first 4 $items }}
+  {{ $itemTitle := .title | default "" }}
+  <div class="mb-8 md:col-6 lg:col-4">
+    <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-4 text-center h-full">
+      {{ with .image }}
+      <div class="mb-6 mt-2">
+        {{ partial "image" (dict "Src" . "Alt" $itemTitle "Class" "mx-auto rounded !mb-0 !mt-0" "Size" "150x150") }}
+      </div>
+      {{ end }}
+
+      {{ with .name }}
+      <h5 class="mb-3">{{ . }}</h5>
+      {{ end }}
+
+      {{ with .title }}
+      <p class="mt-3 mb-3">{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

@@ -34,7 +34,7 @@ linktiles:
   title2: "Boten"
   value2: 475
   title3: "Vrijwilligers"
-  value3: 155
+  value3: 190
   title4: "Trofeeën"
   value4: 12
 
