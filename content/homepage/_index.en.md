@@ -7,12 +7,12 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Block schedule
-  ql_col1_link: "deelnemers/tijdschema/"
+  ql_col1: Draw
+  ql_col1_link: "deelnemers/loting/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
-  ql_col3: Shop
-  ql_col3_link: "https://shop.headoftheriver.nl/"
+  ql_col3: Visitors
+  ql_col3_link: "bezoekers/"
 
 # Live video
 videolink: 

@@ -39,14 +39,14 @@ We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](..
 | 241     | OPRE 4*      | Open pre-masters dubbelvier-met             |
 | 220-227 | OMA-H 4*     | Open masters a t/m h dubbelvier-met         |
 | 115     | VM 8*        | Vrouwen masters dubbelacht                  |
-| 40      | VO Coastal4* | Vrouwen open Coastal-dubbelvier<sup>1</sup> |
+| ~~40~~      | ~~VO Coastal4*~~ | ~~Vrouwen open Coastal-dubbelvier<sup>1</sup>~~ |
 
 ### Zondag blok 1 - 10:45
 
 | ID      | Veld     | Beschrijving                              |
 |---------|----------|-------------------------------------------|
 | 11      | LME 8+   | Lichte Mannen elite acht                  |
-| 12      | LMG 8+   | Lichte Mannen gevorderde acht             |
+| ~~12~~     | ~~LMG 8+~~   | ~~Lichte Mannen gevorderde acht~~            |
 | 14      | LMEj 8+  | Lichte Mannen eerstejaars acht            |
 | 61      | M18 8+   | Mannen achttien acht                      |
 | 71      | V18 8+   | Vrouwen achttien acht                     |
@@ -70,7 +70,7 @@ We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](..
 | 4       | MEj 8+   | Mannen eerstejaars acht                    |
 | 112     | ME 4*    | Mannen elite dubbelvier-met                |
 | 21      | VE 8+    | Vrouwen elite acht                         |
-| 22      | VG 8+    | Vrouwen gevorderde acht                    |
+| ~~22~~      | ~~VG 8+~~    | ~~Vrouwen gevorderde acht~~                    |
 | 24      | VEj 8+   | Vrouwen eerstejaars acht                   |
 | 25      | VE 4*    | Vrouwen elite dubbelvier-met               |
 | 203-204 | OMD-E 8+ | Open masters d t/m e acht                  |

@@ -39,14 +39,14 @@ We have a lot of different events with different criteria. [Here](../tijdschema/
 | 241     | OPRE 4*      | Open Pre-Masters<sup>2</sup> Quads           |
 | 220-227 | OMA-H 4*     | Open Masters (A-H<sup>3</sup>) Quads         |
 | 115     | VM 8*        | Women’s Scull Eights                         |
-| 40      | VO Coastal4* | Women’s Open Coastal Coxed Quads<sup>4</sup> |
+| ~~40~~      | ~~VO Coastal4*~~ | ~~Women’s Open Coastal Coxed Quads<sup>4</sup>~~ |
 
 ### Sunday block 1 - 10:45
 
 | ID      | Event    | Description                                               |
 |---------|----------|-----------------------------------------------------------|
 | 11      | LME 8+   | Men’s Lightweight Eights                                  |
-| 12      | LMG 8+   | Men’s Lightweight Intermediate Eights (ODTA<sup>1</sup>)  |
+| ~~12~~     | ~~LMG 8+~~   | ~~Men’s Lightweight Intermediate Eights (ODTA<sup>1</sup>)~~  |
 | 14      | LMEj 8+  | Men’s Lightweight Freshmen Eights (ODTA<sup>1</sup>)      |
 | 61      | M18 8+   | Men’s Under 19 Eights                                     |
 | 71      | V18 8+   | Women’s Under 19 Eights                                   |
@@ -70,7 +70,7 @@ We have a lot of different events with different criteria. [Here](../tijdschema/
 | 4       | MEj 8+   | Men’s Freshmen Eights (ODTA<sup>1</sup>)        |
 | 112     | ME 4*    | Men’s Coxed Quads                               |
 | 21      | VE 8+    | Women’s Eights                                  |
-| 22      | VG 8+    | Women’s Intermediate Eights (ODTA<sup>1</sup>)  |
+| ~~22~~      | ~~VG 8+~~    | ~~Women’s Intermediate Eights (ODTA<sup>1</sup>)~~  |
 | 24      | VEj 8+   | Women’s Freshmen Eights (ODTA<sup>1</sup>)      |
 | 25      | VE 4*    | Women’s Coxed Quads                             |
 | 203-204 | OMD-E 8+ | Open Masters (Category D-E<sup>3</sup>) Eights  |

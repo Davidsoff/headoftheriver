@@ -7,14 +7,14 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Blokschema
-  ql_col1_link: "deelnemers/tijdschema/"
-  ql_col2: Shop
-  ql_col2_link: "https://shop.headoftheriver.nl/"
+  ql_col1: Loting
+  ql_col1_link: "deelnemers/loting/"
+  ql_col2: Deelnemers
+  ql_col2_link: "deelnemers/"
   # ql_col2: Deelnemers
   # ql_col2_link: "deelnemers/
-  ql_col3: Vrijwilligers
-  ql_col3_link: "over/vrijwilligers/"
+  ql_col3: Bezoekers
+  ql_col3_link: "bezoekers/"
 
 # Live video
 videolink: 
