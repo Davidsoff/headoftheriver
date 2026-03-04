@@ -18,7 +18,7 @@ No later than one and a half hours before the start of each block, a decision wi
 
 - for block 1: Saturday, 11:45
 - for block 2: Saturday, 14:30
-- for block 3: Sunday, 9:30
+- for block 3: Sunday, 9:15
 - for block 4: Sunday, 12:30
 
 ### Explanation of Codes:

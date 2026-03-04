@@ -16,7 +16,7 @@ Uiterlijk anderhalf uur voor aanvang van elk blok wordt besloten of desbetreffen
 
 - voor blok 1: zaterdag, 11:45
 - voor blok 2: zaterdag, 14:30
-- voor blok 3: zondag, 9:30
+- voor blok 3: zondag, 9:15
 - voor blok 4: zondag, 12:30
 
 ### Uitleg codes:
