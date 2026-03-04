@@ -2,11 +2,11 @@
 title: Ode aan de Amstel
 image: "/images/bezoekers/horecapartners/ode_amstel_2 (Medium).jpg"
 weblink: "https://odeaandeamstel.nl/"
-headmenu: false
+headmenu: true
 draft: false
 weight: 3
 ---
 
-Ode aan de Amstel heeft standaard een aantrekkelijke weekenddeal te vinden, zo ook tijdens het Head of the River weeken:
+Ode aan de Amstel heeft een aantrekkelijke weekenddeal tijdens het weekend van de Head of the River, van €49 voor €39:
 
-{{< button label="Menu" link="https://odeaandeamstel.nl/weekendbrunch" style="solid" >}}
+🔗 **Menu:** [**Ode aan de Amstel**](/documents/bezoekers/horecapartners/ode_menu_2026.png)

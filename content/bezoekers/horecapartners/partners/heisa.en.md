@@ -3,7 +3,7 @@ title: Heisa
 image: "/images/bezoekers/horecapartners/heisa-terras-3 (Medium).jpg"
 weblink: "https://www.caferestaurantheisa.nl/"
 headmenu: false
-draft: false
+draft: true
 weight: 1
 ---
 Our name might give it away, there's always something happening here.
