@@ -65,6 +65,8 @@
       "video"
     ],
     "classes": [
+      "!mb-0",
+      "!mt-0",
       "2xl:bg-pink-200",
       "2xl:block",
       "2xl:hidden",
@@ -149,6 +151,7 @@
       "h-4",
       "h-6",
       "h-auto",
+      "h-full",
       "h2",
       "h3",
       "header",
@@ -471,6 +474,7 @@
       "inschrijfformulier",
       "inschrijfgeld",
       "inschrijving",
+      "interviewprogramma",
       "jouw-rechten",
       "leeftijd",
       "link",
@@ -577,7 +581,6 @@
       "wedstrijdleiding",
       "weging",
       "weigh-in",
-      "weight-3",
       "welke-persoonsgegevens-verwerken-wij",
       "wie-wordt-de-winnaar-van-de-head-of-the-river-amstel-in-2024",
       "wie-zijn-wij",
