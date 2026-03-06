@@ -18,7 +18,7 @@ Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslag
 
 <div style= "margin-top:25px; margin-bottom:25px;padding-top:25px;"></div>
 
-### Bekers en wimpels
+<!-- ### Bekers en wimpels
 In de onderstaande velden kunnen de teams strijden om de wisselbekers of de blauwe wimpel!    
 De blauwe wimpel mag een jaar lang bij de vereniging worden uitgehangen.
 
@@ -38,4 +38,4 @@ De blauwe wimpel mag een jaar lang bij de vereniging worden uitgehangen.
 | Blauwe Wimpel: HG 8+  | Mannen gevorderde acht | Aegir |
 | Blauwe Wimpel: DG 8+  | Vrouwen gevorderde acht | Gyas |
 
- 
+  -->
