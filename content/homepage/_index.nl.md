@@ -13,8 +13,8 @@ quick_links:
   ql_col2_link: "deelnemers/"
   # ql_col2: Deelnemers
   # ql_col2_link: "deelnemers/
-  ql_col3: Bezoekers
-  ql_col3_link: "bezoekers/"
+  ql_col3: Uitslagen
+  ql_col3_link: "deelnemers/uitslag/"
 
 # Live video
 videolink: 

@@ -11,8 +11,8 @@ quick_links:
   ql_col1_link: "deelnemers/loting/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
-  ql_col3: Visitors
-  ql_col3_link: "bezoekers/"
+  ql_col3: Results
+  ql_col3_link: "deelnemers/uitslag/"
 
 # Live video
 videolink: 
