@@ -24,12 +24,15 @@ sessie2:
     title: "Voormalig coach Holland 8, Huidig coach Duitsland 8 (Dit jaar deelnemend aan de Head)"
     name: "Mark Emke"
   - image: "/images/live_video/gasten/avatar.png"
-    title: "Stuurvrouw bij de Holland 8"
-    name: "Paulien Vocking"
+    title: "Algemeen directeur Topsport Amsterdam"
+    name: "Frank Thewessem"
 sessie3:
   - image: "/images/live_video/gasten/avatar.png"
     title: "Masterroeier bij De Hoop, Tot twee jaar terug Eliteroeier bij De Hoop, Olympische Spelen in Beijing 2008, Holland 8"
     name: "Reinder Lubbers"
+  - image: "/images/live_video/gasten/avatar.png"
+    title: "VWon goud op de Olympische Spelen van 2016 in Rio de Janeiro in de lichtgewicht dubbeltwee"
+    name: "Ilse Paulis"
 sessie4:
   - image: "/images/live_video/gasten/avatar.png"
     title: "Voorzitter Amsterdamsche Roeibond (ARB)"
@@ -44,7 +47,7 @@ sessie6:
     name: "Boudewijn Bisschop"
   - image: "/images/live_video/gasten/avatar.png"
     title: "Won met de Holland Dames 8 goud in Shanghai"
-    name: "Tinka Offereins (onder voorbehoud)"  
+    name: "Tinka Offereins"  
 _build:
   render: ""
 ---
