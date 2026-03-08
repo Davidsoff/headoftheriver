@@ -45,9 +45,9 @@ sessie6:
   - image: "/images/live_video/gasten/avatar.png"
     title: "Voorzitter KARZV de Hoop"
     name: "Boudewijn Bisschop"
-  - image: "/images/live_video/gasten/tinka_900.jpg"
-    title: "Won met de Holland Dames 8 goud in Shanghai"
-    name: "Tinka Offereins"  
+  - image: "/images/live_video/gasten/avatar.png"
+    title: "Stuurvrouw Mannen 8 de Hoop"
+    name: "Julia Groenveld"  
 _build:
   render: ""
 ---
