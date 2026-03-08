@@ -15,6 +15,21 @@
 {{ partial "essentials/quick_links_three_buttons" . }}
 {{ end }}
 
+<!-- Divider - Quote -->
+{{ with .Params.message }}
+<section class="section-home mt-2 mb-2" style="background-color: red;">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10 mb-2 mt-2 text-center ">
+        <h3 class="text-white dark:text-darkmode-dark">{{ .title | markdownify }}</h3>
+        <h5 class="text-white dark:text-darkmode-dark">{{ .description | markdownify }}</h5>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /Divider - Quote -->
+
 <!-- Live video -->
 {{ with .Params.videolink }}
 {{if .enable}}

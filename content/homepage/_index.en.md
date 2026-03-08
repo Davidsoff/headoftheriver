@@ -14,6 +14,12 @@ quick_links:
   ql_col3: Results
   ql_col3_link: "deelnemers/uitslag/"
 
+#message
+message:
+  title: "Block 1 is cancelled"
+  # bg_color: "bg-red-500"
+  description: "Due to dense fog, it is not safe to start the 1st block (10:45-11:43). The first-year classification fields (LMEj8+ and LVEj4*) will be moved to the afternoon block. No reweighting is required for these fields."
+
 # Live video
 videolink: 
   enable: true

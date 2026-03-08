@@ -16,6 +16,12 @@ quick_links:
   ql_col3: Uitslagen
   ql_col3_link: "deelnemers/uitslag/"
 
+#message
+message:
+  title: "Blok 1 wordt geannuleerd"
+  # bg_color: "bg-red-500"
+  description: "Door de dichte mist is het niet veilig om het 1e blok (10:45-11:43) te laten starten. De eerstejaars klassement velden (LMEj8+ en de LVEj4*) zullen worden verplaatst naar het middagblok. Voor deze velden is geen herweging nodig."
+
 # Live video
 videolink: 
   enable: true
