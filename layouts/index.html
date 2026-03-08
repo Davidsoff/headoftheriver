@@ -22,7 +22,14 @@
   <div class="container">
     <div class="row justify-center">
       <div class="lg:col-10 mb-4 mt-4 text-center">
-        <h2>{{i18n "livevideo"}}</h2>
+        <h2>{{ .title }}</h2>
+        {{/*  <h2>{{i18n "livevideo"}}</h2>  */}}
+      </div>
+    </div>
+    <div class="row justify-center">
+      <div class="lg:col-10 mb-4 mt-4 text-center">
+        <h5>{{ .description }}</h5>
+        <h5><a href="{{ .description_link }}" rel="noopener noreferrer" style="text-decoration: underline;">{{ .description_link_text }}</a></h5>
       </div>
     </div>
     <div class="row justify-center">

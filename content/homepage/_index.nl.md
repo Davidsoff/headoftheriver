@@ -18,7 +18,11 @@ quick_links:
 
 # Live video
 videolink: 
-  enable: false
+  enable: true
+  title: "Head of the River Amstel 2026 LIVE!"
+  description: "Kijk voor het overzicht van de gasten die lanskomen op onze"
+  description_link: "../live/"
+  description_link_text: "live video pagina"
   url: "https://www.youtube.com/embed/aUolL9cNQlA?si=icPhoN1jz-VFgSam"
   alt_text: "Als bovenstaande video het niet doet bekijk dan hier ons Youtube channel"
   alt_text_link: "https://www.youtube.com/@headoftheriveramstel/streams"
