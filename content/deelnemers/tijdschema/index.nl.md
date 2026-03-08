@@ -68,8 +68,8 @@ We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](..
 | 210-217 | VMA-H 8+ | Vrouwen masters a t/m h acht              | -->
 
 ### Zondag blok2 - 14:00
-
-| ID      | Veld     | Beschrijving                               | Starttijd    |
+Wegens de verplaatsing van de LMEj8+ en LVEj4* naar het middagblok, zijn er nieuwe starttijden voor blok 2. Check de [**lotingpagina op TimeTeam**](https://regatta.time-team.nl/headoftheriveramstel/2026/draw/events.php) voor de laatste tijden. 
+<!-- | ID      | Veld     | Beschrijving                               | Starttijd    |
 |---------|----------|--------------------------------------------|--------------|
 | 73      | V16 4*   | Vrouwen zestien dubbelvier-met<sup>1</sup> | 14:00        |
 | 1       | ME 8+    | Mannen elite acht                          | 14:05        |
@@ -84,7 +84,7 @@ We hebben een groot aantal velden waarvoor specifieke criteria gelden. [Hier](..
 | 72      | V18 4*   | Vrouwen achttien dubbelvier-met            | 14:59        |
 | 28      | VEj 4+   | Vrouwen eerstejaars vier-met               | 15:03        |
 
-1 - De wedstrijdbaan voor de junioren 16 en Coastal velden is ongeveer 5.5km
+1 - De wedstrijdbaan voor de junioren 16 en Coastal velden is ongeveer 5.5km -->
 
 <!-- | ~~22~~      | ~~VG 8+~~    | ~~Vrouwen gevorderde acht~~                    | -->
 

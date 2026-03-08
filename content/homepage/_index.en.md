@@ -16,9 +16,9 @@ quick_links:
 
 #message
 message:
-  title: "Block 1 is cancelled"
+  title: "Block 2 on Sunday will go ahead"
   # bg_color: "bg-red-500"
-  description: "Due to dense fog, it is not safe to start the 1st block (10:45-11:43). The first-year classification fields (LMEj8+ and LVEj4*) will be moved to the afternoon block. No reweighting is required for these fields."
+  description: "Block 2 on Sunday will go ahead. Due to the rescheduling of the LMEj8+ and LVEj4* events, there are new start times. Check the results page on TimeTeam for the latest times. For all crews, they must pass the Rozenoord bridge between 35 and 30 minutes before their new start time."
 
 # Live video
 videolink: 

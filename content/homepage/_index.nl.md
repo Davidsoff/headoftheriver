@@ -18,9 +18,9 @@ quick_links:
 
 #message
 message:
-  title: "Blok 1 wordt geannuleerd"
+  title: "Zondag blok 2 gaat door"
   # bg_color: "bg-red-500"
-  description: "Door de dichte mist is het niet veilig om het 1e blok (10:45-11:43) te laten starten. De eerstejaars klassement velden (LMEj8+ en de LVEj4*) zullen worden verplaatst naar het middagblok. Voor deze velden is geen herweging nodig."
+  description: "Blok 2 van de zondag zal doorgang vinden. Vanwege de verplaatsing van de LMEj8+ en LVEj4* zijn er nieuwe starttijden. Kijk via de uitslagenpagina op TimeTeam voor de laatste tijden. Voor alle ploegen velden geldt dat zij tussen 35 en 30 minuten voor hun nieuwe starttijd voorbij de Rozenoord brug moeten komen."
 
 # Live video
 videolink: 

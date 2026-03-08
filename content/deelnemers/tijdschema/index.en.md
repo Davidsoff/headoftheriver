@@ -67,8 +67,8 @@ We have a lot of different events with different criteria. [Here](../tijdschema/
 | 240     | VPRE 8+  | Women’s pre-Masters<sup>2</sup> Eights                    | -->
 
 ### Sunday block2 - 14:00
-
-| ID      | Event    | Description                                     | Start time   |
+Due to the rescheduling of the LMEj8+ and LVEj4* events to the afternoon block, there are new start times for block 2. Check the [**draw page on TimeTeam**](https://regatta.time-team.nl/headoftheriveramstel/2026/draw/events.php) for the latest times. 
+<!-- | ID      | Event    | Description                                     | Start time   |
 |---------|----------|-------------------------------------------------|--------------|
 | 73      | V16 4*   | Women’s Under 17 Coxed Quads<sup>4</sup>        | 14:00        |
 | 1       | ME 8+    | Men’s Elite Eights                              | 14:05        |
@@ -81,7 +81,7 @@ We have a lot of different events with different criteria. [Here](../tijdschema/
 | 203-204 | OMD-E 8+ | Open Masters (Category D-E<sup>3</sup>) Eights  | 14:37        |
 | 8       | MEj 4+   | Men’s Freshmen Coxed Fours (ODTA<sup>1</sup>)   | 14:55        |
 | 72      | V18 4*   | Women’s Under 19 Coxed Quads                    | 14:59        |
-| 28      | VEj 4+   | Women’s Freshmen Coxed Fours (ODTA<sup>1</sup>) | 15:03        |
+| 28      | VEj 4+   | Women’s Freshmen Coxed Fours (ODTA<sup>1</sup>) | 15:03        | -->
 
 <!-- | ~~22~~      | ~~VG 8+~~    | ~~Women’s Intermediate Eights (ODTA<sup>1</sup>)~~  | -->
 1 - ODTA - Only Dutch Teams Allowed   
