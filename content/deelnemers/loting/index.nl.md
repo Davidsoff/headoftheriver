@@ -8,10 +8,11 @@ menu:
     parent: Deelnemers
     weight: 50
 ---
-<!-- Begin maart zal de loting van de komende editie van de Head of the River plaatsvinden. Tegen die tijd vind je hier meer informatie over de loting. -->
+Begin maart zal de loting van de komende editie van de Head of the River plaatsvinden. Tegen die tijd vind je hier meer informatie over de loting.
 
 <!-- Op 3 maart 2025 vindt de loting plaats. Enkele dagen later kun je hier zien wat je positie in het veld is. -->
 
+<!-- 
 #### De loting is bekend voor de Head of the River 2026.   
 Klik op onderstaande link om te zien wat je positie in het veld is.   
 
@@ -29,7 +30,7 @@ Klik op onderstaande link om te zien wat je positie in het veld is.
 - OMC 4* is samengevoegd met OMB 4* 
 - OMH 4* is samengevoegd met OMG 4*
 - VMB 4* is samengevoegd met VMA 4* 
-- VMH 4* is samengevoegd met VMF 4* 
+- VMH 4* is samengevoegd met VMF 4*  -->
 
 <!-- Voor de specifieke starttijd van je ploeg en de tijd dat je door de Rozenoordbrug moet varen kan je kijken in deze [PDF-file](../../deelnemers/loting/documents/Starttijd_per_ploeg_Head_2024.pdf).
  -->

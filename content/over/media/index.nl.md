@@ -3,19 +3,31 @@ title: "Media"
 meta_title: ""
 description: "Media van Head of the River Amstel"
 draft: false
-menu:
-  main:
-    parent: Over
-    weight: 5
 # menu:
 #   main:
+#     parent: Over
 #     weight: 5
+menu:
+  main:
+    weight: 5
 ---
-### Fotos
-Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River. 
-#### Head of the River 2026
-Zodra de fotos van 2026 beschikbaar zijn zullen deze hier ook te vinden zijn.
+### Live videoregistratie
+Op zondag 8 maart was het eindelijk zover: voor het eerst ooit brachten we de Head of the River Amstel live naar je scherm! Zes uur lang, van 10:00 tot 16:00, kon je alle spannende races, spectaculaire finishes en onvergetelijke momenten live volgen via Salto en ons eigen YouTube-kanaal.
 
+De video hieronder is een opname van de live-uitzending, zodat je de spanning van de races en de exclusieve interviews met prominente roeiers, coaches en bestuurders uit de roeisport opnieuw kunt beleven.
+
+<div class="grid grid-cols-2 gap-4 rounded" style="margin-top:40px; margin-bottom:50px">
+ {{< youtube aUolL9cNQlA >}}
+</div>
+
+### Fotos
+<!-- Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River. 
+#### Head of the River 2026 -->
+Zodra de fotos van de organisatie van 2026 beschikbaar zijn zullen deze hier ook te vinden zijn.
+
+Commerciele fotograven waren ook aanwezig tijdens de wedstrijd waar je ook nog kunt kijken:
+* [Leo de Keizer (LOEP)](https://loep.nu/head/)
+* [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
 <!-- ## Evenementimpressie 2024
 
 ### Galerij
@@ -24,12 +36,13 @@ Zodra de fotos van 2026 beschikbaar zijn zullen deze hier ook te vinden zijn.
 
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:25px; margin-bottom:25px">
 </div>
+
 {{< accordion "Fotos 2025" >}}   
 Via onderstaande link vind je meer fotos namens de organisatie van de Head of the River.
 
 [Head of the River 2025](https://photos.app.goo.gl/nSDYiRUrpxWdMaej9)    
 
-Daarnaast zijn er nog een aantal commerciele fotgraven aanwezig geweest tijdens de wedstrijd waar je ook nog kunt kijken:   
+Daarnaast zijn er nog een aantal commerciële fotografen aanwezig geweest tijdens de wedstrijd waar je ook nog kunt kijken:   
 * [Leo de Keizer (LOEP)](https://www.loep.nu/roeiwedstrijden-2025/)
 * [Kylian Alkemade](https://www.kylianalkemade.nl/mobograaf/)
 * [KNRB](https://knrb.pixieset.com/headoftheriveramstel2025/)

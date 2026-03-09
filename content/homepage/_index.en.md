@@ -7,22 +7,22 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Draw
-  ql_col1_link: "deelnemers/loting/"
+  ql_col1: Media
+  ql_col1_link: "over/media/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
   ql_col3: Results
   ql_col3_link: "deelnemers/uitslag/"
 
 #message
-message:
-  title: "Block 2 on Sunday will go ahead"
-  # bg_color: "bg-red-500"
-  description: "Block 2 on Sunday will go ahead. Due to the rescheduling of the LMEj8+ and LVEj4* events, there are new start times. Check the results page on TimeTeam for the latest times. For all crews, they must pass the Rozenoord bridge between 35 and 30 minutes before their new start time."
+# message:
+#   title: "Block 2 on Sunday will go ahead"
+#   # bg_color: "bg-red-500"
+#   description: "Block 2 on Sunday will go ahead. Due to the rescheduling of the LMEj8+ and LVEj4* events, there are new start times. Check the results page on TimeTeam for the latest times. For all crews, they must pass the Rozenoord bridge between 35 and 30 minutes before their new start time."
 
 # Live video
 videolink: 
-  enable: true
+  enable: false
   title: "Head of the River Amstel 2026 LIVE!"
   description: "Check out the overview of the guests who will be appearing on our"
   description_link: "../live/"

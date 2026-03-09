@@ -8,7 +8,7 @@ slug: live
 menus: 
   main:
     weight: 6
-draft: false
+draft: true
 sessie1:
   - image: "/images/live_video/gasten/seada_900.jpg"
     title: "Voorzitter KNRB"

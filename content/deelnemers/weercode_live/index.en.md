@@ -1,7 +1,7 @@
 ---
 title: Current weather code
 layout: weercode_live_single
-weather_button: true
+weather_button: false
 weather_code: green
 text_green: The weather forecast for the afternoon is good, and the competition will proceed as planned. Check TimeTeam for the latest start times.
 text_yellow: Currently, it's very foggy around the Amstel river. At 09:15 we will publish whether or not we will be able to row in block 1. Please keep an eye on our webpage.

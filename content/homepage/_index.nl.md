@@ -7,8 +7,8 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Loting
-  ql_col1_link: "deelnemers/loting/"
+  ql_col1: Media
+  ql_col1_link: "over/media/"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
   # ql_col2: Deelnemers
@@ -17,14 +17,14 @@ quick_links:
   ql_col3_link: "deelnemers/uitslag/"
 
 #message
-message:
-  title: "Zondag blok 2 gaat door"
-  # bg_color: "bg-red-500"
-  description: "Blok 2 van de zondag zal doorgang vinden. Vanwege de verplaatsing van de LMEj8+ en LVEj4* zijn er nieuwe starttijden. Kijk via de uitslagenpagina op TimeTeam voor de laatste tijden. Voor alle ploegen velden geldt dat zij tussen 35 en 30 minuten voor hun nieuwe starttijd voorbij de Rozenoord brug moeten komen."
+# message:
+#   title: "Zondag blok 2 gaat door"
+#   # bg_color: "bg-red-500"
+#   description: "Blok 2 van de zondag zal doorgang vinden. Vanwege de verplaatsing van de LMEj8+ en LVEj4* zijn er nieuwe starttijden. Kijk via de uitslagenpagina op TimeTeam voor de laatste tijden. Voor alle ploegen velden geldt dat zij tussen 35 en 30 minuten voor hun nieuwe starttijd voorbij de Rozenoord brug moeten komen."
 
 # Live video
 videolink: 
-  enable: true
+  enable: false
   title: "Head of the River Amstel 2026 LIVE!"
   description: "Kijk voor het overzicht van de gasten die lanskomen op onze"
   description_link: "../live/"

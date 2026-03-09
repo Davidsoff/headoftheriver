@@ -3,19 +3,31 @@ title: "Media"
 meta_title: ""
 description: "Media of the Head of the River Amstel"
 draft: false
-menu:
-  main:
-    parent: About
-    weight: 5
 # menu:
 #   main:
+#     parent: About
 #     weight: 5
+menu:
+  main:
+    weight: 5
 ---
-### Photos
-By following the link below, you will find a collection of photos from the organization of the Head of the River.
+### Live video registration
+On Sunday, March 8th, it was finally happening: for the first time ever, we brought the Head of the River Amstel live to your screen! For six hours, from 10:00 to 16:00, you could follow all the exciting races, thrilling finishes, and unforgettable moments live via Salto and our own YouTube channel.
 
-#### Head of the River 2026
-As soon as the photos of 2026 are available, they will also be found here.
+The video below is a recording of the live stream, so you can relive the excitement of the races and the exclusive interviews with prominent rowers, coaches, and administrators from the rowing world. 
+
+<div class="grid grid-cols-2 gap-4 rounded" style="margin-top:40px; margin-bottom:50px">
+ {{< youtube aUolL9cNQlA >}}
+</div>
+
+### Photos
+<!-- Using the link below, you will find a collection of photos from the organization of the Head of the River. 
+#### Head of the River 2026 -->
+As soon as the photos of the organization of 2026 are available, they will also be found here.
+
+Commercial photographers were also present during the event where you can also look at their photos:
+* [Leo de Keizer (LOEP)](https://loep.nu/head/)
+* [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
 
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:25px; margin-bottom:25px">
 </div>
