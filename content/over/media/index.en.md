@@ -21,11 +21,13 @@ The video below is a recording of the live stream, so you can relive the excitem
 </div>
 
 ### Photos
-<!-- Using the link below, you will find a collection of photos from the organization of the Head of the River. 
-#### Head of the River 2026 -->
-As soon as the photos of the organization of 2026 are available, they will also be found here.
+Using the link below, you will find a collection of photos from the organization of the Head of the River.    
+
+🔗 [**Head of the River 2026**](https://photos.app.goo.gl/LvgERiQ1fPGABiDa8)
+<!-- As soon as the photos of the organization of 2026 are available, they will also be found here. -->
 
 Commercial photographers were also present during the event where you can also look at their photos:
+* [KNRB](https://knrb.pixieset.com/headoftheriveramstel2026/)
 * [Leo de Keizer (LOEP)](https://loep.nu/head/)
 * [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
 

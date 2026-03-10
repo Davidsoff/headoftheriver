@@ -21,11 +21,13 @@ De video hieronder is een opname van de live-uitzending, zodat je de spanning va
 </div>
 
 ### Fotos
-<!-- Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River. 
-#### Head of the River 2026 -->
-Zodra de fotos van de organisatie van 2026 beschikbaar zijn zullen deze hier ook te vinden zijn.
+Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River.    
 
-Commerciele fotograven waren ook aanwezig tijdens de wedstrijd waar je ook nog kunt kijken:
+🔗 [**Head of the River 2026**](https://photos.app.goo.gl/LvgERiQ1fPGABiDa8)
+<!-- Zodra de fotos van de organisatie van 2026 beschikbaar zijn zullen deze hier ook te vinden zijn. -->
+
+Commerciele fotografen waren ook aanwezig tijdens de wedstrijd waar je ook nog kunt kijken:
+* [KNRB](https://knrb.pixieset.com/headoftheriveramstel2026/)
 * [Leo de Keizer (LOEP)](https://loep.nu/head/)
 * [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
 <!-- ## Evenementimpressie 2024
