@@ -17,18 +17,59 @@
 
 <!-- Message -->
 {{ with .Params.message }}
-<section class="section-home mt-2 mb-2" style="background-color: green;">
+<section class="section-home mt-2 mb-2" style="background-color: rgb(255, 255, 255); ">
   <div class="container">
     <div class="row justify-center">
       <div class="lg:col-10 mb-2 mt-2 text-center ">
-        <h3 class="text-white dark:text-darkmode-dark">{{ .title | markdownify }}</h3>
-        <h5 class="text-white dark:text-darkmode-dark">{{ .description | markdownify }}</h5>
+        <h3 class="text-black dark:text-darkmode-dark">{{ .title | markdownify }}</h3>
+        <h5 class="text-black dark:text-darkmode-dark">{{ .description | markdownify }}</h5>
       </div>
     </div>
   </div>
 </section>
 {{ end }}
 <!-- /message -->
+
+<!-- End movie -->
+<section class="section-home mt-4 mb-4">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10 text-center">
+        {{ $endmovie := resources.Get "images/homepage/endmovie_head2026_red.mp4" }}
+        <video id="endmovie-video" class="w-full h-auto rounded" style="max-width: 250px; margin: 0 auto;" controls controlsList="nodownload" playsinline muted autoplay preload="metadata">
+          <source src="{{ $endmovie.RelPermalink }}" type="video/mp4">
+        </video>
+        <div class="mt-3">
+          <button id="endmovie-audio-toggle" type="button" aria-pressed="false"
+            style="background: rgba(0,0,0,0.75); color: #fff; border: 1px solid rgba(255,255,255,0.6); padding: 8px 12px; border-radius: 6px;">
+            Sound: Off
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+  (function () {
+    var video = document.getElementById("endmovie-video");
+    var toggle = document.getElementById("endmovie-audio-toggle");
+    if (!video || !toggle) return;
+
+    function renderState() {
+      var isMuted = video.muted;
+      toggle.textContent = isMuted ? "Sound: Off" : "Sound: On";
+      toggle.setAttribute("aria-pressed", String(!isMuted));
+    }
+
+    toggle.addEventListener("click", function () {
+      video.muted = !video.muted;
+      renderState();
+    });
+
+    renderState();
+  })();
+</script>
+<!-- /End movie -->
 
 <!-- Live video -->
 {{ with .Params.videolink }}
