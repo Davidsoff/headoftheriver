@@ -14,11 +14,11 @@ quick_links:
   ql_col3: Results
   ql_col3_link: "deelnemers/uitslag/"
 
-#message
-# message:
-#   title: "Block 2 on Sunday will go ahead"
-#   # bg_color: "bg-red-500"
-#   description: "Block 2 on Sunday will go ahead. Due to the rescheduling of the LMEj8+ and LVEj4* events, there are new start times. Check the results page on TimeTeam for the latest times. For all crews, they must pass the Rozenoord bridge between 35 and 30 minutes before their new start time."
+# Message
+message:
+  title: "What an unforgettable edition of the Head of the River Amstel 2026! 🎉"
+  description: "With pride, we look back on a wonderful race, full of passion, sportsmanship, and unforgettable moments. And how special it was to experience our very first TV broadcast. And to interview interesting guests from the rowing world. A big thank you to everyone who made this event possible: our amazing participants, dedicated volunteers, ARB members, and everyone else who worked behind the scenes. You made the Head a huge success!    
+    We hope to welcome you all again next year!"
 
 # Live video
 videolink: 

@@ -16,10 +16,9 @@ quick_links:
   ql_col3: Uitslagen
   ql_col3_link: "deelnemers/uitslag/"
 
-#message
+# Message
 message:
-  title: "Wat een onvergetelijke editie van de Head of the river Amstel 2026! 🎉"
-  # bg_color: "bg-red-500"
+  title: "Wat een onvergetelijke editie van de Head of the River Amstel 2026! 🎉"
   description: "Met trots kijken we terug op een prachtige wedstrijd, vol passie, sportiviteit en onvergetelijke momenten. En wat was het speciaal om onze allereerste TV-uitzending te mogen beleven. En interessante gasten uit de roeiwereld te mogen interviewen. Een mijlpaal die we met z’n allen koesteren.    
     Een extra dikke dankjewel voor iedereen die dit evenement mogelijk heeft gemaakt: onze geweldige deelnemers, toegewijde vrijwilligers, ARB-leden en alle anderen die achter de schermen hebben gewerkt. Jullie hebben de Head tot een enorm succes gemaakt!    
     We hopen jullie volgend jaar weer allemaal te mogen verwelkomen!"
