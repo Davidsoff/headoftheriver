@@ -17,7 +17,8 @@ On Sunday, March 8th, it was finally happening: for the first time ever, we brou
 The video below is a recording of the live stream, so you can relive the excitement of the races and the exclusive interviews with prominent rowers, coaches, and administrators from the rowing world. 
 
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:40px; margin-bottom:50px">
- {{< youtube aUolL9cNQlA >}}
+ <!-- {{< youtube aUolL9cNQlA >}} -->
+ {{< youtube JoqUuU2K1Tg >}}
 </div>
 
 ### Photos
@@ -30,6 +31,7 @@ Commercial photographers were also present during the event where you can also l
 * [KNRB](https://knrb.pixieset.com/headoftheriveramstel2026/)
 * [Leo de Keizer (LOEP)](https://loep.nu/head/)
 * [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
+* [Robert Rowing Photos](https://www.oypo.nl/nl/906e82b59bfe318b)
 
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:25px; margin-bottom:25px">
 </div>

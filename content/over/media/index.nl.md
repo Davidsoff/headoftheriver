@@ -17,7 +17,8 @@ Op zondag 8 maart was het eindelijk zover: voor het eerst ooit brachten we de He
 De video hieronder is een opname van de live-uitzending, zodat je de spanning van de races en de exclusieve interviews met prominente roeiers, coaches en bestuurders uit de roeisport opnieuw kunt beleven.
 
 <div class="grid grid-cols-2 gap-4 rounded" style="margin-top:40px; margin-bottom:50px">
- {{< youtube aUolL9cNQlA >}}
+ <!-- {{< youtube aUolL9cNQlA >}} -->
+ {{< youtube JoqUuU2K1Tg >}}
 </div>
 
 ### Fotos
@@ -30,6 +31,7 @@ Commerciele fotografen waren ook aanwezig tijdens de wedstrijd waar je ook nog k
 * [KNRB](https://knrb.pixieset.com/headoftheriveramstel2026/)
 * [Leo de Keizer (LOEP)](https://loep.nu/head/)
 * [Jonathan Ogilivie](https://www.facebook.com/Ogilviefotografie/photos_albums)
+* [Robert Rowing Photos](https://www.oypo.nl/nl/906e82b59bfe318b)
 <!-- ## Evenementimpressie 2024
 
 ### Galerij
