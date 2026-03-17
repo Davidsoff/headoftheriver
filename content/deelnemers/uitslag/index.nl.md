@@ -18,24 +18,25 @@ Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslag
 
 <div style= "margin-top:25px; margin-bottom:25px;padding-top:25px;"></div>
 
-<!-- ### Bekers en wimpels
+### Bekers en wimpels
 In de onderstaande velden kunnen de teams strijden om de wisselbekers of de blauwe wimpel!    
 De blauwe wimpel mag een jaar lang bij de vereniging worden uitgehangen.
 
-| Prijs                 | Veld                  | Winnaar editie 2025        |
-|-----------------------|-----------------------|---------------------------------|
-| ME8+                  | Mannen Elite 8+       | --                              |
-| VE8+                  | Vrouwen Elite 8+        |--                             |
-| MEj8+                 | Mannen Eerstejaars 8+  | Nereus                       |
-| VEj8+                 | Vrouwen Eerstejaars 8+  | Gyas                      |
-| VM8+                  | Vrouwen Master 8+       | Beatrix      |
-| M8+                   | Master 8+             | Hoop/Proteus-Eretes/Okeanos |
-| VCl4*                 | Vrouwen Club 4*         | -- |
-| V16 4*            | Vrouwen 16 Dubbel Vier   | Hemus/Spaarne/Die Leythe   |
-| V18 4*            | Vrouwen 18 Dubbel Vier   | De Hunze/Amstel/Spaarne/Willem III  |
-| M16 4*            | Mannen 16 Dubbel Vier   | Die Leythe/Tromp |
-| M18 4*            | Mannen 18 Dubbel Vier   | Die Leythe/Willem III/Hoop | 
-| Blauwe Wimpel: HG 8+  | Mannen gevorderde acht | Aegir |
-| Blauwe Wimpel: DG 8+  | Vrouwen gevorderde acht | Gyas |
+| Prijs                 | Veld                    | Winnaar editie 2026        |
+|-----------------------|-----------------------  |---------------------------------|
+| ME8+                  | Mannen Elite 8+         | Germany 1                              |
+| VE8+                  | Vrouwen Elite 8+        | Gyas                             |
+| MEj8+                 | Mannen Eerstejaars 8+   | Nereus                       |
+| VEj8+                 | Vrouwen Eerstejaars 8+  | Njord                      |
+| VM8+                  | Vrouwen Master 8+       | --      |
+| M8+                   | Master 8+               | de Hoop 2 |
+| VCl4*                 | Vrouwen Club 4*         | SN Caen Calvados |
+| V16 4*            | Vrouwen 16 Dubbel Vier      | Viking / Jason   |
+| V18 4*            | Vrouwen 18 Dubbel Vier      | Rijnland / Die Leythe  |
+| M16 4*            | Mannen 16 Dubbel Vier       | -- |
+| M18 4*            | Mannen 18 Dubbel Vier       | -- | 
+| Schot voor de Boeg | Meest talentvolle vereniging | Nereus  |
+| Blauwe Wimpel: ME8+  | Mannen Elite acht (NL) | de Hoop |
+| Blauwe Wimpel: VE8+  | Vrouwen Elite acht (NL) | Gyas |
 
-  -->
+ 
