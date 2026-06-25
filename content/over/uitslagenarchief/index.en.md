@@ -11,6 +11,13 @@ menu:
 ### Results archive 
 Below you will find the results of the Head of the River Amstel of the past years.
 
+{{< accordion "Results 2026" >}}
+The results of the Head of the River Amstel 2026 can be viewed via the link below.
+
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2026/results/events.php" target="_blank"><img alt="" src="https://time-team.nl/inc/img/timeteam/time-team.gif" width="400"></a>
+
+{{< /accordion >}}
+
 {{< accordion "Results 2025" >}}
 
 The results of the Head of the River Amstel 2025 can be viewed via the link below.

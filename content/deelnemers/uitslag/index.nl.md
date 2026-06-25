@@ -9,10 +9,10 @@ menu:
     weight: 60
 ---
 ## Live Uitslagen
-<!-- Zodra de Head of the River is gestart zal je hier live de uitslagen kunnen volgen.   
-Kijk voor uitslagen van de afgelopen edities op ons [Uitslagenarchief](../../over/uitslagenarchief/).    -->
+Zodra de Head of the River is gestart zal je hier live de uitslagen kunnen volgen.   
+Kijk voor uitslagen van de afgelopen edities op ons [Uitslagenarchief](../../over/uitslagenarchief/).   
 
-Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslagen volgen.
+<!-- Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslagen volgen.
 
 <a href="https://regatta.time-team.nl/headoftheriveramstel/2026/results/events.php" target="_blank"><img alt="" src="https://time-team.nl/inc/img/timeteam/time-team.gif" width="400"></a>
 
@@ -37,6 +37,6 @@ De blauwe wimpel mag een jaar lang bij de vereniging worden uitgehangen.
 | M18 4*            | Mannen 18 Dubbel Vier       | -- | 
 | Schot voor de Boeg | Meest talentvolle vereniging | Nereus  |
 | Blauwe Wimpel: ME8+  | Mannen Elite acht (NL) | de Hoop |
-| Blauwe Wimpel: VE8+  | Vrouwen Elite acht (NL) | Gyas |
+| Blauwe Wimpel: VE8+  | Vrouwen Elite acht (NL) | Gyas | -->
 
  

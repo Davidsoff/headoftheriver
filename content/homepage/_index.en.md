@@ -2,8 +2,8 @@
 # Slider
 slider:
   title_on: true
-  title: "7 & 8 MARCH 2026"
-  CD_date: "Mar 7, 2026 12:00:00"
+  title: "6 & 7 MARCH 2027"
+  CD_date: "Mar 6, 2027 12:00:00"
 
 # Quick links menu
 quick_links:
@@ -16,6 +16,7 @@ quick_links:
 
 # Message
 message:
+  enable: false
   title: "What an unforgettable edition of the Head of the River Amstel 2026! 🎉"
   description: "With pride, we look back on a wonderful race, full of passion, sportsmanship, and unforgettable moments. And how special it was to experience our very first TV broadcast. And to interview interesting guests from the rowing world. A big thank you to everyone who made this event possible: our amazing participants, dedicated volunteers, ARB members, and everyone else who worked behind the scenes. You made the Head a huge success!    
     We hope to welcome you all again next year!"

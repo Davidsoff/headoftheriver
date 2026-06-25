@@ -1,0 +1,36 @@
+{{- /*
+  Local video shortcode.
+  Usage:
+    {{< video src="images/homepage/endmovie_head2026_red.mp4" >}}
+    {{< video src="videos/myclip.mp4" width="400px" autoplay="true" >}}
+    {{< video src="https://example.com/clip.mp4" width="100%" >}}
+
+  - "src" resolves from the assets/ folder first (via resources.Get).
+    If not found there it falls back to a static/ path; external
+    http(s):// (or protocol-relative //) URLs are used as-is.
+  - Optional: width (default 640px), autoplay, muted, loop,
+    controls (default true) — all booleans as "true"/"false".
+    class (extra CSS classes appended to the default ones).
+*/ -}}
+{{- $src := .Get "src" | default (.Get 0) -}}
+{{- $width := .Get "width" | default "640px" -}}
+{{- $autoplay := eq (.Get "autoplay") "true" -}}
+{{- $muted := or (eq (.Get "muted") "true") $autoplay -}}
+{{- $loop := eq (.Get "loop") "true" -}}
+{{- $controls := ne (.Get "controls") "false" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $url := $src -}}
+{{- if or (strings.HasPrefix $src "http://") (strings.HasPrefix $src "https://") (strings.HasPrefix $src "//") -}}
+  {{- /* External / absolute URL: use as-is. */ -}}
+  {{- $url = $src -}}
+{{- else -}}
+  {{- with resources.Get $src -}}
+    {{- $url = .RelPermalink -}}
+  {{- else -}}
+    {{- $url = $src | relURL -}}
+  {{- end -}}
+{{- end -}}
+<video class="w-full h-auto rounded{{ with $class }} {{ . }}{{ end }}" style="max-width: {{ $width }}; margin: 1rem auto;"{{ if $controls }} controls controlsList="nodownload"{{ end }} playsinline preload="metadata"{{ if $autoplay }} autoplay{{ end }}{{ if $muted }} muted{{ end }}{{ if $loop }} loop{{ end }}>
+  <source src="{{ $url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

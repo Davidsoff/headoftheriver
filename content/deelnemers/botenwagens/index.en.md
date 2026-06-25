@@ -23,7 +23,7 @@ After registering, you will receive an email from the organization with further 
 #### On the Jan Vroegop Singel: unload as much as possible directly and park elsewhere
 Volunteers from the Head organization guide the vehicles to their unloading location on the Jan Vroegopsingel. The large boat trailers driving to the Jan Vroegopsingel are given a fixed place where they do not need to be unloaded immediately. Smaller boat trailers should be unloaded here as much as possible. The boats should then be placed in the racks and not left on supports or trestles, as this limits the available space.
 
-An empty boat trailer can be parked on the grounds of the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), behind the Rozenoord Bridge. An empty boat trailer can be parked there from Friday afternoon 07-03 until no later than Sunday evening 09-03.    
+An empty boat trailer can be parked on the grounds of the [Police Training Center](https://maps.app.goo.gl/gxGRTsGy5eKxQnHR9), behind the Rozenoord Bridge. An empty boat trailer can be parked there from Friday afternoon, the day before the race weekend until no later than Sunday evening, the last day of the race weekend.    
 Only the outer parking lanes (the two closest to the access road) are available!
 
 Additionally, the area at Jan Vroegopsingel under the Rozenoord Bridge is also available.

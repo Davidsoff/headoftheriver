@@ -13,6 +13,33 @@ Hieronder vind je de uitslagen van de Head of the River Amstel van de afgelopen 
 
 {{< results_years >}}
 <!-- TODO -->
+{{< accordion "Uitslagen 2026" >}}
+
+De uitslagen van de Head of the River Amstel 2025 kan je vinden via onderstaande link.   
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2026/results/events.php" target="_blank"><img alt="" src="https://time-team.nl/inc/img/timeteam/time-team.gif" width="400"></a>
+
+### Bekers en wimpels
+In de onderstaande velden kunnen de teams strijden om de wisselbekers of de blauwe wimpel!    
+De blauwe wimpel mag een jaar lang bij de vereniging worden uitgehangen.
+
+| Prijs                 | Veld                    | Winnaar editie 2026        |
+|-----------------------|-----------------------  |---------------------------------|
+| ME8+                  | Mannen Elite 8+         | Germany 1                              |
+| VE8+                  | Vrouwen Elite 8+        | Gyas                             |
+| MEj8+                 | Mannen Eerstejaars 8+   | Nereus                       |
+| VEj8+                 | Vrouwen Eerstejaars 8+  | Njord                      |
+| VM8+                  | Vrouwen Master 8+       | --      |
+| M8+                   | Master 8+               | de Hoop 2 |
+| VCl4*                 | Vrouwen Club 4*         | SN Caen Calvados |
+| V16 4*            | Vrouwen 16 Dubbel Vier      | Viking / Jason   |
+| V18 4*            | Vrouwen 18 Dubbel Vier      | Rijnland / Die Leythe  |
+| M16 4*            | Mannen 16 Dubbel Vier       | -- |
+| M18 4*            | Mannen 18 Dubbel Vier       | -- | 
+| Schot voor de Boeg | Meest talentvolle vereniging | Nereus  |
+| Blauwe Wimpel: ME8+  | Mannen Elite acht (NL) | de Hoop |
+| Blauwe Wimpel: VE8+  | Vrouwen Elite acht (NL) | Gyas |
+
+{{< /accordion >}}
 {{< accordion "Uitslagen 2025" >}}
 
 De uitslagen van de Head of the River Amstel 2025 kan je vinden via onderstaande link.
