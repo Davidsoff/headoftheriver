@@ -12,7 +12,7 @@ menu:
     weight: 5
 ---
 ### Live videoregistratie
-Op zondag 8 maart was het eindelijk zover: voor het eerst ooit brachten we de Head of the River Amstel live naar je scherm! Zes uur lang, van 10:00 tot 16:00, kon je alle spannende races, spectaculaire finishes en onvergetelijke momenten live volgen via Salto en ons eigen YouTube-kanaal.
+Op zondag 8 maart 2026 was het eindelijk zover: voor het eerst ooit brachten we de Head of the River Amstel live naar je scherm! Zes uur lang, van 10:00 tot 16:00, kon je alle spannende races, spectaculaire finishes en onvergetelijke momenten live volgen via Salto en ons eigen YouTube-kanaal.
 
 De video hieronder is een opname van de live-uitzending, zodat je de spanning van de races en de exclusieve interviews met prominente roeiers, coaches en bestuurders uit de roeisport opnieuw kunt beleven.
 
@@ -20,6 +20,16 @@ De video hieronder is een opname van de live-uitzending, zodat je de spanning va
  <!-- {{< youtube aUolL9cNQlA >}} -->
  {{< youtube JoqUuU2K1Tg >}}
 </div>
+
+De live video is mede mogelijk gemaakt door onze partner Rabobank. Hun steun heeft ervoor gezorgd dat we dit unieke evenement op een professionele manier konden vastleggen en delen met de wereld.
+
+<div style="width:40%; min-width:150px; margin:0px;" class="reduced-img-margin">
+
+[{{< image src="images/Rabobank_promotie_video_drukwerk.jpg" caption="" alt="Rabobank promotie" position="center" command="fill" option="q100" class="img-fluid" title="Rabobank promotie video drukwerk"  webp="false" >}}](https://www.rabobank.nl/buurtsupport)
+
+</div>
+<style>.reduced-img-margin img { margin-top: 0rem; }</style>
+
 
 ### Fotos
 Via onderstaande link kom je bij een eigen verzameling fotos van de organisatie van de Head of the River.    
