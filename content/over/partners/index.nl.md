@@ -311,6 +311,11 @@ Voor bedrijven die geinteresseerd zijn in een introductie in roeien en willen bi
         <img src="images/partnerlogos/32338_logo-nieuwendijk-renault-2x_default.png" caption="" alt="Renault">
       </a>
     </div>
+    <div class="partners_grid_item">
+      <a href="https://www.rabobank.nl/" target="_blank">
+        <img src="images/partnerlogos/cooperatieve_rabobank.png" caption="" alt="Rabobank">
+      </a>
+    </div>
   </div>
 </div>
 </div>

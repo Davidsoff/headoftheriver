@@ -59,4 +59,7 @@ partners:
     partner3: "Renault"
     partner3_link: "https://www.autobedrijf-nieuwendijk.nl/renault/modellen/renault-5/"
     partner3_logo: "over/partners/images/partnerlogos/32338_logo-nieuwendijk-renault-2x_default.png"
+    partner4: "Rabobank"
+    partner4_link: "https://www.rabobank.nl/"
+    partner4_logo: "over/partners/images/partnerlogos/cooperatieve_rabobank.png"
 ---
