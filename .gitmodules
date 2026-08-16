@@ -1,3 +1,0 @@
-[submodule "themes/osm"]
-	path = themes/osm
-	url = https://github.com/Hanzei/hugo-component-osm.git
