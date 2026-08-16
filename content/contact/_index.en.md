@@ -8,7 +8,7 @@ menus:
   main:
     weight: 10
 draft: false
-_build:
+build:
   render: ""
 
 title_name: "Name"

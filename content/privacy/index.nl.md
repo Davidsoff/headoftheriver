@@ -12,7 +12,7 @@ menus:
     weight: 1
 
 draft: false
-_build:
+build:
   render: ""
 ---
 ### Privacystatement Head of the River Amstel

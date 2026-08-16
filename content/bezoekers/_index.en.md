@@ -8,9 +8,9 @@ menus:
   main:
     weight: 4
 draft: false
-_build:
+build:
   render: ""
-  
+
 # Quick links menu
 quick_links:
   buttons:

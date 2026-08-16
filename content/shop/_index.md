@@ -9,7 +9,7 @@ menus:
   main:
     weight: 7
 draft: true
-_build:
+build:
   render: ""
 ---
 

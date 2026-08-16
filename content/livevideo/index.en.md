@@ -9,6 +9,6 @@ menus:
   main:
     weight: 6
 draft: true
-_build:
+build:
   render: ""
 ---

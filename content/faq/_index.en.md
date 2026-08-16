@@ -14,7 +14,7 @@ menus:
     parent: Participants
     weight: 110
 draft: false
-_build:
+build:
   render: ""
 ---
 ### Frequently asked questions

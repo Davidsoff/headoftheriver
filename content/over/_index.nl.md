@@ -8,6 +8,6 @@ menus:
   main:
     weight: 5
 draft: false
-_build:
+build:
   render: ""
 ---

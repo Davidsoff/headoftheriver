@@ -52,6 +52,3 @@ Below you will find the instruction video for coxwains, updated for the Head of 
 ### Coxswain Age
 
 ***Attention:*** The Dutch Rules of Rowing state that minimum age of the coxswain needs to be 12 years. During the Head of the River there will be an exception to this rule. The minimum age will be ***14-15 years*** for all coxswains. This is depending on the fact that the coxswains need turn 15 before the end of the year of the race.
-
-
-{{< openstreetmap mapName="head-of-the-river-main_1012318"  searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}

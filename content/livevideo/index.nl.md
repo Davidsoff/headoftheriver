@@ -48,7 +48,7 @@ sessie6:
   - image: "/images/live_video/gasten/avatar.png"
     title: "Stuurvrouw Mannen 8 de Hoop"
     name: "Julia Groenveld"  
-_build:
+build:
   render: ""
 ---
 Zondag 8 maart is het zover: voor het eerst ooit brengen we de Head of the River Amstel live naar jouw scherm! Zes uur lang, van 10:00 tot 16:00 uur, volg je alle spannende wedstrijden, meeslepende finishes en onvergetelijke momenten live via Salto en ons eigen YouTube-kanaal.

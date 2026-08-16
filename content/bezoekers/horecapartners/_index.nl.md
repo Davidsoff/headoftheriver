@@ -8,7 +8,7 @@ menus:
     parent: Bezoekers
     weight: 30
 draft: false
-_build:
+build:
   render: ""
 
 ---

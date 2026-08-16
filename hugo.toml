@@ -62,6 +62,11 @@ target = '$1'
 [outputs]
 home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
 
+############################ Security ############################
+# browserslist walks parent directories, which Node's permission model denies by default.
+[security.node.permissions]
+allowRead = ['*']
+
 ############################# Imaging ############################
 [imaging]
 # See https://github.com/disintegration/imaging

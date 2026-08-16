@@ -17,6 +17,12 @@
     "theme-setup": "node ./scripts/themeSetup.js",
     "format": "prettier -w ."
   },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead"
+  ],
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "@tailwindcss/forms": "^0.5.4",

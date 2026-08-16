@@ -1,10 +1,10 @@
 ################ Dutch language ##################
 [nl]
-languageName = "NL"
-languageCode = "nl-nl"
+label = "NL"
+locale = "nl-nl"
 weight = 1
 ################ English language ##################
 [en]
-languageName = "EN"
-languageCode = "en-us"
+label = "EN"
+locale = "en-us"
 weight = 2

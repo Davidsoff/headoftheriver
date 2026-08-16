@@ -14,7 +14,7 @@ menus:
     parent: Deelnemers
     weight: 110
 draft: false
-_build:
+build:
   render: ""
 ---
 ### Veelgestelde vragen   
