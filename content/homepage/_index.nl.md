@@ -7,7 +7,7 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Medias
+  ql_col1: Media
   ql_col1_link: "over/media/"
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
