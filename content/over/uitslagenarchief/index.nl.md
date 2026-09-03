@@ -11,6 +11,10 @@ menu:
 ### Uitslagenarchief 
 Hieronder vind je de uitslagen van de Head of the River Amstel van de afgelopen jaren.
 
+Gebruik de filters hieronder om te zoeken op categorie, jaar of veld.
+
+{{< results_filter >}}
+
 {{< results_years >}}
 <!-- TODO -->
 {{< accordion "Uitslagen 2026" >}}

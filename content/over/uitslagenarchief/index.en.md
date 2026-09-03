@@ -11,6 +11,10 @@ menu:
 ### Results archive 
 Below you will find the results of the Head of the River Amstel of the past years.
 
+Use the filters below to search by category, year or event.
+
+{{< results_filter >}}
+
 {{< accordion "Results 2026" >}}
 The results of the Head of the River Amstel 2026 can be viewed via the link below.
 

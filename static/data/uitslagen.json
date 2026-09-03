@@ -1,0 +1,6401 @@
+{
+  "metadata": {
+    "recordCount": 1044
+  },
+  "filters": {
+    "categories": [
+      "Dames",
+      "Heren"
+    ],
+    "events": [
+      "1e jaars / Vierde divisie acht",
+      "Beginnelingen Divisie",
+      "Club Dubbelvier",
+      "Clubachten",
+      "Clubdubbelvieren",
+      "Derde Divisie",
+      "Derde Divisie Acht",
+      "Eerste Divisie",
+      "Eerste Divisie Acht",
+      "Eerste Divisie Dubbelvier",
+      "Juniores 15-16",
+      "Juniores 17-18",
+      "Lichte Beginnelingen Divisie",
+      "Lichte Eerste Divisie",
+      "Lichte Nieuwelingen Divisie",
+      "Lichte Tweede Divisie",
+      "Masters A Acht",
+      "Masters A Dubbelvier",
+      "Masters A Dubbelvieren",
+      "Masters B Acht",
+      "Masters B Divisie",
+      "Masters B Dubbelvier",
+      "Masters B Dubbelvieren",
+      "Masters C Acht",
+      "Masters C Divisie",
+      "Masters C Dubbelvier",
+      "Masters C Dubbelvieren",
+      "Masters D",
+      "Masters D Acht",
+      "Masters D Dubbelvier",
+      "Masters D Dubbelvieren",
+      "Masters E",
+      "Masters E Acht",
+      "Masters E Dubbelvier",
+      "Masters F",
+      "Masters G",
+      "Meisje 15-16 Dubbelvier",
+      "Meisje 17-18 Dubbelvier",
+      "Nieuwelingen Divisie",
+      "Tweede Divisie",
+      "Tweede Divisie Acht",
+      "Tweede Divisie Dubbelvier",
+      "Veteranen 32 Divisie",
+      "Veteranen 38 Divisie",
+      "Veteranen 45",
+      "Veteranen 52"
+    ],
+    "years": [
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990,
+      1989,
+      1988,
+      1987,
+      1986,
+      1985,
+      1984,
+      1983,
+      1982,
+      1981,
+      1980,
+      1979,
+      1978,
+      1977,
+      1976,
+      1975,
+      1974,
+      1973,
+      1972,
+      1971,
+      1970,
+      1969,
+      1968,
+      1967,
+      1966,
+      1965,
+      1964,
+      1963,
+      1962,
+      1961,
+      1960,
+      1959,
+      1958,
+      1957,
+      1956,
+      1955,
+      1954,
+      1953,
+      1952,
+      1951,
+      1950,
+      1949,
+      1948,
+      1947,
+      1946,
+      1945,
+      1944,
+      1943,
+      1942,
+      1941,
+      1940,
+      1939,
+      1938,
+      1937,
+      1936,
+      1935,
+      1934,
+      1933
+    ]
+  },
+  "records": [
+    {
+      "category": "Dames",
+      "year": 2006,
+      "event": "Tweede Divisie Acht",
+      "winner": "Gyas / Nereus / Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 2006,
+      "event": "Eerste Divisie Acht",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Dames",
+      "year": 2006,
+      "event": "Derde Divisie Acht",
+      "winner": "Vidar / Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Tweede Divisie",
+      "winner": "Nereus / RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Gyas / Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters G",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters F",
+      "winner": "Breda"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters E",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters D Dubbelvieren",
+      "winner": "Cornelis Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters D",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters C Dubbelvieren",
+      "winner": "Breda"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters C Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters B Dubbelvieren",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters B Divisie",
+      "winner": "Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Masters A Dubbelvieren",
+      "winner": "Breda"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Lichte Tweede Divisie",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Aegir / Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Juniores 17-18",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Juniores 15-16",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Eerste Divisie",
+      "winner": "Orca / Skoll / Theta / Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Clubdubbelvieren",
+      "winner": "De Zwolsche"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 2005,
+      "event": "Beginnelingen Divisie",
+      "winner": "Euros"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Tweede Divisie Acht",
+      "winner": "Aegir / Skadi"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "DDS / Gouda"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters E Dubbelvier",
+      "winner": "n.v."
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters D Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters D Acht",
+      "winner": "Cornelis Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters C Dubbelvier",
+      "winner": "Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters C Acht",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters B Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters B Acht",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters A Dubbelvier",
+      "winner": "Thyro / Willem III / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Masters A Acht",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Proteus / Thyro / Euros"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Eerste Divisie Acht",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Derde Divisie Acht",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Clubachten",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "Club Dubbelvier",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Dames",
+      "year": 2005,
+      "event": "1e jaars / Vierde divisie acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Tweede Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Masters G",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Masters F",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Masters E",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Masters D",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Masters C Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Masters B Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Masters A Dubbelvieren",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Lichte Tweede Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Juniores 17-18",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Juniores 15-16",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Eerste Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Clubdubbelvieren",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Clubachten",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Heren",
+      "year": 2004,
+      "event": "Beginnelingen Divisie",
+      "winner": "Afgelast"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Hoop / Spaarne / Gorcumse"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters E Dubbelvier",
+      "winner": "Naarden / RTC / Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters E Acht",
+      "winner": "Cornelis Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters D Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters D Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters C Dubbelvier",
+      "winner": "Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters C Acht",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters B Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters B Acht",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters A Dubbelvier",
+      "winner": "Die Leythe / DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Masters A Acht",
+      "winner": "De Hoop / Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Orca / Phocas"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Eerste Divisie Acht",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Derde Divisie Acht",
+      "winner": "Aegir / Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Clubachten",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "Club Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 2004,
+      "event": "1e jaars / Vierde divisie acht",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Tweede Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Masters G",
+      "winner": "Berliner RC & RG / Wannsee / Tegel"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Masters F",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Masters E",
+      "winner": "Breda / De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Masters D",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Masters C Divisie",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Masters B Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Masters A Dubbelvieren",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Juniores 17-18",
+      "winner": "Cornelis Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Juniores 15-16",
+      "winner": "Hunze / IJssel / Gouda"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Eerste Divisie",
+      "winner": "Nereus / Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Clubdubbelvieren",
+      "winner": "Die Leythe"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Clubachten",
+      "winner": "Euros"
+    },
+    {
+      "category": "Heren",
+      "year": 2003,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "De Hoop / Viking / RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters E Acht",
+      "winner": "Cornelis Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters D Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters D Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters C Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters C Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters B Dubbelvier",
+      "winner": "Thyro / De Laak / Spaarne / Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters B Acht",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters A Dubbelvier",
+      "winner": "C. Tromp / M. de Ruyter"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Masters A Acht",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Orca / Triton / Phocas"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / Proteus Eretes / Triton / Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Derde Divisie Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Clubachten",
+      "winner": "Beatrix"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "Club Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 2003,
+      "event": "1e jaars / Vierde divisie acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Tweede Divisie",
+      "winner": "Theta / Beatrix"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Amphitrite"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Masters G",
+      "winner": "Bremen-combinatie"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Masters F",
+      "winner": "Baldeneysee"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Masters E",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Masters D",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Masters C Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Masters B Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Juniores 17-18",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Clubdubbelvieren",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Clubachten",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Heren",
+      "year": 2002,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Nautilus / Breda / Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Tweede Divisie Acht",
+      "winner": "Skadi / Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Die Leythe"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Beatrix / De Zwolsche"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters E Acht",
+      "winner": "Cornelis Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters D Dubbelvier",
+      "winner": "Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters D Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters C Dubbelvier",
+      "winner": "ARC"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters C Acht",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters B Dubbelvier",
+      "winner": "Thyro"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters B Acht",
+      "winner": "Honnef"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters A Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Masters A Acht",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Orca / Triton / Vidar"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Eerste Divisie Acht",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Clubachten",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 2002,
+      "event": "Club Dubbelvier",
+      "winner": "Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Masters F",
+      "winner": "Berlin"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Masters E",
+      "winner": "Breda / De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Masters D",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Masters C Divisie",
+      "winner": "Honnef-combinatie"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Masters B Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Vidar"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Juniores 17-18",
+      "winner": "Breda / DDS"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Clubdubbelvieren",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Clubachten",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Heren",
+      "year": 2001,
+      "event": "Beginnelingen Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus-comb."
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "DDS / De Hoop / Daventria"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Hunze-combinatie"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters D Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters D Acht",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters C Dubbelvier",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters C Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters B Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters B Acht",
+      "winner": "Alkmaarsche"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters A Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Masters A Acht",
+      "winner": "Willem III / De Hoop / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 2001,
+      "event": "Club Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Tweede Divisie",
+      "winner": "Skoll / Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Masters F",
+      "winner": "Baldeneysee / Munster / Hamm / Essen"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Masters E",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Masters D",
+      "winner": "Breda / Die Leythe / Poseidon"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Masters C Divisie",
+      "winner": "Honnef"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Masters B Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Okeanos / Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Theta / Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Juniores 17-18",
+      "winner": "Die Leythe / Viking / De Laak / De Maas / Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Juniores 15-16",
+      "winner": "Willem III / De Where"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Eerste Divisie",
+      "winner": "Proteus Eretes / Nereus / Orca / Euros / Willem III / Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Clubdubbelvieren",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Clubachten",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Heren",
+      "year": 2000,
+      "event": "Beginnelingen Divisie",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Asopos / Njord / Triton / Euros"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Tweede Divisie Acht",
+      "winner": "Saurus / Vidar"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "De Hoop / Pampus / C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Daventria / Die Leythe"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters D Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters D Acht",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters C Dubbelvier",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters C Acht",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters B Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters B Acht",
+      "winner": "Alkmaarsche"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters A Dubbelvier",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Masters A Acht",
+      "winner": "Willem III / De Hoop / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Gyas / Aegir / Triton / Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Eerste Divisie Acht",
+      "winner": "Gyas / Orca / Nereus / Die Leythe / Phocas / Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Derde Divisie Acht",
+      "winner": "Proteus Eretes / Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Clubachten",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 2000,
+      "event": "Club Dubbelvier",
+      "winner": "Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Tweede Divisie",
+      "winner": "Okeanos / Euros"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Nereus / Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Masters F",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Masters E",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Masters D",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Masters C Divisie",
+      "winner": "Honnef"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Masters B Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Vidar / Njord / Proteus Eretes / Theta"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Juniores 15-16",
+      "winner": "De Amstel-combinatie"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Eerste Divisie",
+      "winner": "Willem III / Euros / Okeanos / Orca / Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Clubdubbelvieren",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1999,
+      "event": "Beginnelingen Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Tweede Divisie Acht",
+      "winner": "Okeanos / Njord / Skøll"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Pampus / Het Spaarne / C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters D Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters D Acht",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters C Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters C Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters B Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters B Acht",
+      "winner": "Alkmaarsche"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters A Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Masters A Acht",
+      "winner": "Willem III / De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Banyoles"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Eerste Divisie Acht",
+      "winner": "Orca / Gyas / Die Leythe / Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Derde Divisie Acht",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1999,
+      "event": "Club Dubbelvier",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Tweede Divisie",
+      "winner": "Theta / Vidar"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Proteus Eretes / Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Masters F",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Masters E",
+      "winner": "Baldeneysee"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Masters D",
+      "winner": "Breda"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Masters C Divisie",
+      "winner": "Honnef"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Masters B Divisie",
+      "winner": "Breda"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Vidar / Theta"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Euros / Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Juniores 17-18",
+      "winner": "Willem III-combinatie"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp / Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Eerste Divisie",
+      "winner": "Theta / Euros / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Clubdubbelvieren",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1998,
+      "event": "Beginnelingen Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Tweede Divisie Acht",
+      "winner": "Vidar / Skøll"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Tubantia / Viking / De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Willem III / Pampus / Die Leythe"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters D Dubbelvier",
+      "winner": "Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters D Acht",
+      "winner": "Viking / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters C Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters C Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters B Dubbelvier",
+      "winner": "Breda"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters B Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters A Dubbelvier",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Masters A Acht",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Eerste Divisie Acht",
+      "winner": "Orca / Phocas / Triton / Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Clubachten",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1998,
+      "event": "Club Dubbelvier",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Tweede Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Masters E",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Masters D",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Masters C Divisie",
+      "winner": "Honnef"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Masters B Divisie",
+      "winner": "Breda"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Nereus / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Argir / Gyas / Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Juniores 17-18",
+      "winner": "Willem III-combinatie"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp / Meesp"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Eerste Divisie",
+      "winner": "Willem III / Die Leythe / Okeanos / Ric / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Clubdubbelvieren",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Clubachten",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1997,
+      "event": "Beginnelingen Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Orca / Euros / Thyro / Proteus E."
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Tweede Divisie Acht",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Willem III / Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Masters D Acht",
+      "winner": "Viking / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Masters C Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Masters C Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Masters B Dubbelvier",
+      "winner": "De Amstel / De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Masters B Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Masters A Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Masters A Acht",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "DDS / Die Leythe / Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Eerste Divisie Acht",
+      "winner": "Triton / Orca / Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Derde Divisie Acht",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Clubachten",
+      "winner": "Euros"
+    },
+    {
+      "category": "Dames",
+      "year": 1997,
+      "event": "Club Dubbelvier",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Nieuwelingen Divisie",
+      "winner": "De Amstel / Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Masters E",
+      "winner": "Baldeneysee / Köln / Dortmund"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Masters D",
+      "winner": "Breda / RIC / Gouda"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Masters C Divisie",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Skoll / Willem III / DDS"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Njord / De Amstel / Poseidon / Okeanos / Vidar / Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Theta"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Juniores 17-18",
+      "winner": "Willem III / De Hoop / De Where / Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Eerste Divisie",
+      "winner": "Argo / Skadi / Skoll / Aegir / De Geeuw"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Clubdubbelvieren",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Clubachten",
+      "winner": "Poseidon"
+    },
+    {
+      "category": "Heren",
+      "year": 1996,
+      "event": "Beginnelingen Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Euros / Thyro"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Gouda / DDS / Die Leythe / Alphen"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Masters D Acht",
+      "winner": "Viking / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Masters C Dubbelvier",
+      "winner": "Alphen"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Masters C Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Masters B Dubbelvier",
+      "winner": "Breda"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Masters B Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Masters A Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Masters A Acht",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / Laga"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Derde Divisie Acht",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Clubachten",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1996,
+      "event": "Club Dubbelvier",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Tweede Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Masters E",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Masters D",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Masters C Divisie",
+      "winner": "Breda / RIC / Dordtsche"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Lichte Eerste Divisie",
+      "winner": "De Amstel / Skadi / De Laal / Njord / Het Spaarne / Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Vidar"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Clubdubbelvieren",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Clubachten",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1995,
+      "event": "Beginnelingen Divisie",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Laga"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Tweede Divisie Acht",
+      "winner": "Aegir / Gyas / Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Alphen / De Amstel / Alkmaarsche / DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Masters D Acht",
+      "winner": "Viking / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Masters C Dubbelvier",
+      "winner": "Alphen"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Masters C Acht",
+      "winner": "De Eem"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Masters B Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Masters B Acht",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Masters A Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Masters A Acht",
+      "winner": "Beatrix"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Njord / Phocas / Proteus E."
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Clubachten",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1995,
+      "event": "Club Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Tweede Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Masters E",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Masters D",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Masters C Divisie",
+      "winner": "Breda / RIC / Dudok van Heel / Dordtsche"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Lichte Eerste Divisie",
+      "winner": "De Amstel / Orca / Njord / Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Juniores 17-18",
+      "winner": "Willem III / Naarden"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Juniores 15-16",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Eerste Divisie",
+      "winner": "RIC / Eruos / De Hoop / Proteus Eretes / Nereus / Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Clubdubbelvieren",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Clubachten",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1994,
+      "event": "Beginnelingen Divisie",
+      "winner": "Vidar / Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Proteus E."
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Tweede Divisie Acht",
+      "winner": "Skadi / Proteus Eretes"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "De Amstel / De Hunze / Tubantia"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Masters D Acht",
+      "winner": "De Amstel / Viking / De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Masters C Dubbelvier",
+      "winner": "Naarden / De Maas / De Zwolsche"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Masters C Acht",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Masters B Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Masters B Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Masters A Dubbelvier",
+      "winner": "Die Leythe"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Masters A Acht",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Laga / Triton / Phocas / Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Eerste Divisie Acht",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Derde Divisie Acht",
+      "winner": "Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Clubachten",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1994,
+      "event": "Club Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Orca / Gouda / Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Masters E",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Masters D",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Masters C Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Vidar"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Njord / Het Spaarne / De Maas / De Amstel / Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Juniores 17-18",
+      "winner": "Shiplake College"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Juniores 15-16",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Eerste Divisie",
+      "winner": "Okeanos / Euros / Laga / Die Leythe / Proteus Eretes / RIC / Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Clubdubbelvieren",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Clubachten",
+      "winner": "Brandenburgia"
+    },
+    {
+      "category": "Heren",
+      "year": 1993,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Asopos de Vliet / Proteus E. / Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Tweede Divisie Acht",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Het Spaarne / Naarden / RIC / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Het Spaarne / Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Masters C Dubbelvier",
+      "winner": "Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Masters C Acht",
+      "winner": "De Eem"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Masters B Dubbelvier",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Masters B Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Masters A Dubbelvier",
+      "winner": "Die Leythe"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Masters A Acht",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Viking / Phocas / Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Eerste Divisie Acht",
+      "winner": "Willem III / Okeanos / De Laak / Die Leythe / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Clubachten",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1993,
+      "event": "Club Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Masters E",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Masters D",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Masters C Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Vidar"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Willem lll / De Laak / De Hoop / Njord / Het Spaarne / De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Juniores 17-18",
+      "winner": "Willem III / Tubantia / Gouda / Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Juniores 15-16",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Eerste Divisie",
+      "winner": "Het Spaarne / Skadi / Gyas / Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Clubdubbelvieren",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Clubachten",
+      "winner": "Brandenburgia"
+    },
+    {
+      "category": "Heren",
+      "year": 1992,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Asopos de Vliet / Proteus E."
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Wefterwille / Beatrix / Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Hunze / DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Masters C Dubbelvier",
+      "winner": "Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Masters C Acht",
+      "winner": "De Amstel / Viking / De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Masters A Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Masters A Acht",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Eerste Divisie Acht",
+      "winner": "Willem III / Nereus / Laga / Njord / De Laak / Triton / Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Derde Divisie Acht",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1992,
+      "event": "Club Dubbelvier",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Tweede Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Masters E",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Masters D",
+      "winner": "Baldeneysee"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Masters C Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Juniores 17-18",
+      "winner": "Die Leythe / Alphen"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Juniores 15-16",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Eerste Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Clubdubbelvieren",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Clubachten",
+      "winner": "Brandenburgia"
+    },
+    {
+      "category": "Heren",
+      "year": 1991,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Viking / Gouda / De Maas"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Tweede Divisie Acht",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Masters C Dubbelvier",
+      "winner": "Naarden"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Masters C Acht",
+      "winner": "De Eem"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Masters A Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Masters A Acht",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Nereus / De Hunze / Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Eerste Divisie Acht",
+      "winner": "Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Derde Divisie Acht",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Clubachten",
+      "winner": "Alkmaarsche"
+    },
+    {
+      "category": "Dames",
+      "year": 1991,
+      "event": "Club Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Tweede Divisie",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Nieuwelingen Divisie",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Masters E",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Masters D",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Masters C Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Juniores 17-18",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Juniores 15-16",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Eerste Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Clubdubbelvieren",
+      "winner": "De Eem"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Clubachten",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1990,
+      "event": "Beginnelingen Divisie",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Tweede Divisie Acht",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Viking-comb."
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Masters C Dubbelvier",
+      "winner": "Naarden / De Zwolsche"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Masters C Acht",
+      "winner": "De Eem"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Masters A Dubbelvier",
+      "winner": "Orca / Gouda"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Masters A Acht",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Eerste Divisie Acht",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Derde Divisie Acht",
+      "winner": "Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Clubachten",
+      "winner": "Alkmaarsche"
+    },
+    {
+      "category": "Dames",
+      "year": 1990,
+      "event": "Club Dubbelvier",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Tweede Divisie",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Masters E",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Masters D",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Masters C Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Masters B Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Juniores 17-18",
+      "winner": "Die Leythe / RIC / Ossa / De Maas / Naarden"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Eerste Divisie",
+      "winner": "Okeanos / Nautilus / Nereus / De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1989,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Tweede Divisie Acht",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Where"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Masters A Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Masters A Acht",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Willem III / Die Leythe"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Eerste Divisie Acht",
+      "winner": "Willem III / De Hunze / Rijnland / Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Derde Divisie Acht",
+      "winner": "Phocas"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Clubachten",
+      "winner": "Euros"
+    },
+    {
+      "category": "Dames",
+      "year": 1989,
+      "event": "Club Dubbelvier",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Veteranen 52",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Veteranen 45",
+      "winner": "Baldeneysee"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Veteranen 38 Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Triton / Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Juniores 17-18",
+      "winner": "Die Leythe / Naarden / Ossa / De Maas / De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Juniores 15-16",
+      "winner": "Die Leythe / Naarden"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Eerste Divisie",
+      "winner": "Die Leythe / Okeanos / De Hoop / Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1988,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Tweede Divisie Acht",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Gouda"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Rijnland / De Maas"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Masters A Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Masters A Acht",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Hollandia"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Eerste Divisie Acht",
+      "winner": "Aegir / Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Derde Divisie Acht",
+      "winner": "Proteus Eretes / Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Clubachten",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1988,
+      "event": "Club Dubbelvier",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Veteranen 52",
+      "winner": "ZZV"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Veteranen 45",
+      "winner": "Baldeneysee"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Veteranen 38 Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Veteranen 32 Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Tweede Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Willem III / De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Asopos de Vliet / De Laak / Vidar / Theta / Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne / Naarden"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Juniores 15-16",
+      "winner": "C. Tromp / De Amstel / Alkmaar"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Eerste Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Clubachten",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Heren",
+      "year": 1987,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Okeanos / Skadi"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Tweede Divisie Acht",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Alkmaarsche / Pontos"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Willem III / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Masters A Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Masters A Acht",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Willem III / Okeanos / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Eerste Divisie Acht",
+      "winner": "Njord / Asopos de Vliet / Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Derde Divisie Acht",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Clubachten",
+      "winner": "Euros"
+    },
+    {
+      "category": "Dames",
+      "year": 1987,
+      "event": "Club Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Veteranen 52",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Veteranen 45",
+      "winner": "Baldeneysee"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Veteranen 38 Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Veteranen 32 Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Baldeneysee"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Het Spaarne / Willem III / De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Asopos de Vliet / De Laak / Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne / C. Tromp / Die Leythe"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Juniores 15-16",
+      "winner": "Willem III / RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Eerste Divisie",
+      "winner": "Njord / Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Clubachten",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1986,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Tweede Divisie Acht",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Alkmaarsche / DDS / Jaion"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Masters A Dubbelvier",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Masters A Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Derde Divisie Acht",
+      "winner": "Gyas / Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Clubachten",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 1986,
+      "event": "Club Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Veteranen 52",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Veteranen 45",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Veteranen 38 Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Veteranen 32 Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Euros / Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Juniores 15-16",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Eerste Divisie",
+      "winner": "Phocas / Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Clubachten",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1985,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Tubantia / De Hoop / DDS / Pontos"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Laak / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Masters A Dubbelvier",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Masters A Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Nereus / Laga / Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Eerste Divisie Acht",
+      "winner": "Argo / Njord / Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Derde Divisie Acht",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1985,
+      "event": "Clubachten",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Veteranen 45",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Veteranen 38 Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Tweede Divisie",
+      "winner": "Asopos de Vliet / Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Gyas / Theta"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Juniores 15-16",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Eerste Divisie",
+      "winner": "Orca / Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Clubachten",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1984,
+      "event": "Beginnelingen Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Tweede Divisie Acht",
+      "winner": "Orca / Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Masters A Dubbelvier",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Masters A Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Laga"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Eerste Divisie Acht",
+      "winner": "Orca / Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Derde Divisie Acht",
+      "winner": "Asopos de Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1984,
+      "event": "Clubachten",
+      "winner": "Het Spaarnee"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Veteranen 45",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Veteranen 38 Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Tweede Divisie",
+      "winner": "Die Leythe /  Wlllem lll"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Asopos de Vliet / Die Leythe"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Laga / Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga / Skadi / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "DDS"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Juniores 17-18",
+      "winner": "Die Leythe / Het Spaarne / DDS / De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Juniores 15-16",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Eerste Divisie",
+      "winner": "Die Leythe / Nereus / De Hoop / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Clubachten",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1983,
+      "event": "Beginnelingen Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Tweede Divisie Acht",
+      "winner": "Laga / Asopos de Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Naarden / Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Masters A Dubbelvier",
+      "winner": "Naarden / Willem III / De Zwolsche"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Masters A Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Derde Divisie Acht",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1983,
+      "event": "Clubachten",
+      "winner": "Asopos de Vliet"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Veteranen 45",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Veteranen 38 Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Tweede Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Dordtsche"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Gyas / Theta"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Juniores 17-18",
+      "winner": "Die Leythe"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Juniores 15-16",
+      "winner": "Nautilus / De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Eerste Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Clubachten",
+      "winner": "Skøll"
+    },
+    {
+      "category": "Heren",
+      "year": 1982,
+      "event": "Beginnelingen Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Tweede Divisie Acht",
+      "winner": "Brandenburgia"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Viking / Het Spaarne / Daventria"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Masters A Dubbelvier",
+      "winner": "Naarden / Willem III / De Zwolsche"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Masters A Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Eerste Divisie Acht",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Derde Divisie Acht",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Dames",
+      "year": 1982,
+      "event": "Clubachten",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Veteranen 45",
+      "winner": "Het Spaarne / De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Veteranen 38 Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Tweede Divisie",
+      "winner": "geen winnaar"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Dudok van Heel"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Lichte Eerste Divisie",
+      "winner": "De Amstel / Willem lll / Argo / Theta"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Juniores 17-18",
+      "winner": "De Amstel / De Maas / Nautilus / De Laak / Die Leythe / De Where / Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Eerste Divisie",
+      "winner": "Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Clubachten",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1981,
+      "event": "Beginnelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Tweede Divisie Acht",
+      "winner": "Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Rijnland / De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Laak / Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Masters A Dubbelvier",
+      "winner": "Willem III / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Masters A Acht",
+      "winner": "De Amstel / De Maas / Naarden / De Laak / Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hunze / Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Eerste Divisie Acht",
+      "winner": "Orca / RIC-comb."
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1981,
+      "event": "Clubachten",
+      "winner": "Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Veteranen 45",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Veteranen 38 Divisie",
+      "winner": "Daventria"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Lichte Eerste Divisie",
+      "winner": "De Amstel / Argo / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Juniores 17-18",
+      "winner": "RIC / Die Leythe / Het Spaarne / M. de Ruyter"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1980,
+      "event": "Beginnelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Tweede Divisie Acht",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Laak / Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Masters A Dubbelvier",
+      "winner": "Rijnland / Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hunze / Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / Phocas"
+    },
+    {
+      "category": "Dames",
+      "year": 1980,
+      "event": "Derde Divisie Acht",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Veteranen 45",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Veteranen 38 Divisie",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Tweede Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Phocas"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Argo / Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Lichte Eerste Divisie",
+      "winner": "RIC / Euros / De Laak / Het Spaarne / Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Lichte Beginnelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Juniores 17-18",
+      "winner": "Rijnland / Die Leythe / Nautilus"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Clubachten",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1979,
+      "event": "Beginnelingen Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "De Laak / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Tweede Divisie Acht",
+      "winner": "Triton / Orca-comb."
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Willem III / Rijnland"
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Masters A Dubbelvier",
+      "winner": "Triton / Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Okeanos / De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / RIC-comb."
+    },
+    {
+      "category": "Dames",
+      "year": 1979,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Veteranen 45",
+      "winner": "C. Tromp / Naarden"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Veteranen 38 Divisie",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Tweede Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Skadi / Orca / Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Juniores 17-18",
+      "winner": "Nautilus / Jason / Rijnland / De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1978,
+      "event": "Derde Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "De Laak / Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Masters A Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Eerste Divisie Acht",
+      "winner": "Triton-comb."
+    },
+    {
+      "category": "Dames",
+      "year": 1978,
+      "event": "Derde Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Veteranen 45",
+      "winner": "Viking / C. Tromp"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Veteranen 38 Divisie",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Veteranen 32 Divisie",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Skadi / Orca / Njord / Euros"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Juniores 17-18",
+      "winner": "Jason / RIC / Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1977,
+      "event": "Derde Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Dames",
+      "year": 1977,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 1977,
+      "event": "Tweede Divisie Acht",
+      "winner": "Willem III / De Amstel-comb."
+    },
+    {
+      "category": "Dames",
+      "year": 1977,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Willem III / De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1977,
+      "event": "Meisje 15-16 Dubbelvier",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1977,
+      "event": "Masters A Dubbelvier",
+      "winner": "Rijnland / De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 1977,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Argo / Skadi"
+    },
+    {
+      "category": "Dames",
+      "year": 1977,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Veteranen 45",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Veteranen 32 Divisie",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Tweede Divisie",
+      "winner": "Laga / Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Nereus / Skoll"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Euros / Triton / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Juniores 17-18",
+      "winner": "Jason / Het Spaarne / Beatrix"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1976,
+      "event": "Derde Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1976,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Gyas / Okeanos"
+    },
+    {
+      "category": "Dames",
+      "year": 1976,
+      "event": "Tweede Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1976,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1976,
+      "event": "Masters A Dubbelvier",
+      "winner": "Rijnland / Proteus E."
+    },
+    {
+      "category": "Dames",
+      "year": 1976,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1976,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / Het Spaarne-comb."
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Veteranen 45",
+      "winner": "Viking / Gorcumse / Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Juniores 17-18",
+      "winner": "RIC / Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1975,
+      "event": "Derde Divisie",
+      "winner": "Skadi / Hades"
+    },
+    {
+      "category": "Dames",
+      "year": 1975,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1975,
+      "event": "Tweede Divisie Acht",
+      "winner": "Asopos de Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1975,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1975,
+      "event": "Masters A Dubbelvier",
+      "winner": "Poseidon / De Amstel"
+    },
+    {
+      "category": "Dames",
+      "year": 1975,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Nereus / Orca"
+    },
+    {
+      "category": "Dames",
+      "year": 1975,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus-comb."
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Veteranen 45",
+      "winner": "Viking / Gorcumse / Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Lichte Eerste Divisie",
+      "winner": "RIC"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Eerste Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1974,
+      "event": "Derde Divisie",
+      "winner": "Argo / Telamon"
+    },
+    {
+      "category": "Dames",
+      "year": 1974,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1974,
+      "event": "Tweede Divisie Acht",
+      "winner": "De Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1974,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1974,
+      "event": "Masters A Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1974,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1974,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus-comb."
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Veteranen 45",
+      "winner": "Viking / Gorcumse / Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Nieuwelingen Divisie",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Juniores 17-18",
+      "winner": "RIC / De Where"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1973,
+      "event": "Derde Divisie",
+      "winner": "Dudok van Heel"
+    },
+    {
+      "category": "Dames",
+      "year": 1973,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1973,
+      "event": "Tweede Divisie Acht",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1973,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1973,
+      "event": "Masters A Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1973,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1973,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus / Orca"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Veteranen 32 Divisie",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Tweede Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Nieuwelingen Divisie",
+      "winner": "Phocas"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Skadi / Hades"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Eerste Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1972,
+      "event": "Derde Divisie",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1972,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "RIC"
+    },
+    {
+      "category": "Dames",
+      "year": 1972,
+      "event": "Tweede Divisie Acht",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Dames",
+      "year": 1972,
+      "event": "Meisje 17-18 Dubbelvier",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 1972,
+      "event": "Masters A Dubbelvier",
+      "winner": "Willem III / De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 1972,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Vliet / Hades / Opopoi / Viking"
+    },
+    {
+      "category": "Dames",
+      "year": 1972,
+      "event": "Eerste Divisie Acht",
+      "winner": "Orca / Opopoi"
+    },
+    {
+      "category": "Heren",
+      "year": 1971,
+      "event": "Veteranen 32 Divisie",
+      "winner": "London RC"
+    },
+    {
+      "category": "Heren",
+      "year": 1971,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1971,
+      "event": "Lichte Nieuwelingen Divisie",
+      "winner": "Skadi"
+    },
+    {
+      "category": "Heren",
+      "year": 1971,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Phocas"
+    },
+    {
+      "category": "Heren",
+      "year": 1971,
+      "event": "Juniores 17-18",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1971,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1971,
+      "event": "Derde Divisie",
+      "winner": "Asopos"
+    },
+    {
+      "category": "Dames",
+      "year": 1971,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1971,
+      "event": "Tweede Divisie Acht",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1971,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1971,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1970,
+      "event": "Veteranen 32 Divisie",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1970,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1970,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Heren",
+      "year": 1970,
+      "event": "Juniores 17-18",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1970,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1970,
+      "event": "Derde Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Dames",
+      "year": 1970,
+      "event": "Tweede Divisie Dubbelvier",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1970,
+      "event": "Tweede Divisie Acht",
+      "winner": "De Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1970,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1970,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Vliet"
+    },
+    {
+      "category": "Heren",
+      "year": 1969,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1969,
+      "event": "Tweede Divisie",
+      "winner": "Dudok van Heel"
+    },
+    {
+      "category": "Heren",
+      "year": 1969,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1969,
+      "event": "Juniores 17-18",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1969,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1969,
+      "event": "Derde Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 1969,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1969,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Vliet"
+    },
+    {
+      "category": "Heren",
+      "year": 1968,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1968,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1968,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1968,
+      "event": "Juniores 17-18",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Heren",
+      "year": 1968,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1968,
+      "event": "Derde Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1968,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Gyas"
+    },
+    {
+      "category": "Dames",
+      "year": 1968,
+      "event": "Eerste Divisie Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1967,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1967,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1967,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1967,
+      "event": "Juniores 17-18",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1967,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1967,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Laak"
+    },
+    {
+      "category": "Dames",
+      "year": 1967,
+      "event": "Eerste Divisie Acht",
+      "winner": "Viking"
+    },
+    {
+      "category": "Heren",
+      "year": 1966,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1966,
+      "event": "Tweede Divisie",
+      "winner": "Proteus Eretes"
+    },
+    {
+      "category": "Heren",
+      "year": 1966,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1966,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1966,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1966,
+      "event": "Eerste Divisie Acht",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1965,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1965,
+      "event": "Tweede Divisie",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1965,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1965,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1965,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1965,
+      "event": "Eerste Divisie Acht",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1964,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1964,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1964,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1964,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1964,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1964,
+      "event": "Eerste Divisie Acht",
+      "winner": "Argo"
+    },
+    {
+      "category": "Heren",
+      "year": 1963,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1963,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1963,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1963,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1963,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Argo"
+    },
+    {
+      "category": "Dames",
+      "year": 1963,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1962,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1962,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1962,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1962,
+      "event": "Eerste Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Dames",
+      "year": 1962,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1962,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Heren",
+      "year": 1961,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1961,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1961,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1961,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1961,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Dames",
+      "year": 1961,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Amstel-comb."
+    },
+    {
+      "category": "Heren",
+      "year": 1960,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1960,
+      "event": "Tweede Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1960,
+      "event": "Lichte Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1960,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1960,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1960,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1959,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1959,
+      "event": "Tweede Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Heren",
+      "year": 1959,
+      "event": "Eerste Divisie",
+      "winner": "ULBC"
+    },
+    {
+      "category": "Dames",
+      "year": 1959,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1959,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Maas"
+    },
+    {
+      "category": "Heren",
+      "year": 1958,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1958,
+      "event": "Tweede Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 1958,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Dames",
+      "year": 1958,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "De Vliet"
+    },
+    {
+      "category": "Dames",
+      "year": 1958,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1957,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1957,
+      "event": "Tweede Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1957,
+      "event": "Eerste Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1957,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Dames",
+      "year": 1957,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1956,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1956,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1956,
+      "event": "Eerste Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Dames",
+      "year": 1956,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1956,
+      "event": "Eerste Divisie Acht",
+      "winner": "De Hunze"
+    },
+    {
+      "category": "Heren",
+      "year": 1955,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1955,
+      "event": "Tweede Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1955,
+      "event": "Eerste Divisie",
+      "winner": "Aegir"
+    },
+    {
+      "category": "Dames",
+      "year": 1955,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "DDS"
+    },
+    {
+      "category": "Dames",
+      "year": 1955,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Heren",
+      "year": 1954,
+      "event": "Veteranen 32 Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1954,
+      "event": "Tweede Divisie",
+      "winner": "Berlingen en Willem lll dead heat"
+    },
+    {
+      "category": "Heren",
+      "year": 1954,
+      "event": "Eerste Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Dames",
+      "year": 1954,
+      "event": "Eerste Divisie Dubbelvier",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Dames",
+      "year": 1954,
+      "event": "Eerste Divisie Acht",
+      "winner": "Nautilus"
+    },
+    {
+      "category": "Heren",
+      "year": 1953,
+      "event": "Veteranen 32 Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1953,
+      "event": "Tweede Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1953,
+      "event": "Eerste Divisie",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1952,
+      "event": "Tweede Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1952,
+      "event": "Eerste Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1951,
+      "event": "Tweede Divisie",
+      "winner": "Triton"
+    },
+    {
+      "category": "Heren",
+      "year": 1951,
+      "event": "Eerste Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1950,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1950,
+      "event": "Eerste Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1949,
+      "event": "Tweede Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1949,
+      "event": "Eerste Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1948,
+      "event": "Tweede Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1948,
+      "event": "Eerste Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1947,
+      "event": "Tweede Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1947,
+      "event": "Eerste Divisie",
+      "winner": "Niet verroeid"
+    },
+    {
+      "category": "Heren",
+      "year": 1946,
+      "event": "Tweede Divisie",
+      "winner": "DDS"
+    },
+    {
+      "category": "Heren",
+      "year": 1946,
+      "event": "Eerste Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1945,
+      "event": "Tweede Divisie",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1945,
+      "event": "Eerste Divisie",
+      "winner": "Willem III"
+    },
+    {
+      "category": "Heren",
+      "year": 1944,
+      "event": "Tweede Divisie",
+      "winner": "Die Leythe"
+    },
+    {
+      "category": "Heren",
+      "year": 1944,
+      "event": "Eerste Divisie",
+      "winner": "DDS"
+    },
+    {
+      "category": "Heren",
+      "year": 1943,
+      "event": "Tweede Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1943,
+      "event": "Eerste Divisie",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1942,
+      "event": "Tweede Divisie",
+      "winner": "De Hoop"
+    },
+    {
+      "category": "Heren",
+      "year": 1942,
+      "event": "Eerste Divisie",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1941,
+      "event": "Tweede Divisie",
+      "winner": "Het Spaarne"
+    },
+    {
+      "category": "Heren",
+      "year": 1941,
+      "event": "Eerste Divisie",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1940,
+      "event": "Tweede Divisie",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1940,
+      "event": "Eerste Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1939,
+      "event": "Tweede Divisie",
+      "winner": "Njord"
+    },
+    {
+      "category": "Heren",
+      "year": 1939,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1938,
+      "event": "Tweede Divisie",
+      "winner": "Laga"
+    },
+    {
+      "category": "Heren",
+      "year": 1938,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1937,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1937,
+      "event": "Eerste Divisie",
+      "winner": "Wiking (Berlijn)"
+    },
+    {
+      "category": "Heren",
+      "year": 1936,
+      "event": "Tweede Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1936,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1935,
+      "event": "Tweede Divisie",
+      "winner": "De Amstel"
+    },
+    {
+      "category": "Heren",
+      "year": 1935,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1934,
+      "event": "Tweede Divisie",
+      "winner": "Willem lll"
+    },
+    {
+      "category": "Heren",
+      "year": 1934,
+      "event": "Eerste Divisie",
+      "winner": "Nereus"
+    },
+    {
+      "category": "Heren",
+      "year": 1933,
+      "event": "Eerste Divisie",
+      "winner": "Laga"
+    }
+  ]
+}

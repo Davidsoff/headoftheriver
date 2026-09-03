@@ -1,0 +1,123 @@
+{{/*
+  results_filter shortcode
+  Interactive presentation of static/data/uitslagen.json with dependent
+  dropdowns for category, year and event.
+
+  Usage: {{< results_filter >}}
+*/}}
+{{ $src := "data/uitslagen.json" | relURL }}
+<div class="uitslagen" data-uitslagen data-src="{{ $src }}" data-label-all="Alle">
+  <div class="uitslagen__controls">
+    <label class="uitslagen__field">
+      <span>Categorie</span>
+      <select data-filter="category">
+        <option value="">Alle</option>
+      </select>
+    </label>
+    <label class="uitslagen__field">
+      <span>Jaar</span>
+      <select data-filter="year">
+        <option value="">Alle</option>
+      </select>
+    </label>
+    <label class="uitslagen__field">
+      <span>Veld</span>
+      <select data-filter="event">
+        <option value="">Alle</option>
+      </select>
+    </label>
+    <button type="button" class="uitslagen__reset" data-role="reset">Wis filters</button>
+  </div>
+
+  <p class="uitslagen__count" data-role="count"></p>
+
+  <div class="uitslagen__tablewrap">
+    <table class="uitslagen__table" data-role="table">
+      <thead>
+        <tr>
+          <th>Jaar</th>
+          <th>Categorie</th>
+          <th>Veld</th>
+          <th>Winnaar</th>
+        </tr>
+      </thead>
+      <tbody data-role="rows"></tbody>
+    </table>
+  </div>
+
+  <p class="uitslagen__empty" data-role="empty" hidden>Geen uitslagen gevonden.</p>
+</div>
+
+<style>
+  .uitslagen__controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: flex-end;
+    margin-bottom: 1.5rem;
+  }
+  .uitslagen__field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  .uitslagen__field select {
+    min-width: 12rem;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 0.5rem;
+    background: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+  }
+  .uitslagen__reset {
+    padding: 0.55rem 1rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 0.5rem;
+    background: #f8fafc;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .uitslagen__reset:hover {
+    background: #eef2f7;
+  }
+  .uitslagen__count {
+    margin: 0 0 0.5rem;
+    font-size: 0.9rem;
+    opacity: 0.75;
+  }
+  .uitslagen__tablewrap {
+    overflow-x: auto;
+  }
+  .uitslagen__table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .uitslagen__table th,
+  .uitslagen__table td {
+    padding: 0.6rem 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  .uitslagen__table th {
+    background: #f1f5f9;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .uitslagen__table tbody tr:nth-child(even) {
+    background: #fafafa;
+  }
+  .uitslagen__empty {
+    padding: 1rem 0;
+    font-style: italic;
+    opacity: 0.75;
+  }
+</style>
+
+{{ $js := resources.Get "js/uitslagen.js" }}
+{{ if hugo.IsProduction }}
+  {{ $js = $js | minify | fingerprint }}
+{{ end }}
+<script src="{{ $js.Permalink }}"></script>
